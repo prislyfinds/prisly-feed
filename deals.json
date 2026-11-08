@@ -1,298 +1,406 @@
 {
- "feedVersion": 2,
- "finds": [
-  {
-   "category": "Men",
-   "condition": "New",
-   "dealReason": "20% under its regular Walmart price.",
-   "foundDate": "2026-11-06",
-   "id": "walmart-stretch-waist-jeans",
-   "imageUrl": "https://i5.walmartimages.com/seo/Mens-31X34-Classic-Straight-Leg-Stretch-Jeans-31_b2449c61-178d-4ea8-8575-a3824bed1b70_1.389d13b728b365b2c6463bfd8039fc18.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
-   "kind": "new",
-   "originalPrice": 18.69,
-   "price": 14.95,
-   "source": "Walmart",
-   "title": "Men's Classic Straight Slim Fit Stretch Waist Jeans",
-   "url": "https://www.walmart.com/ip/Men-s-Stretch-Waist-Jeans-for-Older-Men-Over-60-Comfort-Casual-Denim-Pants-Without-Belt-Dark-Blue-39/19880622335"
-  },
-  {
-   "category": "Women",
-   "condition": "New",
-   "dealReason": "50% off the regular Kohl's price.",
-   "foundDate": "2026-11-06",
-   "id": "kohls-tek-gear-raglan-tee",
-   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/5942070_ALT?wid=390&hei=390&op_sharpen=1",
-   "kind": "new",
-   "originalPrice": 14.99,
-   "price": 7.49,
-   "source": "Kohl's",
-   "title": "Women's Tek Gear Essential Core Raglan Tee",
-   "url": "https://www.kohls.com/product/prd-5942070/womens-tek-gear-essential-core-raglan-tee.jsp"
-  },
-  {
-   "category": "Women",
-   "condition": "New",
-   "dealReason": "Kohl's clearance - 75% off the regular price.",
-   "foundDate": "2026-11-06",
-   "id": "kohls-croft-barrow-camp-shirt",
-   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6603722_Pink_Teal_Chic_Stripe?wid=1000&hei=1000&op_sharpen=1",
-   "kind": "new",
-   "originalPrice": 24.99,
-   "price": 6.24,
-   "source": "Kohl's",
-   "title": "Petite Croft & Barrow Camp Shirt",
-   "url": "https://www.kohls.com/product/prd-6603722/petite-croft-barrow-camp-shirt.jsp?isClearance=true&prdPV=14"
-  },
-  {
-   "category": "Women",
-   "condition": "New",
-   "dealReason": "30% off the regular price.",
-   "foundDate": "2026-11-06",
-   "id": "kohls-sonoma-camisole",
-   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6101968_Rich_Espresso?wid=1000&hei=1000&op_sharpen=1",
-   "kind": "new",
-   "originalPrice": 9.99,
-   "price": 6.99,
-   "source": "Kohl's",
-   "title": "Women's Sonoma Goods For Life Everyday Camisole",
-   "url": "https://www.kohls.com/product/prd-6101968/womens-sonoma-goods-for-life-everyday-camisole.jsp"
-  },
-  {
-   "category": "Women",
-   "condition": "New",
-   "dealReason": "Half price at Target.",
-   "foundDate": "2026-11-06",
-   "id": "target-linen-mini-dress",
-   "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_74f20cc9-230e-4f7f-9a12-c1a31913e449",
-   "kind": "new",
-   "originalPrice": 25.0,
-   "price": 12.5,
-   "source": "Target",
-   "title": "Women's Linen Mini Dress - A New Day (White)",
-   "url": "https://www.target.com/p/women-s-linen-mini-dress-a-new-day-white/-/A-95033167?preselect=95051688&clkid=&cpng=PTID3&TCID=AFL--116548&afsrc=1&lnm=81938&afid=LTK&ref=tgt_adv_xasd0002"
-  },
-  {
-   "category": "Women",
-   "condition": "New",
-   "dealReason": "30% off the regular Kohl's price.",
-   "foundDate": "2026-11-06",
-   "id": "kohls-nike-one-cropped-top",
-   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6924451_Vintage_Green?wid=1000&hei=1000&op_sharpen=1",
-   "kind": "new",
-   "originalPrice": 60.0,
-   "price": 42.0,
-   "source": "Kohl's",
-   "title": "Women's Nike One Fitted Dri-FIT Long-Sleeve Cropped Top",
-   "url": "https://www.kohls.com/product/prd-6924451/womens-nike-one-fitted-dri-fit-long-sleeve-cropped-top.jsp"
-  },
-  {
-   "category": "Shoes",
-   "condition": "New",
-   "dealReason": "51% off the regular price.",
-   "foundDate": "2026-11-06",
-   "id": "kohls-skechers-gowalk-flex",
-   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6603902_Grey?wid=1000&hei=1000&op_sharpen=1",
-   "kind": "new",
-   "originalPrice": 84.99,
-   "price": 41.97,
-   "source": "Kohl's",
-   "title": "Skechers Hands Free Slip-ins GO WALK Flex Grand Entry Women's Athletic Shoes",
-   "url": "https://www.kohls.com/product/prd-6603902/skechers-hands-free-slip-ins-go-walk-flex-grand-entry-womens-athletic-shoes.jsp"
-  },
-  {
-   "category": "Men",
-   "condition": "Pre-owned - Good",
-   "dealReason": "Pre-owned in good condition.",
-   "foundDate": "2026-11-06",
-   "id": "ebay-levis-505-black",
-   "imageUrl": "https://i.ebayimg.com/images/g/-SEAAOSwsdBnE9qA/s-l600.webp",
-   "kind": "secondhand",
-   "originalPrice": null,
-   "price": 16.99,
-   "size": "34x34",
-   "source": "eBay",
-   "title": "Levi's 505 Jeans Men's 34x34 Black Straight Leg Regular Fit",
-   "url": "https://www.ebay.com/itm/277652751200"
-  },
-  {
-   "category": "Men",
-   "condition": "Pre-owned - Excellent",
-   "dealReason": "Pre-owned in excellent condition.",
-   "foundDate": "2026-11-06",
-   "id": "ebay-levis-505-gray-vtg",
-   "imageUrl": "https://i.ebayimg.com/images/g/rdoAAOSwFrlmxllF/s-l1600.jpg",
-   "kind": "secondhand",
-   "originalPrice": null,
-   "price": 24.99,
-   "size": "36x32",
-   "source": "eBay",
-   "title": "VTG Y2K Levi's 505 Regular Fit Jeans Men's 36x32 Gray",
-   "url": "https://www.ebay.com/itm/168282304927"
-  },
-  {
-   "category": "Shoes",
-   "condition": "Pre-owned - Good",
-   "dealReason": "Pre-owned in good condition.",
-   "foundDate": "2026-11-06",
-   "id": "ebay-nike-af1-team-usa",
-   "imageUrl": "https://i.ebayimg.com/images/g/zMEAAeSwvh5piAAC/s-l400.webp",
-   "kind": "secondhand",
-   "originalPrice": null,
-   "price": 29.97,
-   "size": "11",
-   "source": "eBay",
-   "stock": {
-    "checkedDate": "2026-11-06",
-    "status": "in_stock"
-   },
-   "title": "Nike Air Force 1 Low 2012 Team USA Men's Size 11",
-   "url": "https://www.ebay.ie/itm/177849146608?_skw=Nike+Air+Force+1+USA&hash=item2968a29cf0%3Ag%3AzMEAAeSwvh5piAAC&itmprp=enc%3AAQALAAAA8DKQclQvzFwZQpmMrsO4Lupb7VkOExZm01c7OyB8UbUsdwWgsB1pVkFRJDM265CIE74sG4ohN4rSmSMPtiaPCfwihQJalphiPqsIgtm%2BmagD43ecuvp2tekIjWQ7G4r76d2BLhZrNHLIhh37kQx5JzJycujO%2FjvtR2BTdrMEzUQ4Hl46Y10VpL5Hs3IjOYrhZvpVyIH3%2B3rNgaUMbFncyjNYKCxCBx%2FEdo8tzNh6cAHhQIQARoqBVt6atkdb%2FoJIizGv%2B9Xmlb%2BKW9laTmkxAl7CDfI3zrF7oclfMP63xa5Q1SS47CSU4njmUfur6a%2FdlNz%2BGgmbnU1h75gPcIog%3D%3D%7Ctkp%3ABFBMyIj8natn"
-  },
-  {
-   "category": "Women",
-   "condition": "New with tags",
-   "dealReason": "New with tags - 86% under its $148 list price.",
-   "foundDate": "2026-11-06",
-   "id": "poshmark-fp-floral-pink-midi",
-   "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/04/03/69d0369421bd425735c9d01d/l_69d036a12981af8533180e42.jpg",
-   "kind": "secondhand",
-   "originalPrice": 148.0,
-   "price": 21.0,
-   "size": "XL",
-   "source": "Poshmark",
-   "stock": {
-    "checkedDate": "2026-11-06",
-    "status": "in_stock"
-   },
-   "title": "NWT Free People Floral Pink Midi Dress with Balloon Sleeves, Size XL",
-   "url": "https://poshmark.com/listing/NWT-Free-people-Floral-pink-midi-Dress-with-Balloon-Sleeves-size-XL-69d0369421bd425735c9d01d"
-  },
-  {
-   "category": "Women",
-   "condition": "Pre-owned",
-   "foundDate": "2026-11-06",
-   "id": "poshmark-fp-selma-crochet",
-   "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2022/12/29/63ae417dcbda47352999ff05/l_63ae436652eee1ad5b4b80ae.jpeg",
-   "kind": "secondhand",
-   "originalPrice": null,
-   "price": 42.0,
-   "size": "0",
-   "source": "Poshmark",
-   "stock": {
-    "checkedDate": "2026-11-06",
-    "status": "in_stock"
-   },
-   "title": "Free People Selma Crochet Lace Mini Dress, Size 0, Black/Brown",
-   "url": "https://poshmark.com/listing/Free-People-Selma-Crochet-Lace-Mini-Dress-Size-0-Black-Brown-Sleeveless-63ae417dcbda47352999ff05"
-  },
-  {
-   "category": "Women",
-   "condition": "New with tags",
-   "dealReason": "New with tags - 47% under its $148 list price.",
-   "foundDate": "2026-11-06",
-   "id": "poshmark-fp-small-world",
-   "imageUrl": "https://images.urbndata.com/is/image/FreePeople/48057301_004_a/?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
-   "kind": "secondhand",
-   "originalPrice": 148.0,
-   "price": 78.0,
-   "size": "XL",
-   "source": "Poshmark",
-   "stock": {
-    "checkedDate": "2026-11-06",
-    "status": "in_stock"
-   },
-   "title": "NWT Free People Small World Cable Knit Open Back Sweater Mini Dress, XL",
-   "url": "https://poshmark.com/listing/NWT-Free-People-Small-World-Cable-Knit-Open-Back-Sweater-Mini-Dress-XL-6ac8c12d8cafccefc1b55003?utm_source=facebook&ad_partner=facebook"
-  },
-  {
-   "category": "Women",
-   "condition": "Like new",
-   "dealReason": "Like new condition.",
-   "foundDate": "2026-11-06",
-   "id": "poshmark-fp-golden-dreams",
-   "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/18/6aad9c2eda3eeb9c9e23ef0f/l_6aad9c454941b50a882a4803.jpg",
-   "kind": "secondhand",
-   "originalPrice": null,
-   "price": 90.0,
-   "size": "XS",
-   "source": "Poshmark",
-   "stock": {
-    "checkedDate": "2026-11-06",
-    "status": "in_stock"
-   },
-   "title": "Free People Golden Dreams Strapless Maxi Dress, Size XS",
-   "url": "https://poshmark.com/listing/Free-People-Golden-Dreams-Strapless-Maxi-Dress-Size-XS-6aad9c2eda3eeb9c9e23ef0f"
-  },
-  {
-   "category": "Accessories",
-   "condition": "Like new",
-   "dealReason": "Like new - 35% under its $75 list price.",
-   "foundDate": "2026-11-06",
-   "id": "mercari-coach-wristlet",
-   "imageUrl": "https://u-mercari-images.mercdn.net/photos/m76112065318_1.jpg?width=2560&quality=75&_=1778454896",
-   "kind": "secondhand",
-   "originalPrice": 75.0,
-   "price": 48.73,
-   "source": "Mercari",
-   "title": "Authentic Coach Blue Leather Wristlet Wallet",
-   "url": "https://www.mercari.com/us/item/m26677700598/?sv=lg"
-  },
-  {
-   "category": "Women",
-   "condition": "Good",
-   "dealReason": "Secondhand in good condition.",
-   "foundDate": "2026-11-06",
-   "id": "vinted-ae-gray-sweater",
-   "imageUrl": "https://images1.vinted.net/t/02_00a4e_UEXPzv7mADtSNiPg6srq2Bef/310x430/1788736641.webp?s=de95f80fc5f9cf865302724e3ef0949880cd687d",
-   "kind": "secondhand",
-   "originalPrice": null,
-   "price": 12.0,
-   "size": "L",
-   "source": "Vinted",
-   "stock": {
-    "checkedDate": "2026-11-06",
-    "status": "in_stock"
-   },
-   "title": "American Eagle Women's Large Gray Open Knit Cable Sweater Crochet Pullover",
-   "url": "https://www.vinted.com/items/10210293667-american-eagle-womens-large-gray-open-knit-cable-sweater-crochet-pullover"
-  },
-  {
-   "category": "Women",
-   "condition": "Good",
-   "dealReason": "Secondhand in good condition.",
-   "foundDate": "2026-11-06",
-   "id": "vinted-sincerely-jules-leopard",
-   "imageUrl": "https://images1.vinted.net/t/02_01f4d_14eHWYZtqakAUXP2sd7ZoTof/310x430/1787568298.webp?s=dba284c62e58a104d08350f1d696813d63859417",
-   "kind": "secondhand",
-   "originalPrice": null,
-   "price": 6.5,
-   "size": "XS",
-   "source": "Vinted",
-   "stock": {
-    "checkedDate": "2026-11-06",
-    "status": "in_stock"
-   },
-   "title": "Sincerely Jules Leopard Animal Print Crewneck Pullover Knit Sweater, XS",
-   "url": "https://www.vinted.com/items/10576371677-cozy-cute-womens-xs-sincerely-jules-leopard-animal-print-crewneck-pullover-knit-sweater"
-  },
-  {
-   "category": "Women",
-   "condition": "Pre-owned",
-   "foundDate": "2026-11-06",
-   "id": "vinted-leopard-distressed-sweater",
-   "imageUrl": "https://images1.vinted.net/t/05_013bf_F93Ukzh3rQNtB87Ap7eQNniH/310x430/1787403338.webp?s=df769681c06a8880a1f2d19aa65a677c312904ae",
-   "kind": "secondhand",
-   "originalPrice": null,
-   "price": 28.0,
-   "size": "L",
-   "source": "Vinted",
-   "stock": {
-    "checkedDate": "2026-11-06",
-    "status": "in_stock"
-   },
-   "title": "Women's Large Cream Beige Leopard Print Distressed Knit Sweater",
-   "url": "https://www.vinted.com/items/10452624095-womens-large-cream-beige-leopard-print-distressed-knit-sweater"
-  }
- ],
- "gatheredOn": "2026-11-06"
+  "feedVersion": 2,
+  "finds": [
+    {
+      "category": "Men",
+      "condition": "New",
+      "dealReason": "20% under its regular Walmart price.",
+      "foundDate": "2026-11-06",
+      "id": "walmart-stretch-waist-jeans",
+      "imageUrl": "https://i5.walmartimages.com/seo/Mens-31X34-Classic-Straight-Leg-Stretch-Jeans-31_b2449c61-178d-4ea8-8575-a3824bed1b70_1.389d13b728b365b2c6463bfd8039fc18.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "kind": "new",
+      "originalPrice": 18.69,
+      "price": 14.95,
+      "source": "Walmart",
+      "title": "Men's Classic Straight Slim Fit Stretch Waist Jeans",
+      "url": "https://www.walmart.com/ip/Men-s-Stretch-Waist-Jeans-for-Older-Men-Over-60-Comfort-Casual-Denim-Pants-Without-Belt-Dark-Blue-39/19880622335",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 14.95
+        }
+      ]
+    },
+    {
+      "category": "Women",
+      "condition": "New",
+      "dealReason": "50% off the regular Kohl's price.",
+      "foundDate": "2026-11-06",
+      "id": "kohls-tek-gear-raglan-tee",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/5942070_ALT?wid=390&hei=390&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 14.99,
+      "price": 7.49,
+      "source": "Kohl's",
+      "title": "Women's Tek Gear Essential Core Raglan Tee",
+      "url": "https://www.kohls.com/product/prd-5942070/womens-tek-gear-essential-core-raglan-tee.jsp",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 7.49
+        }
+      ]
+    },
+    {
+      "category": "Women",
+      "condition": "New",
+      "dealReason": "Kohl's clearance - 75% off the regular price.",
+      "foundDate": "2026-11-06",
+      "id": "kohls-croft-barrow-camp-shirt",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6603722_Pink_Teal_Chic_Stripe?wid=1000&hei=1000&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 24.99,
+      "price": 6.24,
+      "source": "Kohl's",
+      "title": "Petite Croft & Barrow Camp Shirt",
+      "url": "https://www.kohls.com/product/prd-6603722/petite-croft-barrow-camp-shirt.jsp?isClearance=true&prdPV=14",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 6.24
+        }
+      ]
+    },
+    {
+      "category": "Women",
+      "condition": "New",
+      "dealReason": "30% off the regular price.",
+      "foundDate": "2026-11-06",
+      "id": "kohls-sonoma-camisole",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6101968_Rich_Espresso?wid=1000&hei=1000&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 9.99,
+      "price": 6.99,
+      "source": "Kohl's",
+      "title": "Women's Sonoma Goods For Life Everyday Camisole",
+      "url": "https://www.kohls.com/product/prd-6101968/womens-sonoma-goods-for-life-everyday-camisole.jsp",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 6.99
+        }
+      ]
+    },
+    {
+      "category": "Women",
+      "condition": "New",
+      "dealReason": "Half price at Target.",
+      "foundDate": "2026-11-06",
+      "id": "target-linen-mini-dress",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_74f20cc9-230e-4f7f-9a12-c1a31913e449",
+      "kind": "new",
+      "originalPrice": 25.0,
+      "price": 12.5,
+      "source": "Target",
+      "title": "Women's Linen Mini Dress - A New Day (White)",
+      "url": "https://www.target.com/p/women-s-linen-mini-dress-a-new-day-white/-/A-95033167?preselect=95051688&clkid=&cpng=PTID3&TCID=AFL--116548&afsrc=1&lnm=81938&afid=LTK&ref=tgt_adv_xasd0002",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 12.5
+        }
+      ]
+    },
+    {
+      "category": "Women",
+      "condition": "New",
+      "dealReason": "30% off the regular Kohl's price.",
+      "foundDate": "2026-11-06",
+      "id": "kohls-nike-one-cropped-top",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6924451_Vintage_Green?wid=1000&hei=1000&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 60.0,
+      "price": 42.0,
+      "source": "Kohl's",
+      "title": "Women's Nike One Fitted Dri-FIT Long-Sleeve Cropped Top",
+      "url": "https://www.kohls.com/product/prd-6924451/womens-nike-one-fitted-dri-fit-long-sleeve-cropped-top.jsp",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 42.0
+        }
+      ]
+    },
+    {
+      "category": "Shoes",
+      "condition": "New",
+      "dealReason": "51% off the regular price.",
+      "foundDate": "2026-11-06",
+      "id": "kohls-skechers-gowalk-flex",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6603902_Grey?wid=1000&hei=1000&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 84.99,
+      "price": 41.97,
+      "source": "Kohl's",
+      "title": "Skechers Hands Free Slip-ins GO WALK Flex Grand Entry Women's Athletic Shoes",
+      "url": "https://www.kohls.com/product/prd-6603902/skechers-hands-free-slip-ins-go-walk-flex-grand-entry-womens-athletic-shoes.jsp",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 41.97
+        }
+      ]
+    },
+    {
+      "category": "Men",
+      "condition": "Pre-owned - Good",
+      "dealReason": "Pre-owned in good condition.",
+      "foundDate": "2026-11-06",
+      "id": "ebay-levis-505-black",
+      "imageUrl": "https://i.ebayimg.com/images/g/-SEAAOSwsdBnE9qA/s-l600.webp",
+      "kind": "secondhand",
+      "originalPrice": null,
+      "price": 16.99,
+      "size": "34x34",
+      "source": "eBay",
+      "title": "Levi's 505 Jeans Men's 34x34 Black Straight Leg Regular Fit",
+      "url": "https://www.ebay.com/itm/277652751200",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 16.99
+        }
+      ]
+    },
+    {
+      "category": "Men",
+      "condition": "Pre-owned - Excellent",
+      "dealReason": "Pre-owned in excellent condition.",
+      "foundDate": "2026-11-06",
+      "id": "ebay-levis-505-gray-vtg",
+      "imageUrl": "https://i.ebayimg.com/images/g/rdoAAOSwFrlmxllF/s-l1600.jpg",
+      "kind": "secondhand",
+      "originalPrice": null,
+      "price": 24.99,
+      "size": "36x32",
+      "source": "eBay",
+      "title": "VTG Y2K Levi's 505 Regular Fit Jeans Men's 36x32 Gray",
+      "url": "https://www.ebay.com/itm/168282304927",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 24.99
+        }
+      ]
+    },
+    {
+      "category": "Shoes",
+      "condition": "Pre-owned - Good",
+      "dealReason": "Pre-owned in good condition.",
+      "foundDate": "2026-11-06",
+      "id": "ebay-nike-af1-team-usa",
+      "imageUrl": "https://i.ebayimg.com/images/g/zMEAAeSwvh5piAAC/s-l400.webp",
+      "kind": "secondhand",
+      "originalPrice": null,
+      "price": 29.97,
+      "size": "11",
+      "source": "eBay",
+      "stock": {
+        "checkedDate": "2026-11-06",
+        "status": "in_stock"
+      },
+      "title": "Nike Air Force 1 Low 2012 Team USA Men's Size 11",
+      "url": "https://www.ebay.ie/itm/177849146608?_skw=Nike+Air+Force+1+USA&hash=item2968a29cf0%3Ag%3AzMEAAeSwvh5piAAC&itmprp=enc%3AAQALAAAA8DKQclQvzFwZQpmMrsO4Lupb7VkOExZm01c7OyB8UbUsdwWgsB1pVkFRJDM265CIE74sG4ohN4rSmSMPtiaPCfwihQJalphiPqsIgtm%2BmagD43ecuvp2tekIjWQ7G4r76d2BLhZrNHLIhh37kQx5JzJycujO%2FjvtR2BTdrMEzUQ4Hl46Y10VpL5Hs3IjOYrhZvpVyIH3%2B3rNgaUMbFncyjNYKCxCBx%2FEdo8tzNh6cAHhQIQARoqBVt6atkdb%2FoJIizGv%2B9Xmlb%2BKW9laTmkxAl7CDfI3zrF7oclfMP63xa5Q1SS47CSU4njmUfur6a%2FdlNz%2BGgmbnU1h75gPcIog%3D%3D%7Ctkp%3ABFBMyIj8natn",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 29.97
+        }
+      ]
+    },
+    {
+      "category": "Women",
+      "condition": "New with tags",
+      "dealReason": "New with tags - 86% under its $148 list price.",
+      "foundDate": "2026-11-06",
+      "id": "poshmark-fp-floral-pink-midi",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/04/03/69d0369421bd425735c9d01d/l_69d036a12981af8533180e42.jpg",
+      "kind": "secondhand",
+      "originalPrice": 148.0,
+      "price": 21.0,
+      "size": "XL",
+      "source": "Poshmark",
+      "stock": {
+        "checkedDate": "2026-11-06",
+        "status": "in_stock"
+      },
+      "title": "NWT Free People Floral Pink Midi Dress with Balloon Sleeves, Size XL",
+      "url": "https://poshmark.com/listing/NWT-Free-people-Floral-pink-midi-Dress-with-Balloon-Sleeves-size-XL-69d0369421bd425735c9d01d",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 21.0
+        }
+      ]
+    },
+    {
+      "category": "Women",
+      "condition": "Pre-owned",
+      "foundDate": "2026-11-06",
+      "id": "poshmark-fp-selma-crochet",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2022/12/29/63ae417dcbda47352999ff05/l_63ae436652eee1ad5b4b80ae.jpeg",
+      "kind": "secondhand",
+      "originalPrice": null,
+      "price": 42.0,
+      "size": "0",
+      "source": "Poshmark",
+      "stock": {
+        "checkedDate": "2026-11-06",
+        "status": "in_stock"
+      },
+      "title": "Free People Selma Crochet Lace Mini Dress, Size 0, Black/Brown",
+      "url": "https://poshmark.com/listing/Free-People-Selma-Crochet-Lace-Mini-Dress-Size-0-Black-Brown-Sleeveless-63ae417dcbda47352999ff05",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 42.0
+        }
+      ]
+    },
+    {
+      "category": "Women",
+      "condition": "New with tags",
+      "dealReason": "New with tags - 47% under its $148 list price.",
+      "foundDate": "2026-11-06",
+      "id": "poshmark-fp-small-world",
+      "imageUrl": "https://images.urbndata.com/is/image/FreePeople/48057301_004_a/?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "kind": "secondhand",
+      "originalPrice": 148.0,
+      "price": 78.0,
+      "size": "XL",
+      "source": "Poshmark",
+      "stock": {
+        "checkedDate": "2026-11-06",
+        "status": "in_stock"
+      },
+      "title": "NWT Free People Small World Cable Knit Open Back Sweater Mini Dress, XL",
+      "url": "https://poshmark.com/listing/NWT-Free-People-Small-World-Cable-Knit-Open-Back-Sweater-Mini-Dress-XL-6ac8c12d8cafccefc1b55003?utm_source=facebook&ad_partner=facebook",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 78.0
+        }
+      ]
+    },
+    {
+      "category": "Women",
+      "condition": "Like new",
+      "dealReason": "Like new condition.",
+      "foundDate": "2026-11-06",
+      "id": "poshmark-fp-golden-dreams",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/18/6aad9c2eda3eeb9c9e23ef0f/l_6aad9c454941b50a882a4803.jpg",
+      "kind": "secondhand",
+      "originalPrice": null,
+      "price": 90.0,
+      "size": "XS",
+      "source": "Poshmark",
+      "stock": {
+        "checkedDate": "2026-11-06",
+        "status": "in_stock"
+      },
+      "title": "Free People Golden Dreams Strapless Maxi Dress, Size XS",
+      "url": "https://poshmark.com/listing/Free-People-Golden-Dreams-Strapless-Maxi-Dress-Size-XS-6aad9c2eda3eeb9c9e23ef0f",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 90.0
+        }
+      ]
+    },
+    {
+      "category": "Accessories",
+      "condition": "Like new",
+      "dealReason": "Like new - 35% under its $75 list price.",
+      "foundDate": "2026-11-06",
+      "id": "mercari-coach-wristlet",
+      "imageUrl": "https://u-mercari-images.mercdn.net/photos/m76112065318_1.jpg?width=2560&quality=75&_=1778454896",
+      "kind": "secondhand",
+      "originalPrice": 75.0,
+      "price": 48.73,
+      "source": "Mercari",
+      "title": "Authentic Coach Blue Leather Wristlet Wallet",
+      "url": "https://www.mercari.com/us/item/m26677700598/?sv=lg",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 48.73
+        }
+      ]
+    },
+    {
+      "category": "Women",
+      "condition": "Good",
+      "dealReason": "Secondhand in good condition.",
+      "foundDate": "2026-11-06",
+      "id": "vinted-ae-gray-sweater",
+      "imageUrl": "https://images1.vinted.net/t/02_00a4e_UEXPzv7mADtSNiPg6srq2Bef/310x430/1788736641.webp?s=de95f80fc5f9cf865302724e3ef0949880cd687d",
+      "kind": "secondhand",
+      "originalPrice": null,
+      "price": 12.0,
+      "size": "L",
+      "source": "Vinted",
+      "stock": {
+        "checkedDate": "2026-11-06",
+        "status": "in_stock"
+      },
+      "title": "American Eagle Women's Large Gray Open Knit Cable Sweater Crochet Pullover",
+      "url": "https://www.vinted.com/items/10210293667-american-eagle-womens-large-gray-open-knit-cable-sweater-crochet-pullover",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 12.0
+        }
+      ]
+    },
+    {
+      "category": "Women",
+      "condition": "Good",
+      "dealReason": "Secondhand in good condition.",
+      "foundDate": "2026-11-06",
+      "id": "vinted-sincerely-jules-leopard",
+      "imageUrl": "https://images1.vinted.net/t/02_01f4d_14eHWYZtqakAUXP2sd7ZoTof/310x430/1787568298.webp?s=dba284c62e58a104d08350f1d696813d63859417",
+      "kind": "secondhand",
+      "originalPrice": null,
+      "price": 6.5,
+      "size": "XS",
+      "source": "Vinted",
+      "stock": {
+        "checkedDate": "2026-11-06",
+        "status": "in_stock"
+      },
+      "title": "Sincerely Jules Leopard Animal Print Crewneck Pullover Knit Sweater, XS",
+      "url": "https://www.vinted.com/items/10576371677-cozy-cute-womens-xs-sincerely-jules-leopard-animal-print-crewneck-pullover-knit-sweater",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 6.5
+        }
+      ]
+    },
+    {
+      "category": "Women",
+      "condition": "Pre-owned",
+      "foundDate": "2026-11-06",
+      "id": "vinted-leopard-distressed-sweater",
+      "imageUrl": "https://images1.vinted.net/t/05_013bf_F93Ukzh3rQNtB87Ap7eQNniH/310x430/1787403338.webp?s=df769681c06a8880a1f2d19aa65a677c312904ae",
+      "kind": "secondhand",
+      "originalPrice": null,
+      "price": 28.0,
+      "size": "L",
+      "source": "Vinted",
+      "stock": {
+        "checkedDate": "2026-11-06",
+        "status": "in_stock"
+      },
+      "title": "Women's Large Cream Beige Leopard Print Distressed Knit Sweater",
+      "url": "https://www.vinted.com/items/10452624095-womens-large-cream-beige-leopard-print-distressed-knit-sweater",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 28.0
+        }
+      ]
+    }
+  ],
+  "gatheredOn": "2026-11-06"
 }

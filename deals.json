@@ -400,7 +400,223 @@
           "price": 28.0
         }
       ]
+    },
+    {
+      "category": "Kids",
+      "condition": "Like new",
+      "dealReason": "Like new — worn only twice, per the seller.",
+      "foundDate": "2026-11-08",
+      "id": "posh-baby-gap-poplin-03m",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/01/24/69751359a6bb7616b37782a5/l_697513e121bd42f33c246bbf.jpeg",
+      "kind": "secondhand",
+      "originalPrice": 40,
+      "price": 15,
+      "priceHistory": [
+        {
+          "date": "2026-11-08",
+          "price": 15
+        }
+      ],
+      "shipping": 6.49,
+      "size": "0-3 Months",
+      "sizeGroup": "Baby",
+      "source": "Poshmark",
+      "stock": {
+        "checkedDate": "2026-11-08",
+        "status": "in_stock"
+      },
+      "title": "Baby Gap Poplin Outfit Set in Blue",
+      "url": "https://poshmark.com/listing/LIKE-NEW-BABY-GAP-Poplin-Outfit-Set-In-Blue-Size-03-months-69751359a6bb7616b37782a5"
+    },
+    {
+      "category": "Kids",
+      "condition": "New with tags",
+      "dealReason": "New with tags: navy jacket, bear one-piece and collared shirt.",
+      "foundDate": "2026-11-08",
+      "id": "posh-rl-baby-set-03m",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2022/11/02/6362c6b404166d8fea05df34/l_6362c78324237adf4ac61140.jpg",
+      "kind": "secondhand",
+      "originalPrice": 55,
+      "price": 35,
+      "priceHistory": [
+        {
+          "date": "2026-11-08",
+          "price": 35
+        }
+      ],
+      "shipping": 6.49,
+      "size": "0-3 Months",
+      "sizeGroup": "Baby",
+      "source": "Poshmark",
+      "stock": {
+        "checkedDate": "2026-11-08",
+        "status": "in_stock"
+      },
+      "title": "Ralph Lauren Baby Set",
+      "url": "https://poshmark.com/listing/Ralph-Lauren-Baby-Set-6362c6b404166d8fea05df34"
+    },
+    {
+      "category": "Kids",
+      "condition": "Like new",
+      "dealReason": "Never worn, no visible flaws, per the seller.",
+      "foundDate": "2026-11-08",
+      "id": "posh-bj-mariposa-3t",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/07/6aefc0deadedd1f6af8166f3/l_6aefc1ba72a95180120e40d1.jpg",
+      "kind": "secondhand",
+      "originalPrice": 29,
+      "price": 16,
+      "priceHistory": [
+        {
+          "date": "2026-11-08",
+          "price": 16
+        }
+      ],
+      "shipping": 6.49,
+      "size": "3T",
+      "sizeGroup": "Toddler",
+      "source": "Poshmark",
+      "stock": {
+        "checkedDate": "2026-11-08",
+        "status": "in_stock"
+      },
+      "title": "Bonnie Jean Mariposa Floral Butterfly Dress",
+      "url": "https://poshmark.com/listing/Bonnie-Jean-Mariposa-Floral-Butterfly-Dress-Size-3T-New-6aefc0deadedd1f6af8166f3"
+    },
+    {
+      "category": "Kids",
+      "condition": "New with tags",
+      "dealReason": "New with tags — the listing's original price is $70.",
+      "foundDate": "2026-11-08",
+      "id": "posh-bj-polkadot-4t",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/08/6af0d7d028951f73c6bd0bf0/l_6af0d7e6ea03993291dd2ef4.jpg",
+      "kind": "secondhand",
+      "originalPrice": 70,
+      "price": 25,
+      "priceHistory": [
+        {
+          "date": "2026-11-08",
+          "price": 25
+        }
+      ],
+      "shipping": 6.49,
+      "size": "4T",
+      "sizeGroup": "Toddler",
+      "source": "Poshmark",
+      "stock": {
+        "checkedDate": "2026-11-08",
+        "status": "in_stock"
+      },
+      "title": "Bonnie Jean Pink & Silver Polka Dot Dress",
+      "url": "https://poshmark.com/listing/Bonnie-Jean-X211790DL-Girls-4T-Pink-Silver-Polka-Dot-NWT-6af0d7d028951f73c6bd0bf0"
+    },
+    {
+      "category": "Kids",
+      "condition": "Good",
+      "dealReason": "Seller discloses a small run in the satin waist detail.",
+      "foundDate": "2026-11-08",
+      "id": "posh-rare-editions-velvet-7",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/08/12/6a7c93e1a69358466e8c670a/l_6a7c955cb9dd70229733825b.jpeg",
+      "kind": "secondhand",
+      "originalPrice": null,
+      "price": 19,
+      "priceHistory": [
+        {
+          "date": "2026-11-08",
+          "price": 19
+        }
+      ],
+      "shipping": 6.49,
+      "size": "7",
+      "sizeGroup": "Kids",
+      "source": "Poshmark",
+      "stock": {
+        "checkedDate": "2026-11-08",
+        "status": "in_stock"
+      },
+      "title": "Rare Editions Velvet Dress, Purple",
+      "url": "https://poshmark.com/listing/Rare-Editions-purple-velvet-vintage-dress-Girls-Size-7-6a7c93e1a69358466e8c670a"
+    },
+    {
+      "category": "Kids",
+      "condition": "Good",
+      "dealReason": null,
+      "foundDate": "2026-11-08",
+      "id": "posh-bj-holiday-8",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/08/6af0e38d4adcb358e0e01759/l_6af0e3b58974d0c3662c54d8.jpg",
+      "kind": "secondhand",
+      "originalPrice": null,
+      "price": 19,
+      "priceHistory": [
+        {
+          "date": "2026-11-08",
+          "price": 19
+        }
+      ],
+      "shipping": 6.49,
+      "size": "8",
+      "sizeGroup": "Kids",
+      "source": "Poshmark",
+      "stock": {
+        "checkedDate": "2026-11-08",
+        "status": "in_stock"
+      },
+      "title": "Bonnie Jean Holiday Dress, Velvet & Plaid",
+      "url": "https://poshmark.com/listing/Bonnie-Jean-Girls-Holiday-Dress-Size-8-6af0e38d4adcb358e0e01759"
+    },
+    {
+      "category": "Kids",
+      "condition": "Worn once",
+      "dealReason": "Worn once, per the seller — price dropped 29% on the listing.",
+      "foundDate": "2026-11-08",
+      "id": "posh-tdm-dahlia-67",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/06/23/6a3ac0b0006e43853b5ab88a/l_6a3ac11dbedd349d54fc0892.jpg",
+      "kind": "secondhand",
+      "originalPrice": 180,
+      "price": 60,
+      "priceHistory": [
+        {
+          "date": "2026-11-08",
+          "price": 60
+        }
+      ],
+      "shipping": 6.49,
+      "size": "6-7",
+      "sizeGroup": "Kids",
+      "source": "Poshmark",
+      "stock": {
+        "checkedDate": "2026-11-08",
+        "status": "in_stock"
+      },
+      "title": "Tutu Du Monde Dahlia Tulle Dress, Illusion Blue",
+      "url": "https://poshmark.com/listing/Tutu-Du-Monde-Dahlia-embellished-tulle-dress-Illusion-Blue-WORE-ONCE-Size-67-6a3ac0b0006e43853b5ab88a"
+    },
+    {
+      "category": "Shoes",
+      "condition": "Pre-loved",
+      "dealReason": "Seller describes normal wear.",
+      "foundDate": "2026-11-08",
+      "id": "posh-nike-af1-toddler-9",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2024/11/05/672ac23de0f2cedcbc61c42d/l_672ac23d15ad5455047ee953.jpg",
+      "kind": "secondhand",
+      "originalPrice": 60,
+      "price": 40,
+      "priceHistory": [
+        {
+          "date": "2026-11-08",
+          "price": 40
+        }
+      ],
+      "shipping": 6.49,
+      "size": "9 (Toddler Boy)",
+      "sizeGroup": null,
+      "source": "Poshmark",
+      "stock": {
+        "checkedDate": "2026-11-08",
+        "status": "in_stock"
+      },
+      "title": "Nike Air Force, Toddler Boy",
+      "url": "https://poshmark.com/listing/Nike-Air-force-toddler-boy-size-9-672ac23de0f2cedcbc61c42d"
     }
   ],
-  "gatheredOn": "2026-11-06"
+  "gatheredOn": "2026-11-08"
 }

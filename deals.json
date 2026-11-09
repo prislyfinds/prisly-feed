@@ -575,7 +575,127 @@
    },
    "title": "Nike Air Force, Toddler Boy",
    "url": "https://poshmark.com/listing/Nike-Air-force-toddler-boy-size-9-672ac23de0f2cedcbc61c42d"
+  },
+  {
+   "category": "Electronics",
+   "condition": "New",
+   "dealReason": "56% under its regular Kohl's price.",
+   "foundDate": "2026-11-09",
+   "id": "kohls-fire-tv-stick-4k-select",
+   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/8004942?wid=390&hei=390&op_sharpen=1",
+   "kind": "new",
+   "originalPrice": 49.99,
+   "price": 21.99,
+   "priceHistory": [
+    {
+     "date": "2026-11-09",
+     "price": 21.99
+    }
+   ],
+   "source": "Kohl's",
+   "stock": {
+    "checkedDate": "2026-11-09",
+    "status": "in_stock"
+   },
+   "title": "Amazon Fire TV Stick 4K Select with AI-Powered Search & Live TV",
+   "url": "https://www.kohls.com/product/prd-8004942/amazon-fire-tv-stick-4k-select-with-ai-powered-search-live-tv.jsp"
+  },
+  {
+   "category": "Electronics",
+   "condition": "New",
+   "dealReason": "66% under its regular Kohl's price.",
+   "foundDate": "2026-11-09",
+   "id": "kohls-blink-5pk-2k-cameras",
+   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/7909135?wid=390&hei=390&op_sharpen=1",
+   "kind": "new",
+   "originalPrice": 349.99,
+   "price": 119.99,
+   "priceHistory": [
+    {
+     "date": "2026-11-09",
+     "price": 119.99
+    }
+   ],
+   "source": "Kohl's",
+   "stock": {
+    "checkedDate": "2026-11-09",
+    "status": "in_stock"
+   },
+   "title": "Blink 5-pk 2K Video Resolution Wireless Smart Security Camera",
+   "url": "https://www.kohls.com/product/prd-7909135/blink-5-pk-2k-video-resolution-wireless-smart-security-camera.jsp"
+  },
+  {
+   "category": "Electronics",
+   "condition": "New",
+   "dealReason": "58% under its regular Kohl's price.",
+   "foundDate": "2026-11-09",
+   "id": "kohls-ring-2k-indoor-cam",
+   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/7913832?wid=390&hei=390&op_sharpen=1",
+   "kind": "new",
+   "originalPrice": 59.99,
+   "price": 24.99,
+   "priceHistory": [
+    {
+     "date": "2026-11-09",
+     "price": 24.99
+    }
+   ],
+   "source": "Kohl's",
+   "stock": {
+    "checkedDate": "2026-11-09",
+    "status": "in_stock"
+   },
+   "title": "Ring 2K Indoor Plug-In Cam",
+   "url": "https://www.kohls.com/product/prd-7913832/ring-2k-indoor-plug-in-cam.jsp"
+  },
+  {
+   "category": "Electronics",
+   "condition": "New",
+   "dealReason": "35% under its regular Kohl's price.",
+   "foundDate": "2026-11-09",
+   "id": "kohls-beats-solo-4",
+   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/7173442?wid=390&hei=390&op_sharpen=1",
+   "kind": "new",
+   "originalPrice": 199.99,
+   "price": 129.99,
+   "priceHistory": [
+    {
+     "date": "2026-11-09",
+     "price": 129.99
+    }
+   ],
+   "source": "Kohl's",
+   "stock": {
+    "checkedDate": "2026-11-09",
+    "status": "in_stock"
+   },
+   "title": "Beats Solo 4 On-Ear Wireless Headphones",
+   "url": "https://www.kohls.com/product/prd-7173442/beats-solo-4-on-ear-wireless-headphones.jsp"
+  },
+  {
+   "category": "Electronics",
+   "condition": "New",
+   "dealReason": "36% under its regular Kohl's price.",
+   "foundDate": "2026-11-09",
+   "id": "kohls-anker-soundcore-q20i",
+   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/7579385?wid=390&hei=390&op_sharpen=1",
+   "kind": "new",
+   "originalPrice": 69.99,
+   "price": 44.99,
+   "priceHistory": [
+    {
+     "date": "2026-11-09",
+     "price": 44.99
+    }
+   ],
+   "source": "Kohl's",
+   "stock": {
+    "checkedDate": "2026-11-09",
+    "status": "in_stock"
+   },
+   "title": "Anker Soundcore Q20i True Wireless Noise Canceling Over-the-Ear Headphones",
+   "url": "https://www.kohls.com/product/prd-7579385/anker-soundcore-q20i-true-wireless-noise-canceling-over-the-ear-headphones.jsp"
   }
  ],
- "gatheredOn": "2026-11-08"
+ "gatheredOn": "2026-11-09"
 }

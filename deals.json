@@ -48,30 +48,6 @@
     {
       "category": "Women",
       "condition": "New",
-      "dealReason": "Kohl's clearance - 75% off the regular price.",
-      "foundDate": "2026-11-06",
-      "id": "kohls-croft-barrow-camp-shirt",
-      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6603722_Pink_Teal_Chic_Stripe?wid=1000&hei=1000&op_sharpen=1",
-      "kind": "new",
-      "originalPrice": 24.99,
-      "price": 9.99,
-      "source": "Kohl's",
-      "title": "Petite Croft & Barrow Camp Shirt",
-      "url": "https://www.kohls.com/product/prd-6603722/petite-croft-barrow-camp-shirt.jsp?isClearance=true&prdPV=14",
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 6.24
-        },
-        {
-          "date": "2026-11-09",
-          "price": 9.99
-        }
-      ]
-    },
-    {
-      "category": "Women",
-      "condition": "New",
       "dealReason": "30% off the regular price.",
       "foundDate": "2026-11-06",
       "id": "kohls-sonoma-camisole",
@@ -494,33 +470,6 @@
       },
       "title": "Rare Editions Velvet Dress, Purple",
       "url": "https://poshmark.com/listing/Rare-Editions-purple-velvet-vintage-dress-Girls-Size-7-6a7c93e1a69358466e8c670a"
-    },
-    {
-      "category": "Kids",
-      "condition": "Good",
-      "dealReason": null,
-      "foundDate": "2026-11-08",
-      "id": "posh-bj-holiday-8",
-      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/08/6af0e38d4adcb358e0e01759/l_6af0e3b58974d0c3662c54d8.jpg",
-      "kind": "secondhand",
-      "originalPrice": null,
-      "price": 19,
-      "priceHistory": [
-        {
-          "date": "2026-11-08",
-          "price": 19
-        }
-      ],
-      "shipping": 6.49,
-      "size": "8",
-      "sizeGroup": "Kids",
-      "source": "Poshmark",
-      "stock": {
-        "checkedDate": "2026-11-08",
-        "status": "in_stock"
-      },
-      "title": "Bonnie Jean Holiday Dress, Velvet & Plaid",
-      "url": "https://poshmark.com/listing/Bonnie-Jean-Girls-Holiday-Dress-Size-8-6af0e38d4adcb358e0e01759"
     },
     {
       "category": "Kids",

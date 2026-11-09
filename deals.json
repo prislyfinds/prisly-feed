@@ -1,622 +1,602 @@
 {
-  "feedVersion": 2,
-  "finds": [
+ "feedVersion": 2,
+ "finds": [
+  {
+   "category": "Men",
+   "condition": "New",
+   "dealReason": "20% under its regular Walmart price.",
+   "foundDate": "2026-11-06",
+   "id": "walmart-stretch-waist-jeans",
+   "imageUrl": "https://i5.walmartimages.com/seo/Mens-31X34-Classic-Straight-Leg-Stretch-Jeans-31_b2449c61-178d-4ea8-8575-a3824bed1b70_1.389d13b728b365b2c6463bfd8039fc18.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+   "kind": "new",
+   "originalPrice": 18.69,
+   "price": 14.95,
+   "source": "Walmart",
+   "title": "Men's Classic Straight Slim Fit Stretch Waist Jeans",
+   "url": "https://www.walmart.com/ip/Men-s-Stretch-Waist-Jeans-for-Older-Men-Over-60-Comfort-Casual-Denim-Pants-Without-Belt-Dark-Blue-39/19880622335",
+   "priceHistory": [
     {
-      "category": "Men",
-      "condition": "New",
-      "dealReason": "20% under its regular Walmart price.",
-      "foundDate": "2026-11-06",
-      "id": "walmart-stretch-waist-jeans",
-      "imageUrl": "https://i5.walmartimages.com/seo/Mens-31X34-Classic-Straight-Leg-Stretch-Jeans-31_b2449c61-178d-4ea8-8575-a3824bed1b70_1.389d13b728b365b2c6463bfd8039fc18.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
-      "kind": "new",
-      "originalPrice": 18.69,
-      "price": 14.95,
-      "source": "Walmart",
-      "title": "Men's Classic Straight Slim Fit Stretch Waist Jeans",
-      "url": "https://www.walmart.com/ip/Men-s-Stretch-Waist-Jeans-for-Older-Men-Over-60-Comfort-Casual-Denim-Pants-Without-Belt-Dark-Blue-39/19880622335",
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 14.95
-        }
-      ]
-    },
-    {
-      "category": "Women",
-      "condition": "New",
-      "dealReason": "50% off the regular Kohl's price.",
-      "foundDate": "2026-11-06",
-      "id": "kohls-tek-gear-raglan-tee",
-      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/5942070_ALT?wid=390&hei=390&op_sharpen=1",
-      "kind": "new",
-      "originalPrice": 14.99,
-      "price": 7.49,
-      "source": "Kohl's",
-      "title": "Women's Tek Gear Essential Core Raglan Tee",
-      "url": "https://www.kohls.com/product/prd-5942070/womens-tek-gear-essential-core-raglan-tee.jsp",
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 7.49
-        }
-      ]
-    },
-    {
-      "category": "Women",
-      "condition": "New",
-      "dealReason": "Kohl's clearance - 75% off the regular price.",
-      "foundDate": "2026-11-06",
-      "id": "kohls-croft-barrow-camp-shirt",
-      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6603722_Pink_Teal_Chic_Stripe?wid=1000&hei=1000&op_sharpen=1",
-      "kind": "new",
-      "originalPrice": 24.99,
-      "price": 6.24,
-      "source": "Kohl's",
-      "title": "Petite Croft & Barrow Camp Shirt",
-      "url": "https://www.kohls.com/product/prd-6603722/petite-croft-barrow-camp-shirt.jsp?isClearance=true&prdPV=14",
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 6.24
-        }
-      ]
-    },
-    {
-      "category": "Women",
-      "condition": "New",
-      "dealReason": "30% off the regular price.",
-      "foundDate": "2026-11-06",
-      "id": "kohls-sonoma-camisole",
-      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6101968_Rich_Espresso?wid=1000&hei=1000&op_sharpen=1",
-      "kind": "new",
-      "originalPrice": 9.99,
-      "price": 6.99,
-      "source": "Kohl's",
-      "title": "Women's Sonoma Goods For Life Everyday Camisole",
-      "url": "https://www.kohls.com/product/prd-6101968/womens-sonoma-goods-for-life-everyday-camisole.jsp",
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 6.99
-        }
-      ]
-    },
-    {
-      "category": "Women",
-      "condition": "New",
-      "dealReason": "Half price at Target.",
-      "foundDate": "2026-11-06",
-      "id": "target-linen-mini-dress",
-      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_74f20cc9-230e-4f7f-9a12-c1a31913e449",
-      "kind": "new",
-      "originalPrice": 25.0,
-      "price": 12.5,
-      "source": "Target",
-      "title": "Women's Linen Mini Dress - A New Day (White)",
-      "url": "https://www.target.com/p/women-s-linen-mini-dress-a-new-day-white/-/A-95033167?preselect=95051688&clkid=&cpng=PTID3&TCID=AFL--116548&afsrc=1&lnm=81938&afid=LTK&ref=tgt_adv_xasd0002",
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 12.5
-        }
-      ]
-    },
-    {
-      "category": "Women",
-      "condition": "New",
-      "dealReason": "30% off the regular Kohl's price.",
-      "foundDate": "2026-11-06",
-      "id": "kohls-nike-one-cropped-top",
-      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6924451_Vintage_Green?wid=1000&hei=1000&op_sharpen=1",
-      "kind": "new",
-      "originalPrice": 60.0,
-      "price": 42.0,
-      "source": "Kohl's",
-      "title": "Women's Nike One Fitted Dri-FIT Long-Sleeve Cropped Top",
-      "url": "https://www.kohls.com/product/prd-6924451/womens-nike-one-fitted-dri-fit-long-sleeve-cropped-top.jsp",
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 42.0
-        }
-      ]
-    },
-    {
-      "category": "Shoes",
-      "condition": "New",
-      "dealReason": "51% off the regular price.",
-      "foundDate": "2026-11-06",
-      "id": "kohls-skechers-gowalk-flex",
-      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6603902_Grey?wid=1000&hei=1000&op_sharpen=1",
-      "kind": "new",
-      "originalPrice": 84.99,
-      "price": 41.97,
-      "source": "Kohl's",
-      "title": "Skechers Hands Free Slip-ins GO WALK Flex Grand Entry Women's Athletic Shoes",
-      "url": "https://www.kohls.com/product/prd-6603902/skechers-hands-free-slip-ins-go-walk-flex-grand-entry-womens-athletic-shoes.jsp",
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 41.97
-        }
-      ]
-    },
-    {
-      "category": "Men",
-      "condition": "Pre-owned - Good",
-      "dealReason": "Pre-owned in good condition.",
-      "foundDate": "2026-11-06",
-      "id": "ebay-levis-505-black",
-      "imageUrl": "https://i.ebayimg.com/images/g/-SEAAOSwsdBnE9qA/s-l600.webp",
-      "kind": "secondhand",
-      "originalPrice": null,
-      "price": 16.99,
-      "size": "34x34",
-      "source": "eBay",
-      "title": "Levi's 505 Jeans Men's 34x34 Black Straight Leg Regular Fit",
-      "url": "https://www.ebay.com/itm/277652751200",
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 16.99
-        }
-      ]
-    },
-    {
-      "category": "Men",
-      "condition": "Pre-owned - Excellent",
-      "dealReason": "Pre-owned in excellent condition.",
-      "foundDate": "2026-11-06",
-      "id": "ebay-levis-505-gray-vtg",
-      "imageUrl": "https://i.ebayimg.com/images/g/rdoAAOSwFrlmxllF/s-l1600.jpg",
-      "kind": "secondhand",
-      "originalPrice": null,
-      "price": 24.99,
-      "size": "36x32",
-      "source": "eBay",
-      "title": "VTG Y2K Levi's 505 Regular Fit Jeans Men's 36x32 Gray",
-      "url": "https://www.ebay.com/itm/168282304927",
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 24.99
-        }
-      ]
-    },
-    {
-      "category": "Shoes",
-      "condition": "Pre-owned - Good",
-      "dealReason": "Pre-owned in good condition.",
-      "foundDate": "2026-11-06",
-      "id": "ebay-nike-af1-team-usa",
-      "imageUrl": "https://i.ebayimg.com/images/g/zMEAAeSwvh5piAAC/s-l400.webp",
-      "kind": "secondhand",
-      "originalPrice": null,
-      "price": 29.97,
-      "size": "11",
-      "source": "eBay",
-      "stock": {
-        "checkedDate": "2026-11-06",
-        "status": "in_stock"
-      },
-      "title": "Nike Air Force 1 Low 2012 Team USA Men's Size 11",
-      "url": "https://www.ebay.ie/itm/177849146608?_skw=Nike+Air+Force+1+USA&hash=item2968a29cf0%3Ag%3AzMEAAeSwvh5piAAC&itmprp=enc%3AAQALAAAA8DKQclQvzFwZQpmMrsO4Lupb7VkOExZm01c7OyB8UbUsdwWgsB1pVkFRJDM265CIE74sG4ohN4rSmSMPtiaPCfwihQJalphiPqsIgtm%2BmagD43ecuvp2tekIjWQ7G4r76d2BLhZrNHLIhh37kQx5JzJycujO%2FjvtR2BTdrMEzUQ4Hl46Y10VpL5Hs3IjOYrhZvpVyIH3%2B3rNgaUMbFncyjNYKCxCBx%2FEdo8tzNh6cAHhQIQARoqBVt6atkdb%2FoJIizGv%2B9Xmlb%2BKW9laTmkxAl7CDfI3zrF7oclfMP63xa5Q1SS47CSU4njmUfur6a%2FdlNz%2BGgmbnU1h75gPcIog%3D%3D%7Ctkp%3ABFBMyIj8natn",
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 29.97
-        }
-      ]
-    },
-    {
-      "category": "Women",
-      "condition": "New with tags",
-      "dealReason": "New with tags - 86% under its $148 list price.",
-      "foundDate": "2026-11-06",
-      "id": "poshmark-fp-floral-pink-midi",
-      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/04/03/69d0369421bd425735c9d01d/l_69d036a12981af8533180e42.jpg",
-      "kind": "secondhand",
-      "originalPrice": 148.0,
-      "price": 21.0,
-      "size": "XL",
-      "source": "Poshmark",
-      "stock": {
-        "checkedDate": "2026-11-06",
-        "status": "in_stock"
-      },
-      "title": "NWT Free People Floral Pink Midi Dress with Balloon Sleeves, Size XL",
-      "url": "https://poshmark.com/listing/NWT-Free-people-Floral-pink-midi-Dress-with-Balloon-Sleeves-size-XL-69d0369421bd425735c9d01d",
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 21.0
-        }
-      ]
-    },
-    {
-      "category": "Women",
-      "condition": "Pre-owned",
-      "foundDate": "2026-11-06",
-      "id": "poshmark-fp-selma-crochet",
-      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2022/12/29/63ae417dcbda47352999ff05/l_63ae436652eee1ad5b4b80ae.jpeg",
-      "kind": "secondhand",
-      "originalPrice": null,
-      "price": 42.0,
-      "size": "0",
-      "source": "Poshmark",
-      "stock": {
-        "checkedDate": "2026-11-06",
-        "status": "in_stock"
-      },
-      "title": "Free People Selma Crochet Lace Mini Dress, Size 0, Black/Brown",
-      "url": "https://poshmark.com/listing/Free-People-Selma-Crochet-Lace-Mini-Dress-Size-0-Black-Brown-Sleeveless-63ae417dcbda47352999ff05",
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 42.0
-        }
-      ]
-    },
-    {
-      "category": "Women",
-      "condition": "New with tags",
-      "dealReason": "New with tags - 47% under its $148 list price.",
-      "foundDate": "2026-11-06",
-      "id": "poshmark-fp-small-world",
-      "imageUrl": "https://images.urbndata.com/is/image/FreePeople/48057301_004_a/?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
-      "kind": "secondhand",
-      "originalPrice": 148.0,
-      "price": 78.0,
-      "size": "XL",
-      "source": "Poshmark",
-      "stock": {
-        "checkedDate": "2026-11-06",
-        "status": "in_stock"
-      },
-      "title": "NWT Free People Small World Cable Knit Open Back Sweater Mini Dress, XL",
-      "url": "https://poshmark.com/listing/NWT-Free-People-Small-World-Cable-Knit-Open-Back-Sweater-Mini-Dress-XL-6ac8c12d8cafccefc1b55003?utm_source=facebook&ad_partner=facebook",
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 78.0
-        }
-      ]
-    },
-    {
-      "category": "Women",
-      "condition": "Like new",
-      "dealReason": "Like new condition.",
-      "foundDate": "2026-11-06",
-      "id": "poshmark-fp-golden-dreams",
-      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/18/6aad9c2eda3eeb9c9e23ef0f/l_6aad9c454941b50a882a4803.jpg",
-      "kind": "secondhand",
-      "originalPrice": null,
-      "price": 90.0,
-      "size": "XS",
-      "source": "Poshmark",
-      "stock": {
-        "checkedDate": "2026-11-06",
-        "status": "in_stock"
-      },
-      "title": "Free People Golden Dreams Strapless Maxi Dress, Size XS",
-      "url": "https://poshmark.com/listing/Free-People-Golden-Dreams-Strapless-Maxi-Dress-Size-XS-6aad9c2eda3eeb9c9e23ef0f",
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 90.0
-        }
-      ]
-    },
-    {
-      "category": "Accessories",
-      "condition": "Like new",
-      "dealReason": "Like new - 35% under its $75 list price.",
-      "foundDate": "2026-11-06",
-      "id": "mercari-coach-wristlet",
-      "imageUrl": "https://u-mercari-images.mercdn.net/photos/m76112065318_1.jpg?width=2560&quality=75&_=1778454896",
-      "kind": "secondhand",
-      "originalPrice": 75.0,
-      "price": 48.73,
-      "source": "Mercari",
-      "title": "Authentic Coach Blue Leather Wristlet Wallet",
-      "url": "https://www.mercari.com/us/item/m26677700598/?sv=lg",
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 48.73
-        }
-      ]
-    },
-    {
-      "category": "Women",
-      "condition": "Good",
-      "dealReason": "Secondhand in good condition.",
-      "foundDate": "2026-11-06",
-      "id": "vinted-ae-gray-sweater",
-      "imageUrl": "https://images1.vinted.net/t/02_00a4e_UEXPzv7mADtSNiPg6srq2Bef/310x430/1788736641.webp?s=de95f80fc5f9cf865302724e3ef0949880cd687d",
-      "kind": "secondhand",
-      "originalPrice": null,
-      "price": 12.0,
-      "size": "L",
-      "source": "Vinted",
-      "stock": {
-        "checkedDate": "2026-11-06",
-        "status": "in_stock"
-      },
-      "title": "American Eagle Women's Large Gray Open Knit Cable Sweater Crochet Pullover",
-      "url": "https://www.vinted.com/items/10210293667-american-eagle-womens-large-gray-open-knit-cable-sweater-crochet-pullover",
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 12.0
-        }
-      ]
-    },
-    {
-      "category": "Women",
-      "condition": "Good",
-      "dealReason": "Secondhand in good condition.",
-      "foundDate": "2026-11-06",
-      "id": "vinted-sincerely-jules-leopard",
-      "imageUrl": "https://images1.vinted.net/t/02_01f4d_14eHWYZtqakAUXP2sd7ZoTof/310x430/1787568298.webp?s=dba284c62e58a104d08350f1d696813d63859417",
-      "kind": "secondhand",
-      "originalPrice": null,
-      "price": 6.5,
-      "size": "XS",
-      "source": "Vinted",
-      "stock": {
-        "checkedDate": "2026-11-06",
-        "status": "in_stock"
-      },
-      "title": "Sincerely Jules Leopard Animal Print Crewneck Pullover Knit Sweater, XS",
-      "url": "https://www.vinted.com/items/10576371677-cozy-cute-womens-xs-sincerely-jules-leopard-animal-print-crewneck-pullover-knit-sweater",
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 6.5
-        }
-      ]
-    },
-    {
-      "category": "Women",
-      "condition": "Pre-owned",
-      "foundDate": "2026-11-06",
-      "id": "vinted-leopard-distressed-sweater",
-      "imageUrl": "https://images1.vinted.net/t/05_013bf_F93Ukzh3rQNtB87Ap7eQNniH/310x430/1787403338.webp?s=df769681c06a8880a1f2d19aa65a677c312904ae",
-      "kind": "secondhand",
-      "originalPrice": null,
-      "price": 28.0,
-      "size": "L",
-      "source": "Vinted",
-      "stock": {
-        "checkedDate": "2026-11-06",
-        "status": "in_stock"
-      },
-      "title": "Women's Large Cream Beige Leopard Print Distressed Knit Sweater",
-      "url": "https://www.vinted.com/items/10452624095-womens-large-cream-beige-leopard-print-distressed-knit-sweater",
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 28.0
-        }
-      ]
-    },
-    {
-      "category": "Kids",
-      "condition": "Like new",
-      "dealReason": "Like new — worn only twice, per the seller.",
-      "foundDate": "2026-11-08",
-      "id": "posh-baby-gap-poplin-03m",
-      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/01/24/69751359a6bb7616b37782a5/l_697513e121bd42f33c246bbf.jpeg",
-      "kind": "secondhand",
-      "originalPrice": 40,
-      "price": 15,
-      "priceHistory": [
-        {
-          "date": "2026-11-08",
-          "price": 15
-        }
-      ],
-      "shipping": 6.49,
-      "size": "0-3 Months",
-      "sizeGroup": "Baby",
-      "source": "Poshmark",
-      "stock": {
-        "checkedDate": "2026-11-08",
-        "status": "in_stock"
-      },
-      "title": "Baby Gap Poplin Outfit Set in Blue",
-      "url": "https://poshmark.com/listing/LIKE-NEW-BABY-GAP-Poplin-Outfit-Set-In-Blue-Size-03-months-69751359a6bb7616b37782a5"
-    },
-    {
-      "category": "Kids",
-      "condition": "New with tags",
-      "dealReason": "New with tags: navy jacket, bear one-piece and collared shirt.",
-      "foundDate": "2026-11-08",
-      "id": "posh-rl-baby-set-03m",
-      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2022/11/02/6362c6b404166d8fea05df34/l_6362c78324237adf4ac61140.jpg",
-      "kind": "secondhand",
-      "originalPrice": 55,
-      "price": 35,
-      "priceHistory": [
-        {
-          "date": "2026-11-08",
-          "price": 35
-        }
-      ],
-      "shipping": 6.49,
-      "size": "0-3 Months",
-      "sizeGroup": "Baby",
-      "source": "Poshmark",
-      "stock": {
-        "checkedDate": "2026-11-08",
-        "status": "in_stock"
-      },
-      "title": "Ralph Lauren Baby Set",
-      "url": "https://poshmark.com/listing/Ralph-Lauren-Baby-Set-6362c6b404166d8fea05df34"
-    },
-    {
-      "category": "Kids",
-      "condition": "Like new",
-      "dealReason": "Never worn, no visible flaws, per the seller.",
-      "foundDate": "2026-11-08",
-      "id": "posh-bj-mariposa-3t",
-      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/07/6aefc0deadedd1f6af8166f3/l_6aefc1ba72a95180120e40d1.jpg",
-      "kind": "secondhand",
-      "originalPrice": 29,
-      "price": 16,
-      "priceHistory": [
-        {
-          "date": "2026-11-08",
-          "price": 16
-        }
-      ],
-      "shipping": 6.49,
-      "size": "3T",
-      "sizeGroup": "Toddler",
-      "source": "Poshmark",
-      "stock": {
-        "checkedDate": "2026-11-08",
-        "status": "in_stock"
-      },
-      "title": "Bonnie Jean Mariposa Floral Butterfly Dress",
-      "url": "https://poshmark.com/listing/Bonnie-Jean-Mariposa-Floral-Butterfly-Dress-Size-3T-New-6aefc0deadedd1f6af8166f3"
-    },
-    {
-      "category": "Kids",
-      "condition": "New with tags",
-      "dealReason": "New with tags — the listing's original price is $70.",
-      "foundDate": "2026-11-08",
-      "id": "posh-bj-polkadot-4t",
-      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/08/6af0d7d028951f73c6bd0bf0/l_6af0d7e6ea03993291dd2ef4.jpg",
-      "kind": "secondhand",
-      "originalPrice": 70,
-      "price": 25,
-      "priceHistory": [
-        {
-          "date": "2026-11-08",
-          "price": 25
-        }
-      ],
-      "shipping": 6.49,
-      "size": "4T",
-      "sizeGroup": "Toddler",
-      "source": "Poshmark",
-      "stock": {
-        "checkedDate": "2026-11-08",
-        "status": "in_stock"
-      },
-      "title": "Bonnie Jean Pink & Silver Polka Dot Dress",
-      "url": "https://poshmark.com/listing/Bonnie-Jean-X211790DL-Girls-4T-Pink-Silver-Polka-Dot-NWT-6af0d7d028951f73c6bd0bf0"
-    },
-    {
-      "category": "Kids",
-      "condition": "Good",
-      "dealReason": "Seller discloses a small run in the satin waist detail.",
-      "foundDate": "2026-11-08",
-      "id": "posh-rare-editions-velvet-7",
-      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/08/12/6a7c93e1a69358466e8c670a/l_6a7c955cb9dd70229733825b.jpeg",
-      "kind": "secondhand",
-      "originalPrice": null,
-      "price": 19,
-      "priceHistory": [
-        {
-          "date": "2026-11-08",
-          "price": 19
-        }
-      ],
-      "shipping": 6.49,
-      "size": "7",
-      "sizeGroup": "Kids",
-      "source": "Poshmark",
-      "stock": {
-        "checkedDate": "2026-11-08",
-        "status": "in_stock"
-      },
-      "title": "Rare Editions Velvet Dress, Purple",
-      "url": "https://poshmark.com/listing/Rare-Editions-purple-velvet-vintage-dress-Girls-Size-7-6a7c93e1a69358466e8c670a"
-    },
-    {
-      "category": "Kids",
-      "condition": "Good",
-      "dealReason": null,
-      "foundDate": "2026-11-08",
-      "id": "posh-bj-holiday-8",
-      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/08/6af0e38d4adcb358e0e01759/l_6af0e3b58974d0c3662c54d8.jpg",
-      "kind": "secondhand",
-      "originalPrice": null,
-      "price": 19,
-      "priceHistory": [
-        {
-          "date": "2026-11-08",
-          "price": 19
-        }
-      ],
-      "shipping": 6.49,
-      "size": "8",
-      "sizeGroup": "Kids",
-      "source": "Poshmark",
-      "stock": {
-        "checkedDate": "2026-11-08",
-        "status": "in_stock"
-      },
-      "title": "Bonnie Jean Holiday Dress, Velvet & Plaid",
-      "url": "https://poshmark.com/listing/Bonnie-Jean-Girls-Holiday-Dress-Size-8-6af0e38d4adcb358e0e01759"
-    },
-    {
-      "category": "Kids",
-      "condition": "Worn once",
-      "dealReason": "Worn once, per the seller — price dropped 29% on the listing.",
-      "foundDate": "2026-11-08",
-      "id": "posh-tdm-dahlia-67",
-      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/06/23/6a3ac0b0006e43853b5ab88a/l_6a3ac11dbedd349d54fc0892.jpg",
-      "kind": "secondhand",
-      "originalPrice": 180,
-      "price": 60,
-      "priceHistory": [
-        {
-          "date": "2026-11-08",
-          "price": 60
-        }
-      ],
-      "shipping": 6.49,
-      "size": "6-7",
-      "sizeGroup": "Kids",
-      "source": "Poshmark",
-      "stock": {
-        "checkedDate": "2026-11-08",
-        "status": "in_stock"
-      },
-      "title": "Tutu Du Monde Dahlia Tulle Dress, Illusion Blue",
-      "url": "https://poshmark.com/listing/Tutu-Du-Monde-Dahlia-embellished-tulle-dress-Illusion-Blue-WORE-ONCE-Size-67-6a3ac0b0006e43853b5ab88a"
-    },
-    {
-      "category": "Shoes",
-      "condition": "Pre-loved",
-      "dealReason": "Seller describes normal wear.",
-      "foundDate": "2026-11-08",
-      "id": "posh-nike-af1-toddler-9",
-      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2024/11/05/672ac23de0f2cedcbc61c42d/l_672ac23d15ad5455047ee953.jpg",
-      "kind": "secondhand",
-      "originalPrice": 60,
-      "price": 40,
-      "priceHistory": [
-        {
-          "date": "2026-11-08",
-          "price": 40
-        }
-      ],
-      "shipping": 6.49,
-      "size": "9 (Toddler Boy)",
-      "sizeGroup": null,
-      "source": "Poshmark",
-      "stock": {
-        "checkedDate": "2026-11-08",
-        "status": "in_stock"
-      },
-      "title": "Nike Air Force, Toddler Boy",
-      "url": "https://poshmark.com/listing/Nike-Air-force-toddler-boy-size-9-672ac23de0f2cedcbc61c42d"
+     "date": "2026-11-06",
+     "price": 14.95
     }
-  ],
-  "gatheredOn": "2026-11-08"
+   ]
+  },
+  {
+   "category": "Women",
+   "condition": "New",
+   "dealReason": "50% off the regular Kohl's price.",
+   "foundDate": "2026-11-06",
+   "id": "kohls-tek-gear-raglan-tee",
+   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/5942070_ALT?wid=390&hei=390&op_sharpen=1",
+   "kind": "new",
+   "originalPrice": 14.99,
+   "price": 7.49,
+   "source": "Kohl's",
+   "title": "Women's Tek Gear Essential Core Raglan Tee",
+   "url": "https://www.kohls.com/product/prd-5942070/womens-tek-gear-essential-core-raglan-tee.jsp",
+   "priceHistory": [
+    {
+     "date": "2026-11-06",
+     "price": 7.49
+    }
+   ]
+  },
+  {
+   "category": "Women",
+   "condition": "New",
+   "dealReason": "Kohl's clearance - 75% off the regular price.",
+   "foundDate": "2026-11-06",
+   "id": "kohls-croft-barrow-camp-shirt",
+   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6603722_Pink_Teal_Chic_Stripe?wid=1000&hei=1000&op_sharpen=1",
+   "kind": "new",
+   "originalPrice": 24.99,
+   "price": 6.24,
+   "source": "Kohl's",
+   "title": "Petite Croft & Barrow Camp Shirt",
+   "url": "https://www.kohls.com/product/prd-6603722/petite-croft-barrow-camp-shirt.jsp?isClearance=true&prdPV=14",
+   "priceHistory": [
+    {
+     "date": "2026-11-06",
+     "price": 6.24
+    }
+   ]
+  },
+  {
+   "category": "Women",
+   "condition": "New",
+   "dealReason": "30% off the regular price.",
+   "foundDate": "2026-11-06",
+   "id": "kohls-sonoma-camisole",
+   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6101968_Rich_Espresso?wid=1000&hei=1000&op_sharpen=1",
+   "kind": "new",
+   "originalPrice": 9.99,
+   "price": 6.99,
+   "source": "Kohl's",
+   "title": "Women's Sonoma Goods For Life Everyday Camisole",
+   "url": "https://www.kohls.com/product/prd-6101968/womens-sonoma-goods-for-life-everyday-camisole.jsp",
+   "priceHistory": [
+    {
+     "date": "2026-11-06",
+     "price": 6.99
+    }
+   ]
+  },
+  {
+   "category": "Women",
+   "condition": "New",
+   "dealReason": "30% off the regular Kohl's price.",
+   "foundDate": "2026-11-06",
+   "id": "kohls-nike-one-cropped-top",
+   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6924451_Vintage_Green?wid=1000&hei=1000&op_sharpen=1",
+   "kind": "new",
+   "originalPrice": 60.0,
+   "price": 42.0,
+   "source": "Kohl's",
+   "title": "Women's Nike One Fitted Dri-FIT Long-Sleeve Cropped Top",
+   "url": "https://www.kohls.com/product/prd-6924451/womens-nike-one-fitted-dri-fit-long-sleeve-cropped-top.jsp",
+   "priceHistory": [
+    {
+     "date": "2026-11-06",
+     "price": 42.0
+    }
+   ]
+  },
+  {
+   "category": "Shoes",
+   "condition": "New",
+   "dealReason": "51% off the regular price.",
+   "foundDate": "2026-11-06",
+   "id": "kohls-skechers-gowalk-flex",
+   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6603902_Grey?wid=1000&hei=1000&op_sharpen=1",
+   "kind": "new",
+   "originalPrice": 84.99,
+   "price": 41.97,
+   "source": "Kohl's",
+   "title": "Skechers Hands Free Slip-ins GO WALK Flex Grand Entry Women's Athletic Shoes",
+   "url": "https://www.kohls.com/product/prd-6603902/skechers-hands-free-slip-ins-go-walk-flex-grand-entry-womens-athletic-shoes.jsp",
+   "priceHistory": [
+    {
+     "date": "2026-11-06",
+     "price": 41.97
+    }
+   ]
+  },
+  {
+   "category": "Men",
+   "condition": "Pre-owned - Good",
+   "dealReason": "Pre-owned in good condition.",
+   "foundDate": "2026-11-06",
+   "id": "ebay-levis-505-black",
+   "imageUrl": "https://i.ebayimg.com/images/g/-SEAAOSwsdBnE9qA/s-l600.webp",
+   "kind": "secondhand",
+   "originalPrice": null,
+   "price": 16.99,
+   "size": "34x34",
+   "source": "eBay",
+   "title": "Levi's 505 Jeans Men's 34x34 Black Straight Leg Regular Fit",
+   "url": "https://www.ebay.com/itm/277652751200",
+   "priceHistory": [
+    {
+     "date": "2026-11-06",
+     "price": 16.99
+    }
+   ]
+  },
+  {
+   "category": "Men",
+   "condition": "Pre-owned - Excellent",
+   "dealReason": "Pre-owned in excellent condition.",
+   "foundDate": "2026-11-06",
+   "id": "ebay-levis-505-gray-vtg",
+   "imageUrl": "https://i.ebayimg.com/images/g/rdoAAOSwFrlmxllF/s-l1600.jpg",
+   "kind": "secondhand",
+   "originalPrice": null,
+   "price": 24.99,
+   "size": "36x32",
+   "source": "eBay",
+   "title": "VTG Y2K Levi's 505 Regular Fit Jeans Men's 36x32 Gray",
+   "url": "https://www.ebay.com/itm/168282304927",
+   "priceHistory": [
+    {
+     "date": "2026-11-06",
+     "price": 24.99
+    }
+   ]
+  },
+  {
+   "category": "Shoes",
+   "condition": "Pre-owned - Good",
+   "dealReason": "Pre-owned in good condition.",
+   "foundDate": "2026-11-06",
+   "id": "ebay-nike-af1-team-usa",
+   "imageUrl": "https://i.ebayimg.com/images/g/zMEAAeSwvh5piAAC/s-l400.webp",
+   "kind": "secondhand",
+   "originalPrice": null,
+   "price": 29.97,
+   "size": "11",
+   "source": "eBay",
+   "stock": {
+    "checkedDate": "2026-11-06",
+    "status": "in_stock"
+   },
+   "title": "Nike Air Force 1 Low 2012 Team USA Men's Size 11",
+   "url": "https://www.ebay.ie/itm/177849146608?_skw=Nike+Air+Force+1+USA&hash=item2968a29cf0%3Ag%3AzMEAAeSwvh5piAAC&itmprp=enc%3AAQALAAAA8DKQclQvzFwZQpmMrsO4Lupb7VkOExZm01c7OyB8UbUsdwWgsB1pVkFRJDM265CIE74sG4ohN4rSmSMPtiaPCfwihQJalphiPqsIgtm%2BmagD43ecuvp2tekIjWQ7G4r76d2BLhZrNHLIhh37kQx5JzJycujO%2FjvtR2BTdrMEzUQ4Hl46Y10VpL5Hs3IjOYrhZvpVyIH3%2B3rNgaUMbFncyjNYKCxCBx%2FEdo8tzNh6cAHhQIQARoqBVt6atkdb%2FoJIizGv%2B9Xmlb%2BKW9laTmkxAl7CDfI3zrF7oclfMP63xa5Q1SS47CSU4njmUfur6a%2FdlNz%2BGgmbnU1h75gPcIog%3D%3D%7Ctkp%3ABFBMyIj8natn",
+   "priceHistory": [
+    {
+     "date": "2026-11-06",
+     "price": 29.97
+    }
+   ]
+  },
+  {
+   "category": "Women",
+   "condition": "New with tags",
+   "dealReason": "New with tags - 86% under its $148 list price.",
+   "foundDate": "2026-11-06",
+   "id": "poshmark-fp-floral-pink-midi",
+   "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/04/03/69d0369421bd425735c9d01d/l_69d036a12981af8533180e42.jpg",
+   "kind": "secondhand",
+   "originalPrice": 148.0,
+   "price": 21.0,
+   "size": "XL",
+   "source": "Poshmark",
+   "stock": {
+    "checkedDate": "2026-11-06",
+    "status": "in_stock"
+   },
+   "title": "NWT Free People Floral Pink Midi Dress with Balloon Sleeves, Size XL",
+   "url": "https://poshmark.com/listing/NWT-Free-people-Floral-pink-midi-Dress-with-Balloon-Sleeves-size-XL-69d0369421bd425735c9d01d",
+   "priceHistory": [
+    {
+     "date": "2026-11-06",
+     "price": 21.0
+    }
+   ]
+  },
+  {
+   "category": "Women",
+   "condition": "Pre-owned",
+   "foundDate": "2026-11-06",
+   "id": "poshmark-fp-selma-crochet",
+   "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2022/12/29/63ae417dcbda47352999ff05/l_63ae436652eee1ad5b4b80ae.jpeg",
+   "kind": "secondhand",
+   "originalPrice": null,
+   "price": 42.0,
+   "size": "0",
+   "source": "Poshmark",
+   "stock": {
+    "checkedDate": "2026-11-06",
+    "status": "in_stock"
+   },
+   "title": "Free People Selma Crochet Lace Mini Dress, Size 0, Black/Brown",
+   "url": "https://poshmark.com/listing/Free-People-Selma-Crochet-Lace-Mini-Dress-Size-0-Black-Brown-Sleeveless-63ae417dcbda47352999ff05",
+   "priceHistory": [
+    {
+     "date": "2026-11-06",
+     "price": 42.0
+    }
+   ]
+  },
+  {
+   "category": "Women",
+   "condition": "New with tags",
+   "dealReason": "New with tags - 47% under its $148 list price.",
+   "foundDate": "2026-11-06",
+   "id": "poshmark-fp-small-world",
+   "imageUrl": "https://images.urbndata.com/is/image/FreePeople/48057301_004_a/?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+   "kind": "secondhand",
+   "originalPrice": 148.0,
+   "price": 78.0,
+   "size": "XL",
+   "source": "Poshmark",
+   "stock": {
+    "checkedDate": "2026-11-06",
+    "status": "in_stock"
+   },
+   "title": "NWT Free People Small World Cable Knit Open Back Sweater Mini Dress, XL",
+   "url": "https://poshmark.com/listing/NWT-Free-People-Small-World-Cable-Knit-Open-Back-Sweater-Mini-Dress-XL-6ac8c12d8cafccefc1b55003?utm_source=facebook&ad_partner=facebook",
+   "priceHistory": [
+    {
+     "date": "2026-11-06",
+     "price": 78.0
+    }
+   ]
+  },
+  {
+   "category": "Women",
+   "condition": "Like new",
+   "dealReason": "Like new condition.",
+   "foundDate": "2026-11-06",
+   "id": "poshmark-fp-golden-dreams",
+   "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/18/6aad9c2eda3eeb9c9e23ef0f/l_6aad9c454941b50a882a4803.jpg",
+   "kind": "secondhand",
+   "originalPrice": null,
+   "price": 90.0,
+   "size": "XS",
+   "source": "Poshmark",
+   "stock": {
+    "checkedDate": "2026-11-06",
+    "status": "in_stock"
+   },
+   "title": "Free People Golden Dreams Strapless Maxi Dress, Size XS",
+   "url": "https://poshmark.com/listing/Free-People-Golden-Dreams-Strapless-Maxi-Dress-Size-XS-6aad9c2eda3eeb9c9e23ef0f",
+   "priceHistory": [
+    {
+     "date": "2026-11-06",
+     "price": 90.0
+    }
+   ]
+  },
+  {
+   "category": "Accessories",
+   "condition": "Like new",
+   "dealReason": "Like new - 35% under its $75 list price.",
+   "foundDate": "2026-11-06",
+   "id": "mercari-coach-wristlet",
+   "imageUrl": "https://u-mercari-images.mercdn.net/photos/m76112065318_1.jpg?width=2560&quality=75&_=1778454896",
+   "kind": "secondhand",
+   "originalPrice": 75.0,
+   "price": 48.73,
+   "source": "Mercari",
+   "title": "Authentic Coach Blue Leather Wristlet Wallet",
+   "url": "https://www.mercari.com/us/item/m26677700598/?sv=lg",
+   "priceHistory": [
+    {
+     "date": "2026-11-06",
+     "price": 48.73
+    }
+   ]
+  },
+  {
+   "category": "Women",
+   "condition": "Good",
+   "dealReason": "Secondhand in good condition.",
+   "foundDate": "2026-11-06",
+   "id": "vinted-ae-gray-sweater",
+   "imageUrl": "https://images1.vinted.net/t/02_00a4e_UEXPzv7mADtSNiPg6srq2Bef/310x430/1788736641.webp?s=de95f80fc5f9cf865302724e3ef0949880cd687d",
+   "kind": "secondhand",
+   "originalPrice": null,
+   "price": 12.0,
+   "size": "L",
+   "source": "Vinted",
+   "stock": {
+    "checkedDate": "2026-11-06",
+    "status": "in_stock"
+   },
+   "title": "American Eagle Women's Large Gray Open Knit Cable Sweater Crochet Pullover",
+   "url": "https://www.vinted.com/items/10210293667-american-eagle-womens-large-gray-open-knit-cable-sweater-crochet-pullover",
+   "priceHistory": [
+    {
+     "date": "2026-11-06",
+     "price": 12.0
+    }
+   ]
+  },
+  {
+   "category": "Women",
+   "condition": "Good",
+   "dealReason": "Secondhand in good condition.",
+   "foundDate": "2026-11-06",
+   "id": "vinted-sincerely-jules-leopard",
+   "imageUrl": "https://images1.vinted.net/t/02_01f4d_14eHWYZtqakAUXP2sd7ZoTof/310x430/1787568298.webp?s=dba284c62e58a104d08350f1d696813d63859417",
+   "kind": "secondhand",
+   "originalPrice": null,
+   "price": 6.5,
+   "size": "XS",
+   "source": "Vinted",
+   "stock": {
+    "checkedDate": "2026-11-06",
+    "status": "in_stock"
+   },
+   "title": "Sincerely Jules Leopard Animal Print Crewneck Pullover Knit Sweater, XS",
+   "url": "https://www.vinted.com/items/10576371677-cozy-cute-womens-xs-sincerely-jules-leopard-animal-print-crewneck-pullover-knit-sweater",
+   "priceHistory": [
+    {
+     "date": "2026-11-06",
+     "price": 6.5
+    }
+   ]
+  },
+  {
+   "category": "Women",
+   "condition": "Pre-owned",
+   "foundDate": "2026-11-06",
+   "id": "vinted-leopard-distressed-sweater",
+   "imageUrl": "https://images1.vinted.net/t/05_013bf_F93Ukzh3rQNtB87Ap7eQNniH/310x430/1787403338.webp?s=df769681c06a8880a1f2d19aa65a677c312904ae",
+   "kind": "secondhand",
+   "originalPrice": null,
+   "price": 28.0,
+   "size": "L",
+   "source": "Vinted",
+   "stock": {
+    "checkedDate": "2026-11-06",
+    "status": "in_stock"
+   },
+   "title": "Women's Large Cream Beige Leopard Print Distressed Knit Sweater",
+   "url": "https://www.vinted.com/items/10452624095-womens-large-cream-beige-leopard-print-distressed-knit-sweater",
+   "priceHistory": [
+    {
+     "date": "2026-11-06",
+     "price": 28.0
+    }
+   ]
+  },
+  {
+   "category": "Kids",
+   "condition": "Like new",
+   "dealReason": "Like new — worn only twice, per the seller.",
+   "foundDate": "2026-11-08",
+   "id": "posh-baby-gap-poplin-03m",
+   "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/01/24/69751359a6bb7616b37782a5/l_697513e121bd42f33c246bbf.jpeg",
+   "kind": "secondhand",
+   "originalPrice": 40,
+   "price": 15,
+   "priceHistory": [
+    {
+     "date": "2026-11-08",
+     "price": 15
+    }
+   ],
+   "shipping": 6.49,
+   "size": "0-3 Months",
+   "sizeGroup": "Baby",
+   "source": "Poshmark",
+   "stock": {
+    "checkedDate": "2026-11-08",
+    "status": "in_stock"
+   },
+   "title": "Baby Gap Poplin Outfit Set in Blue",
+   "url": "https://poshmark.com/listing/LIKE-NEW-BABY-GAP-Poplin-Outfit-Set-In-Blue-Size-03-months-69751359a6bb7616b37782a5"
+  },
+  {
+   "category": "Kids",
+   "condition": "New with tags",
+   "dealReason": "New with tags: navy jacket, bear one-piece and collared shirt.",
+   "foundDate": "2026-11-08",
+   "id": "posh-rl-baby-set-03m",
+   "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2022/11/02/6362c6b404166d8fea05df34/l_6362c78324237adf4ac61140.jpg",
+   "kind": "secondhand",
+   "originalPrice": 55,
+   "price": 35,
+   "priceHistory": [
+    {
+     "date": "2026-11-08",
+     "price": 35
+    }
+   ],
+   "shipping": 6.49,
+   "size": "0-3 Months",
+   "sizeGroup": "Baby",
+   "source": "Poshmark",
+   "stock": {
+    "checkedDate": "2026-11-08",
+    "status": "in_stock"
+   },
+   "title": "Ralph Lauren Baby Set",
+   "url": "https://poshmark.com/listing/Ralph-Lauren-Baby-Set-6362c6b404166d8fea05df34"
+  },
+  {
+   "category": "Kids",
+   "condition": "Like new",
+   "dealReason": "Never worn, no visible flaws, per the seller.",
+   "foundDate": "2026-11-08",
+   "id": "posh-bj-mariposa-3t",
+   "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/07/6aefc0deadedd1f6af8166f3/l_6aefc1ba72a95180120e40d1.jpg",
+   "kind": "secondhand",
+   "originalPrice": 29,
+   "price": 16,
+   "priceHistory": [
+    {
+     "date": "2026-11-08",
+     "price": 16
+    }
+   ],
+   "shipping": 6.49,
+   "size": "3T",
+   "sizeGroup": "Toddler",
+   "source": "Poshmark",
+   "stock": {
+    "checkedDate": "2026-11-08",
+    "status": "in_stock"
+   },
+   "title": "Bonnie Jean Mariposa Floral Butterfly Dress",
+   "url": "https://poshmark.com/listing/Bonnie-Jean-Mariposa-Floral-Butterfly-Dress-Size-3T-New-6aefc0deadedd1f6af8166f3"
+  },
+  {
+   "category": "Kids",
+   "condition": "New with tags",
+   "dealReason": "New with tags — the listing's original price is $70.",
+   "foundDate": "2026-11-08",
+   "id": "posh-bj-polkadot-4t",
+   "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/08/6af0d7d028951f73c6bd0bf0/l_6af0d7e6ea03993291dd2ef4.jpg",
+   "kind": "secondhand",
+   "originalPrice": 70,
+   "price": 25,
+   "priceHistory": [
+    {
+     "date": "2026-11-08",
+     "price": 25
+    }
+   ],
+   "shipping": 6.49,
+   "size": "4T",
+   "sizeGroup": "Toddler",
+   "source": "Poshmark",
+   "stock": {
+    "checkedDate": "2026-11-08",
+    "status": "in_stock"
+   },
+   "title": "Bonnie Jean Pink & Silver Polka Dot Dress",
+   "url": "https://poshmark.com/listing/Bonnie-Jean-X211790DL-Girls-4T-Pink-Silver-Polka-Dot-NWT-6af0d7d028951f73c6bd0bf0"
+  },
+  {
+   "category": "Kids",
+   "condition": "Good",
+   "dealReason": "Seller discloses a small run in the satin waist detail.",
+   "foundDate": "2026-11-08",
+   "id": "posh-rare-editions-velvet-7",
+   "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/08/12/6a7c93e1a69358466e8c670a/l_6a7c955cb9dd70229733825b.jpeg",
+   "kind": "secondhand",
+   "originalPrice": null,
+   "price": 19,
+   "priceHistory": [
+    {
+     "date": "2026-11-08",
+     "price": 19
+    }
+   ],
+   "shipping": 6.49,
+   "size": "7",
+   "sizeGroup": "Kids",
+   "source": "Poshmark",
+   "stock": {
+    "checkedDate": "2026-11-08",
+    "status": "in_stock"
+   },
+   "title": "Rare Editions Velvet Dress, Purple",
+   "url": "https://poshmark.com/listing/Rare-Editions-purple-velvet-vintage-dress-Girls-Size-7-6a7c93e1a69358466e8c670a"
+  },
+  {
+   "category": "Kids",
+   "condition": "Good",
+   "dealReason": null,
+   "foundDate": "2026-11-08",
+   "id": "posh-bj-holiday-8",
+   "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/08/6af0e38d4adcb358e0e01759/l_6af0e3b58974d0c3662c54d8.jpg",
+   "kind": "secondhand",
+   "originalPrice": null,
+   "price": 19,
+   "priceHistory": [
+    {
+     "date": "2026-11-08",
+     "price": 19
+    }
+   ],
+   "shipping": 6.49,
+   "size": "8",
+   "sizeGroup": "Kids",
+   "source": "Poshmark",
+   "stock": {
+    "checkedDate": "2026-11-08",
+    "status": "in_stock"
+   },
+   "title": "Bonnie Jean Holiday Dress, Velvet & Plaid",
+   "url": "https://poshmark.com/listing/Bonnie-Jean-Girls-Holiday-Dress-Size-8-6af0e38d4adcb358e0e01759"
+  },
+  {
+   "category": "Kids",
+   "condition": "Worn once",
+   "dealReason": "Worn once, per the seller — price dropped 29% on the listing.",
+   "foundDate": "2026-11-08",
+   "id": "posh-tdm-dahlia-67",
+   "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/06/23/6a3ac0b0006e43853b5ab88a/l_6a3ac11dbedd349d54fc0892.jpg",
+   "kind": "secondhand",
+   "originalPrice": 180,
+   "price": 60,
+   "priceHistory": [
+    {
+     "date": "2026-11-08",
+     "price": 60
+    }
+   ],
+   "shipping": 6.49,
+   "size": "6-7",
+   "sizeGroup": "Kids",
+   "source": "Poshmark",
+   "stock": {
+    "checkedDate": "2026-11-08",
+    "status": "in_stock"
+   },
+   "title": "Tutu Du Monde Dahlia Tulle Dress, Illusion Blue",
+   "url": "https://poshmark.com/listing/Tutu-Du-Monde-Dahlia-embellished-tulle-dress-Illusion-Blue-WORE-ONCE-Size-67-6a3ac0b0006e43853b5ab88a"
+  },
+  {
+   "category": "Shoes",
+   "condition": "Pre-loved",
+   "dealReason": "Seller describes normal wear.",
+   "foundDate": "2026-11-08",
+   "id": "posh-nike-af1-toddler-9",
+   "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2024/11/05/672ac23de0f2cedcbc61c42d/l_672ac23d15ad5455047ee953.jpg",
+   "kind": "secondhand",
+   "originalPrice": 60,
+   "price": 40,
+   "priceHistory": [
+    {
+     "date": "2026-11-08",
+     "price": 40
+    }
+   ],
+   "shipping": 6.49,
+   "size": "9 (Toddler Boy)",
+   "sizeGroup": null,
+   "source": "Poshmark",
+   "stock": {
+    "checkedDate": "2026-11-08",
+    "status": "in_stock"
+   },
+   "title": "Nike Air Force, Toddler Boy",
+   "url": "https://poshmark.com/listing/Nike-Air-force-toddler-boy-size-9-672ac23de0f2cedcbc61c42d"
+  }
+ ],
+ "gatheredOn": "2026-11-08"
 }

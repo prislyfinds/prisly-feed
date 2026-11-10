@@ -672,30 +672,6 @@
   {
    "category": "Home",
    "condition": "New",
-   "dealReason": "28% under its regular Kohl's price.",
-   "foundDate": "2026-11-09",
-   "id": "kohls-ninja-detect-kitchen-system",
-   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6609535?wid=390&hei=390&op_sharpen=1",
-   "kind": "new",
-   "originalPrice": 249.99,
-   "price": 179.98,
-   "priceHistory": [
-    {
-     "date": "2026-11-09",
-     "price": 179.98
-    }
-   ],
-   "source": "Kohl's",
-   "stock": {
-    "checkedDate": "2026-11-09",
-    "status": "in_stock"
-   },
-   "title": "Ninja Detect Kitchen System Power Blender + Processor Pro with BlendSense Technology",
-   "url": "https://www.kohls.com/product/prd-6609535/ninja-detect-kitchen-system-power-blender-processor-pro-with-blendsense-technology.jsp"
-  },
-  {
-   "category": "Home",
-   "condition": "New",
    "dealReason": "33% under its regular Kohl's price.",
    "foundDate": "2026-11-09",
    "id": "kohls-ninja-professional-plus-blender",

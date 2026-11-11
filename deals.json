@@ -1,918 +1,1062 @@
 {
- "feedVersion": 2,
- "finds": [
-  {
-   "category": "Men",
-   "condition": "New",
-   "dealReason": "20% under its regular Walmart price.",
-   "foundDate": "2026-11-06",
-   "id": "walmart-stretch-waist-jeans",
-   "imageUrl": "https://i5.walmartimages.com/seo/Mens-31X34-Classic-Straight-Leg-Stretch-Jeans-31_b2449c61-178d-4ea8-8575-a3824bed1b70_1.389d13b728b365b2c6463bfd8039fc18.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
-   "kind": "new",
-   "originalPrice": 18.69,
-   "price": 14.95,
-   "source": "Walmart",
-   "title": "Men's Classic Straight Slim Fit Stretch Waist Jeans",
-   "url": "https://www.walmart.com/ip/Men-s-Stretch-Waist-Jeans-for-Older-Men-Over-60-Comfort-Casual-Denim-Pants-Without-Belt-Dark-Blue-39/19880622335",
-   "priceHistory": [
+  "feedVersion": 2,
+  "finds": [
     {
-     "date": "2026-11-06",
-     "price": 14.95
-    }
-   ]
-  },
-  {
-   "category": "Women",
-   "condition": "New",
-   "dealReason": "50% off the regular Kohl's price.",
-   "foundDate": "2026-11-06",
-   "id": "kohls-tek-gear-raglan-tee",
-   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/5942070_ALT?wid=390&hei=390&op_sharpen=1",
-   "kind": "new",
-   "originalPrice": 14.99,
-   "price": 11.99,
-   "source": "Kohl's",
-   "title": "Women's Tek Gear Essential Core Raglan Tee",
-   "url": "https://www.kohls.com/product/prd-5942070/womens-tek-gear-essential-core-raglan-tee.jsp",
-   "priceHistory": [
-    {
-     "date": "2026-11-06",
-     "price": 7.49
+      "category": "Men",
+      "condition": "New",
+      "dealReason": "20% under its regular Walmart price.",
+      "foundDate": "2026-11-06",
+      "id": "walmart-stretch-waist-jeans",
+      "imageUrl": "https://i5.walmartimages.com/seo/Mens-31X34-Classic-Straight-Leg-Stretch-Jeans-31_b2449c61-178d-4ea8-8575-a3824bed1b70_1.389d13b728b365b2c6463bfd8039fc18.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "kind": "new",
+      "originalPrice": 18.69,
+      "price": 14.95,
+      "source": "Walmart",
+      "title": "Men's Classic Straight Slim Fit Stretch Waist Jeans",
+      "url": "https://www.walmart.com/ip/Men-s-Stretch-Waist-Jeans-for-Older-Men-Over-60-Comfort-Casual-Denim-Pants-Without-Belt-Dark-Blue-39/19880622335",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 14.95
+        }
+      ]
     },
     {
-     "date": "2026-11-09",
-     "price": 11.99
-    }
-   ]
-  },
-  {
-   "category": "Women",
-   "condition": "New",
-   "dealReason": "30% off the regular price.",
-   "foundDate": "2026-11-06",
-   "id": "kohls-sonoma-camisole",
-   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6101968_Rich_Espresso?wid=1000&hei=1000&op_sharpen=1",
-   "kind": "new",
-   "originalPrice": 9.99,
-   "price": 7.99,
-   "source": "Kohl's",
-   "title": "Women's Sonoma Goods For Life Everyday Camisole",
-   "url": "https://www.kohls.com/product/prd-6101968/womens-sonoma-goods-for-life-everyday-camisole.jsp",
-   "priceHistory": [
-    {
-     "date": "2026-11-06",
-     "price": 6.99
+      "category": "Women",
+      "condition": "New",
+      "dealReason": "50% off the regular Kohl's price.",
+      "foundDate": "2026-11-06",
+      "id": "kohls-tek-gear-raglan-tee",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/5942070_ALT?wid=390&hei=390&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 14.99,
+      "price": 11.99,
+      "source": "Kohl's",
+      "title": "Women's Tek Gear Essential Core Raglan Tee",
+      "url": "https://www.kohls.com/product/prd-5942070/womens-tek-gear-essential-core-raglan-tee.jsp",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 7.49
+        },
+        {
+          "date": "2026-11-09",
+          "price": 11.99
+        }
+      ]
     },
     {
-     "date": "2026-11-09",
-     "price": 7.99
-    }
-   ]
-  },
-  {
-   "category": "Women",
-   "condition": "New",
-   "dealReason": "30% off the regular Kohl's price.",
-   "foundDate": "2026-11-06",
-   "id": "kohls-nike-one-cropped-top",
-   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6924451_Vintage_Green?wid=1000&hei=1000&op_sharpen=1",
-   "kind": "new",
-   "originalPrice": 60.0,
-   "price": 42.0,
-   "source": "Kohl's",
-   "title": "Women's Nike One Fitted Dri-FIT Long-Sleeve Cropped Top",
-   "url": "https://www.kohls.com/product/prd-6924451/womens-nike-one-fitted-dri-fit-long-sleeve-cropped-top.jsp",
-   "priceHistory": [
-    {
-     "date": "2026-11-06",
-     "price": 42.0
-    }
-   ]
-  },
-  {
-   "category": "Shoes",
-   "condition": "New",
-   "dealReason": "51% off the regular price.",
-   "foundDate": "2026-11-06",
-   "id": "kohls-skechers-gowalk-flex",
-   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6603902_Grey?wid=1000&hei=1000&op_sharpen=1",
-   "kind": "new",
-   "originalPrice": 84.99,
-   "price": 63.74,
-   "source": "Kohl's",
-   "title": "Skechers Hands Free Slip-ins GO WALK Flex Grand Entry Women's Athletic Shoes",
-   "url": "https://www.kohls.com/product/prd-6603902/skechers-hands-free-slip-ins-go-walk-flex-grand-entry-womens-athletic-shoes.jsp",
-   "priceHistory": [
-    {
-     "date": "2026-11-06",
-     "price": 41.97
+      "category": "Women",
+      "condition": "New",
+      "dealReason": "30% off the regular price.",
+      "foundDate": "2026-11-06",
+      "id": "kohls-sonoma-camisole",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6101968_Rich_Espresso?wid=1000&hei=1000&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 9.99,
+      "price": 7.99,
+      "source": "Kohl's",
+      "title": "Women's Sonoma Goods For Life Everyday Camisole",
+      "url": "https://www.kohls.com/product/prd-6101968/womens-sonoma-goods-for-life-everyday-camisole.jsp",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 6.99
+        },
+        {
+          "date": "2026-11-09",
+          "price": 7.99
+        }
+      ]
     },
     {
-     "date": "2026-11-09",
-     "price": 63.74
-    }
-   ]
-  },
-  {
-   "category": "Men",
-   "condition": "Pre-owned - Excellent",
-   "dealReason": "Pre-owned in excellent condition.",
-   "foundDate": "2026-11-06",
-   "id": "ebay-levis-505-gray-vtg",
-   "imageUrl": "https://i.ebayimg.com/images/g/rdoAAOSwFrlmxllF/s-l1600.jpg",
-   "kind": "secondhand",
-   "originalPrice": null,
-   "price": 24.99,
-   "size": "36x32",
-   "source": "eBay",
-   "title": "VTG Y2K Levi's 505 Regular Fit Jeans Men's 36x32 Gray",
-   "url": "https://www.ebay.com/itm/168282304927",
-   "priceHistory": [
-    {
-     "date": "2026-11-06",
-     "price": 24.99
-    }
-   ]
-  },
-  {
-   "category": "Shoes",
-   "condition": "Pre-owned - Good",
-   "dealReason": "Pre-owned in good condition.",
-   "foundDate": "2026-11-06",
-   "id": "ebay-nike-af1-team-usa",
-   "imageUrl": "https://i.ebayimg.com/images/g/zMEAAeSwvh5piAAC/s-l400.webp",
-   "kind": "secondhand",
-   "originalPrice": null,
-   "price": 29.97,
-   "size": "11",
-   "source": "eBay",
-   "stock": {
-    "checkedDate": "2026-11-06",
-    "status": "in_stock"
-   },
-   "title": "Nike Air Force 1 Low 2012 Team USA Men's Size 11",
-   "url": "https://www.ebay.ie/itm/177849146608?_skw=Nike+Air+Force+1+USA&hash=item2968a29cf0%3Ag%3AzMEAAeSwvh5piAAC&itmprp=enc%3AAQALAAAA8DKQclQvzFwZQpmMrsO4Lupb7VkOExZm01c7OyB8UbUsdwWgsB1pVkFRJDM265CIE74sG4ohN4rSmSMPtiaPCfwihQJalphiPqsIgtm%2BmagD43ecuvp2tekIjWQ7G4r76d2BLhZrNHLIhh37kQx5JzJycujO%2FjvtR2BTdrMEzUQ4Hl46Y10VpL5Hs3IjOYrhZvpVyIH3%2B3rNgaUMbFncyjNYKCxCBx%2FEdo8tzNh6cAHhQIQARoqBVt6atkdb%2FoJIizGv%2B9Xmlb%2BKW9laTmkxAl7CDfI3zrF7oclfMP63xa5Q1SS47CSU4njmUfur6a%2FdlNz%2BGgmbnU1h75gPcIog%3D%3D%7Ctkp%3ABFBMyIj8natn",
-   "priceHistory": [
-    {
-     "date": "2026-11-06",
-     "price": 29.97
-    }
-   ]
-  },
-  {
-   "category": "Women",
-   "condition": "New with tags",
-   "dealReason": "New with tags - 86% under its $148 list price.",
-   "foundDate": "2026-11-06",
-   "id": "poshmark-fp-floral-pink-midi",
-   "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/04/03/69d0369421bd425735c9d01d/l_69d036a12981af8533180e42.jpg",
-   "kind": "secondhand",
-   "originalPrice": 148.0,
-   "price": 21.0,
-   "size": "XL",
-   "source": "Poshmark",
-   "stock": {
-    "checkedDate": "2026-11-06",
-    "status": "in_stock"
-   },
-   "title": "NWT Free People Floral Pink Midi Dress with Balloon Sleeves, Size XL",
-   "url": "https://poshmark.com/listing/NWT-Free-people-Floral-pink-midi-Dress-with-Balloon-Sleeves-size-XL-69d0369421bd425735c9d01d",
-   "priceHistory": [
-    {
-     "date": "2026-11-06",
-     "price": 21.0
-    }
-   ]
-  },
-  {
-   "category": "Women",
-   "condition": "Pre-owned",
-   "foundDate": "2026-11-06",
-   "id": "poshmark-fp-selma-crochet",
-   "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2022/12/29/63ae417dcbda47352999ff05/l_63ae436652eee1ad5b4b80ae.jpeg",
-   "kind": "secondhand",
-   "originalPrice": null,
-   "price": 42.0,
-   "size": "0",
-   "source": "Poshmark",
-   "stock": {
-    "checkedDate": "2026-11-06",
-    "status": "in_stock"
-   },
-   "title": "Free People Selma Crochet Lace Mini Dress, Size 0, Black/Brown",
-   "url": "https://poshmark.com/listing/Free-People-Selma-Crochet-Lace-Mini-Dress-Size-0-Black-Brown-Sleeveless-63ae417dcbda47352999ff05",
-   "priceHistory": [
-    {
-     "date": "2026-11-06",
-     "price": 42.0
-    }
-   ]
-  },
-  {
-   "category": "Women",
-   "condition": "New with tags",
-   "dealReason": "New with tags - 47% under its $148 list price.",
-   "foundDate": "2026-11-06",
-   "id": "poshmark-fp-small-world",
-   "imageUrl": "https://images.urbndata.com/is/image/FreePeople/48057301_004_a/?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
-   "kind": "secondhand",
-   "originalPrice": 148.0,
-   "price": 78.0,
-   "size": "XL",
-   "source": "Poshmark",
-   "stock": {
-    "checkedDate": "2026-11-06",
-    "status": "in_stock"
-   },
-   "title": "NWT Free People Small World Cable Knit Open Back Sweater Mini Dress, XL",
-   "url": "https://poshmark.com/listing/NWT-Free-People-Small-World-Cable-Knit-Open-Back-Sweater-Mini-Dress-XL-6ac8c12d8cafccefc1b55003?utm_source=facebook&ad_partner=facebook",
-   "priceHistory": [
-    {
-     "date": "2026-11-06",
-     "price": 78.0
-    }
-   ]
-  },
-  {
-   "category": "Women",
-   "condition": "Like new",
-   "dealReason": "Like new condition.",
-   "foundDate": "2026-11-06",
-   "id": "poshmark-fp-golden-dreams",
-   "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/18/6aad9c2eda3eeb9c9e23ef0f/l_6aad9c454941b50a882a4803.jpg",
-   "kind": "secondhand",
-   "originalPrice": null,
-   "price": 90.0,
-   "size": "XS",
-   "source": "Poshmark",
-   "stock": {
-    "checkedDate": "2026-11-06",
-    "status": "in_stock"
-   },
-   "title": "Free People Golden Dreams Strapless Maxi Dress, Size XS",
-   "url": "https://poshmark.com/listing/Free-People-Golden-Dreams-Strapless-Maxi-Dress-Size-XS-6aad9c2eda3eeb9c9e23ef0f",
-   "priceHistory": [
-    {
-     "date": "2026-11-06",
-     "price": 90.0
-    }
-   ]
-  },
-  {
-   "category": "Women",
-   "condition": "Good",
-   "dealReason": "Secondhand in good condition.",
-   "foundDate": "2026-11-06",
-   "id": "vinted-ae-gray-sweater",
-   "imageUrl": "https://images1.vinted.net/t/02_00a4e_UEXPzv7mADtSNiPg6srq2Bef/310x430/1788736641.webp?s=de95f80fc5f9cf865302724e3ef0949880cd687d",
-   "kind": "secondhand",
-   "originalPrice": null,
-   "price": 12.0,
-   "size": "L",
-   "source": "Vinted",
-   "stock": {
-    "checkedDate": "2026-11-06",
-    "status": "in_stock"
-   },
-   "title": "American Eagle Women's Large Gray Open Knit Cable Sweater Crochet Pullover",
-   "url": "https://www.vinted.com/items/10210293667-american-eagle-womens-large-gray-open-knit-cable-sweater-crochet-pullover",
-   "priceHistory": [
-    {
-     "date": "2026-11-06",
-     "price": 12.0
-    }
-   ]
-  },
-  {
-   "category": "Women",
-   "condition": "Good",
-   "dealReason": "Secondhand in good condition.",
-   "foundDate": "2026-11-06",
-   "id": "vinted-sincerely-jules-leopard",
-   "imageUrl": "https://images1.vinted.net/t/02_01f4d_14eHWYZtqakAUXP2sd7ZoTof/310x430/1787568298.webp?s=dba284c62e58a104d08350f1d696813d63859417",
-   "kind": "secondhand",
-   "originalPrice": null,
-   "price": 6.0,
-   "size": "XS",
-   "source": "Vinted",
-   "stock": {
-    "checkedDate": "2026-11-06",
-    "status": "in_stock"
-   },
-   "title": "Sincerely Jules Leopard Animal Print Crewneck Pullover Knit Sweater, XS",
-   "url": "https://www.vinted.com/items/10576371677-cozy-cute-womens-xs-sincerely-jules-leopard-animal-print-crewneck-pullover-knit-sweater",
-   "priceHistory": [
-    {
-     "date": "2026-11-06",
-     "price": 6.5
+      "category": "Women",
+      "condition": "New",
+      "dealReason": "30% off the regular Kohl's price.",
+      "foundDate": "2026-11-06",
+      "id": "kohls-nike-one-cropped-top",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6924451_Vintage_Green?wid=1000&hei=1000&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 60.0,
+      "price": 42.0,
+      "source": "Kohl's",
+      "title": "Women's Nike One Fitted Dri-FIT Long-Sleeve Cropped Top",
+      "url": "https://www.kohls.com/product/prd-6924451/womens-nike-one-fitted-dri-fit-long-sleeve-cropped-top.jsp",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 42.0
+        }
+      ]
     },
     {
-     "date": "2026-11-09",
-     "price": 6.0
-    }
-   ]
-  },
-  {
-   "category": "Women",
-   "condition": "Pre-owned",
-   "foundDate": "2026-11-06",
-   "id": "vinted-leopard-distressed-sweater",
-   "imageUrl": "https://images1.vinted.net/t/05_013bf_F93Ukzh3rQNtB87Ap7eQNniH/310x430/1787403338.webp?s=df769681c06a8880a1f2d19aa65a677c312904ae",
-   "kind": "secondhand",
-   "originalPrice": null,
-   "price": 28.0,
-   "size": "L",
-   "source": "Vinted",
-   "stock": {
-    "checkedDate": "2026-11-06",
-    "status": "in_stock"
-   },
-   "title": "Women's Large Cream Beige Leopard Print Distressed Knit Sweater",
-   "url": "https://www.vinted.com/items/10452624095-womens-large-cream-beige-leopard-print-distressed-knit-sweater",
-   "priceHistory": [
-    {
-     "date": "2026-11-06",
-     "price": 28.0
-    }
-   ]
-  },
-  {
-   "category": "Kids",
-   "condition": "Like new",
-   "dealReason": "Like new — worn only twice, per the seller.",
-   "foundDate": "2026-11-08",
-   "id": "posh-baby-gap-poplin-03m",
-   "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/01/24/69751359a6bb7616b37782a5/l_697513e121bd42f33c246bbf.jpeg",
-   "kind": "secondhand",
-   "originalPrice": 40,
-   "price": 15,
-   "priceHistory": [
-    {
-     "date": "2026-11-08",
-     "price": 15
-    }
-   ],
-   "shipping": 6.49,
-   "size": "0-3 Months",
-   "sizeGroup": "Baby",
-   "source": "Poshmark",
-   "stock": {
-    "checkedDate": "2026-11-08",
-    "status": "in_stock"
-   },
-   "title": "Baby Gap Poplin Outfit Set in Blue",
-   "url": "https://poshmark.com/listing/LIKE-NEW-BABY-GAP-Poplin-Outfit-Set-In-Blue-Size-03-months-69751359a6bb7616b37782a5"
-  },
-  {
-   "category": "Kids",
-   "condition": "New with tags",
-   "dealReason": "New with tags: navy jacket, bear one-piece and collared shirt.",
-   "foundDate": "2026-11-08",
-   "id": "posh-rl-baby-set-03m",
-   "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2022/11/02/6362c6b404166d8fea05df34/l_6362c78324237adf4ac61140.jpg",
-   "kind": "secondhand",
-   "originalPrice": 55,
-   "price": 35,
-   "priceHistory": [
-    {
-     "date": "2026-11-08",
-     "price": 35
-    }
-   ],
-   "shipping": 6.49,
-   "size": "0-3 Months",
-   "sizeGroup": "Baby",
-   "source": "Poshmark",
-   "stock": {
-    "checkedDate": "2026-11-08",
-    "status": "in_stock"
-   },
-   "title": "Ralph Lauren Baby Set",
-   "url": "https://poshmark.com/listing/Ralph-Lauren-Baby-Set-6362c6b404166d8fea05df34"
-  },
-  {
-   "category": "Kids",
-   "condition": "Like new",
-   "dealReason": "Never worn, no visible flaws, per the seller.",
-   "foundDate": "2026-11-08",
-   "id": "posh-bj-mariposa-3t",
-   "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/07/6aefc0deadedd1f6af8166f3/l_6aefc1ba72a95180120e40d1.jpg",
-   "kind": "secondhand",
-   "originalPrice": 29,
-   "price": 16,
-   "priceHistory": [
-    {
-     "date": "2026-11-08",
-     "price": 16
-    }
-   ],
-   "shipping": 6.49,
-   "size": "3T",
-   "sizeGroup": "Toddler",
-   "source": "Poshmark",
-   "stock": {
-    "checkedDate": "2026-11-08",
-    "status": "in_stock"
-   },
-   "title": "Bonnie Jean Mariposa Floral Butterfly Dress",
-   "url": "https://poshmark.com/listing/Bonnie-Jean-Mariposa-Floral-Butterfly-Dress-Size-3T-New-6aefc0deadedd1f6af8166f3"
-  },
-  {
-   "category": "Kids",
-   "condition": "New with tags",
-   "dealReason": "New with tags — the listing's original price is $70.",
-   "foundDate": "2026-11-08",
-   "id": "posh-bj-polkadot-4t",
-   "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/08/6af0d7d028951f73c6bd0bf0/l_6af0d7e6ea03993291dd2ef4.jpg",
-   "kind": "secondhand",
-   "originalPrice": 70,
-   "price": 25,
-   "priceHistory": [
-    {
-     "date": "2026-11-08",
-     "price": 25
-    }
-   ],
-   "shipping": 6.49,
-   "size": "4T",
-   "sizeGroup": "Toddler",
-   "source": "Poshmark",
-   "stock": {
-    "checkedDate": "2026-11-08",
-    "status": "in_stock"
-   },
-   "title": "Bonnie Jean Pink & Silver Polka Dot Dress",
-   "url": "https://poshmark.com/listing/Bonnie-Jean-X211790DL-Girls-4T-Pink-Silver-Polka-Dot-NWT-6af0d7d028951f73c6bd0bf0"
-  },
-  {
-   "category": "Kids",
-   "condition": "Good",
-   "dealReason": "Seller discloses a small run in the satin waist detail.",
-   "foundDate": "2026-11-08",
-   "id": "posh-rare-editions-velvet-7",
-   "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/08/12/6a7c93e1a69358466e8c670a/l_6a7c955cb9dd70229733825b.jpeg",
-   "kind": "secondhand",
-   "originalPrice": null,
-   "price": 19,
-   "priceHistory": [
-    {
-     "date": "2026-11-08",
-     "price": 19
-    }
-   ],
-   "shipping": 6.49,
-   "size": "7",
-   "sizeGroup": "Kids",
-   "source": "Poshmark",
-   "stock": {
-    "checkedDate": "2026-11-08",
-    "status": "in_stock"
-   },
-   "title": "Rare Editions Velvet Dress, Purple",
-   "url": "https://poshmark.com/listing/Rare-Editions-purple-velvet-vintage-dress-Girls-Size-7-6a7c93e1a69358466e8c670a"
-  },
-  {
-   "category": "Kids",
-   "condition": "Worn once",
-   "dealReason": "Worn once, per the seller — price dropped 29% on the listing.",
-   "foundDate": "2026-11-08",
-   "id": "posh-tdm-dahlia-67",
-   "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/06/23/6a3ac0b0006e43853b5ab88a/l_6a3ac11dbedd349d54fc0892.jpg",
-   "kind": "secondhand",
-   "originalPrice": 180,
-   "price": 60,
-   "priceHistory": [
-    {
-     "date": "2026-11-08",
-     "price": 60
-    }
-   ],
-   "shipping": 6.49,
-   "size": "6-7",
-   "sizeGroup": "Kids",
-   "source": "Poshmark",
-   "stock": {
-    "checkedDate": "2026-11-08",
-    "status": "in_stock"
-   },
-   "title": "Tutu Du Monde Dahlia Tulle Dress, Illusion Blue",
-   "url": "https://poshmark.com/listing/Tutu-Du-Monde-Dahlia-embellished-tulle-dress-Illusion-Blue-WORE-ONCE-Size-67-6a3ac0b0006e43853b5ab88a"
-  },
-  {
-   "category": "Shoes",
-   "condition": "Pre-loved",
-   "dealReason": "Seller describes normal wear.",
-   "foundDate": "2026-11-08",
-   "id": "posh-nike-af1-toddler-9",
-   "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2024/11/05/672ac23de0f2cedcbc61c42d/l_672ac23d15ad5455047ee953.jpg",
-   "kind": "secondhand",
-   "originalPrice": 60,
-   "price": 40,
-   "priceHistory": [
-    {
-     "date": "2026-11-08",
-     "price": 40
-    }
-   ],
-   "shipping": 6.49,
-   "size": "9 (Toddler Boy)",
-   "sizeGroup": null,
-   "source": "Poshmark",
-   "stock": {
-    "checkedDate": "2026-11-08",
-    "status": "in_stock"
-   },
-   "title": "Nike Air Force, Toddler Boy",
-   "url": "https://poshmark.com/listing/Nike-Air-force-toddler-boy-size-9-672ac23de0f2cedcbc61c42d"
-  },
-  {
-   "category": "Electronics",
-   "condition": "New",
-   "dealReason": "56% under its regular Kohl's price.",
-   "foundDate": "2026-11-09",
-   "id": "kohls-fire-tv-stick-4k-select",
-   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/8004942?wid=390&hei=390&op_sharpen=1",
-   "kind": "new",
-   "originalPrice": 49.99,
-   "price": 49.99,
-   "priceHistory": [
-    {
-     "date": "2026-11-09",
-     "price": 21.99
+      "category": "Shoes",
+      "condition": "New",
+      "dealReason": "51% off the regular price.",
+      "foundDate": "2026-11-06",
+      "id": "kohls-skechers-gowalk-flex",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6603902_Grey?wid=1000&hei=1000&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 84.99,
+      "price": 63.74,
+      "source": "Kohl's",
+      "title": "Skechers Hands Free Slip-ins GO WALK Flex Grand Entry Women's Athletic Shoes",
+      "url": "https://www.kohls.com/product/prd-6603902/skechers-hands-free-slip-ins-go-walk-flex-grand-entry-womens-athletic-shoes.jsp",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 41.97
+        },
+        {
+          "date": "2026-11-09",
+          "price": 63.74
+        }
+      ]
     },
     {
-     "date": "2026-11-11",
-     "price": 49.99
-    }
-   ],
-   "source": "Kohl's",
-   "stock": {
-    "checkedDate": "2026-11-09",
-    "status": "in_stock"
-   },
-   "title": "Amazon Fire TV Stick 4K Select with AI-Powered Search & Live TV",
-   "url": "https://www.kohls.com/product/prd-8004942/amazon-fire-tv-stick-4k-select-with-ai-powered-search-live-tv.jsp"
-  },
-  {
-   "category": "Electronics",
-   "condition": "New",
-   "dealReason": "66% under its regular Kohl's price.",
-   "foundDate": "2026-11-09",
-   "id": "kohls-blink-5pk-2k-cameras",
-   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/7909135?wid=390&hei=390&op_sharpen=1",
-   "kind": "new",
-   "originalPrice": 349.99,
-   "price": 119.99,
-   "priceHistory": [
+      "category": "Men",
+      "condition": "Pre-owned - Excellent",
+      "dealReason": "Pre-owned in excellent condition.",
+      "foundDate": "2026-11-06",
+      "id": "ebay-levis-505-gray-vtg",
+      "imageUrl": "https://i.ebayimg.com/images/g/rdoAAOSwFrlmxllF/s-l1600.jpg",
+      "kind": "secondhand",
+      "originalPrice": null,
+      "price": 24.99,
+      "size": "36x32",
+      "source": "eBay",
+      "title": "VTG Y2K Levi's 505 Regular Fit Jeans Men's 36x32 Gray",
+      "url": "https://www.ebay.com/itm/168282304927",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 24.99
+        }
+      ]
+    },
     {
-     "date": "2026-11-09",
-     "price": 119.99
-    }
-   ],
-   "source": "Kohl's",
-   "stock": {
-    "checkedDate": "2026-11-09",
-    "status": "in_stock"
-   },
-   "title": "Blink 5-pk 2K Video Resolution Wireless Smart Security Camera",
-   "url": "https://www.kohls.com/product/prd-7909135/blink-5-pk-2k-video-resolution-wireless-smart-security-camera.jsp"
-  },
-  {
-   "category": "Electronics",
-   "condition": "New",
-   "dealReason": "58% under its regular Kohl's price.",
-   "foundDate": "2026-11-09",
-   "id": "kohls-ring-2k-indoor-cam",
-   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/7913832_ALT2?wid=390&hei=390&op_sharpen=1",
-   "kind": "new",
-   "originalPrice": 59.99,
-   "price": 24.99,
-   "priceHistory": [
+      "category": "Shoes",
+      "condition": "Pre-owned - Good",
+      "dealReason": "Pre-owned in good condition.",
+      "foundDate": "2026-11-06",
+      "id": "ebay-nike-af1-team-usa",
+      "imageUrl": "https://i.ebayimg.com/images/g/zMEAAeSwvh5piAAC/s-l400.webp",
+      "kind": "secondhand",
+      "originalPrice": null,
+      "price": 29.97,
+      "size": "11",
+      "source": "eBay",
+      "stock": {
+        "checkedDate": "2026-11-06",
+        "status": "in_stock"
+      },
+      "title": "Nike Air Force 1 Low 2012 Team USA Men's Size 11",
+      "url": "https://www.ebay.ie/itm/177849146608?_skw=Nike+Air+Force+1+USA&hash=item2968a29cf0%3Ag%3AzMEAAeSwvh5piAAC&itmprp=enc%3AAQALAAAA8DKQclQvzFwZQpmMrsO4Lupb7VkOExZm01c7OyB8UbUsdwWgsB1pVkFRJDM265CIE74sG4ohN4rSmSMPtiaPCfwihQJalphiPqsIgtm%2BmagD43ecuvp2tekIjWQ7G4r76d2BLhZrNHLIhh37kQx5JzJycujO%2FjvtR2BTdrMEzUQ4Hl46Y10VpL5Hs3IjOYrhZvpVyIH3%2B3rNgaUMbFncyjNYKCxCBx%2FEdo8tzNh6cAHhQIQARoqBVt6atkdb%2FoJIizGv%2B9Xmlb%2BKW9laTmkxAl7CDfI3zrF7oclfMP63xa5Q1SS47CSU4njmUfur6a%2FdlNz%2BGgmbnU1h75gPcIog%3D%3D%7Ctkp%3ABFBMyIj8natn",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 29.97
+        }
+      ]
+    },
     {
-     "date": "2026-11-09",
-     "price": 24.99
-    }
-   ],
-   "source": "Kohl's",
-   "stock": {
-    "checkedDate": "2026-11-09",
-    "status": "in_stock"
-   },
-   "title": "Ring 2K Indoor Plug-In Cam",
-   "url": "https://www.kohls.com/product/prd-7913832/ring-2k-indoor-plug-in-cam.jsp"
-  },
-  {
-   "category": "Electronics",
-   "condition": "New",
-   "dealReason": "35% under its regular Kohl's price.",
-   "foundDate": "2026-11-09",
-   "id": "kohls-beats-solo-4",
-   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/7173442_ALT2?wid=390&hei=390&op_sharpen=1",
-   "kind": "new",
-   "originalPrice": 199.99,
-   "price": 129.99,
-   "priceHistory": [
+      "category": "Women",
+      "condition": "New with tags",
+      "dealReason": "New with tags - 86% under its $148 list price.",
+      "foundDate": "2026-11-06",
+      "id": "poshmark-fp-floral-pink-midi",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/04/03/69d0369421bd425735c9d01d/l_69d036a12981af8533180e42.jpg",
+      "kind": "secondhand",
+      "originalPrice": 148.0,
+      "price": 21.0,
+      "size": "XL",
+      "source": "Poshmark",
+      "stock": {
+        "checkedDate": "2026-11-06",
+        "status": "in_stock"
+      },
+      "title": "NWT Free People Floral Pink Midi Dress with Balloon Sleeves, Size XL",
+      "url": "https://poshmark.com/listing/NWT-Free-people-Floral-pink-midi-Dress-with-Balloon-Sleeves-size-XL-69d0369421bd425735c9d01d",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 21.0
+        }
+      ]
+    },
     {
-     "date": "2026-11-09",
-     "price": 129.99
-    }
-   ],
-   "source": "Kohl's",
-   "stock": {
-    "checkedDate": "2026-11-09",
-    "status": "in_stock"
-   },
-   "title": "Beats Solo 4 On-Ear Wireless Headphones",
-   "url": "https://www.kohls.com/product/prd-7173442/beats-solo-4-on-ear-wireless-headphones.jsp"
-  },
-  {
-   "category": "Electronics",
-   "condition": "New",
-   "dealReason": "36% under its regular Kohl's price.",
-   "foundDate": "2026-11-09",
-   "id": "kohls-anker-soundcore-q20i",
-   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/7579385?wid=390&hei=390&op_sharpen=1",
-   "kind": "new",
-   "originalPrice": 69.99,
-   "price": 44.99,
-   "priceHistory": [
+      "category": "Women",
+      "condition": "Pre-owned",
+      "foundDate": "2026-11-06",
+      "id": "poshmark-fp-selma-crochet",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2022/12/29/63ae417dcbda47352999ff05/l_63ae436652eee1ad5b4b80ae.jpeg",
+      "kind": "secondhand",
+      "originalPrice": null,
+      "price": 42.0,
+      "size": "0",
+      "source": "Poshmark",
+      "stock": {
+        "checkedDate": "2026-11-06",
+        "status": "in_stock"
+      },
+      "title": "Free People Selma Crochet Lace Mini Dress, Size 0, Black/Brown",
+      "url": "https://poshmark.com/listing/Free-People-Selma-Crochet-Lace-Mini-Dress-Size-0-Black-Brown-Sleeveless-63ae417dcbda47352999ff05",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 42.0
+        }
+      ]
+    },
     {
-     "date": "2026-11-09",
-     "price": 44.99
-    }
-   ],
-   "source": "Kohl's",
-   "stock": {
-    "checkedDate": "2026-11-09",
-    "status": "in_stock"
-   },
-   "title": "Anker Soundcore Q20i True Wireless Noise Canceling Over-the-Ear Headphones",
-   "url": "https://www.kohls.com/product/prd-7579385/anker-soundcore-q20i-true-wireless-noise-canceling-over-the-ear-headphones.jsp"
-  },
-  {
-   "category": "Home",
-   "condition": "New",
-   "dealReason": "40% under its regular Kohl's price.",
-   "foundDate": "2026-11-09",
-   "id": "kohls-ninja-flip-toaster-oven-sp151",
-   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/7105341?wid=390&hei=390&op_sharpen=1",
-   "kind": "new",
-   "originalPrice": 249.99,
-   "price": 149.99,
-   "priceHistory": [
+      "category": "Women",
+      "condition": "New with tags",
+      "dealReason": "New with tags - 47% under its $148 list price.",
+      "foundDate": "2026-11-06",
+      "id": "poshmark-fp-small-world",
+      "imageUrl": "https://images.urbndata.com/is/image/FreePeople/48057301_004_a/?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=720",
+      "kind": "secondhand",
+      "originalPrice": 148.0,
+      "price": 78.0,
+      "size": "XL",
+      "source": "Poshmark",
+      "stock": {
+        "checkedDate": "2026-11-06",
+        "status": "in_stock"
+      },
+      "title": "NWT Free People Small World Cable Knit Open Back Sweater Mini Dress, XL",
+      "url": "https://poshmark.com/listing/NWT-Free-People-Small-World-Cable-Knit-Open-Back-Sweater-Mini-Dress-XL-6ac8c12d8cafccefc1b55003?utm_source=facebook&ad_partner=facebook",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 78.0
+        }
+      ]
+    },
     {
-     "date": "2026-11-09",
-     "price": 149.99
-    }
-   ],
-   "source": "Kohl's",
-   "stock": {
-    "checkedDate": "2026-11-09",
-    "status": "in_stock"
-   },
-   "title": "Ninja 8-in-1 Flip Toaster Oven & Air Fryer (SP151)",
-   "url": "https://www.kohls.com/product/prd-7105341/ninja-8-in-1-flip-toaster-oven-air-fryer-sp151.jsp"
-  },
-  {
-   "category": "Home",
-   "condition": "New",
-   "dealReason": "33% under its regular Kohl's price.",
-   "foundDate": "2026-11-09",
-   "id": "kohls-ninja-professional-plus-blender",
-   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/4359529?wid=390&hei=390&op_sharpen=1",
-   "kind": "new",
-   "originalPrice": 119.99,
-   "price": 79.99,
-   "priceHistory": [
+      "category": "Women",
+      "condition": "Like new",
+      "dealReason": "Like new condition.",
+      "foundDate": "2026-11-06",
+      "id": "poshmark-fp-golden-dreams",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/18/6aad9c2eda3eeb9c9e23ef0f/l_6aad9c454941b50a882a4803.jpg",
+      "kind": "secondhand",
+      "originalPrice": null,
+      "price": 90.0,
+      "size": "XS",
+      "source": "Poshmark",
+      "stock": {
+        "checkedDate": "2026-11-06",
+        "status": "in_stock"
+      },
+      "title": "Free People Golden Dreams Strapless Maxi Dress, Size XS",
+      "url": "https://poshmark.com/listing/Free-People-Golden-Dreams-Strapless-Maxi-Dress-Size-XS-6aad9c2eda3eeb9c9e23ef0f",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 90.0
+        }
+      ]
+    },
     {
-     "date": "2026-11-09",
-     "price": 79.99
-    }
-   ],
-   "source": "Kohl's",
-   "stock": {
-    "checkedDate": "2026-11-09",
-    "status": "in_stock"
-   },
-   "title": "Ninja Professional Plus Blender with Auto-iQ",
-   "url": "https://www.kohls.com/product/prd-4359529/ninja-professional-plus-blender-with-auto-iq.jsp"
-  },
-  {
-   "category": "Home",
-   "condition": "New",
-   "dealReason": "31% under its regular Kohl's price.",
-   "foundDate": "2026-11-09",
-   "id": "kohls-ninja-air-fryer-pro-4in1",
-   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/7126718?wid=390&hei=390&op_sharpen=1",
-   "kind": "new",
-   "originalPrice": 129.99,
-   "price": 89.99,
-   "priceHistory": [
+      "category": "Women",
+      "condition": "Good",
+      "dealReason": "Secondhand in good condition.",
+      "foundDate": "2026-11-06",
+      "id": "vinted-ae-gray-sweater",
+      "imageUrl": "https://images1.vinted.net/t/02_00a4e_UEXPzv7mADtSNiPg6srq2Bef/310x430/1788736641.webp?s=de95f80fc5f9cf865302724e3ef0949880cd687d",
+      "kind": "secondhand",
+      "originalPrice": null,
+      "price": 12.0,
+      "size": "L",
+      "source": "Vinted",
+      "stock": {
+        "checkedDate": "2026-11-06",
+        "status": "in_stock"
+      },
+      "title": "American Eagle Women's Large Gray Open Knit Cable Sweater Crochet Pullover",
+      "url": "https://www.vinted.com/items/10210293667-american-eagle-womens-large-gray-open-knit-cable-sweater-crochet-pullover",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 12.0
+        }
+      ]
+    },
     {
-     "date": "2026-11-09",
-     "price": 89.99
-    }
-   ],
-   "source": "Kohl's",
-   "stock": {
-    "checkedDate": "2026-11-09",
-    "status": "in_stock"
-   },
-   "title": "Ninja Air Fryer Pro 4-in-1, 5 QT Capacity, Nonstick Basket & Crisper Plate",
-   "url": "https://www.kohls.com/product/prd-7126718/ninja-air-fryer-pro-4-in-1-5-qt-capacity-nonstick-basket-crisper-plate.jsp"
-  },
-  {
-   "category": "Home",
-   "condition": "New",
-   "dealReason": "29% under its regular Kohl's price.",
-   "foundDate": "2026-11-09",
-   "id": "kohls-ninja-blast-portable-blender",
-   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6331367_ALT?wid=390&hei=390&op_sharpen=1",
-   "kind": "new",
-   "originalPrice": 69.99,
-   "price": 49.99,
-   "priceHistory": [
+      "category": "Women",
+      "condition": "Good",
+      "dealReason": "Secondhand in good condition.",
+      "foundDate": "2026-11-06",
+      "id": "vinted-sincerely-jules-leopard",
+      "imageUrl": "https://images1.vinted.net/t/02_01f4d_14eHWYZtqakAUXP2sd7ZoTof/310x430/1787568298.webp?s=dba284c62e58a104d08350f1d696813d63859417",
+      "kind": "secondhand",
+      "originalPrice": null,
+      "price": 6.0,
+      "size": "XS",
+      "source": "Vinted",
+      "stock": {
+        "checkedDate": "2026-11-06",
+        "status": "in_stock"
+      },
+      "title": "Sincerely Jules Leopard Animal Print Crewneck Pullover Knit Sweater, XS",
+      "url": "https://www.vinted.com/items/10576371677-cozy-cute-womens-xs-sincerely-jules-leopard-animal-print-crewneck-pullover-knit-sweater",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 6.5
+        },
+        {
+          "date": "2026-11-09",
+          "price": 6.0
+        }
+      ]
+    },
     {
-     "date": "2026-11-09",
-     "price": 49.99
-    }
-   ],
-   "source": "Kohl's",
-   "stock": {
-    "checkedDate": "2026-11-09",
-    "status": "in_stock"
-   },
-   "title": "Ninja Blast Portable Blender",
-   "url": "https://www.kohls.com/product/prd-6331367/ninja-blast-portable-blender.jsp"
-  },
-  {
-   "category": "Home",
-   "condition": "New",
-   "dealReason": "23% under its regular Kohl's price.",
-   "foundDate": "2026-11-09",
-   "id": "kohls-ninja-possiblecooker-65",
-   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6607651?wid=390&hei=390&op_sharpen=1",
-   "kind": "new",
-   "originalPrice": 129.99,
-   "price": 99.99,
-   "priceHistory": [
+      "category": "Women",
+      "condition": "Pre-owned",
+      "foundDate": "2026-11-06",
+      "id": "vinted-leopard-distressed-sweater",
+      "imageUrl": "https://images1.vinted.net/t/05_013bf_F93Ukzh3rQNtB87Ap7eQNniH/310x430/1787403338.webp?s=df769681c06a8880a1f2d19aa65a677c312904ae",
+      "kind": "secondhand",
+      "originalPrice": null,
+      "price": 28.0,
+      "size": "L",
+      "source": "Vinted",
+      "stock": {
+        "checkedDate": "2026-11-06",
+        "status": "in_stock"
+      },
+      "title": "Women's Large Cream Beige Leopard Print Distressed Knit Sweater",
+      "url": "https://www.vinted.com/items/10452624095-womens-large-cream-beige-leopard-print-distressed-knit-sweater",
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 28.0
+        }
+      ]
+    },
     {
-     "date": "2026-11-09",
-     "price": 99.99
-    }
-   ],
-   "source": "Kohl's",
-   "stock": {
-    "checkedDate": "2026-11-09",
-    "status": "in_stock"
-   },
-   "title": "Ninja Foodi 6.5-qt. Everyday PossibleCooker Pro Multi-Cooker MC1101",
-   "url": "https://www.kohls.com/product/prd-6607651/ninja-foodi-65-qt-everyday-possiblecooker-pro-multi-cooker-mc1101.jsp"
-  },
-  {
-   "category": "Men",
-   "condition": "New",
-   "dealReason": "40% off the regular Kohl's price.",
-   "foundDate": "2026-11-10",
-   "id": "kohls-columbia-steens-mountain-fleece",
-   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/3592654_Dark_Mountain_Navy?wid=390&hei=390&op_sharpen=1",
-   "kind": "new",
-   "originalPrice": 65.0,
-   "price": 39.0,
-   "priceHistory": [
+      "category": "Kids",
+      "condition": "Like new",
+      "dealReason": "Like new — worn only twice, per the seller.",
+      "foundDate": "2026-11-08",
+      "id": "posh-baby-gap-poplin-03m",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/01/24/69751359a6bb7616b37782a5/l_697513e121bd42f33c246bbf.jpeg",
+      "kind": "secondhand",
+      "originalPrice": 40,
+      "price": 15,
+      "priceHistory": [
+        {
+          "date": "2026-11-08",
+          "price": 15
+        }
+      ],
+      "shipping": 6.49,
+      "size": "0-3 Months",
+      "sizeGroup": "Baby",
+      "source": "Poshmark",
+      "stock": {
+        "checkedDate": "2026-11-08",
+        "status": "in_stock"
+      },
+      "title": "Baby Gap Poplin Outfit Set in Blue",
+      "url": "https://poshmark.com/listing/LIKE-NEW-BABY-GAP-Poplin-Outfit-Set-In-Blue-Size-03-months-69751359a6bb7616b37782a5"
+    },
     {
-     "date": "2026-11-10",
-     "price": 39.0
-    }
-   ],
-   "source": "Kohl's",
-   "stock": {
-    "checkedDate": "2026-11-10",
-    "status": "in_stock"
-   },
-   "title": "Men's Columbia Steens Mountain™ Full-Zip Fleece Jacket",
-   "url": "https://www.kohls.com/product/prd-3592654/mens-columbia-steens-mountain-full-zip-fleece-jacket.jsp"
-  },
-  {
-   "category": "Outdoor",
-   "condition": "New",
-   "dealReason": "40% off the regular Kohl's price.",
-   "foundDate": "2026-11-10",
-   "id": "kohls-columbia-glennaker-lake-ii",
-   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6810974_Mountain_Blue?wid=390&hei=390&op_sharpen=1",
-   "kind": "new",
-   "originalPrice": 70.0,
-   "price": 42.0,
-   "priceHistory": [
+      "category": "Kids",
+      "condition": "New with tags",
+      "dealReason": "New with tags: navy jacket, bear one-piece and collared shirt.",
+      "foundDate": "2026-11-08",
+      "id": "posh-rl-baby-set-03m",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2022/11/02/6362c6b404166d8fea05df34/l_6362c78324237adf4ac61140.jpg",
+      "kind": "secondhand",
+      "originalPrice": 55,
+      "price": 35,
+      "priceHistory": [
+        {
+          "date": "2026-11-08",
+          "price": 35
+        }
+      ],
+      "shipping": 6.49,
+      "size": "0-3 Months",
+      "sizeGroup": "Baby",
+      "source": "Poshmark",
+      "stock": {
+        "checkedDate": "2026-11-08",
+        "status": "in_stock"
+      },
+      "title": "Ralph Lauren Baby Set",
+      "url": "https://poshmark.com/listing/Ralph-Lauren-Baby-Set-6362c6b404166d8fea05df34"
+    },
     {
-     "date": "2026-11-10",
-     "price": 42.0
-    }
-   ],
-   "source": "Kohl's",
-   "stock": {
-    "checkedDate": "2026-11-10",
-    "status": "in_stock"
-   },
-   "title": "Men's Columbia Glennaker Lake™ II Hooded Rain Jacket",
-   "url": "https://www.kohls.com/product/prd-6810974/mens-columbia-glennaker-lake-ii-hooded-rain-jacket.jsp"
-  },
-  {
-   "category": "Outdoor",
-   "condition": "New",
-   "dealReason": "40% off the regular Kohl's price.",
-   "foundDate": "2026-11-10",
-   "id": "kohls-columbia-watertight-ii",
-   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/3596160_New_Columbia_Gray?wid=390&hei=390&op_sharpen=1",
-   "kind": "new",
-   "originalPrice": 100.0,
-   "price": 60.0,
-   "priceHistory": [
+      "category": "Kids",
+      "condition": "Like new",
+      "dealReason": "Never worn, no visible flaws, per the seller.",
+      "foundDate": "2026-11-08",
+      "id": "posh-bj-mariposa-3t",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/07/6aefc0deadedd1f6af8166f3/l_6aefc1ba72a95180120e40d1.jpg",
+      "kind": "secondhand",
+      "originalPrice": 29,
+      "price": 16,
+      "priceHistory": [
+        {
+          "date": "2026-11-08",
+          "price": 16
+        }
+      ],
+      "shipping": 6.49,
+      "size": "3T",
+      "sizeGroup": "Toddler",
+      "source": "Poshmark",
+      "stock": {
+        "checkedDate": "2026-11-08",
+        "status": "in_stock"
+      },
+      "title": "Bonnie Jean Mariposa Floral Butterfly Dress",
+      "url": "https://poshmark.com/listing/Bonnie-Jean-Mariposa-Floral-Butterfly-Dress-Size-3T-New-6aefc0deadedd1f6af8166f3"
+    },
     {
-     "date": "2026-11-10",
-     "price": 60.0
-    }
-   ],
-   "source": "Kohl's",
-   "stock": {
-    "checkedDate": "2026-11-10",
-    "status": "in_stock"
-   },
-   "title": "Men's Columbia WaterTight II Jacket",
-   "url": "https://www.kohls.com/product/prd-3596160/mens-columbia-watertight-ii-packable-jacket.jsp"
-  },
-  {
-   "category": "Men",
-   "condition": "New",
-   "dealReason": "40% off the regular Kohl's price.",
-   "foundDate": "2026-11-10",
-   "id": "kohls-columbia-ascender-softshell",
-   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/3597010_Oxford_Black?wid=390&hei=390&op_sharpen=1",
-   "kind": "new",
-   "originalPrice": 125.0,
-   "price": 75.0,
-   "priceHistory": [
+      "category": "Kids",
+      "condition": "New with tags",
+      "dealReason": "New with tags — the listing's original price is $70.",
+      "foundDate": "2026-11-08",
+      "id": "posh-bj-polkadot-4t",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/08/6af0d7d028951f73c6bd0bf0/l_6af0d7e6ea03993291dd2ef4.jpg",
+      "kind": "secondhand",
+      "originalPrice": 70,
+      "price": 25,
+      "priceHistory": [
+        {
+          "date": "2026-11-08",
+          "price": 25
+        }
+      ],
+      "shipping": 6.49,
+      "size": "4T",
+      "sizeGroup": "Toddler",
+      "source": "Poshmark",
+      "stock": {
+        "checkedDate": "2026-11-08",
+        "status": "in_stock"
+      },
+      "title": "Bonnie Jean Pink & Silver Polka Dot Dress",
+      "url": "https://poshmark.com/listing/Bonnie-Jean-X211790DL-Girls-4T-Pink-Silver-Polka-Dot-NWT-6af0d7d028951f73c6bd0bf0"
+    },
     {
-     "date": "2026-11-10",
-     "price": 75.0
-    }
-   ],
-   "source": "Kohl's",
-   "stock": {
-    "checkedDate": "2026-11-10",
-    "status": "in_stock"
-   },
-   "title": "Men's Columbia Ascender Softshell Jacket",
-   "url": "https://www.kohls.com/product/prd-3597010/mens-columbia-ascender-softshell-jacket.jsp"
-  },
-  {
-   "category": "Men",
-   "condition": "New",
-   "dealReason": "40% off the regular Kohl's price.",
-   "foundDate": "2026-11-10",
-   "id": "kohls-columbia-powder-lite-ii",
-   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6796609_Black?wid=390&hei=390&op_sharpen=1",
-   "kind": "new",
-   "originalPrice": 165.0,
-   "price": 99.0,
-   "priceHistory": [
+      "category": "Kids",
+      "condition": "Good",
+      "dealReason": "Seller discloses a small run in the satin waist detail.",
+      "foundDate": "2026-11-08",
+      "id": "posh-rare-editions-velvet-7",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/08/12/6a7c93e1a69358466e8c670a/l_6a7c955cb9dd70229733825b.jpeg",
+      "kind": "secondhand",
+      "originalPrice": null,
+      "price": 19,
+      "priceHistory": [
+        {
+          "date": "2026-11-08",
+          "price": 19
+        }
+      ],
+      "shipping": 6.49,
+      "size": "7",
+      "sizeGroup": "Kids",
+      "source": "Poshmark",
+      "stock": {
+        "checkedDate": "2026-11-08",
+        "status": "in_stock"
+      },
+      "title": "Rare Editions Velvet Dress, Purple",
+      "url": "https://poshmark.com/listing/Rare-Editions-purple-velvet-vintage-dress-Girls-Size-7-6a7c93e1a69358466e8c670a"
+    },
     {
-     "date": "2026-11-10",
-     "price": 99.0
-    }
-   ],
-   "source": "Kohl's",
-   "stock": {
-    "checkedDate": "2026-11-10",
-    "status": "in_stock"
-   },
-   "title": "Men's Columbia Powder Lite II Jacket",
-   "url": "https://www.kohls.com/product/prd-6796609/mens-columbia-powder-lite-ii-jacket.jsp"
-  },
-  {
-   "category": "Men",
-   "condition": "New",
-   "dealReason": "30% off the regular Kohl's price.",
-   "foundDate": "2026-11-10",
-   "id": "kohls-columbia-rapid-rivers-ii",
-   "imageUrl": "https://media.kohlsimg.com/is/image/kohls/8553268_Black_Gingham?wid=390&hei=390&op_sharpen=1",
-   "kind": "new",
-   "originalPrice": 60.0,
-   "price": 42.0,
-   "priceHistory": [
+      "category": "Kids",
+      "condition": "Worn once",
+      "dealReason": "Worn once, per the seller — price dropped 29% on the listing.",
+      "foundDate": "2026-11-08",
+      "id": "posh-tdm-dahlia-67",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/06/23/6a3ac0b0006e43853b5ab88a/l_6a3ac11dbedd349d54fc0892.jpg",
+      "kind": "secondhand",
+      "originalPrice": 180,
+      "price": 60,
+      "priceHistory": [
+        {
+          "date": "2026-11-08",
+          "price": 60
+        }
+      ],
+      "shipping": 6.49,
+      "size": "6-7",
+      "sizeGroup": "Kids",
+      "source": "Poshmark",
+      "stock": {
+        "checkedDate": "2026-11-08",
+        "status": "in_stock"
+      },
+      "title": "Tutu Du Monde Dahlia Tulle Dress, Illusion Blue",
+      "url": "https://poshmark.com/listing/Tutu-Du-Monde-Dahlia-embellished-tulle-dress-Illusion-Blue-WORE-ONCE-Size-67-6a3ac0b0006e43853b5ab88a"
+    },
     {
-     "date": "2026-11-10",
-     "price": 42.0
+      "category": "Shoes",
+      "condition": "Pre-loved",
+      "dealReason": "Seller describes normal wear.",
+      "foundDate": "2026-11-08",
+      "id": "posh-nike-af1-toddler-9",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2024/11/05/672ac23de0f2cedcbc61c42d/l_672ac23d15ad5455047ee953.jpg",
+      "kind": "secondhand",
+      "originalPrice": 60,
+      "price": 40,
+      "priceHistory": [
+        {
+          "date": "2026-11-08",
+          "price": 40
+        }
+      ],
+      "shipping": 6.49,
+      "size": "9 (Toddler Boy)",
+      "sizeGroup": null,
+      "source": "Poshmark",
+      "stock": {
+        "checkedDate": "2026-11-08",
+        "status": "in_stock"
+      },
+      "title": "Nike Air Force, Toddler Boy",
+      "url": "https://poshmark.com/listing/Nike-Air-force-toddler-boy-size-9-672ac23de0f2cedcbc61c42d"
+    },
+    {
+      "category": "Electronics",
+      "condition": "New",
+      "dealReason": "56% under its regular Kohl's price.",
+      "foundDate": "2026-11-09",
+      "id": "kohls-fire-tv-stick-4k-select",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/8004942?wid=390&hei=390&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 49.99,
+      "price": 49.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-09",
+          "price": 21.99
+        },
+        {
+          "date": "2026-11-11",
+          "price": 49.99
+        }
+      ],
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-09",
+        "status": "in_stock"
+      },
+      "title": "Amazon Fire TV Stick 4K Select with AI-Powered Search & Live TV",
+      "url": "https://www.kohls.com/product/prd-8004942/amazon-fire-tv-stick-4k-select-with-ai-powered-search-live-tv.jsp"
+    },
+    {
+      "category": "Electronics",
+      "condition": "New",
+      "dealReason": "66% under its regular Kohl's price.",
+      "foundDate": "2026-11-09",
+      "id": "kohls-blink-5pk-2k-cameras",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/7909135?wid=390&hei=390&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 349.99,
+      "price": 119.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-09",
+          "price": 119.99
+        }
+      ],
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-09",
+        "status": "in_stock"
+      },
+      "title": "Blink 5-pk 2K Video Resolution Wireless Smart Security Camera",
+      "url": "https://www.kohls.com/product/prd-7909135/blink-5-pk-2k-video-resolution-wireless-smart-security-camera.jsp"
+    },
+    {
+      "category": "Electronics",
+      "condition": "New",
+      "dealReason": "58% under its regular Kohl's price.",
+      "foundDate": "2026-11-09",
+      "id": "kohls-ring-2k-indoor-cam",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/7913832_ALT2?wid=390&hei=390&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 59.99,
+      "price": 24.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-09",
+          "price": 24.99
+        }
+      ],
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-09",
+        "status": "in_stock"
+      },
+      "title": "Ring 2K Indoor Plug-In Cam",
+      "url": "https://www.kohls.com/product/prd-7913832/ring-2k-indoor-plug-in-cam.jsp"
+    },
+    {
+      "category": "Electronics",
+      "condition": "New",
+      "dealReason": "35% under its regular Kohl's price.",
+      "foundDate": "2026-11-09",
+      "id": "kohls-beats-solo-4",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/7173442_ALT2?wid=390&hei=390&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 199.99,
+      "price": 129.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-09",
+          "price": 129.99
+        }
+      ],
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-09",
+        "status": "in_stock"
+      },
+      "title": "Beats Solo 4 On-Ear Wireless Headphones",
+      "url": "https://www.kohls.com/product/prd-7173442/beats-solo-4-on-ear-wireless-headphones.jsp"
+    },
+    {
+      "category": "Electronics",
+      "condition": "New",
+      "dealReason": "36% under its regular Kohl's price.",
+      "foundDate": "2026-11-09",
+      "id": "kohls-anker-soundcore-q20i",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/7579385?wid=390&hei=390&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 69.99,
+      "price": 44.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-09",
+          "price": 44.99
+        }
+      ],
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-09",
+        "status": "in_stock"
+      },
+      "title": "Anker Soundcore Q20i True Wireless Noise Canceling Over-the-Ear Headphones",
+      "url": "https://www.kohls.com/product/prd-7579385/anker-soundcore-q20i-true-wireless-noise-canceling-over-the-ear-headphones.jsp"
+    },
+    {
+      "category": "Home",
+      "condition": "New",
+      "dealReason": "40% under its regular Kohl's price.",
+      "foundDate": "2026-11-09",
+      "id": "kohls-ninja-flip-toaster-oven-sp151",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/7105341?wid=390&hei=390&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 249.99,
+      "price": 149.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-09",
+          "price": 149.99
+        }
+      ],
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-09",
+        "status": "in_stock"
+      },
+      "title": "Ninja 8-in-1 Flip Toaster Oven & Air Fryer (SP151)",
+      "url": "https://www.kohls.com/product/prd-7105341/ninja-8-in-1-flip-toaster-oven-air-fryer-sp151.jsp"
+    },
+    {
+      "category": "Home",
+      "condition": "New",
+      "dealReason": "33% under its regular Kohl's price.",
+      "foundDate": "2026-11-09",
+      "id": "kohls-ninja-professional-plus-blender",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/4359529?wid=390&hei=390&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 119.99,
+      "price": 79.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-09",
+          "price": 79.99
+        }
+      ],
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-09",
+        "status": "in_stock"
+      },
+      "title": "Ninja Professional Plus Blender with Auto-iQ",
+      "url": "https://www.kohls.com/product/prd-4359529/ninja-professional-plus-blender-with-auto-iq.jsp"
+    },
+    {
+      "category": "Home",
+      "condition": "New",
+      "dealReason": "31% under its regular Kohl's price.",
+      "foundDate": "2026-11-09",
+      "id": "kohls-ninja-air-fryer-pro-4in1",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/7126718?wid=390&hei=390&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 129.99,
+      "price": 89.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-09",
+          "price": 89.99
+        }
+      ],
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-09",
+        "status": "in_stock"
+      },
+      "title": "Ninja Air Fryer Pro 4-in-1, 5 QT Capacity, Nonstick Basket & Crisper Plate",
+      "url": "https://www.kohls.com/product/prd-7126718/ninja-air-fryer-pro-4-in-1-5-qt-capacity-nonstick-basket-crisper-plate.jsp"
+    },
+    {
+      "category": "Home",
+      "condition": "New",
+      "dealReason": "29% under its regular Kohl's price.",
+      "foundDate": "2026-11-09",
+      "id": "kohls-ninja-blast-portable-blender",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6331367_ALT?wid=390&hei=390&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 69.99,
+      "price": 49.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-09",
+          "price": 49.99
+        }
+      ],
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-09",
+        "status": "in_stock"
+      },
+      "title": "Ninja Blast Portable Blender",
+      "url": "https://www.kohls.com/product/prd-6331367/ninja-blast-portable-blender.jsp"
+    },
+    {
+      "category": "Home",
+      "condition": "New",
+      "dealReason": "23% under its regular Kohl's price.",
+      "foundDate": "2026-11-09",
+      "id": "kohls-ninja-possiblecooker-65",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6607651?wid=390&hei=390&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 129.99,
+      "price": 99.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-09",
+          "price": 99.99
+        }
+      ],
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-09",
+        "status": "in_stock"
+      },
+      "title": "Ninja Foodi 6.5-qt. Everyday PossibleCooker Pro Multi-Cooker MC1101",
+      "url": "https://www.kohls.com/product/prd-6607651/ninja-foodi-65-qt-everyday-possiblecooker-pro-multi-cooker-mc1101.jsp"
+    },
+    {
+      "category": "Men",
+      "condition": "New",
+      "dealReason": "40% off the regular Kohl's price.",
+      "foundDate": "2026-11-10",
+      "id": "kohls-columbia-steens-mountain-fleece",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/3592654_Dark_Mountain_Navy?wid=390&hei=390&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 65.0,
+      "price": 39.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-10",
+          "price": 39.0
+        }
+      ],
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-10",
+        "status": "in_stock"
+      },
+      "title": "Men's Columbia Steens Mountain™ Full-Zip Fleece Jacket",
+      "url": "https://www.kohls.com/product/prd-3592654/mens-columbia-steens-mountain-full-zip-fleece-jacket.jsp"
+    },
+    {
+      "category": "Outdoor",
+      "condition": "New",
+      "dealReason": "40% off the regular Kohl's price.",
+      "foundDate": "2026-11-10",
+      "id": "kohls-columbia-glennaker-lake-ii",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6810974_Mountain_Blue?wid=390&hei=390&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 70.0,
+      "price": 42.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-10",
+          "price": 42.0
+        }
+      ],
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-10",
+        "status": "in_stock"
+      },
+      "title": "Men's Columbia Glennaker Lake™ II Hooded Rain Jacket",
+      "url": "https://www.kohls.com/product/prd-6810974/mens-columbia-glennaker-lake-ii-hooded-rain-jacket.jsp"
+    },
+    {
+      "category": "Outdoor",
+      "condition": "New",
+      "dealReason": "40% off the regular Kohl's price.",
+      "foundDate": "2026-11-10",
+      "id": "kohls-columbia-watertight-ii",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/3596160_New_Columbia_Gray?wid=390&hei=390&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 100.0,
+      "price": 60.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-10",
+          "price": 60.0
+        }
+      ],
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-10",
+        "status": "in_stock"
+      },
+      "title": "Men's Columbia WaterTight II Jacket",
+      "url": "https://www.kohls.com/product/prd-3596160/mens-columbia-watertight-ii-packable-jacket.jsp"
+    },
+    {
+      "category": "Men",
+      "condition": "New",
+      "dealReason": "40% off the regular Kohl's price.",
+      "foundDate": "2026-11-10",
+      "id": "kohls-columbia-ascender-softshell",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/3597010_Oxford_Black?wid=390&hei=390&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 125.0,
+      "price": 75.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-10",
+          "price": 75.0
+        }
+      ],
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-10",
+        "status": "in_stock"
+      },
+      "title": "Men's Columbia Ascender Softshell Jacket",
+      "url": "https://www.kohls.com/product/prd-3597010/mens-columbia-ascender-softshell-jacket.jsp"
+    },
+    {
+      "category": "Men",
+      "condition": "New",
+      "dealReason": "40% off the regular Kohl's price.",
+      "foundDate": "2026-11-10",
+      "id": "kohls-columbia-powder-lite-ii",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6796609_Black?wid=390&hei=390&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 165.0,
+      "price": 99.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-10",
+          "price": 99.0
+        }
+      ],
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-10",
+        "status": "in_stock"
+      },
+      "title": "Men's Columbia Powder Lite II Jacket",
+      "url": "https://www.kohls.com/product/prd-6796609/mens-columbia-powder-lite-ii-jacket.jsp"
+    },
+    {
+      "category": "Men",
+      "condition": "New",
+      "dealReason": "30% off the regular Kohl's price.",
+      "foundDate": "2026-11-10",
+      "id": "kohls-columbia-rapid-rivers-ii",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/8553268_Black_Gingham?wid=390&hei=390&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 60.0,
+      "price": 42.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-10",
+          "price": 42.0
+        }
+      ],
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-10",
+        "status": "in_stock"
+      },
+      "title": "Men's Columbia Rapid Rivers II Long Sleeve Shirt",
+      "url": "https://www.kohls.com/product/prd-8553268/mens-columbia-rapid-rivers-ii-long-sleeve-shirt.jsp"
+    },
+    {
+      "category": "Toys",
+      "condition": "New",
+      "dealReason": "30% off the regular Target price.",
+      "foundDate": "2026-11-11",
+      "id": "target-lego-city-advent-60510",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_88b203c8-2a82-49f2-9b28-3ac25a6e4ef9?wid=800&hei=800&qlt=80&fmt=pjpeg",
+      "kind": "new",
+      "originalPrice": 34.99,
+      "price": 24.49,
+      "priceHistory": [
+        {
+          "date": "2026-11-11",
+          "price": 24.49
+        }
+      ],
+      "source": "Target",
+      "stock": {
+        "checkedDate": "2026-11-11",
+        "status": "in_stock"
+      },
+      "title": "LEGO City Advent Calendar 2026 60510",
+      "url": "https://www.target.com/p/lego-city-advent-calendar-2026-60510/-/A-95046332"
+    },
+    {
+      "category": "Toys",
+      "condition": "New",
+      "dealReason": "30% off the regular Target price.",
+      "foundDate": "2026-11-11",
+      "id": "target-lego-star-wars-advent-75456",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_d00be24a-ef24-49b2-a50e-d494111555d0?wid=800&hei=800&qlt=80&fmt=pjpeg",
+      "kind": "new",
+      "originalPrice": 44.99,
+      "price": 31.49,
+      "priceHistory": [
+        {
+          "date": "2026-11-11",
+          "price": 31.49
+        }
+      ],
+      "source": "Target",
+      "stock": {
+        "checkedDate": "2026-11-11",
+        "status": "in_stock"
+      },
+      "title": "LEGO Star Wars Advent Calendar 2026 75456",
+      "url": "https://www.target.com/p/-/A-95046358"
+    },
+    {
+      "category": "Toys",
+      "condition": "New",
+      "dealReason": "30% off the regular Target price.",
+      "foundDate": "2026-11-11",
+      "id": "target-lego-friends-advent-42698",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_da3ec877-5c16-4fda-8254-ee76941825fd?wid=800&hei=800&qlt=80&fmt=pjpeg",
+      "kind": "new",
+      "originalPrice": 34.99,
+      "price": 24.49,
+      "priceHistory": [
+        {
+          "date": "2026-11-11",
+          "price": 24.49
+        }
+      ],
+      "source": "Target",
+      "stock": {
+        "checkedDate": "2026-11-11",
+        "status": "in_stock"
+      },
+      "title": "LEGO Friends Advent Calendar 2026 42698",
+      "url": "https://www.target.com/p/lego-friends-advent-calendar-2026-42698/-/A-95046316"
+    },
+    {
+      "category": "Toys",
+      "condition": "New",
+      "dealReason": "31% off the regular Target price.",
+      "foundDate": "2026-11-11",
+      "id": "target-lego-disney-princess-advent-43298",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_a4b206c1-738d-45d3-a566-020e33a327ea?wid=800&hei=800&qlt=80&fmt=pjpeg",
+      "kind": "new",
+      "originalPrice": 44.99,
+      "price": 30.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-11",
+          "price": 30.99
+        }
+      ],
+      "source": "Target",
+      "stock": {
+        "checkedDate": "2026-11-11",
+        "status": "in_stock"
+      },
+      "title": "LEGO Disney Princess Advent Calendar 2026 43298",
+      "url": "https://www.target.com/p/lego-disney-princess-advent-calendar-2026-43298/-/A-95046327"
+    },
+    {
+      "category": "Toys",
+      "condition": "New",
+      "dealReason": "30% off the regular Target price.",
+      "foundDate": "2026-11-11",
+      "id": "target-lego-marvel-advent-76340",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_e49795ad-b94b-412f-ac78-66f6b21c6535?wid=800&hei=800&qlt=80&fmt=pjpeg",
+      "kind": "new",
+      "originalPrice": 44.99,
+      "price": 31.49,
+      "priceHistory": [
+        {
+          "date": "2026-11-11",
+          "price": 31.49
+        }
+      ],
+      "source": "Target",
+      "stock": {
+        "checkedDate": "2026-11-11",
+        "status": "in_stock"
+      },
+      "title": "LEGO Marvel Advent Calendar 2026 76340",
+      "url": "https://www.target.com/p/lego-marvel-advent-calendar-2026-76340/-/A-95046376"
+    },
+    {
+      "category": "Toys",
+      "condition": "New",
+      "dealReason": "44% off the regular Walmart price.",
+      "foundDate": "2026-11-11",
+      "id": "walmart-lego-classic-brick-box-10698",
+      "imageUrl": "https://i5.walmartimages.com/seo/LEGO-Classic-Large-Creative-Brick-Box-10698-Play-Inspired-LEGO-Masters-Toy-Storage-Solution-Home-Classrooms-Interactive-Building-Toy-Kids-Boys-Girls_b62805ac-0fb8-44a4-b726-c293d8c3b533.3c8488daf5c3a4b045e2035e9d263987.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
+      "kind": "new",
+      "originalPrice": 59.99,
+      "price": 33.49,
+      "priceHistory": [
+        {
+          "date": "2026-11-11",
+          "price": 33.49
+        }
+      ],
+      "source": "Walmart",
+      "stock": {
+        "checkedDate": "2026-11-11",
+        "status": "low_stock"
+      },
+      "title": "LEGO Classic Large Creative Brick Box 10698",
+      "url": "https://www.walmart.com/ip/LEGO-Classic-Large-Creative-Brick-Box/40996357"
     }
-   ],
-   "source": "Kohl's",
-   "stock": {
-    "checkedDate": "2026-11-10",
-    "status": "in_stock"
-   },
-   "title": "Men's Columbia Rapid Rivers II Long Sleeve Shirt",
-   "url": "https://www.kohls.com/product/prd-8553268/mens-columbia-rapid-rivers-ii-long-sleeve-shirt.jsp"
-  }
- ],
- "gatheredOn": "2026-11-10"
+  ],
+  "gatheredOn": "2026-11-11"
 }

@@ -534,11 +534,15 @@
    "imageUrl": "https://media.kohlsimg.com/is/image/kohls/8004942?wid=390&hei=390&op_sharpen=1",
    "kind": "new",
    "originalPrice": 49.99,
-   "price": 21.99,
+   "price": 49.99,
    "priceHistory": [
     {
      "date": "2026-11-09",
      "price": 21.99
+    },
+    {
+     "date": "2026-11-11",
+     "price": 49.99
     }
    ],
    "source": "Kohl's",

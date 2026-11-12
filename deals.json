@@ -11,17 +11,18 @@
       "kind": "new",
       "originalPrice": 18.69,
       "price": 14.95,
-      "source": "Walmart",
-      "title": "Men's Classic Straight Slim Fit Stretch Waist Jeans",
-      "url": "https://www.walmart.com/ip/Men-s-Stretch-Waist-Jeans-for-Older-Men-Over-60-Comfort-Casual-Denim-Pants-Without-Belt-Dark-Blue-39/19880622335",
       "priceHistory": [
         {
           "date": "2026-11-06",
           "price": 14.95
         }
-      ]
+      ],
+      "source": "Walmart",
+      "title": "Men's Classic Straight Slim Fit Stretch Waist Jeans",
+      "url": "https://www.walmart.com/ip/Men-s-Stretch-Waist-Jeans-for-Older-Men-Over-60-Comfort-Casual-Denim-Pants-Without-Belt-Dark-Blue-39/19880622335"
     },
     {
+      "brand": "Tek Gear",
       "category": "Women",
       "condition": "New",
       "dealReason": "50% off the regular Kohl's price.",
@@ -31,9 +32,6 @@
       "kind": "new",
       "originalPrice": 14.99,
       "price": 11.99,
-      "source": "Kohl's",
-      "title": "Women's Tek Gear Essential Core Raglan Tee",
-      "url": "https://www.kohls.com/product/prd-5942070/womens-tek-gear-essential-core-raglan-tee.jsp",
       "priceHistory": [
         {
           "date": "2026-11-06",
@@ -43,9 +41,13 @@
           "date": "2026-11-09",
           "price": 11.99
         }
-      ]
+      ],
+      "source": "Kohl's",
+      "title": "Women's Tek Gear Essential Core Raglan Tee",
+      "url": "https://www.kohls.com/product/prd-5942070/womens-tek-gear-essential-core-raglan-tee.jsp"
     },
     {
+      "brand": "Sonoma Goods For Life",
       "category": "Women",
       "condition": "New",
       "dealReason": "30% off the regular price.",
@@ -55,9 +57,6 @@
       "kind": "new",
       "originalPrice": 9.99,
       "price": 7.99,
-      "source": "Kohl's",
-      "title": "Women's Sonoma Goods For Life Everyday Camisole",
-      "url": "https://www.kohls.com/product/prd-6101968/womens-sonoma-goods-for-life-everyday-camisole.jsp",
       "priceHistory": [
         {
           "date": "2026-11-06",
@@ -67,9 +66,13 @@
           "date": "2026-11-09",
           "price": 7.99
         }
-      ]
+      ],
+      "source": "Kohl's",
+      "title": "Women's Sonoma Goods For Life Everyday Camisole",
+      "url": "https://www.kohls.com/product/prd-6101968/womens-sonoma-goods-for-life-everyday-camisole.jsp"
     },
     {
+      "brand": "Nike",
       "category": "Women",
       "condition": "New",
       "dealReason": "30% off the regular Kohl's price.",
@@ -79,17 +82,18 @@
       "kind": "new",
       "originalPrice": 60.0,
       "price": 42.0,
-      "source": "Kohl's",
-      "title": "Women's Nike One Fitted Dri-FIT Long-Sleeve Cropped Top",
-      "url": "https://www.kohls.com/product/prd-6924451/womens-nike-one-fitted-dri-fit-long-sleeve-cropped-top.jsp",
       "priceHistory": [
         {
           "date": "2026-11-06",
           "price": 42.0
         }
-      ]
+      ],
+      "source": "Kohl's",
+      "title": "Women's Nike One Fitted Dri-FIT Long-Sleeve Cropped Top",
+      "url": "https://www.kohls.com/product/prd-6924451/womens-nike-one-fitted-dri-fit-long-sleeve-cropped-top.jsp"
     },
     {
+      "brand": "Skechers",
       "category": "Shoes",
       "condition": "New",
       "dealReason": "51% off the regular price.",
@@ -99,9 +103,6 @@
       "kind": "new",
       "originalPrice": 84.99,
       "price": 63.74,
-      "source": "Kohl's",
-      "title": "Skechers Hands Free Slip-ins GO WALK Flex Grand Entry Women's Athletic Shoes",
-      "url": "https://www.kohls.com/product/prd-6603902/skechers-hands-free-slip-ins-go-walk-flex-grand-entry-womens-athletic-shoes.jsp",
       "priceHistory": [
         {
           "date": "2026-11-06",
@@ -111,9 +112,13 @@
           "date": "2026-11-09",
           "price": 63.74
         }
-      ]
+      ],
+      "source": "Kohl's",
+      "title": "Skechers Hands Free Slip-ins GO WALK Flex Grand Entry Women's Athletic Shoes",
+      "url": "https://www.kohls.com/product/prd-6603902/skechers-hands-free-slip-ins-go-walk-flex-grand-entry-womens-athletic-shoes.jsp"
     },
     {
+      "brand": "Levi's",
       "category": "Men",
       "condition": "Pre-owned - Excellent",
       "dealReason": "Pre-owned in excellent condition.",
@@ -123,18 +128,19 @@
       "kind": "secondhand",
       "originalPrice": null,
       "price": 24.99,
-      "size": "36x32",
-      "source": "eBay",
-      "title": "VTG Y2K Levi's 505 Regular Fit Jeans Men's 36x32 Gray",
-      "url": "https://www.ebay.com/itm/168282304927",
       "priceHistory": [
         {
           "date": "2026-11-06",
           "price": 24.99
         }
-      ]
+      ],
+      "size": "36x32",
+      "source": "eBay",
+      "title": "VTG Y2K Levi's 505 Regular Fit Jeans Men's 36x32 Gray",
+      "url": "https://www.ebay.com/itm/168282304927"
     },
     {
+      "brand": "Nike",
       "category": "Shoes",
       "condition": "Pre-owned - Good",
       "dealReason": "Pre-owned in good condition.",
@@ -144,6 +150,12 @@
       "kind": "secondhand",
       "originalPrice": null,
       "price": 29.97,
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 29.97
+        }
+      ],
       "size": "11",
       "source": "eBay",
       "stock": {
@@ -151,15 +163,10 @@
         "status": "in_stock"
       },
       "title": "Nike Air Force 1 Low 2012 Team USA Men's Size 11",
-      "url": "https://www.ebay.ie/itm/177849146608?_skw=Nike+Air+Force+1+USA&hash=item2968a29cf0%3Ag%3AzMEAAeSwvh5piAAC&itmprp=enc%3AAQALAAAA8DKQclQvzFwZQpmMrsO4Lupb7VkOExZm01c7OyB8UbUsdwWgsB1pVkFRJDM265CIE74sG4ohN4rSmSMPtiaPCfwihQJalphiPqsIgtm%2BmagD43ecuvp2tekIjWQ7G4r76d2BLhZrNHLIhh37kQx5JzJycujO%2FjvtR2BTdrMEzUQ4Hl46Y10VpL5Hs3IjOYrhZvpVyIH3%2B3rNgaUMbFncyjNYKCxCBx%2FEdo8tzNh6cAHhQIQARoqBVt6atkdb%2FoJIizGv%2B9Xmlb%2BKW9laTmkxAl7CDfI3zrF7oclfMP63xa5Q1SS47CSU4njmUfur6a%2FdlNz%2BGgmbnU1h75gPcIog%3D%3D%7Ctkp%3ABFBMyIj8natn",
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 29.97
-        }
-      ]
+      "url": "https://www.ebay.ie/itm/177849146608?_skw=Nike+Air+Force+1+USA&hash=item2968a29cf0%3Ag%3AzMEAAeSwvh5piAAC&itmprp=enc%3AAQALAAAA8DKQclQvzFwZQpmMrsO4Lupb7VkOExZm01c7OyB8UbUsdwWgsB1pVkFRJDM265CIE74sG4ohN4rSmSMPtiaPCfwihQJalphiPqsIgtm%2BmagD43ecuvp2tekIjWQ7G4r76d2BLhZrNHLIhh37kQx5JzJycujO%2FjvtR2BTdrMEzUQ4Hl46Y10VpL5Hs3IjOYrhZvpVyIH3%2B3rNgaUMbFncyjNYKCxCBx%2FEdo8tzNh6cAHhQIQARoqBVt6atkdb%2FoJIizGv%2B9Xmlb%2BKW9laTmkxAl7CDfI3zrF7oclfMP63xa5Q1SS47CSU4njmUfur6a%2FdlNz%2BGgmbnU1h75gPcIog%3D%3D%7Ctkp%3ABFBMyIj8natn"
     },
     {
+      "brand": "Free People",
       "category": "Women",
       "condition": "New with tags",
       "dealReason": "New with tags - 86% under its $148 list price.",
@@ -169,6 +176,12 @@
       "kind": "secondhand",
       "originalPrice": 148.0,
       "price": 21.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 21.0
+        }
+      ],
       "size": "XL",
       "source": "Poshmark",
       "stock": {
@@ -176,15 +189,10 @@
         "status": "in_stock"
       },
       "title": "NWT Free People Floral Pink Midi Dress with Balloon Sleeves, Size XL",
-      "url": "https://poshmark.com/listing/NWT-Free-people-Floral-pink-midi-Dress-with-Balloon-Sleeves-size-XL-69d0369421bd425735c9d01d",
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 21.0
-        }
-      ]
+      "url": "https://poshmark.com/listing/NWT-Free-people-Floral-pink-midi-Dress-with-Balloon-Sleeves-size-XL-69d0369421bd425735c9d01d"
     },
     {
+      "brand": "Free People",
       "category": "Women",
       "condition": "Pre-owned",
       "foundDate": "2026-11-06",
@@ -193,6 +201,12 @@
       "kind": "secondhand",
       "originalPrice": null,
       "price": 42.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 42.0
+        }
+      ],
       "size": "0",
       "source": "Poshmark",
       "stock": {
@@ -200,15 +214,10 @@
         "status": "in_stock"
       },
       "title": "Free People Selma Crochet Lace Mini Dress, Size 0, Black/Brown",
-      "url": "https://poshmark.com/listing/Free-People-Selma-Crochet-Lace-Mini-Dress-Size-0-Black-Brown-Sleeveless-63ae417dcbda47352999ff05",
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 42.0
-        }
-      ]
+      "url": "https://poshmark.com/listing/Free-People-Selma-Crochet-Lace-Mini-Dress-Size-0-Black-Brown-Sleeveless-63ae417dcbda47352999ff05"
     },
     {
+      "brand": "Free People",
       "category": "Women",
       "condition": "New with tags",
       "dealReason": "New with tags - 47% under its $148 list price.",
@@ -218,6 +227,12 @@
       "kind": "secondhand",
       "originalPrice": 148.0,
       "price": 78.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 78.0
+        }
+      ],
       "size": "XL",
       "source": "Poshmark",
       "stock": {
@@ -225,15 +240,10 @@
         "status": "in_stock"
       },
       "title": "NWT Free People Small World Cable Knit Open Back Sweater Mini Dress, XL",
-      "url": "https://poshmark.com/listing/NWT-Free-People-Small-World-Cable-Knit-Open-Back-Sweater-Mini-Dress-XL-6ac8c12d8cafccefc1b55003?utm_source=facebook&ad_partner=facebook",
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 78.0
-        }
-      ]
+      "url": "https://poshmark.com/listing/NWT-Free-People-Small-World-Cable-Knit-Open-Back-Sweater-Mini-Dress-XL-6ac8c12d8cafccefc1b55003?utm_source=facebook&ad_partner=facebook"
     },
     {
+      "brand": "Free People",
       "category": "Women",
       "condition": "Like new",
       "dealReason": "Like new condition.",
@@ -243,6 +253,12 @@
       "kind": "secondhand",
       "originalPrice": null,
       "price": 90.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 90.0
+        }
+      ],
       "size": "XS",
       "source": "Poshmark",
       "stock": {
@@ -250,15 +266,10 @@
         "status": "in_stock"
       },
       "title": "Free People Golden Dreams Strapless Maxi Dress, Size XS",
-      "url": "https://poshmark.com/listing/Free-People-Golden-Dreams-Strapless-Maxi-Dress-Size-XS-6aad9c2eda3eeb9c9e23ef0f",
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 90.0
-        }
-      ]
+      "url": "https://poshmark.com/listing/Free-People-Golden-Dreams-Strapless-Maxi-Dress-Size-XS-6aad9c2eda3eeb9c9e23ef0f"
     },
     {
+      "brand": "American Eagle",
       "category": "Women",
       "condition": "Good",
       "dealReason": "Secondhand in good condition.",
@@ -268,6 +279,12 @@
       "kind": "secondhand",
       "originalPrice": null,
       "price": 12.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 12.0
+        }
+      ],
       "size": "L",
       "source": "Vinted",
       "stock": {
@@ -275,15 +292,10 @@
         "status": "in_stock"
       },
       "title": "American Eagle Women's Large Gray Open Knit Cable Sweater Crochet Pullover",
-      "url": "https://www.vinted.com/items/10210293667-american-eagle-womens-large-gray-open-knit-cable-sweater-crochet-pullover",
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 12.0
-        }
-      ]
+      "url": "https://www.vinted.com/items/10210293667-american-eagle-womens-large-gray-open-knit-cable-sweater-crochet-pullover"
     },
     {
+      "brand": "Sincerely Jules",
       "category": "Women",
       "condition": "Good",
       "dealReason": "Secondhand in good condition.",
@@ -293,14 +305,6 @@
       "kind": "secondhand",
       "originalPrice": null,
       "price": 6.0,
-      "size": "XS",
-      "source": "Vinted",
-      "stock": {
-        "checkedDate": "2026-11-06",
-        "status": "in_stock"
-      },
-      "title": "Sincerely Jules Leopard Animal Print Crewneck Pullover Knit Sweater, XS",
-      "url": "https://www.vinted.com/items/10576371677-cozy-cute-womens-xs-sincerely-jules-leopard-animal-print-crewneck-pullover-knit-sweater",
       "priceHistory": [
         {
           "date": "2026-11-06",
@@ -310,7 +314,15 @@
           "date": "2026-11-09",
           "price": 6.0
         }
-      ]
+      ],
+      "size": "XS",
+      "source": "Vinted",
+      "stock": {
+        "checkedDate": "2026-11-06",
+        "status": "in_stock"
+      },
+      "title": "Sincerely Jules Leopard Animal Print Crewneck Pullover Knit Sweater, XS",
+      "url": "https://www.vinted.com/items/10576371677-cozy-cute-womens-xs-sincerely-jules-leopard-animal-print-crewneck-pullover-knit-sweater"
     },
     {
       "category": "Women",
@@ -321,6 +333,12 @@
       "kind": "secondhand",
       "originalPrice": null,
       "price": 28.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-06",
+          "price": 28.0
+        }
+      ],
       "size": "L",
       "source": "Vinted",
       "stock": {
@@ -328,18 +346,13 @@
         "status": "in_stock"
       },
       "title": "Women's Large Cream Beige Leopard Print Distressed Knit Sweater",
-      "url": "https://www.vinted.com/items/10452624095-womens-large-cream-beige-leopard-print-distressed-knit-sweater",
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 28.0
-        }
-      ]
+      "url": "https://www.vinted.com/items/10452624095-womens-large-cream-beige-leopard-print-distressed-knit-sweater"
     },
     {
+      "brand": "Baby Gap",
       "category": "Kids",
       "condition": "Like new",
-      "dealReason": "Like new — worn only twice, per the seller.",
+      "dealReason": "Like new \u2014 worn only twice, per the seller.",
       "foundDate": "2026-11-08",
       "id": "posh-baby-gap-poplin-03m",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/01/24/69751359a6bb7616b37782a5/l_697513e121bd42f33c246bbf.jpeg",
@@ -364,6 +377,7 @@
       "url": "https://poshmark.com/listing/LIKE-NEW-BABY-GAP-Poplin-Outfit-Set-In-Blue-Size-03-months-69751359a6bb7616b37782a5"
     },
     {
+      "brand": "Ralph Lauren",
       "category": "Kids",
       "condition": "New with tags",
       "dealReason": "New with tags: navy jacket, bear one-piece and collared shirt.",
@@ -391,6 +405,7 @@
       "url": "https://poshmark.com/listing/Ralph-Lauren-Baby-Set-6362c6b404166d8fea05df34"
     },
     {
+      "brand": "Bonnie Jean",
       "category": "Kids",
       "condition": "Like new",
       "dealReason": "Never worn, no visible flaws, per the seller.",
@@ -418,9 +433,10 @@
       "url": "https://poshmark.com/listing/Bonnie-Jean-Mariposa-Floral-Butterfly-Dress-Size-3T-New-6aefc0deadedd1f6af8166f3"
     },
     {
+      "brand": "Bonnie Jean",
       "category": "Kids",
       "condition": "New with tags",
-      "dealReason": "New with tags — the listing's original price is $70.",
+      "dealReason": "New with tags \u2014 the listing's original price is $70.",
       "foundDate": "2026-11-08",
       "id": "posh-bj-polkadot-4t",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/08/6af0d7d028951f73c6bd0bf0/l_6af0d7e6ea03993291dd2ef4.jpg",
@@ -445,6 +461,7 @@
       "url": "https://poshmark.com/listing/Bonnie-Jean-X211790DL-Girls-4T-Pink-Silver-Polka-Dot-NWT-6af0d7d028951f73c6bd0bf0"
     },
     {
+      "brand": "Rare Editions",
       "category": "Kids",
       "condition": "Good",
       "dealReason": "Seller discloses a small run in the satin waist detail.",
@@ -472,9 +489,10 @@
       "url": "https://poshmark.com/listing/Rare-Editions-purple-velvet-vintage-dress-Girls-Size-7-6a7c93e1a69358466e8c670a"
     },
     {
+      "brand": "Tutu Du Monde",
       "category": "Kids",
       "condition": "Worn once",
-      "dealReason": "Worn once, per the seller — price dropped 29% on the listing.",
+      "dealReason": "Worn once, per the seller \u2014 price dropped 29% on the listing.",
       "foundDate": "2026-11-08",
       "id": "posh-tdm-dahlia-67",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/06/23/6a3ac0b0006e43853b5ab88a/l_6a3ac11dbedd349d54fc0892.jpg",
@@ -499,6 +517,7 @@
       "url": "https://poshmark.com/listing/Tutu-Du-Monde-Dahlia-embellished-tulle-dress-Illusion-Blue-WORE-ONCE-Size-67-6a3ac0b0006e43853b5ab88a"
     },
     {
+      "brand": "Nike",
       "category": "Shoes",
       "condition": "Pre-loved",
       "dealReason": "Seller describes normal wear.",
@@ -526,6 +545,7 @@
       "url": "https://poshmark.com/listing/Nike-Air-force-toddler-boy-size-9-672ac23de0f2cedcbc61c42d"
     },
     {
+      "brand": "Amazon",
       "category": "Electronics",
       "condition": "New",
       "dealReason": "56% under its regular Kohl's price.",
@@ -554,6 +574,7 @@
       "url": "https://www.kohls.com/product/prd-8004942/amazon-fire-tv-stick-4k-select-with-ai-powered-search-live-tv.jsp"
     },
     {
+      "brand": "Blink",
       "category": "Electronics",
       "condition": "New",
       "dealReason": "66% under its regular Kohl's price.",
@@ -578,6 +599,7 @@
       "url": "https://www.kohls.com/product/prd-7909135/blink-5-pk-2k-video-resolution-wireless-smart-security-camera.jsp"
     },
     {
+      "brand": "Ring",
       "category": "Electronics",
       "condition": "New",
       "dealReason": "58% under its regular Kohl's price.",
@@ -602,6 +624,7 @@
       "url": "https://www.kohls.com/product/prd-7913832/ring-2k-indoor-plug-in-cam.jsp"
     },
     {
+      "brand": "Beats",
       "category": "Electronics",
       "condition": "New",
       "dealReason": "35% under its regular Kohl's price.",
@@ -626,6 +649,7 @@
       "url": "https://www.kohls.com/product/prd-7173442/beats-solo-4-on-ear-wireless-headphones.jsp"
     },
     {
+      "brand": "Anker",
       "category": "Electronics",
       "condition": "New",
       "dealReason": "36% under its regular Kohl's price.",
@@ -650,6 +674,7 @@
       "url": "https://www.kohls.com/product/prd-7579385/anker-soundcore-q20i-true-wireless-noise-canceling-over-the-ear-headphones.jsp"
     },
     {
+      "brand": "Ninja",
       "category": "Home",
       "condition": "New",
       "dealReason": "40% under its regular Kohl's price.",
@@ -674,6 +699,7 @@
       "url": "https://www.kohls.com/product/prd-7105341/ninja-8-in-1-flip-toaster-oven-air-fryer-sp151.jsp"
     },
     {
+      "brand": "Ninja",
       "category": "Home",
       "condition": "New",
       "dealReason": "33% under its regular Kohl's price.",
@@ -698,6 +724,7 @@
       "url": "https://www.kohls.com/product/prd-4359529/ninja-professional-plus-blender-with-auto-iq.jsp"
     },
     {
+      "brand": "Ninja",
       "category": "Home",
       "condition": "New",
       "dealReason": "31% under its regular Kohl's price.",
@@ -722,6 +749,7 @@
       "url": "https://www.kohls.com/product/prd-7126718/ninja-air-fryer-pro-4-in-1-5-qt-capacity-nonstick-basket-crisper-plate.jsp"
     },
     {
+      "brand": "Ninja",
       "category": "Home",
       "condition": "New",
       "dealReason": "29% under its regular Kohl's price.",
@@ -746,6 +774,7 @@
       "url": "https://www.kohls.com/product/prd-6331367/ninja-blast-portable-blender.jsp"
     },
     {
+      "brand": "Ninja",
       "category": "Home",
       "condition": "New",
       "dealReason": "23% under its regular Kohl's price.",
@@ -770,6 +799,7 @@
       "url": "https://www.kohls.com/product/prd-6607651/ninja-foodi-65-qt-everyday-possiblecooker-pro-multi-cooker-mc1101.jsp"
     },
     {
+      "brand": "Columbia",
       "category": "Men",
       "condition": "New",
       "dealReason": "40% off the regular Kohl's price.",
@@ -790,10 +820,11 @@
         "checkedDate": "2026-11-10",
         "status": "in_stock"
       },
-      "title": "Men's Columbia Steens Mountain™ Full-Zip Fleece Jacket",
+      "title": "Men's Columbia Steens Mountain\u2122 Full-Zip Fleece Jacket",
       "url": "https://www.kohls.com/product/prd-3592654/mens-columbia-steens-mountain-full-zip-fleece-jacket.jsp"
     },
     {
+      "brand": "Columbia",
       "category": "Outdoor",
       "condition": "New",
       "dealReason": "40% off the regular Kohl's price.",
@@ -814,10 +845,11 @@
         "checkedDate": "2026-11-10",
         "status": "in_stock"
       },
-      "title": "Men's Columbia Glennaker Lake™ II Hooded Rain Jacket",
+      "title": "Men's Columbia Glennaker Lake\u2122 II Hooded Rain Jacket",
       "url": "https://www.kohls.com/product/prd-6810974/mens-columbia-glennaker-lake-ii-hooded-rain-jacket.jsp"
     },
     {
+      "brand": "Columbia",
       "category": "Outdoor",
       "condition": "New",
       "dealReason": "40% off the regular Kohl's price.",
@@ -842,6 +874,7 @@
       "url": "https://www.kohls.com/product/prd-3596160/mens-columbia-watertight-ii-packable-jacket.jsp"
     },
     {
+      "brand": "Columbia",
       "category": "Men",
       "condition": "New",
       "dealReason": "40% off the regular Kohl's price.",
@@ -866,6 +899,7 @@
       "url": "https://www.kohls.com/product/prd-3597010/mens-columbia-ascender-softshell-jacket.jsp"
     },
     {
+      "brand": "Columbia",
       "category": "Men",
       "condition": "New",
       "dealReason": "40% off the regular Kohl's price.",
@@ -890,6 +924,7 @@
       "url": "https://www.kohls.com/product/prd-6796609/mens-columbia-powder-lite-ii-jacket.jsp"
     },
     {
+      "brand": "Columbia",
       "category": "Men",
       "condition": "New",
       "dealReason": "30% off the regular Kohl's price.",
@@ -914,6 +949,7 @@
       "url": "https://www.kohls.com/product/prd-8553268/mens-columbia-rapid-rivers-ii-long-sleeve-shirt.jsp"
     },
     {
+      "brand": "LEGO",
       "category": "Toys",
       "condition": "New",
       "dealReason": "30% off the regular Target price.",
@@ -938,6 +974,7 @@
       "url": "https://www.target.com/p/lego-city-advent-calendar-2026-60510/-/A-95046332"
     },
     {
+      "brand": "LEGO",
       "category": "Toys",
       "condition": "New",
       "dealReason": "30% off the regular Target price.",
@@ -962,6 +999,7 @@
       "url": "https://www.target.com/p/-/A-95046358"
     },
     {
+      "brand": "LEGO",
       "category": "Toys",
       "condition": "New",
       "dealReason": "30% off the regular Target price.",
@@ -986,6 +1024,7 @@
       "url": "https://www.target.com/p/lego-friends-advent-calendar-2026-42698/-/A-95046316"
     },
     {
+      "brand": "LEGO",
       "category": "Toys",
       "condition": "New",
       "dealReason": "31% off the regular Target price.",
@@ -1010,6 +1049,7 @@
       "url": "https://www.target.com/p/lego-disney-princess-advent-calendar-2026-43298/-/A-95046327"
     },
     {
+      "brand": "LEGO",
       "category": "Toys",
       "condition": "New",
       "dealReason": "30% off the regular Target price.",
@@ -1034,6 +1074,7 @@
       "url": "https://www.target.com/p/lego-marvel-advent-calendar-2026-76340/-/A-95046376"
     },
     {
+      "brand": "LEGO",
       "category": "Toys",
       "condition": "New",
       "dealReason": "44% off the regular Walmart price.",
@@ -1058,6 +1099,7 @@
       "url": "https://www.walmart.com/ip/LEGO-Classic-Large-Creative-Brick-Box/40996357"
     },
     {
+      "brand": "SOG",
       "category": "Tools",
       "condition": "New",
       "dealReason": "45% off the regular Walmart price.",
@@ -1075,13 +1117,14 @@
       ],
       "source": "Walmart",
       "stock": {
-        "status": "in_stock",
-        "checkedDate": "2026-11-12"
+        "checkedDate": "2026-11-12",
+        "status": "in_stock"
       },
       "title": "SOG Power Pint Multi-Tool, 18-Tool, Compact Size 5\"",
       "url": "https://www.walmart.com/ip/SOG-Power-Pint-Multi-Tool/2462787264"
     },
     {
+      "brand": "DEWALT",
       "category": "Tools",
       "condition": "New",
       "dealReason": "25% off the regular Walmart price.",
@@ -1099,14 +1142,15 @@
       ],
       "source": "Walmart",
       "stock": {
-        "status": "low_stock",
+        "checkedDate": "2026-11-12",
         "count": 2,
-        "checkedDate": "2026-11-12"
+        "status": "low_stock"
       },
       "title": "DEWALT 20V Cordless Brushless Oscillating Multi-Tool (DCS356B)",
       "url": "https://www.walmart.com/ip/DEWALT-DCS356B-20V-Cordless-Electric-Multi-Tool-Oscillating-Power-Tool/5597801640"
     },
     {
+      "brand": "Citizen",
       "category": "Accessories",
       "condition": "New",
       "dealReason": "32% off the regular Walmart price.",
@@ -1124,13 +1168,14 @@
       ],
       "source": "Walmart",
       "stock": {
-        "status": "in_stock",
-        "checkedDate": "2026-11-12"
+        "checkedDate": "2026-11-12",
+        "status": "in_stock"
       },
       "title": "Citizen Men's Eco-Drive Chandler Field Watch, 37 mm, Green Strap (BM8180-03E)",
       "url": "https://www.walmart.com/ip/Citizen-Men-s-Eco-Drive-Chandler-Green-Strap-Field-Watch-BM8180-03E/49092728"
     },
     {
+      "brand": "G-Shock",
       "category": "Accessories",
       "condition": "New",
       "dealReason": "26% off the regular Walmart price.",
@@ -1149,13 +1194,14 @@
       "shipping": 4.99,
       "source": "Walmart",
       "stock": {
-        "status": "in_stock",
-        "checkedDate": "2026-11-12"
+        "checkedDate": "2026-11-12",
+        "status": "in_stock"
       },
       "title": "Casio G-Shock GA100-1A1 Men's Watch, Black Ana-Digi Dial, Resin Strap",
       "url": "https://www.walmart.com/ip/Casio-GA100-1A1-G-Shock-X-Large-Black-Ana-Digi-Dial-Resin-Strap-Men-Watch-NEW/45461926"
     },
     {
+      "brand": "Vera Bradley",
       "category": "Accessories",
       "condition": "New",
       "dealReason": "76% off the regular Target price.",
@@ -1173,13 +1219,14 @@
       ],
       "source": "Target",
       "stock": {
-        "status": "in_stock",
-        "checkedDate": "2026-11-12"
+        "checkedDate": "2026-11-12",
+        "status": "in_stock"
       },
       "title": "Vera Bradley Women's Leather Accordion Wristlet, Bronze Green",
       "url": "https://www.target.com/p/vera-bradley-women-s-leather-accordion-wristlet/-/A-1011039598?preselect=1006293049"
     },
     {
+      "brand": "Wrangler",
       "category": "Accessories",
       "condition": "New",
       "dealReason": "40% off the regular Target price.",
@@ -1197,13 +1244,14 @@
       ],
       "source": "Target",
       "stock": {
-        "status": "in_stock",
-        "checkedDate": "2026-11-12"
+        "checkedDate": "2026-11-12",
+        "status": "in_stock"
       },
       "title": "Wrangler Men's Genuine Leather Bifold Wallet, Brown",
       "url": "https://www.target.com/p/wrangler-men-s-bifold-wallet-slim-casual-genuine-leather-purse-gift-for-him/-/A-94021099"
     },
     {
+      "brand": "Cabela's",
       "category": "Outdoor",
       "condition": "New",
       "dealReason": "50% off the regular Bass Pro Shops price.",
@@ -1222,13 +1270,14 @@
       "size": "S",
       "source": "Bass Pro Shops",
       "stock": {
-        "status": "in_stock",
-        "checkedDate": "2026-11-12"
+        "checkedDate": "2026-11-12",
+        "status": "in_stock"
       },
       "title": "Cabela's Instinct Barrier GORE-TEX Jacket for Men, TrueTimber VSX",
       "url": "https://www.basspro.com/p/cabelas-instinct-barrier-gore-tex-jacket-for-men"
     },
     {
+      "brand": "Lanc\u00f4me",
       "category": "Beauty",
       "condition": "New",
       "dealReason": "40% off the regular Walmart price.",
@@ -1246,10 +1295,10 @@
       ],
       "source": "Walmart",
       "stock": {
-        "status": "in_stock",
-        "checkedDate": "2026-11-12"
+        "checkedDate": "2026-11-12",
+        "status": "in_stock"
       },
-      "title": "Lancôme La Vie Est Belle Eau de Parfum Spray for Women, 1 oz",
+      "title": "Lanc\u00f4me La Vie Est Belle Eau de Parfum Spray for Women, 1 oz",
       "url": "https://www.walmart.com/ip/Lancome-La-Vie-Est-Belle-Eau-De-Parfum-Spray-for-Women-1-oz/47621726"
     }
   ],

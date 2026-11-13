@@ -329,7 +329,7 @@
       "brand": "Baby Gap",
       "category": "Kids",
       "condition": "Like new",
-      "dealReason": "Like new \u2014 worn only twice, per the seller.",
+      "dealReason": "Like new — worn only twice, per the seller.",
       "foundDate": "2026-11-08",
       "id": "posh-baby-gap-poplin-03m",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/01/24/69751359a6bb7616b37782a5/l_697513e121bd42f33c246bbf.jpeg",
@@ -413,7 +413,7 @@
       "brand": "Bonnie Jean",
       "category": "Kids",
       "condition": "New with tags",
-      "dealReason": "New with tags \u2014 the listing's original price is $70.",
+      "dealReason": "New with tags — the listing's original price is $70.",
       "foundDate": "2026-11-08",
       "id": "posh-bj-polkadot-4t",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/08/6af0d7d028951f73c6bd0bf0/l_6af0d7e6ea03993291dd2ef4.jpg",
@@ -469,7 +469,7 @@
       "brand": "Tutu Du Monde",
       "category": "Kids",
       "condition": "Worn once",
-      "dealReason": "Worn once, per the seller \u2014 price dropped 29% on the listing.",
+      "dealReason": "Worn once, per the seller — price dropped 29% on the listing.",
       "foundDate": "2026-11-08",
       "id": "posh-tdm-dahlia-67",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/06/23/6a3ac0b0006e43853b5ab88a/l_6a3ac11dbedd349d54fc0892.jpg",
@@ -797,7 +797,7 @@
         "checkedDate": "2026-11-10",
         "status": "in_stock"
       },
-      "title": "Men's Columbia Steens Mountain\u2122 Full-Zip Fleece Jacket",
+      "title": "Men's Columbia Steens Mountain™ Full-Zip Fleece Jacket",
       "url": "https://www.kohls.com/product/prd-3592654/mens-columbia-steens-mountain-full-zip-fleece-jacket.jsp"
     },
     {
@@ -822,7 +822,7 @@
         "checkedDate": "2026-11-10",
         "status": "in_stock"
       },
-      "title": "Men's Columbia Glennaker Lake\u2122 II Hooded Rain Jacket",
+      "title": "Men's Columbia Glennaker Lake™ II Hooded Rain Jacket",
       "url": "https://www.kohls.com/product/prd-6810974/mens-columbia-glennaker-lake-ii-hooded-rain-jacket.jsp"
     },
     {
@@ -1254,7 +1254,7 @@
       "url": "https://www.basspro.com/p/cabelas-instinct-barrier-gore-tex-jacket-for-men"
     },
     {
-      "brand": "Lanc\u00f4me",
+      "brand": "Lancôme",
       "category": "Beauty",
       "condition": "New",
       "dealReason": "40% off the regular Walmart price.",
@@ -1275,45 +1275,43 @@
         "checkedDate": "2026-11-12",
         "status": "in_stock"
       },
-      "title": "Lanc\u00f4me La Vie Est Belle Eau de Parfum Spray for Women, 1 oz",
+      "title": "Lancôme La Vie Est Belle Eau de Parfum Spray for Women, 1 oz",
       "url": "https://www.walmart.com/ip/Lancome-La-Vie-Est-Belle-Eau-De-Parfum-Spray-for-Women-1-oz/47621726"
     },
     {
-      "id": "walmart-flash-crockpot-7qt-slow-cooker",
-      "title": "Crock-pot Manual 7-quart Slow Cooker, Reflection",
-      "price": 34.96,
-      "originalPrice": 79.99,
-      "source": "Walmart",
-      "url": "https://www.walmart.com/ip/15200300942",
-      "imageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t45.5328-4/573821318_836352272177896_7386239649921157078_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=657aed&_nc_ohc=RrxK0swyhf4Q7kNvwFzaih5&_nc_oc=Adq2RvhLD_UiEjvcXytEJcXs-l25W0--0Qn61XJZgxJZFpDaHs_A2_pmLDmg6n4h-Vw-RmLweEMH3wfK_cXmd6Tw&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=94zDfJv1ByQbTdubcTPUXQ&oh=00_AQSkvHTf-P7_c9yP0qiVPklBA9nR8mL5IZgAGiMHaiYo0A&oe=6AF6B2AF",
+      "brand": "Crock-Pot",
       "category": "Home",
-      "kind": "new",
       "condition": "New",
-      "foundDate": "2026-11-08",
-      "flash": true,
       "dealReason": "LIVE - Walmart Early Black Friday wave, Nov 12-15. 56% under its regular Walmart price when re-checked Nov 12.",
+      "flash": true,
+      "foundDate": "2026-11-08",
+      "id": "walmart-flash-crockpot-7qt-slow-cooker",
+      "imageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t45.5328-4/573821318_836352272177896_7386239649921157078_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=657aed&_nc_ohc=RrxK0swyhf4Q7kNvwFzaih5&_nc_oc=Adq2RvhLD_UiEjvcXytEJcXs-l25W0--0Qn61XJZgxJZFpDaHs_A2_pmLDmg6n4h-Vw-RmLweEMH3wfK_cXmd6Tw&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=94zDfJv1ByQbTdubcTPUXQ&oh=00_AQSkvHTf-P7_c9yP0qiVPklBA9nR8mL5IZgAGiMHaiYo0A&oe=6AF6B2AF",
+      "kind": "new",
+      "originalPrice": 79.99,
+      "price": 34.96,
       "priceHistory": [
         {
           "date": "2026-11-08",
           "price": 34.96
         }
       ],
-      "brand": "Crock-Pot"
+      "source": "Walmart",
+      "title": "Crock-pot Manual 7-quart Slow Cooker, Reflection",
+      "url": "https://www.walmart.com/ip/15200300942"
     },
     {
-      "id": "walmart-flash-tineco-go-vacuum",
-      "title": "Tineco Go Cordless Stick Vacuum, 40 Min Run Time - Teal (go201)",
-      "price": 159.99,
-      "originalPrice": 299.99,
-      "source": "Walmart",
-      "url": "https://www.walmart.com/ip/6195700632",
-      "imageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t45.5328-4/667032607_982275948124115_3920162795527100973_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=657aed&_nc_ohc=_cgeVIMbBTgQ7kNvwH_lRRv&_nc_oc=Ado7nxm0eNpzFvbi6PncScyEIXZnAmbEbK5WOZ7QewwHtHNAf9kPH-DHqhq5Us22cjk4rFb1BclX-GbJuPNJ3gB9&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=rYGOxaJILCcMKQBR4UtZpw&oh=00_AQQQMoU_gjY8xTbJ2WHoyp-XpHVsciwBhxq4Kfu6I_z21g&oe=6AF6AF61",
+      "brand": "Tineco",
       "category": "Home",
-      "kind": "new",
       "condition": "New",
-      "foundDate": "2026-11-08",
-      "flash": true,
       "dealReason": "LIVE - Walmart Early Black Friday wave, Nov 12-15. 47% under its regular Walmart price when re-checked Nov 12.",
+      "flash": true,
+      "foundDate": "2026-11-08",
+      "id": "walmart-flash-tineco-go-vacuum",
+      "imageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t45.5328-4/667032607_982275948124115_3920162795527100973_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=657aed&_nc_ohc=_cgeVIMbBTgQ7kNvwH_lRRv&_nc_oc=Ado7nxm0eNpzFvbi6PncScyEIXZnAmbEbK5WOZ7QewwHtHNAf9kPH-DHqhq5Us22cjk4rFb1BclX-GbJuPNJ3gB9&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=rYGOxaJILCcMKQBR4UtZpw&oh=00_AQQQMoU_gjY8xTbJ2WHoyp-XpHVsciwBhxq4Kfu6I_z21g&oe=6AF6AF61",
+      "kind": "new",
+      "originalPrice": 299.99,
+      "price": 159.99,
       "priceHistory": [
         {
           "date": "2026-11-08",
@@ -1324,132 +1322,132 @@
           "price": 159.99
         }
       ],
-      "brand": "Tineco"
+      "source": "Walmart",
+      "title": "Tineco Go Cordless Stick Vacuum, 40 Min Run Time - Teal (go201)",
+      "url": "https://www.walmart.com/ip/6195700632"
     },
     {
-      "id": "walmart-flash-kitchenaid-ksm97-mixer",
-      "title": "Kitchenaid 4.5 Quart Tilt-head Stand Mixer - Ksm97",
-      "price": 279.0,
-      "originalPrice": 449.99,
-      "source": "Walmart",
-      "url": "https://www.walmart.com/ip/673301960",
-      "imageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t45.5328-4/517327588_1254378689807037_964706814441765418_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=657aed&_nc_ohc=7Z7FzggJ8YoQ7kNvwEHp1u4&_nc_oc=AdoI6tBUlYVHM3sI2CHEUpC7mSthHc5KRGuKEhUNtq2NuHp6h4w6YjvsQo5EXvkOXKChNaDMbsZegGk6eQX8vbbx&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=94zDfJv1ByQbTdubcTPUXQ&oh=00_AQRdRurOhftLXoPKG7nNPYUji1efhnmOQlAV3MaQK8Vi9Q&oe=6AF6CF2D",
+      "brand": "KitchenAid",
       "category": "Home",
-      "kind": "new",
       "condition": "New",
-      "foundDate": "2026-11-08",
-      "flash": true,
       "dealReason": "LIVE - Walmart Early Black Friday wave, Nov 12-15. 38% under its regular Walmart price when re-checked Nov 12.",
+      "flash": true,
+      "foundDate": "2026-11-08",
+      "id": "walmart-flash-kitchenaid-ksm97-mixer",
+      "imageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t45.5328-4/517327588_1254378689807037_964706814441765418_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=657aed&_nc_ohc=7Z7FzggJ8YoQ7kNvwEHp1u4&_nc_oc=AdoI6tBUlYVHM3sI2CHEUpC7mSthHc5KRGuKEhUNtq2NuHp6h4w6YjvsQo5EXvkOXKChNaDMbsZegGk6eQX8vbbx&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=94zDfJv1ByQbTdubcTPUXQ&oh=00_AQRdRurOhftLXoPKG7nNPYUji1efhnmOQlAV3MaQK8Vi9Q&oe=6AF6CF2D",
+      "kind": "new",
+      "originalPrice": 449.99,
+      "price": 279.0,
       "priceHistory": [
         {
           "date": "2026-11-08",
           "price": 279.0
         }
       ],
-      "brand": "KitchenAid"
+      "source": "Walmart",
+      "title": "Kitchenaid 4.5 Quart Tilt-head Stand Mixer - Ksm97",
+      "url": "https://www.walmart.com/ip/673301960"
     },
     {
-      "id": "walmart-flash-shark-powerlite-vacuum",
-      "title": "Shark Powerlite Cordless Stick Vacuum, Self Cleaning Brushroll, Hepa, Anti-allergen Complete Seal, 40 Min Runtime, Bu1620 Storm Cloud",
-      "price": 187.0,
-      "originalPrice": 299.99,
-      "source": "Walmart",
-      "url": "https://www.walmart.com/ip/19586359962",
-      "imageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t45.5328-4/755903198_2474312519711529_4699156163930772782_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=657aed&_nc_ohc=Kc4TG5ZTceIQ7kNvwESmM7B&_nc_oc=AdoANrYDOOJRbFpvHvcEZ0U7wWZoWpq9NPxS2W-oqaD80hk4MYdW50Yky6bX13b-7yD-ZM8P5scEgv1B16JcuvU3&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=rYGOxaJILCcMKQBR4UtZpw&oh=00_AQQGYhXjNZTfxyX1PUZagaVUT-wTloD3Vcfrs88AV09clg&oe=6AF6C979",
+      "brand": "Shark",
       "category": "Home",
-      "kind": "new",
       "condition": "New",
-      "foundDate": "2026-11-08",
-      "flash": true,
       "dealReason": "LIVE - Walmart Early Black Friday wave, Nov 12-15. 38% under its regular Walmart price when re-checked Nov 12.",
+      "flash": true,
+      "foundDate": "2026-11-08",
+      "id": "walmart-flash-shark-powerlite-vacuum",
+      "imageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t45.5328-4/755903198_2474312519711529_4699156163930772782_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=657aed&_nc_ohc=Kc4TG5ZTceIQ7kNvwESmM7B&_nc_oc=AdoANrYDOOJRbFpvHvcEZ0U7wWZoWpq9NPxS2W-oqaD80hk4MYdW50Yky6bX13b-7yD-ZM8P5scEgv1B16JcuvU3&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=rYGOxaJILCcMKQBR4UtZpw&oh=00_AQQGYhXjNZTfxyX1PUZagaVUT-wTloD3Vcfrs88AV09clg&oe=6AF6C979",
+      "kind": "new",
+      "originalPrice": 299.99,
+      "price": 187.0,
       "priceHistory": [
         {
           "date": "2026-11-08",
           "price": 187.0
         }
       ],
-      "brand": "Shark"
+      "source": "Walmart",
+      "title": "Shark Powerlite Cordless Stick Vacuum, Self Cleaning Brushroll, Hepa, Anti-allergen Complete Seal, 40 Min Runtime, Bu1620 Storm Cloud",
+      "url": "https://www.walmart.com/ip/19586359962"
     },
     {
-      "id": "walmart-flash-keurig-k-express-red",
-      "title": "Keurig K-express Essentials Red Single-serve K-cup Pod Coffee Maker",
-      "price": 49.47,
-      "originalPrice": 76.8,
-      "source": "Walmart",
-      "url": "https://www.walmart.com/ip/17400009688",
-      "imageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t45.5328-4/717708530_1037052445321596_881015657072202559_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=657aed&_nc_ohc=T45vOundSWgQ7kNvwHmvWnM&_nc_oc=Ado8zM7AOdS58gB0FIxXSkj6oO8Ugp8BThjxrSgd2kn_i0vpUYZrEjZCiChoNA2NVKNsLaxXYF3yEZgIgnJMdFXU&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=94zDfJv1ByQbTdubcTPUXQ&oh=00_AQQIGayWJ4wfOsrYupWvFWiHnAGnZt-HzpGgdr5TBv40-w&oe=6AF6BC16",
+      "brand": "Keurig",
       "category": "Home",
-      "kind": "new",
       "condition": "New",
-      "foundDate": "2026-11-08",
-      "flash": true,
       "dealReason": "LIVE - Walmart Early Black Friday wave, Nov 12-15. 36% under its regular Walmart price when re-checked Nov 12.",
+      "flash": true,
+      "foundDate": "2026-11-08",
+      "id": "walmart-flash-keurig-k-express-red",
+      "imageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t45.5328-4/717708530_1037052445321596_881015657072202559_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=657aed&_nc_ohc=T45vOundSWgQ7kNvwHmvWnM&_nc_oc=Ado8zM7AOdS58gB0FIxXSkj6oO8Ugp8BThjxrSgd2kn_i0vpUYZrEjZCiChoNA2NVKNsLaxXYF3yEZgIgnJMdFXU&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=94zDfJv1ByQbTdubcTPUXQ&oh=00_AQQIGayWJ4wfOsrYupWvFWiHnAGnZt-HzpGgdr5TBv40-w&oe=6AF6BC16",
+      "kind": "new",
+      "originalPrice": 76.8,
+      "price": 49.47,
       "priceHistory": [
         {
           "date": "2026-11-08",
           "price": 49.47
         }
       ],
-      "brand": "Keurig"
+      "source": "Walmart",
+      "title": "Keurig K-express Essentials Red Single-serve K-cup Pod Coffee Maker",
+      "url": "https://www.walmart.com/ip/17400009688"
     },
     {
-      "id": "walmart-flash-beats-studio-pro-black",
-      "title": "Beats Studio Pro Wireless Headphones - Black",
-      "price": 199.95,
-      "originalPrice": 299.99,
-      "source": "Walmart",
-      "url": "https://www.walmart.com/ip/1575006069",
-      "imageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t45.5328-4/677676240_2719409708431195_936270676962172092_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=657aed&_nc_ohc=BHQTSNSiUrEQ7kNvwHTVCiO&_nc_oc=AdohfJZ3hsxicaQOd284pyzlXIL2yWQL8ukYx52ajLmmegB_7zRB0ZkeOCsoE8276oYXxjZBwJBRWfOkbBl_qVXV&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=RQtgqOhKWVm18rNk-gsNfA&oh=00_AQS6Wv8a1mCcPxCIftbtooyzxQqObdPYjhCcGis3eVw_LQ&oe=6AF6B1BB",
+      "brand": "Beats",
       "category": "Electronics",
-      "kind": "new",
       "condition": "New",
-      "foundDate": "2026-11-08",
-      "flash": true,
       "dealReason": "LIVE - Walmart Early Black Friday wave, Nov 12-15. 33% under its regular Walmart price when re-checked Nov 12.",
+      "flash": true,
+      "foundDate": "2026-11-08",
+      "id": "walmart-flash-beats-studio-pro-black",
+      "imageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t45.5328-4/677676240_2719409708431195_936270676962172092_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=657aed&_nc_ohc=BHQTSNSiUrEQ7kNvwHTVCiO&_nc_oc=AdohfJZ3hsxicaQOd284pyzlXIL2yWQL8ukYx52ajLmmegB_7zRB0ZkeOCsoE8276oYXxjZBwJBRWfOkbBl_qVXV&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=RQtgqOhKWVm18rNk-gsNfA&oh=00_AQS6Wv8a1mCcPxCIftbtooyzxQqObdPYjhCcGis3eVw_LQ&oe=6AF6B1BB",
+      "kind": "new",
+      "originalPrice": 299.99,
+      "price": 199.95,
       "priceHistory": [
         {
           "date": "2026-11-08",
           "price": 199.95
         }
       ],
-      "brand": "Beats"
+      "source": "Walmart",
+      "title": "Beats Studio Pro Wireless Headphones - Black",
+      "url": "https://www.walmart.com/ip/1575006069"
     },
     {
-      "id": "walmart-flash-ninja-air-fryer-pro-af141",
-      "title": "Ninja\u00ae Air Fryer Pro, 4-in-1, 5 Qt Capacity, Af141",
-      "price": 89.9,
-      "originalPrice": 129.99,
-      "source": "Walmart",
-      "url": "https://www.walmart.com/ip/11526364074",
-      "imageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t45.5328-4/491761492_1632004130817303_7845092748901947141_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=657aed&_nc_ohc=T4kBfmuSj4YQ7kNvwF4UTy6&_nc_oc=AdqjrxtIdCl1PYW7ETCOqqpoqEI68orwM5L25Us27pc0XDCTQVjKRZJGIa9gbPiAD6z3E_Rt0b9qmojGc0jU8P9W&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=94zDfJv1ByQbTdubcTPUXQ&oh=00_AQTRasN6ZJUJ48FWTmoWuSTpmIgfG2Hl0v_cN-_n4L1_Jg&oe=6AF6B290",
+      "brand": "Ninja",
       "category": "Home",
-      "kind": "new",
       "condition": "New",
-      "foundDate": "2026-11-08",
-      "flash": true,
       "dealReason": "LIVE - Walmart Early Black Friday wave, Nov 12-15. 31% under its regular Walmart price when re-checked Nov 12.",
+      "flash": true,
+      "foundDate": "2026-11-08",
+      "id": "walmart-flash-ninja-air-fryer-pro-af141",
+      "imageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t45.5328-4/491761492_1632004130817303_7845092748901947141_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=657aed&_nc_ohc=T4kBfmuSj4YQ7kNvwF4UTy6&_nc_oc=AdqjrxtIdCl1PYW7ETCOqqpoqEI68orwM5L25Us27pc0XDCTQVjKRZJGIa9gbPiAD6z3E_Rt0b9qmojGc0jU8P9W&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=94zDfJv1ByQbTdubcTPUXQ&oh=00_AQTRasN6ZJUJ48FWTmoWuSTpmIgfG2Hl0v_cN-_n4L1_Jg&oe=6AF6B290",
+      "kind": "new",
+      "originalPrice": 129.99,
+      "price": 89.9,
       "priceHistory": [
         {
           "date": "2026-11-08",
           "price": 89.9
         }
       ],
-      "brand": "Ninja"
+      "source": "Walmart",
+      "title": "Ninja® Air Fryer Pro, 4-in-1, 5 Qt Capacity, Af141",
+      "url": "https://www.walmart.com/ip/11526364074"
     },
     {
-      "id": "walmart-flash-kitchenaid-classic-k45ss",
-      "title": "Kitchenaid Classic Series 4.5-quart Tilt-head Stand Mixer, Onyx Black, K45ssob",
-      "price": 289.97,
-      "originalPrice": 399.99,
-      "source": "Walmart",
-      "url": "https://www.walmart.com/ip/29474640",
-      "imageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t45.5328-4/468696963_545506544994782_7397834112982008353_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=657aed&_nc_ohc=KOSP1JRJj0oQ7kNvwHHuYfo&_nc_oc=Adr3ags4pvJZCzqnXcAyu-_wWOxvz6j0Mr2U4oExxUXhziQZXeoeRa79Klty0s9mX0e3U3oufPuVzjwBoJ0KNucz&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=94zDfJv1ByQbTdubcTPUXQ&oh=00_AQTFwIBSe5wZqXWcoKcypCY2nougdkcRuhOz1-TgIevHtw&oe=6AF6B327",
+      "brand": "KitchenAid",
       "category": "Home",
-      "kind": "new",
       "condition": "New",
-      "foundDate": "2026-11-08",
-      "flash": true,
       "dealReason": "LIVE - Walmart Early Black Friday wave, Nov 12-15. 28% under its regular Walmart price when re-checked Nov 12.",
+      "flash": true,
+      "foundDate": "2026-11-08",
+      "id": "walmart-flash-kitchenaid-classic-k45ss",
+      "imageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t45.5328-4/468696963_545506544994782_7397834112982008353_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=657aed&_nc_ohc=KOSP1JRJj0oQ7kNvwHHuYfo&_nc_oc=Adr3ags4pvJZCzqnXcAyu-_wWOxvz6j0Mr2U4oExxUXhziQZXeoeRa79Klty0s9mX0e3U3oufPuVzjwBoJ0KNucz&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=94zDfJv1ByQbTdubcTPUXQ&oh=00_AQTFwIBSe5wZqXWcoKcypCY2nougdkcRuhOz1-TgIevHtw&oe=6AF6B327",
+      "kind": "new",
+      "originalPrice": 399.99,
+      "price": 289.97,
       "priceHistory": [
         {
           "date": "2026-11-08",
@@ -1460,22 +1458,22 @@
           "price": 289.97
         }
       ],
-      "brand": "KitchenAid"
+      "source": "Walmart",
+      "title": "Kitchenaid Classic Series 4.5-quart Tilt-head Stand Mixer, Onyx Black, K45ssob",
+      "url": "https://www.walmart.com/ip/29474640"
     },
     {
-      "id": "walmart-flash-lego-pagani-utopia-76915",
-      "title": "Lego Speed Champions Pagani Utopia 76915 Race Car Toy Model Building Kit, Italian Hypercar, Collectible Racing Vehicle, 2023 Set",
-      "price": 31.99,
-      "originalPrice": 50.99,
-      "source": "Walmart",
-      "url": "https://www.walmart.com/ip/5025976323",
-      "imageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t45.5328-4/466802974_532568736409702_6389460756903053827_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=657aed&_nc_ohc=QA4YopbGhjMQ7kNvwErvmpy&_nc_oc=AdqtT0o18hqe7fY9qTwvSnVC2HkXAvc-fGs3_OWfdBiRkGjWuNuIcbk0yZ1F0Bzsm_zRokaO93t0rX5a2WHKamBq&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=GS30b3oQ0OGiHci4CMMYLA&oh=00_AQSQVnIE3JRyk76F177nitFH1-tbpFB4UGh9dvGfu3WSbQ&oe=6AF6D62E",
+      "brand": "LEGO",
       "category": "Toys",
-      "kind": "new",
       "condition": "New",
-      "foundDate": "2026-11-08",
-      "flash": true,
       "dealReason": "LIVE - Walmart Early Black Friday wave, Nov 12-15. 37% under its regular Walmart price when re-checked Nov 12.",
+      "flash": true,
+      "foundDate": "2026-11-08",
+      "id": "walmart-flash-lego-pagani-utopia-76915",
+      "imageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t45.5328-4/466802974_532568736409702_6389460756903053827_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=657aed&_nc_ohc=QA4YopbGhjMQ7kNvwErvmpy&_nc_oc=AdqtT0o18hqe7fY9qTwvSnVC2HkXAvc-fGs3_OWfdBiRkGjWuNuIcbk0yZ1F0Bzsm_zRokaO93t0rX5a2WHKamBq&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=GS30b3oQ0OGiHci4CMMYLA&oh=00_AQSQVnIE3JRyk76F177nitFH1-tbpFB4UGh9dvGfu3WSbQ&oe=6AF6D62E",
+      "kind": "new",
+      "originalPrice": 50.99,
+      "price": 31.99,
       "priceHistory": [
         {
           "date": "2026-11-08",
@@ -1486,344 +1484,918 @@
           "price": 31.99
         }
       ],
-      "brand": "LEGO"
+      "source": "Walmart",
+      "title": "Lego Speed Champions Pagani Utopia 76915 Race Car Toy Model Building Kit, Italian Hypercar, Collectible Racing Vehicle, 2023 Set",
+      "url": "https://www.walmart.com/ip/5025976323"
     },
     {
-      "id": "walmart-flash-new-hart-rotary-tool",
-      "title": "Hart 20-volt Cordless Rotary Tool With 33 Accessories (battery Not Included)",
-      "price": 25.44,
-      "originalPrice": 50.88,
-      "source": "Walmart",
-      "url": "https://www.walmart.com/ip/643615942",
-      "imageUrl": "https://scontent.xx.fbcdn.net/v/t45.5328-4/314809326_6419622624731876_3362097351314938814_n.jpg?stp=dst-jpg_fi1-ffffff-1.00_s1080x1350_sh2.08_tt6&_nc_cat=109&ccb=1-7&_nc_sid=89567c&efg=eyJ2ZW5jb2RlX3RhZyI6ImFkc19pbWFnZS5mYl9kcGEuc2hhcnBlbi5vcmlnaW5hbF9kaW1lbnNpb24uMzAwMHgzMDAwIn0%3D&_nc_ohc=0qKfHzmnuLEQ7kNvwGq6HTR&_nc_oc=AdrQbJ9dzhAJbLAAT3qBf9CHA6BjO8rVYYImITGF_f8bCgwXmDyKcA014Q_3dRoBU9My5kVvvVbtyjIBzuNM8RND&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=wTntGR6-PAU4QDopbFowVQ&oh=00_AQSYyDFxGfaw8wRPiPrpvGALKU5awJx_5m0gMQBgk5vVbg&oe=6AFB8872",
+      "brand": "Hart",
       "category": "Tools",
-      "kind": "new",
       "condition": "New",
-      "foundDate": "2026-11-12",
-      "flash": true,
       "dealReason": "NEW - added on the Nov 12 recheck. LIVE - Walmart Early Black Friday wave, Nov 12-15. 50% under its regular Walmart price when checked Nov 12.",
+      "flash": true,
+      "foundDate": "2026-11-12",
+      "id": "walmart-flash-new-hart-rotary-tool",
+      "imageUrl": "https://scontent.xx.fbcdn.net/v/t45.5328-4/314809326_6419622624731876_3362097351314938814_n.jpg?stp=dst-jpg_fi1-ffffff-1.00_s1080x1350_sh2.08_tt6&_nc_cat=109&ccb=1-7&_nc_sid=89567c&efg=eyJ2ZW5jb2RlX3RhZyI6ImFkc19pbWFnZS5mYl9kcGEuc2hhcnBlbi5vcmlnaW5hbF9kaW1lbnNpb24uMzAwMHgzMDAwIn0%3D&_nc_ohc=0qKfHzmnuLEQ7kNvwGq6HTR&_nc_oc=AdrQbJ9dzhAJbLAAT3qBf9CHA6BjO8rVYYImITGF_f8bCgwXmDyKcA014Q_3dRoBU9My5kVvvVbtyjIBzuNM8RND&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=wTntGR6-PAU4QDopbFowVQ&oh=00_AQSYyDFxGfaw8wRPiPrpvGALKU5awJx_5m0gMQBgk5vVbg&oe=6AFB8872",
+      "kind": "new",
+      "originalPrice": 50.88,
+      "price": 25.44,
       "priceHistory": [
         {
           "date": "2026-11-12",
           "price": 25.44
         }
       ],
-      "brand": "Hart"
+      "source": "Walmart",
+      "title": "Hart 20-volt Cordless Rotary Tool With 33 Accessories (battery Not Included)",
+      "url": "https://www.walmart.com/ip/643615942"
     },
     {
-      "id": "walmart-flash-new-revlon-one-step-volumizer-plus",
-      "title": "Revlon One-step Volumizer Plus Hair Dryer And Hot Air Brush, Black",
-      "price": 44.07,
-      "originalPrice": 64.96,
-      "source": "Walmart",
-      "url": "https://www.walmart.com/ip/448221388",
-      "imageUrl": "https://scontent.xx.fbcdn.net/v/t45.5328-4/617231187_2118231212313321_9101749362176558564_n.jpg?stp=c0.0.2493.3000a_dst-jpg_fi1-ffffff-1.00_s1080x1350_sh2.08_tt6&_nc_cat=101&ccb=1-7&_nc_sid=89567c&efg=eyJ2ZW5jb2RlX3RhZyI6ImFkc19pbWFnZS5mYl9kcGEuc2hhcnBlbi5vcmlnaW5hbF9kaW1lbnNpb24uMzAwMHgzMDAwIn0%3D&_nc_ohc=fvJ778j2weoQ7kNvwHWRN1p&_nc_oc=Adp-v8nZcBVmFIq-ca9prTYxOLbXSWVFtFkpd9Na0pffQC6DwOGeIfLuta2MLudcTw22_ytGNUqI9X5_d7FjYIqs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=e8B8ufOfUakZt-JSrxNgAQ&oh=00_AQTcmJc2FQshA4VaRfNA4n7lCQo_dV24XuQpIlQo5HdMTA&oe=6AFB9889",
+      "brand": "Revlon",
       "category": "Beauty",
-      "kind": "new",
       "condition": "New",
-      "foundDate": "2026-11-12",
-      "flash": true,
       "dealReason": "NEW - added on the Nov 12 recheck. LIVE - Walmart Early Black Friday wave, Nov 12-15. 32% under its regular Walmart price when checked Nov 12.",
+      "flash": true,
+      "foundDate": "2026-11-12",
+      "id": "walmart-flash-new-revlon-one-step-volumizer-plus",
+      "imageUrl": "https://scontent.xx.fbcdn.net/v/t45.5328-4/617231187_2118231212313321_9101749362176558564_n.jpg?stp=c0.0.2493.3000a_dst-jpg_fi1-ffffff-1.00_s1080x1350_sh2.08_tt6&_nc_cat=101&ccb=1-7&_nc_sid=89567c&efg=eyJ2ZW5jb2RlX3RhZyI6ImFkc19pbWFnZS5mYl9kcGEuc2hhcnBlbi5vcmlnaW5hbF9kaW1lbnNpb24uMzAwMHgzMDAwIn0%3D&_nc_ohc=fvJ778j2weoQ7kNvwHWRN1p&_nc_oc=Adp-v8nZcBVmFIq-ca9prTYxOLbXSWVFtFkpd9Na0pffQC6DwOGeIfLuta2MLudcTw22_ytGNUqI9X5_d7FjYIqs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=e8B8ufOfUakZt-JSrxNgAQ&oh=00_AQTcmJc2FQshA4VaRfNA4n7lCQo_dV24XuQpIlQo5HdMTA&oe=6AFB9889",
+      "kind": "new",
+      "originalPrice": 64.96,
+      "price": 44.07,
       "priceHistory": [
         {
           "date": "2026-11-12",
           "price": 44.07
         }
       ],
-      "brand": "Revlon"
+      "source": "Walmart",
+      "title": "Revlon One-step Volumizer Plus Hair Dryer And Hot Air Brush, Black",
+      "url": "https://www.walmart.com/ip/448221388"
     },
     {
-      "id": "walmart-flash-new-skechers-work-dyna-air",
-      "title": "Skechers Work Women's Dyna Air Slip Resistant Lace-up Sneaker",
-      "price": 56.7,
-      "originalPrice": 90.0,
-      "source": "Walmart",
-      "url": "https://www.walmart.com/ip/581323466",
-      "imageUrl": "https://scontent.xx.fbcdn.net/v/t45.5328-4/810519212_1441341914523628_7110936961985457576_n.jpg?stp=dst-jpg_fi1-ffffff-1.00_s1080x1350_sh2.08_tt6&_nc_cat=106&ccb=1-7&_nc_sid=89567c&efg=eyJ2ZW5jb2RlX3RhZyI6ImFkc19pbWFnZS5mYl9kcGEuc2hhcnBlbi5vcmlnaW5hbF9kaW1lbnNpb24uMTUwMHgxNTAwIn0%3D&_nc_ohc=ojqLkzji8mEQ7kNvwF2WyD2&_nc_oc=AdrYRZuXOz00Sg1aNWTZVRvDTfxisvP3mXQ5vzUfHZHehH4_s5fjQENT2_WS3W6Vk_PxYzD1kdEX3mY8tQnA_S30&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=ghQJf1bwH7PVN3BDQVD8Yw&oh=00_AQTVyoZ7bBAJYHFG_NL9MJhs5e6YN0qILP1DdP2kBhrK8g&oe=6AFB99EE",
+      "brand": "Skechers",
       "category": "Shoes",
-      "kind": "new",
       "condition": "New",
-      "foundDate": "2026-11-12",
-      "flash": true,
       "dealReason": "NEW - added on the Nov 12 recheck. LIVE - Walmart Early Black Friday wave, Nov 12-15. 37% under its regular Walmart price when checked Nov 12.",
+      "flash": true,
+      "foundDate": "2026-11-12",
+      "id": "walmart-flash-new-skechers-work-dyna-air",
+      "imageUrl": "https://scontent.xx.fbcdn.net/v/t45.5328-4/810519212_1441341914523628_7110936961985457576_n.jpg?stp=dst-jpg_fi1-ffffff-1.00_s1080x1350_sh2.08_tt6&_nc_cat=106&ccb=1-7&_nc_sid=89567c&efg=eyJ2ZW5jb2RlX3RhZyI6ImFkc19pbWFnZS5mYl9kcGEuc2hhcnBlbi5vcmlnaW5hbF9kaW1lbnNpb24uMTUwMHgxNTAwIn0%3D&_nc_ohc=ojqLkzji8mEQ7kNvwF2WyD2&_nc_oc=AdrYRZuXOz00Sg1aNWTZVRvDTfxisvP3mXQ5vzUfHZHehH4_s5fjQENT2_WS3W6Vk_PxYzD1kdEX3mY8tQnA_S30&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=ghQJf1bwH7PVN3BDQVD8Yw&oh=00_AQTVyoZ7bBAJYHFG_NL9MJhs5e6YN0qILP1DdP2kBhrK8g&oe=6AFB99EE",
+      "kind": "new",
+      "originalPrice": 90.0,
+      "price": 56.7,
       "priceHistory": [
         {
           "date": "2026-11-12",
           "price": 56.7
         }
       ],
-      "brand": "Skechers"
+      "source": "Walmart",
+      "title": "Skechers Work Women's Dyna Air Slip Resistant Lace-up Sneaker",
+      "url": "https://www.walmart.com/ip/581323466"
     },
     {
-      "id": "walmart-flash-new-levis-514-jeans",
-      "title": "Levi's Men's 514 Straight Fit Jeans",
-      "price": 31.28,
-      "originalPrice": 41.7,
-      "source": "Walmart",
-      "url": "https://www.walmart.com/ip/3453589369",
-      "imageUrl": "https://scontent.xx.fbcdn.net/v/t45.5328-4/467826545_1355380821995986_7634300320813024423_n.jpg?stp=dst-jpg_fi1-ffffff-1.00_s1080x1350_sh2.08_tt6&_nc_cat=102&ccb=1-7&_nc_sid=89567c&efg=eyJ2ZW5jb2RlX3RhZyI6ImFkc19pbWFnZS5mYl9kcGEuc2hhcnBlbi5vcmlnaW5hbF9kaW1lbnNpb24uMTUwMHgxMDAwIn0%3D&_nc_ohc=uOUJfnCDjokQ7kNvwGxtD7e&_nc_oc=AdrW5tDbemqQwIQhOa_t4LPoaimyUwPJR3V6_SfxxyhiTosdcVJ4hixbsCODO-4reZLywzbc2aws643yn2xOG4rP&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=7RVcr5wDD4_vdm0_x_MH1A&oh=00_AQSGVRWSbRVpc3GIS-iW9NNh6378X2GV3KlDpNPF_5b-eA&oe=6AFBA620",
+      "brand": "Levi's",
       "category": "Men",
-      "kind": "new",
       "condition": "New",
-      "foundDate": "2026-11-12",
-      "flash": true,
       "dealReason": "NEW - added on the Nov 12 recheck. LIVE - Walmart Early Black Friday wave, Nov 12-15. 25% under its regular Walmart price when checked Nov 12.",
+      "flash": true,
+      "foundDate": "2026-11-12",
+      "id": "walmart-flash-new-levis-514-jeans",
+      "imageUrl": "https://scontent.xx.fbcdn.net/v/t45.5328-4/467826545_1355380821995986_7634300320813024423_n.jpg?stp=dst-jpg_fi1-ffffff-1.00_s1080x1350_sh2.08_tt6&_nc_cat=102&ccb=1-7&_nc_sid=89567c&efg=eyJ2ZW5jb2RlX3RhZyI6ImFkc19pbWFnZS5mYl9kcGEuc2hhcnBlbi5vcmlnaW5hbF9kaW1lbnNpb24uMTUwMHgxMDAwIn0%3D&_nc_ohc=uOUJfnCDjokQ7kNvwGxtD7e&_nc_oc=AdrW5tDbemqQwIQhOa_t4LPoaimyUwPJR3V6_SfxxyhiTosdcVJ4hixbsCODO-4reZLywzbc2aws643yn2xOG4rP&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=7RVcr5wDD4_vdm0_x_MH1A&oh=00_AQSGVRWSbRVpc3GIS-iW9NNh6378X2GV3KlDpNPF_5b-eA&oe=6AFBA620",
+      "kind": "new",
+      "originalPrice": 41.7,
+      "price": 31.28,
       "priceHistory": [
         {
           "date": "2026-11-12",
           "price": 31.28
         }
       ],
-      "brand": "Levi's"
+      "source": "Walmart",
+      "title": "Levi's Men's 514 Straight Fit Jeans",
+      "url": "https://www.walmart.com/ip/3453589369"
     },
     {
-      "id": "walmart-flash-new-disney-toy-story-jessie-dress",
-      "title": "Disney Toy Story Girls Dresses Jessie Red Yellow Ruffle Birthday Christmas Dress Toddler Kids 3t",
-      "price": 17.09,
-      "originalPrice": 29.99,
-      "source": "Walmart",
-      "url": "https://www.walmart.com/ip/20386669982",
-      "imageUrl": "https://scontent.xx.fbcdn.net/v/t45.5328-4/781267052_1080822444884935_6387187259670979981_n.jpg?stp=dst-jpg_fi1-ffffff-1.00_s1080x1350_sh2.08_tt6&_nc_cat=109&ccb=1-7&_nc_sid=89567c&efg=eyJ2ZW5jb2RlX3RhZyI6ImFkc19pbWFnZS5mYl9kcGEuc2hhcnBlbi5vcmlnaW5hbF9kaW1lbnNpb24uMTQ5MHgxNTU1In0%3D&_nc_ohc=SYUNqNbquPIQ7kNvwFPI9fd&_nc_oc=AdoMsywafRTrA440vpUMGgyPNjK9T8KNxkyBU721-8que_Hy_vumn6fE_hwEQFT8H_fA14lmooqacSy6N8Kbe84t&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=geZ-g5VyQvdGGF5dd-_KYA&oh=00_AQQ-vpx6pCHbZ2KFy1EitkBQtSVLYPqXi6zwIPaM_cNVRg&oe=6AFB8F4D",
+      "brand": "Disney",
       "category": "Kids",
-      "kind": "new",
       "condition": "New",
-      "foundDate": "2026-11-12",
-      "flash": true,
-      "size": "3T",
-      "sizeGroup": "Toddler",
       "dealReason": "NEW - added on the Nov 12 recheck. LIVE - Walmart Early Black Friday wave, Nov 12-15. 43% under its regular Walmart price when checked Nov 12.",
+      "flash": true,
+      "foundDate": "2026-11-12",
+      "id": "walmart-flash-new-disney-toy-story-jessie-dress",
+      "imageUrl": "https://scontent.xx.fbcdn.net/v/t45.5328-4/781267052_1080822444884935_6387187259670979981_n.jpg?stp=dst-jpg_fi1-ffffff-1.00_s1080x1350_sh2.08_tt6&_nc_cat=109&ccb=1-7&_nc_sid=89567c&efg=eyJ2ZW5jb2RlX3RhZyI6ImFkc19pbWFnZS5mYl9kcGEuc2hhcnBlbi5vcmlnaW5hbF9kaW1lbnNpb24uMTQ5MHgxNTU1In0%3D&_nc_ohc=SYUNqNbquPIQ7kNvwFPI9fd&_nc_oc=AdoMsywafRTrA440vpUMGgyPNjK9T8KNxkyBU721-8que_Hy_vumn6fE_hwEQFT8H_fA14lmooqacSy6N8Kbe84t&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=geZ-g5VyQvdGGF5dd-_KYA&oh=00_AQQ-vpx6pCHbZ2KFy1EitkBQtSVLYPqXi6zwIPaM_cNVRg&oe=6AFB8F4D",
+      "kind": "new",
+      "originalPrice": 29.99,
+      "price": 17.09,
       "priceHistory": [
         {
           "date": "2026-11-12",
           "price": 17.09
         }
       ],
-      "brand": "Disney"
+      "size": "3T",
+      "sizeGroup": "Toddler",
+      "source": "Walmart",
+      "title": "Disney Toy Story Girls Dresses Jessie Red Yellow Ruffle Birthday Christmas Dress Toddler Kids 3t",
+      "url": "https://www.walmart.com/ip/20386669982"
     },
     {
-      "id": "kohls-journee-romilly-knee-high-boots",
-      "title": "Journee Women's Romilly Knee High Boots",
-      "price": 97.99,
-      "originalPrice": 139.99,
-      "source": "Kohl's",
-      "url": "https://www.kohls.com/product/prd-6718555/journee-womens-romilly-knee-high-boots.jsp",
-      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6718555_Cranberry?wid=800&hei=800&op_sharpen=1",
+      "brand": "Journee",
       "category": "Shoes",
-      "kind": "new",
       "condition": "New",
-      "foundDate": "2026-11-13",
-      "stock": {
-        "checkedDate": "2026-11-13",
-        "status": "in_stock"
-      },
       "dealReason": "30% off the regular Kohl's price.",
+      "foundDate": "2026-11-13",
+      "id": "kohls-journee-romilly-knee-high-boots",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6718555_Cranberry?wid=800&hei=800&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 139.99,
+      "price": 97.99,
       "priceHistory": [
         {
           "date": "2026-11-13",
           "price": 97.99
         }
       ],
-      "brand": "Journee"
-    },
-    {
-      "id": "kohls-nine-west-zeran-dress-boots",
-      "title": "Nine West Zeran Women's Pointed Toe Block Heel Dress Boots",
-      "price": 64.99,
-      "originalPrice": 129.99,
       "source": "Kohl's",
-      "url": "https://www.kohls.com/product/prd-7863158/nine-west-zeran-womens-pointed-toe-block-heel-dress-boots.jsp",
-      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/7863158_Black?wid=800&hei=800&op_sharpen=1",
-      "category": "Shoes",
-      "kind": "new",
-      "condition": "New",
-      "foundDate": "2026-11-13",
       "stock": {
         "checkedDate": "2026-11-13",
         "status": "in_stock"
       },
+      "title": "Journee Women's Romilly Knee High Boots",
+      "url": "https://www.kohls.com/product/prd-6718555/journee-womens-romilly-knee-high-boots.jsp"
+    },
+    {
+      "brand": "Nine West",
+      "category": "Shoes",
+      "condition": "New",
       "dealReason": "50% off the regular Kohl's price.",
+      "foundDate": "2026-11-13",
+      "id": "kohls-nine-west-zeran-dress-boots",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/7863158_Black?wid=800&hei=800&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 129.99,
+      "price": 64.99,
       "priceHistory": [
         {
           "date": "2026-11-13",
           "price": 64.99
         }
       ],
-      "brand": "Nine West"
-    },
-    {
-      "id": "kohls-journee-tori-knee-high-boots",
-      "title": "Journee Tori Women's Knee-High Boots",
-      "price": 69.99,
-      "originalPrice": 99.99,
       "source": "Kohl's",
-      "url": "https://www.kohls.com/product/prd-1941404/journee-collection-tori-womens-wide-calf-tall-boots.jsp",
-      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/1941404_Black?wid=800&hei=800&op_sharpen=1",
-      "category": "Shoes",
-      "kind": "new",
-      "condition": "New",
-      "foundDate": "2026-11-13",
       "stock": {
         "checkedDate": "2026-11-13",
         "status": "in_stock"
       },
+      "title": "Nine West Zeran Women's Pointed Toe Block Heel Dress Boots",
+      "url": "https://www.kohls.com/product/prd-7863158/nine-west-zeran-womens-pointed-toe-block-heel-dress-boots.jsp"
+    },
+    {
+      "brand": "Journee",
+      "category": "Shoes",
+      "condition": "New",
       "dealReason": "30% off the regular Kohl's price.",
+      "foundDate": "2026-11-13",
+      "id": "kohls-journee-tori-knee-high-boots",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/1941404_Black?wid=800&hei=800&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 99.99,
+      "price": 69.99,
       "priceHistory": [
         {
           "date": "2026-11-13",
           "price": 69.99
         }
       ],
-      "brand": "Journee"
-    },
-    {
-      "id": "kohls-nike-waffle-debut",
-      "title": "Nike Waffle Debut Women's Shoes",
-      "price": 52.5,
-      "originalPrice": 75.0,
       "source": "Kohl's",
-      "url": "https://www.kohls.com/product/prd-5171146/nike-waffle-debut-womens-shoes.jsp",
-      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/5171146_ALT?wid=800&hei=800&op_sharpen=1",
-      "category": "Shoes",
-      "kind": "new",
-      "condition": "New",
-      "foundDate": "2026-11-13",
       "stock": {
         "checkedDate": "2026-11-13",
         "status": "in_stock"
       },
+      "title": "Journee Tori Women's Knee-High Boots",
+      "url": "https://www.kohls.com/product/prd-1941404/journee-collection-tori-womens-wide-calf-tall-boots.jsp"
+    },
+    {
+      "brand": "Nike",
+      "category": "Shoes",
+      "condition": "New",
       "dealReason": "30% off the regular Kohl's price.",
+      "foundDate": "2026-11-13",
+      "id": "kohls-nike-waffle-debut",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/5171146_ALT?wid=800&hei=800&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 75.0,
+      "price": 52.5,
       "priceHistory": [
         {
           "date": "2026-11-13",
           "price": 52.5
         }
       ],
-      "brand": "Nike"
-    },
-    {
-      "id": "kohls-converse-shoreline-sneakers",
-      "title": "Converse Chuck Taylor All Star Shoreline Women's Lace-Up Sneakers",
-      "price": 38.5,
-      "originalPrice": 70.0,
       "source": "Kohl's",
-      "url": "https://www.kohls.com/product/prd-8042476/converse-chuck-taylor-all-star-shoreline-womens-lace-up-sneakers.jsp",
-      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/8042476_ALT?wid=800&hei=800&op_sharpen=1",
-      "category": "Shoes",
-      "kind": "new",
-      "condition": "New",
-      "foundDate": "2026-11-13",
       "stock": {
         "checkedDate": "2026-11-13",
         "status": "in_stock"
       },
+      "title": "Nike Waffle Debut Women's Shoes",
+      "url": "https://www.kohls.com/product/prd-5171146/nike-waffle-debut-womens-shoes.jsp"
+    },
+    {
+      "brand": "Converse",
+      "category": "Shoes",
+      "condition": "New",
       "dealReason": "45% off the regular Kohl's price.",
+      "foundDate": "2026-11-13",
+      "id": "kohls-converse-shoreline-sneakers",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/8042476_ALT?wid=800&hei=800&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 70.0,
+      "price": 38.5,
       "priceHistory": [
         {
           "date": "2026-11-13",
           "price": 38.5
         }
       ],
-      "brand": "Converse"
-    },
-    {
-      "id": "kohls-sephora-best-skin-ever-concealer",
-      "title": "SEPHORA COLLECTION Best Skin Ever Multi-Use Hydrating Glow Concealer",
-      "price": 4.0,
-      "originalPrice": 16.0,
       "source": "Kohl's",
-      "url": "https://www.kohls.com/product/prd-6461762/sephora-collection-best-skin-ever-multi-use-hydrating-glow-concealer.jsp",
-      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/e4d8dffc56d5e37a325b9bfa2d5258ed76db197b?wid=800&hei=800&op_sharpen=1",
-      "category": "Beauty",
-      "kind": "new",
-      "condition": "New",
-      "foundDate": "2026-11-13",
       "stock": {
         "checkedDate": "2026-11-13",
         "status": "in_stock"
       },
+      "title": "Converse Chuck Taylor All Star Shoreline Women's Lace-Up Sneakers",
+      "url": "https://www.kohls.com/product/prd-8042476/converse-chuck-taylor-all-star-shoreline-womens-lace-up-sneakers.jsp"
+    },
+    {
+      "brand": "SEPHORA COLLECTION",
+      "category": "Beauty",
+      "condition": "New",
       "dealReason": "75% off the regular Kohl's price.",
+      "foundDate": "2026-11-13",
+      "id": "kohls-sephora-best-skin-ever-concealer",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/e4d8dffc56d5e37a325b9bfa2d5258ed76db197b?wid=800&hei=800&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 16.0,
+      "price": 4.0,
       "priceHistory": [
         {
           "date": "2026-11-13",
           "price": 4.0
         }
       ],
-      "brand": "SEPHORA COLLECTION"
-    },
-    {
-      "id": "basspro-cabelas-caper-knife",
-      "title": "Cabela's Fixed-Blade Caper-Style Hunting Knife with Kydex Sheath",
-      "price": 99.98,
-      "originalPrice": 149.99,
-      "source": "Bass Pro Shops",
-      "url": "https://www.basspro.com/p/cabelas-fixed-blade-hunting-knife-with-kydex-sheath",
-      "imageUrl": "https://assets.basspro.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_500,q_auto,w_800/c_pad,h_500,w_800/v1/ProductImages/400/orange_101787831_main",
-      "category": "Tools",
-      "kind": "new",
-      "condition": "New",
-      "foundDate": "2026-11-13",
+      "source": "Kohl's",
       "stock": {
         "checkedDate": "2026-11-13",
         "status": "in_stock"
       },
+      "title": "SEPHORA COLLECTION Best Skin Ever Multi-Use Hydrating Glow Concealer",
+      "url": "https://www.kohls.com/product/prd-6461762/sephora-collection-best-skin-ever-multi-use-hydrating-glow-concealer.jsp"
+    },
+    {
+      "brand": "Cabela's",
+      "category": "Tools",
+      "condition": "New",
       "dealReason": "33% off the regular Bass Pro Shops price.",
+      "foundDate": "2026-11-13",
+      "id": "basspro-cabelas-caper-knife",
+      "imageUrl": "https://assets.basspro.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_500,q_auto,w_800/c_pad,h_500,w_800/v1/ProductImages/400/orange_101787831_main",
+      "kind": "new",
+      "originalPrice": 149.99,
+      "price": 99.98,
       "priceHistory": [
         {
           "date": "2026-11-13",
           "price": 99.98
         }
       ],
-      "brand": "Cabela's"
-    },
-    {
-      "id": "basspro-work-sharp-ken-onion-mk2",
-      "title": "Work Sharp Ken Onion Mk.2 Knife and Tool Sharpener",
-      "price": 179.99,
-      "originalPrice": 262.99,
       "source": "Bass Pro Shops",
-      "url": "https://www.basspro.com/p/work-sharp-ken-onion-mk2-knife-and-tool-sharpener",
-      "imageUrl": "https://assets.basspro.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_500,q_auto,w_800/c_pad,h_500,w_800/v1/ProductImages/400/master1_101532561_main",
-      "category": "Tools",
-      "kind": "new",
-      "condition": "New",
-      "foundDate": "2026-11-13",
       "stock": {
         "checkedDate": "2026-11-13",
         "status": "in_stock"
       },
+      "title": "Cabela's Fixed-Blade Caper-Style Hunting Knife with Kydex Sheath",
+      "url": "https://www.basspro.com/p/cabelas-fixed-blade-hunting-knife-with-kydex-sheath"
+    },
+    {
+      "brand": "Work Sharp",
+      "category": "Tools",
+      "condition": "New",
       "dealReason": "32% off the regular Bass Pro Shops price.",
+      "foundDate": "2026-11-13",
+      "id": "basspro-work-sharp-ken-onion-mk2",
+      "imageUrl": "https://assets.basspro.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_500,q_auto,w_800/c_pad,h_500,w_800/v1/ProductImages/400/master1_101532561_main",
+      "kind": "new",
+      "originalPrice": 262.99,
+      "price": 179.99,
       "priceHistory": [
         {
           "date": "2026-11-13",
           "price": 179.99
         }
       ],
-      "brand": "Work Sharp"
-    },
-    {
-      "id": "basspro-dryshod-stratalite-xt-boots",
-      "title": "Dryshod Stratalite XT Rubber Boots for Men",
-      "price": 99.98,
-      "originalPrice": 159.99,
       "source": "Bass Pro Shops",
-      "url": "https://www.basspro.com/p/dryshod-stratalite-xt-rubber-boots-for-men",
-      "imageUrl": "https://assets.basspro.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_500,q_auto,w_800/c_pad,h_500,w_800/v1/ProductImages/500/truetimberstrata_100373436_main",
-      "category": "Shoes",
-      "kind": "new",
-      "condition": "New",
-      "foundDate": "2026-11-13",
       "stock": {
         "checkedDate": "2026-11-13",
         "status": "in_stock"
       },
+      "title": "Work Sharp Ken Onion Mk.2 Knife and Tool Sharpener",
+      "url": "https://www.basspro.com/p/work-sharp-ken-onion-mk2-knife-and-tool-sharpener"
+    },
+    {
+      "brand": "Dryshod",
+      "category": "Shoes",
+      "condition": "New",
       "dealReason": "38% off the regular Bass Pro Shops price.",
+      "foundDate": "2026-11-13",
+      "id": "basspro-dryshod-stratalite-xt-boots",
+      "imageUrl": "https://assets.basspro.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_500,q_auto,w_800/c_pad,h_500,w_800/v1/ProductImages/500/truetimberstrata_100373436_main",
+      "kind": "new",
+      "originalPrice": 159.99,
+      "price": 99.98,
       "priceHistory": [
         {
           "date": "2026-11-13",
           "price": 99.98
         }
       ],
-      "brand": "Dryshod"
+      "source": "Bass Pro Shops",
+      "stock": {
+        "checkedDate": "2026-11-13",
+        "status": "in_stock"
+      },
+      "title": "Dryshod Stratalite XT Rubber Boots for Men",
+      "url": "https://www.basspro.com/p/dryshod-stratalite-xt-rubber-boots-for-men"
+    },
+    {
+      "brand": "Levi's",
+      "category": "Men",
+      "condition": "New",
+      "dealReason": "30% off the regular Kohl's price.",
+      "foundDate": "2026-11-13",
+      "id": "kohls-levis-513-jeans-men",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/2143062?wid=390&hei=390&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 64.95,
+      "price": 45.46,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 45.46
+        }
+      ],
+      "source": "Kohl's",
+      "title": "Men's Levi's® 513™ Slim Straight Stretch Jeans",
+      "url": "https://www.kohls.com/product/prd-2143062/levis-513-slim-straight-stretch-jeans-men.jsp?skuid=75692946"
+    },
+    {
+      "brand": "Columbia",
+      "category": "Men",
+      "condition": "New",
+      "dealReason": "40% off the regular Kohl's price.",
+      "foundDate": "2026-11-13",
+      "id": "kohls-columbia-powder-lite-ii-hooded-men",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/7754521?wid=390&hei=390&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 165.0,
+      "price": 99.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 99.0
+        }
+      ],
+      "source": "Kohl's",
+      "title": "Men's Columbia Powder Lite II Hooded Jacket",
+      "url": "https://www.kohls.com/product/prd-7754521/mens-columbia-powder-lite-ii-hooded-jacket.jsp?skuid=74781303"
+    },
+    {
+      "brand": "Columbia",
+      "category": "Women",
+      "condition": "New",
+      "dealReason": "30% off the regular Kohl's price.",
+      "foundDate": "2026-11-13",
+      "id": "kohls-columbia-benton-springs-women",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/4505753?wid=390&hei=390&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 65.0,
+      "price": 45.5,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 45.5
+        }
+      ],
+      "source": "Kohl's",
+      "title": "Women's Columbia Benton Springs Zip-Front Fleece Jacket",
+      "url": "https://www.kohls.com/product/prd-4505753/womens-columbia-benton-springs-zip-front-fleece-jacket.jsp?skuid=48892617"
+    },
+    {
+      "brand": "Levi's",
+      "category": "Women",
+      "condition": "New",
+      "dealReason": "30% off the regular Kohl's price.",
+      "foundDate": "2026-11-13",
+      "id": "kohls-levis-long-quilted-sherpa-coat-women",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6794381?wid=390&hei=390&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 200.0,
+      "price": 140.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 140.0
+        }
+      ],
+      "source": "Kohl's",
+      "title": "Women's Levi's® Long Quilted Sherpa Coat",
+      "url": "https://www.kohls.com/product/prd-6794381/womens-levis-long-quilted-sherpa-coat.jsp"
+    },
+    {
+      "brand": "Nike",
+      "category": "Kids",
+      "condition": "New",
+      "dealReason": "40% off the regular Kohl's price.",
+      "foundDate": "2026-11-13",
+      "id": "kohls-nike-toddler-puffer-jacket",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/8116220?wid=390&hei=390&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 90.0,
+      "price": 54.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 54.0
+        }
+      ],
+      "source": "Kohl's",
+      "title": "Toddler Girls Nike Essentials Water Resistant Artic Fleece Heavyweight Puffer Jacket",
+      "url": "https://www.kohls.com/product/prd-8116220/toddler-girls-nike-essentials-water-resistant-artic-fleece-heavyweight-puffer-jacket.jsp?skuid=70624847"
+    },
+    {
+      "brand": "adidas",
+      "category": "Shoes",
+      "condition": "New",
+      "dealReason": "25% off the regular Kohl's price.",
+      "foundDate": "2026-11-13",
+      "id": "kohls-adidas-vl-court-kids",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/7017257?wid=390&hei=390&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 50.0,
+      "price": 37.5,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 37.5
+        }
+      ],
+      "source": "Kohl's",
+      "title": "adidas VL Court 3.0 Kids Lifestyle Shoes",
+      "url": "https://www.kohls.com/product/prd-7017257/adidas-vl-court-30-kids-lifestyle-shoes.jsp?skuid=74958241"
+    },
+    {
+      "brand": "adidas",
+      "category": "Shoes",
+      "condition": "New",
+      "dealReason": "25% off the regular Kohl's price.",
+      "foundDate": "2026-11-13",
+      "id": "kohls-adidas-vl-court-bold-women",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6733611?wid=390&hei=390&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 80.0,
+      "price": 60.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 60.0
+        }
+      ],
+      "source": "Kohl's",
+      "title": "adidas VL Court Bold Women's Shoes",
+      "url": "https://www.kohls.com/product/prd-6733611/adidas-vl-court-bold-womens-shoes.jsp?prdPV=4"
+    },
+    {
+      "brand": "Ninja",
+      "category": "Home",
+      "condition": "New",
+      "dealReason": "28% off the regular Kohl's price.",
+      "foundDate": "2026-11-13",
+      "id": "kohls-ninja-air-fryer-pro-xl",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6875840?wid=390&hei=390&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 179.99,
+      "price": 129.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 129.99
+        }
+      ],
+      "source": "Kohl's",
+      "title": "Ninja Air Fryer Pro XL 6-in-1 with 6.5-qt. Capacity, Nonstick Basket & Crisper Plate",
+      "url": "https://www.kohls.com/product/prd-6875840/ninja-air-fryer-pro-xl-6-in-1-with-65-qt-capacity-nonstick-basket-crisper-plate.jsp?skuid=66747382"
+    },
+    {
+      "brand": "The North Face",
+      "category": "Men",
+      "condition": "New",
+      "dealReason": "55% off the comparable value.",
+      "foundDate": "2026-11-13",
+      "id": "rack-terra-peak-jacket",
+      "imageUrl": "https://n.nordstrommedia.com/it/664f4ecf-ee5f-4a48-8176-bf6e4959e87b.jpeg?h=368&w=240&dpr=2",
+      "kind": "new",
+      "originalPrice": 220.0,
+      "price": 99.97,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 99.97
+        }
+      ],
+      "source": "Nordstrom Rack",
+      "title": "Terra Peak Jacket",
+      "url": "https://www.nordstromrack.com/s/the-north-face-m-terra-peak-jacket/9369963"
+    },
+    {
+      "brand": "The North Face",
+      "category": "Women",
+      "condition": "New",
+      "dealReason": "38% off the comparable value.",
+      "foundDate": "2026-11-13",
+      "id": "rack-osito-lux-high-pile-fleece-jacket",
+      "imageUrl": "https://n.nordstrommedia.com/it/980162c0-e381-496a-bf03-2db9fbc985cf.jpeg?w=780&h=1170&crop=pad",
+      "kind": "new",
+      "originalPrice": 120.0,
+      "price": 74.97,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 74.97
+        }
+      ],
+      "source": "Nordstrom Rack",
+      "title": "Osito Lux High Pile Fleece Jacket",
+      "url": "https://www.nordstromrack.com/s/the-north-face-osito-lux-high-pile-fleece-jacket/8472511"
+    },
+    {
+      "brand": "SOREL",
+      "category": "Women",
+      "condition": "New",
+      "dealReason": "44% off the comparable value.",
+      "foundDate": "2026-11-13",
+      "id": "rack-sorel-tivoli-v-tall-waterproof-boot",
+      "imageUrl": "https://n.nordstrommedia.com/it/091d2b0c-ce06-40f7-b215-b926388e73f9.jpeg?w=780&h=1170&crop=pad",
+      "kind": "new",
+      "originalPrice": 180.0,
+      "price": 99.97,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 99.97
+        }
+      ],
+      "source": "Nordstrom Rack",
+      "title": "Tivoli V Faux Fur Lined Tall Waterproof Boot",
+      "url": "https://www.nordstromrack.com/s/sorel-tivoli-v-faux-fur-lined-tall-waterproof-boot-women/7952845"
+    },
+    {
+      "brand": "SOREL",
+      "category": "Shoes",
+      "condition": "New",
+      "dealReason": "48% off the comparable value.",
+      "foundDate": "2026-11-13",
+      "id": "rack-sorel-joan-frwd-cozy-waterproof-boot",
+      "imageUrl": "https://n.nordstrommedia.com/it/105fe4fd-bedb-4439-9612-0ef089d1ecfc.jpeg?w=780&h=1170&crop=pad",
+      "kind": "new",
+      "originalPrice": 230.0,
+      "price": 119.97,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 119.97
+        }
+      ],
+      "source": "Nordstrom Rack",
+      "title": "Joan FRWD Cozy Genuine Shearling Trim Waterproof Boot",
+      "url": "https://www.nordstromrack.com/s/sorel-joan-frwd-cozy-genuine-shearling-trim-waterproof-boot-women/8491694"
+    },
+    {
+      "brand": "SOREL",
+      "category": "Shoes",
+      "condition": "New",
+      "dealReason": "47% off the comparable value.",
+      "foundDate": "2026-11-13",
+      "id": "rack-sorel-joan-frwd-waterproof-chelsea-boot",
+      "imageUrl": "https://n.nordstrommedia.com/it/fcb49695-eee4-4c93-8202-7f2abed7f2fb.jpeg?w=780&h=1170&crop=pad",
+      "kind": "new",
+      "originalPrice": 170.0,
+      "price": 89.97,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 89.97
+        }
+      ],
+      "source": "Nordstrom Rack",
+      "title": "Joan FRWD Waterproof Chelsea Boot",
+      "url": "https://www.nordstromrack.com/s/sorel-joan-frwd-waterproof-chelsea-boot-women/8433818"
+    },
+    {
+      "brand": "UGG",
+      "category": "Men",
+      "condition": "New",
+      "dealReason": "36% off the comparable value.",
+      "foundDate": "2026-11-13",
+      "id": "rack-ugg-tasman-lace-slippers-men",
+      "imageUrl": "https://n.nordstrommedia.com/it/e4734917-618c-4bf0-a952-724cccb3d975.jpeg?w=780&h=1170&crop=pad",
+      "kind": "new",
+      "originalPrice": 155.0,
+      "price": 99.97,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 99.97
+        }
+      ],
+      "source": "Nordstrom Rack",
+      "title": "Tasman Genuine Shearling Lined Lace Slippers",
+      "url": "https://www.nordstromrack.com/s/ugg-tasman-genuine-shearling-lined-lace-slippers-men/8458103"
+    },
+    {
+      "brand": "Carhartt",
+      "category": "Men",
+      "condition": "Pre-owned - Excellent",
+      "dealReason": "Pre-owned in excellent condition.",
+      "foundDate": "2026-11-13",
+      "id": "poshmark-carhartt-wip-og-detroit-jacket-norco-denim",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/07/09/6a4fdaa6ac1f765a0ab37892/s_6a4fdb512326c8fe8c517a57.jpeg",
+      "kind": "secondhand",
+      "originalPrice": null,
+      "price": 150.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 150.0
+        }
+      ],
+      "size": "L",
+      "source": "Poshmark",
+      "title": "Carhartt WIP OG Detroit Jacket in Norco Denim Blue Rigid",
+      "url": "https://poshmark.com/listing/Carhartt-WIP-OG-Detroit-Jacket-in-Norco-Denim-Blue-Rigid-6a4fdaa6ac1f765a0ab37892"
+    },
+    {
+      "brand": "The North Face",
+      "category": "Outdoor",
+      "condition": "Pre-owned - Good",
+      "dealReason": "Pre-owned in good condition — seller describes it as in great condition.",
+      "foundDate": "2026-11-13",
+      "id": "poshmark-the-north-face-nuptse-womans-700-down-puffer",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/05/16/6a08b940c71ba1f1db29377a/s_6a08b944006e4335b5b6a0.jpg",
+      "kind": "secondhand",
+      "originalPrice": null,
+      "price": 99.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 99.0
+        }
+      ],
+      "source": "Poshmark",
+      "title": "The North Face Nuptse woman’s 700 down puffer jacket",
+      "url": "https://poshmark.com/listing/The-North-Face-Nuptse-womans-700-down-puffer-jacket-6a08b940c71ba1f1db29377a"
+    },
+    {
+      "brand": "Free People",
+      "category": "Women",
+      "condition": "Pre-owned - Good",
+      "dealReason": "Pre-owned in good condition — dark floral burnout velvet, at about a third of the $168 original price shown on the listing.",
+      "foundDate": "2026-11-13",
+      "id": "poshmark-free-people-falling-leaves-burnout-velvet-dress",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/07/03/6a4849024a072b5a27755798/s_6a484944b9449130d90d6ed1.jpg",
+      "kind": "secondhand",
+      "originalPrice": 168.0,
+      "price": 58.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 58.0
+        }
+      ],
+      "source": "Poshmark",
+      "title": "Free People Falling Leaves dress featuring a floral burnout velvet design",
+      "url": "https://poshmark.com/listing/Free-People-Falling-Leaves-dress-featuring-a-floral-burnout-velvet-design-6a4849024a072b5a27755798"
+    },
+    {
+      "brand": "Lululemon",
+      "category": "Women",
+      "condition": "Pre-owned - Excellent",
+      "dealReason": "Pre-owned in excellent condition — listed like new at less than half the $118 original price shown on the listing.",
+      "foundDate": "2026-11-13",
+      "id": "poshmark-lululemon-define-size-4-zip",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/07/07/6a4db8895df8e7512fb48c37/s_6a4db89b24d2e71e846a6310.jpg",
+      "kind": "secondhand",
+      "originalPrice": 118.0,
+      "price": 50.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 50.0
+        }
+      ],
+      "size": "4",
+      "source": "Poshmark",
+      "title": "Lululemon Define size 4 zip",
+      "url": "https://poshmark.com/listing/Lululemon-Define-size-4-zip-6a4db8895df8e7512fb48c37"
+    },
+    {
+      "brand": "Adidas",
+      "category": "Shoes",
+      "condition": "New with tags",
+      "dealReason": "New with tags — brand new in original box with tags attached.",
+      "foundDate": "2026-11-13",
+      "id": "poshmark-adidas-samba-og-w-core-black-lucid-pink-gum",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/16/6aab362128951fc7043f0292/s_6aab363eda3eeb2d4d2efb52.jpg",
+      "kind": "secondhand",
+      "originalPrice": null,
+      "price": 50.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 50.0
+        }
+      ],
+      "size": "6",
+      "source": "Poshmark",
+      "title": "adidas Samba OG W Core Black Lucid Pink Gum JS1386 Women's Size 6 NIB Brand New",
+      "url": "https://poshmark.com/listing/adidas-Samba-OG-W-Core-Black-Lucid-Pink-Gum-JS1386-Womens-Size-6-NIB-Brand-New-6aab362128951fc7043f0292"
+    },
+    {
+      "brand": "Patagonia",
+      "category": "Kids",
+      "condition": "Pre-owned - Good",
+      "dealReason": "Pre-owned in good condition — at a fraction of the $89 original price shown on the listing.",
+      "foundDate": "2026-11-13",
+      "id": "poshmark-patagonia-kids-better-sweater-gray-xl-14",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/12/6acd8cd105ce57f96823d6df/s_6acd8ce81ae1ad9280337e6d.jpg",
+      "kind": "secondhand",
+      "originalPrice": 89.0,
+      "price": 15.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 15.0
+        }
+      ],
+      "size": "XL (14)",
+      "source": "Poshmark",
+      "title": "Patagonia Kids Better Sweater 1/4 Zip Fleece Pullover Gray XL 14",
+      "url": "https://poshmark.com/listing/Patagonia-Kids-Better-Sweater-14-Zip-Fleece-Pullover-Gray-XL-14-6acd8cd105ce57f96823d6df"
+    },
+    {
+      "brand": "Ralph Lauren",
+      "category": "Women",
+      "condition": "Pre-owned - Good",
+      "dealReason": "Pre-owned in good condition — seller notes EUC with no flaws, at about a third of the $145 original price shown on the listing.",
+      "foundDate": "2026-11-13",
+      "id": "poshmark-ralph-lauren-sport-zipup-cable-knit-cardigan-l",
+      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/01/10/69632758bedd34217e094696/s_6963277121b80137c195878d.jpg",
+      "kind": "secondhand",
+      "originalPrice": 145.0,
+      "price": 50.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 50.0
+        }
+      ],
+      "size": "L",
+      "source": "Poshmark",
+      "title": "Ralph Lauren Sport Light Blue Zip-Up Cable Knit Sweater Cardigan L",
+      "url": "https://poshmark.com/listing/Ralph-Lauren-Sport-Light-Blue-ZipUp-Cable-Knit-Sweater-Cardigan-L-69632758bedd34217e094696"
+    },
+    {
+      "brand": "Zeus & Ruta",
+      "category": "Pets",
+      "condition": "New",
+      "dealReason": "47% off the regular price.",
+      "foundDate": "2026-11-13",
+      "id": "target-zeus-ruta-xl-elevated-dog-bed",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_07e55486-304f-40b1-96fc-84a33a888997?wid=300&hei=300&fmt=pjpeg",
+      "kind": "new",
+      "originalPrice": 140.85,
+      "price": 74.78,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 74.78
+        }
+      ],
+      "source": "Target",
+      "title": "Zeus & Ruta XL Elevated Dog Bed with Washable Pillow, Steel Frame Raised Pet Cot, Breathable Mesh for Indoor Outdoor, Gray",
+      "url": "https://www.target.com/p/zeus-ruta-xl-elevated-dog-bed-with-washable-pillow-steel-frame-raised-pet-cot-breathable-mesh-for-indoor-outdoor-gray/-/A-1011006611"
+    },
+    {
+      "brand": "Soundcore",
+      "category": "Electronics",
+      "condition": "New",
+      "dealReason": "46% off the regular price.",
+      "foundDate": "2026-11-13",
+      "id": "target-soundcore-anker-p30i-earbuds",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_4ac96aec-29f4-4d15-9513-f633b4e33fa5?wid=300&hei=300&fmt=pjpeg",
+      "kind": "new",
+      "originalPrice": 49.99,
+      "price": 26.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 26.99
+        }
+      ],
+      "source": "Target",
+      "title": "Soundcore - by Anker P30i True Wireless Noise Cancelling Earbuds",
+      "url": "https://www.target.com/p/soundcore-by-anker-p30i-true-wireless-noise-cancelling-earbuds/-/A-1010152311"
+    },
+    {
+      "brand": "All for Paws",
+      "category": "Pets",
+      "condition": "New",
+      "dealReason": "30% off the regular price.",
+      "foundDate": "2026-11-13",
+      "id": "target-allforpaws-interactive-dog-toy-action-ball",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_b7cf1f50-dde6-444c-a154-8d6b14ceeac9?wid=300&hei=300&fmt=pjpeg",
+      "kind": "new",
+      "originalPrice": 26.99,
+      "price": 18.89,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 18.89
+        }
+      ],
+      "source": "Target",
+      "title": "Allforpaws Interactive Dog Toy, Motion Activated Action Ball",
+      "url": "https://www.target.com/p/allforpaws-interactive-dog-toy-motion-activated-action-ball/-/A-1006987195"
+    },
+    {
+      "brand": "Picasso Tiles",
+      "category": "Toys",
+      "condition": "New",
+      "dealReason": "40% off the regular price.",
+      "foundDate": "2026-11-13",
+      "id": "target-picassotiles-82pcs-magnetic-tiles",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_0869454a-308d-4a10-9941-c9a6f4bf9b34?wid=300&hei=300&fmt=pjpeg",
+      "kind": "new",
+      "originalPrice": 58.32,
+      "price": 34.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 34.99
+        }
+      ],
+      "source": "Target",
+      "title": "PICASSO-TILES 82PCS Magnetic Tiles for Kids – STEM Construction Building Blocks Set, Educational Creative Learning Toy for Boys & Girls",
+      "url": "https://www.target.com/p/picasso-tiles-82pcs-magnetic-tiles-for-kids-stem-construction-building-blocks-set-educational-creative-learning-toy-for-boys-girls/-/A-1010857125"
+    },
+    {
+      "brand": "Costway",
+      "category": "Gaming",
+      "condition": "New",
+      "dealReason": "59% off the regular price.",
+      "foundDate": "2026-11-13",
+      "id": "target-costway-gaming-chair-massage-pink",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_67a1e604-73a6-455f-899b-53f3055b960c?wid=300&hei=300&fmt=pjpeg",
+      "kind": "new",
+      "originalPrice": 419.99,
+      "price": 173.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 173.99
+        }
+      ],
+      "source": "Target",
+      "title": "Costway Gaming Chair Massage Reclining Racing Office Computer Chair with Footrest Pink",
+      "url": "https://www.target.com/p/costway-gaming-chair-massage-reclining-racing-office-computer-chair-with-footrest-pink/-/A-86845065"
+    },
+    {
+      "brand": "CUSHIONAIRE",
+      "category": "Kids",
+      "condition": "New",
+      "dealReason": "33% off the regular price.",
+      "foundDate": "2026-11-13",
+      "id": "target-cushionaire-heddy-kids-clogs",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_5feed49b-3e9a-4aee-9114-23f8a6be68fd?wid=300&hei=300&fmt=pjpeg",
+      "kind": "new",
+      "originalPrice": 59.99,
+      "price": 40.19,
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 40.19
+        }
+      ],
+      "source": "Target",
+      "title": "CUSHIONAIRE Heddy Kids' Genuine Suede Clogs - Boys' and Girls' Slip On Round Toe Potato Shoes with Adjustable Buckle Strap and Cushioned Footbed",
+      "url": "https://www.target.com/p/cushionaire-heddy-kids-genuine-suede-clogs-boys-and-girls-slip-on-round-toe-potato-shoes-with-adjustable-buckle-strap-and-cushioned-footbed/-/A-1013708410"
     }
   ]
 }

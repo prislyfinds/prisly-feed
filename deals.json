@@ -1,6 +1,6 @@
 {
   "feedVersion": 2,
-  "gatheredOn": "2026-11-12",
+  "gatheredOn": "2026-11-13",
   "finds": [
     {
       "category": "Men",
@@ -329,7 +329,7 @@
       "brand": "Baby Gap",
       "category": "Kids",
       "condition": "Like new",
-      "dealReason": "Like new — worn only twice, per the seller.",
+      "dealReason": "Like new \u2014 worn only twice, per the seller.",
       "foundDate": "2026-11-08",
       "id": "posh-baby-gap-poplin-03m",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/01/24/69751359a6bb7616b37782a5/l_697513e121bd42f33c246bbf.jpeg",
@@ -413,7 +413,7 @@
       "brand": "Bonnie Jean",
       "category": "Kids",
       "condition": "New with tags",
-      "dealReason": "New with tags — the listing's original price is $70.",
+      "dealReason": "New with tags \u2014 the listing's original price is $70.",
       "foundDate": "2026-11-08",
       "id": "posh-bj-polkadot-4t",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/08/6af0d7d028951f73c6bd0bf0/l_6af0d7e6ea03993291dd2ef4.jpg",
@@ -469,7 +469,7 @@
       "brand": "Tutu Du Monde",
       "category": "Kids",
       "condition": "Worn once",
-      "dealReason": "Worn once, per the seller — price dropped 29% on the listing.",
+      "dealReason": "Worn once, per the seller \u2014 price dropped 29% on the listing.",
       "foundDate": "2026-11-08",
       "id": "posh-tdm-dahlia-67",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/06/23/6a3ac0b0006e43853b5ab88a/l_6a3ac11dbedd349d54fc0892.jpg",
@@ -797,7 +797,7 @@
         "checkedDate": "2026-11-10",
         "status": "in_stock"
       },
-      "title": "Men's Columbia Steens Mountain™ Full-Zip Fleece Jacket",
+      "title": "Men's Columbia Steens Mountain\u2122 Full-Zip Fleece Jacket",
       "url": "https://www.kohls.com/product/prd-3592654/mens-columbia-steens-mountain-full-zip-fleece-jacket.jsp"
     },
     {
@@ -822,7 +822,7 @@
         "checkedDate": "2026-11-10",
         "status": "in_stock"
       },
-      "title": "Men's Columbia Glennaker Lake™ II Hooded Rain Jacket",
+      "title": "Men's Columbia Glennaker Lake\u2122 II Hooded Rain Jacket",
       "url": "https://www.kohls.com/product/prd-6810974/mens-columbia-glennaker-lake-ii-hooded-rain-jacket.jsp"
     },
     {
@@ -1254,7 +1254,7 @@
       "url": "https://www.basspro.com/p/cabelas-instinct-barrier-gore-tex-jacket-for-men"
     },
     {
-      "brand": "Lancôme",
+      "brand": "Lanc\u00f4me",
       "category": "Beauty",
       "condition": "New",
       "dealReason": "40% off the regular Walmart price.",
@@ -1275,7 +1275,7 @@
         "checkedDate": "2026-11-12",
         "status": "in_stock"
       },
-      "title": "Lancôme La Vie Est Belle Eau de Parfum Spray for Women, 1 oz",
+      "title": "Lanc\u00f4me La Vie Est Belle Eau de Parfum Spray for Women, 1 oz",
       "url": "https://www.walmart.com/ip/Lancome-La-Vie-Est-Belle-Eau-De-Parfum-Spray-for-Women-1-oz/47621726"
     },
     {
@@ -1416,7 +1416,7 @@
     },
     {
       "id": "walmart-flash-ninja-air-fryer-pro-af141",
-      "title": "Ninja® Air Fryer Pro, 4-in-1, 5 Qt Capacity, Af141",
+      "title": "Ninja\u00ae Air Fryer Pro, 4-in-1, 5 Qt Capacity, Af141",
       "price": 89.9,
       "originalPrice": 129.99,
       "source": "Walmart",
@@ -1599,6 +1599,231 @@
         }
       ],
       "brand": "Disney"
+    },
+    {
+      "id": "kohls-journee-romilly-knee-high-boots",
+      "title": "Journee Women's Romilly Knee High Boots",
+      "price": 97.99,
+      "originalPrice": 139.99,
+      "source": "Kohl's",
+      "url": "https://www.kohls.com/product/prd-6718555/journee-womens-romilly-knee-high-boots.jsp",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6718555_Cranberry?wid=800&hei=800&op_sharpen=1",
+      "category": "Shoes",
+      "kind": "new",
+      "condition": "New",
+      "foundDate": "2026-11-13",
+      "stock": {
+        "checkedDate": "2026-11-13",
+        "status": "in_stock"
+      },
+      "dealReason": "30% off the regular Kohl's price.",
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 97.99
+        }
+      ],
+      "brand": "Journee"
+    },
+    {
+      "id": "kohls-nine-west-zeran-dress-boots",
+      "title": "Nine West Zeran Women's Pointed Toe Block Heel Dress Boots",
+      "price": 64.99,
+      "originalPrice": 129.99,
+      "source": "Kohl's",
+      "url": "https://www.kohls.com/product/prd-7863158/nine-west-zeran-womens-pointed-toe-block-heel-dress-boots.jsp",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/7863158_Black?wid=800&hei=800&op_sharpen=1",
+      "category": "Shoes",
+      "kind": "new",
+      "condition": "New",
+      "foundDate": "2026-11-13",
+      "stock": {
+        "checkedDate": "2026-11-13",
+        "status": "in_stock"
+      },
+      "dealReason": "50% off the regular Kohl's price.",
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 64.99
+        }
+      ],
+      "brand": "Nine West"
+    },
+    {
+      "id": "kohls-journee-tori-knee-high-boots",
+      "title": "Journee Tori Women's Knee-High Boots",
+      "price": 69.99,
+      "originalPrice": 99.99,
+      "source": "Kohl's",
+      "url": "https://www.kohls.com/product/prd-1941404/journee-collection-tori-womens-wide-calf-tall-boots.jsp",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/1941404_Black?wid=800&hei=800&op_sharpen=1",
+      "category": "Shoes",
+      "kind": "new",
+      "condition": "New",
+      "foundDate": "2026-11-13",
+      "stock": {
+        "checkedDate": "2026-11-13",
+        "status": "in_stock"
+      },
+      "dealReason": "30% off the regular Kohl's price.",
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 69.99
+        }
+      ],
+      "brand": "Journee"
+    },
+    {
+      "id": "kohls-nike-waffle-debut",
+      "title": "Nike Waffle Debut Women's Shoes",
+      "price": 52.5,
+      "originalPrice": 75.0,
+      "source": "Kohl's",
+      "url": "https://www.kohls.com/product/prd-5171146/nike-waffle-debut-womens-shoes.jsp",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/5171146_ALT?wid=800&hei=800&op_sharpen=1",
+      "category": "Shoes",
+      "kind": "new",
+      "condition": "New",
+      "foundDate": "2026-11-13",
+      "stock": {
+        "checkedDate": "2026-11-13",
+        "status": "in_stock"
+      },
+      "dealReason": "30% off the regular Kohl's price.",
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 52.5
+        }
+      ],
+      "brand": "Nike"
+    },
+    {
+      "id": "kohls-converse-shoreline-sneakers",
+      "title": "Converse Chuck Taylor All Star Shoreline Women's Lace-Up Sneakers",
+      "price": 38.5,
+      "originalPrice": 70.0,
+      "source": "Kohl's",
+      "url": "https://www.kohls.com/product/prd-8042476/converse-chuck-taylor-all-star-shoreline-womens-lace-up-sneakers.jsp",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/8042476_ALT?wid=800&hei=800&op_sharpen=1",
+      "category": "Shoes",
+      "kind": "new",
+      "condition": "New",
+      "foundDate": "2026-11-13",
+      "stock": {
+        "checkedDate": "2026-11-13",
+        "status": "in_stock"
+      },
+      "dealReason": "45% off the regular Kohl's price.",
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 38.5
+        }
+      ],
+      "brand": "Converse"
+    },
+    {
+      "id": "kohls-sephora-best-skin-ever-concealer",
+      "title": "SEPHORA COLLECTION Best Skin Ever Multi-Use Hydrating Glow Concealer",
+      "price": 4.0,
+      "originalPrice": 16.0,
+      "source": "Kohl's",
+      "url": "https://www.kohls.com/product/prd-6461762/sephora-collection-best-skin-ever-multi-use-hydrating-glow-concealer.jsp",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/e4d8dffc56d5e37a325b9bfa2d5258ed76db197b?wid=800&hei=800&op_sharpen=1",
+      "category": "Beauty",
+      "kind": "new",
+      "condition": "New",
+      "foundDate": "2026-11-13",
+      "stock": {
+        "checkedDate": "2026-11-13",
+        "status": "in_stock"
+      },
+      "dealReason": "75% off the regular Kohl's price.",
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 4.0
+        }
+      ],
+      "brand": "SEPHORA COLLECTION"
+    },
+    {
+      "id": "basspro-cabelas-caper-knife",
+      "title": "Cabela's Fixed-Blade Caper-Style Hunting Knife with Kydex Sheath",
+      "price": 99.98,
+      "originalPrice": 149.99,
+      "source": "Bass Pro Shops",
+      "url": "https://www.basspro.com/p/cabelas-fixed-blade-hunting-knife-with-kydex-sheath",
+      "imageUrl": "https://assets.basspro.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_500,q_auto,w_800/c_pad,h_500,w_800/v1/ProductImages/400/orange_101787831_main",
+      "category": "Tools",
+      "kind": "new",
+      "condition": "New",
+      "foundDate": "2026-11-13",
+      "stock": {
+        "checkedDate": "2026-11-13",
+        "status": "in_stock"
+      },
+      "dealReason": "33% off the regular Bass Pro Shops price.",
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 99.98
+        }
+      ],
+      "brand": "Cabela's"
+    },
+    {
+      "id": "basspro-work-sharp-ken-onion-mk2",
+      "title": "Work Sharp Ken Onion Mk.2 Knife and Tool Sharpener",
+      "price": 179.99,
+      "originalPrice": 262.99,
+      "source": "Bass Pro Shops",
+      "url": "https://www.basspro.com/p/work-sharp-ken-onion-mk2-knife-and-tool-sharpener",
+      "imageUrl": "https://assets.basspro.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_500,q_auto,w_800/c_pad,h_500,w_800/v1/ProductImages/400/master1_101532561_main",
+      "category": "Tools",
+      "kind": "new",
+      "condition": "New",
+      "foundDate": "2026-11-13",
+      "stock": {
+        "checkedDate": "2026-11-13",
+        "status": "in_stock"
+      },
+      "dealReason": "32% off the regular Bass Pro Shops price.",
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 179.99
+        }
+      ],
+      "brand": "Work Sharp"
+    },
+    {
+      "id": "basspro-dryshod-stratalite-xt-boots",
+      "title": "Dryshod Stratalite XT Rubber Boots for Men",
+      "price": 99.98,
+      "originalPrice": 159.99,
+      "source": "Bass Pro Shops",
+      "url": "https://www.basspro.com/p/dryshod-stratalite-xt-rubber-boots-for-men",
+      "imageUrl": "https://assets.basspro.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_500,q_auto,w_800/c_pad,h_500,w_800/v1/ProductImages/500/truetimberstrata_100373436_main",
+      "category": "Shoes",
+      "kind": "new",
+      "condition": "New",
+      "foundDate": "2026-11-13",
+      "stock": {
+        "checkedDate": "2026-11-13",
+        "status": "in_stock"
+      },
+      "dealReason": "38% off the regular Bass Pro Shops price.",
+      "priceHistory": [
+        {
+          "date": "2026-11-13",
+          "price": 99.98
+        }
+      ],
+      "brand": "Dryshod"
     }
   ]
 }

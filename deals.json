@@ -769,7 +769,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-09",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Ninja Foodi 6.5-qt. Everyday PossibleCooker Pro Multi-Cooker MC1101",
@@ -794,7 +794,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-10",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Men's Columbia Steens Mountain™ Full-Zip Fleece Jacket",
@@ -819,7 +819,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-10",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Men's Columbia Glennaker Lake™ II Hooded Rain Jacket",
@@ -844,8 +844,8 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-10",
-        "status": "in_stock"
+        "checkedDate": "2026-11-14",
+        "status": "sold"
       },
       "title": "Men's Columbia WaterTight II Jacket",
       "url": "https://www.kohls.com/product/prd-3596160/mens-columbia-watertight-ii-packable-jacket.jsp"
@@ -869,7 +869,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-10",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Men's Columbia Ascender Softshell Jacket",
@@ -894,7 +894,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-10",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Men's Columbia Powder Lite II Jacket",
@@ -919,7 +919,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-10",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Men's Columbia Rapid Rivers II Long Sleeve Shirt",
@@ -1069,7 +1069,7 @@
       ],
       "source": "Walmart",
       "stock": {
-        "checkedDate": "2026-11-11",
+        "checkedDate": "2026-11-14",
         "status": "low_stock"
       },
       "title": "LEGO Classic Large Creative Brick Box 10698",
@@ -1094,7 +1094,7 @@
       ],
       "source": "Walmart",
       "stock": {
-        "checkedDate": "2026-11-12",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "SOG Power Pint Multi-Tool, 18-Tool, Compact Size 5\"",
@@ -1119,7 +1119,7 @@
       ],
       "source": "Walmart",
       "stock": {
-        "checkedDate": "2026-11-12",
+        "checkedDate": "2026-11-14",
         "count": 2,
         "status": "low_stock"
       },
@@ -1145,7 +1145,7 @@
       ],
       "source": "Walmart",
       "stock": {
-        "checkedDate": "2026-11-12",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Citizen Men's Eco-Drive Chandler Field Watch, 37 mm, Green Strap (BM8180-03E)",
@@ -1171,7 +1171,7 @@
       "shipping": 4.99,
       "source": "Walmart",
       "stock": {
-        "checkedDate": "2026-11-12",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Casio G-Shock GA100-1A1 Men's Watch, Black Ana-Digi Dial, Resin Strap",
@@ -1222,7 +1222,7 @@
       "size": "S",
       "source": "Bass Pro Shops",
       "stock": {
-        "checkedDate": "2026-11-12",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Cabela's Instinct Barrier GORE-TEX Jacket for Men, TrueTimber VSX",
@@ -1247,7 +1247,7 @@
       ],
       "source": "Walmart",
       "stock": {
-        "checkedDate": "2026-11-12",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Lancôme La Vie Est Belle Eau de Parfum Spray for Women, 1 oz",
@@ -1273,7 +1273,10 @@
       ],
       "source": "Walmart",
       "title": "Crock-pot Manual 7-quart Slow Cooker, Reflection",
-      "url": "https://www.walmart.com/ip/15200300942"
+      "url": "https://www.walmart.com/ip/15200300942",
+      "stock": {
+        "checkedDate": "2026-11-14"
+      }
     },
     {
       "brand": "Tineco",
@@ -1299,7 +1302,10 @@
       ],
       "source": "Walmart",
       "title": "Tineco Go Cordless Stick Vacuum, 40 Min Run Time - Teal (go201)",
-      "url": "https://www.walmart.com/ip/6195700632"
+      "url": "https://www.walmart.com/ip/6195700632",
+      "stock": {
+        "checkedDate": "2026-11-14"
+      }
     },
     {
       "brand": "KitchenAid",
@@ -1321,7 +1327,10 @@
       ],
       "source": "Walmart",
       "title": "Kitchenaid 4.5 Quart Tilt-head Stand Mixer - Ksm97",
-      "url": "https://www.walmart.com/ip/673301960"
+      "url": "https://www.walmart.com/ip/673301960",
+      "stock": {
+        "checkedDate": "2026-11-14"
+      }
     },
     {
       "brand": "Shark",
@@ -1343,7 +1352,10 @@
       ],
       "source": "Walmart",
       "title": "Shark Powerlite Cordless Stick Vacuum, Self Cleaning Brushroll, Hepa, Anti-allergen Complete Seal, 40 Min Runtime, Bu1620 Storm Cloud",
-      "url": "https://www.walmart.com/ip/19586359962"
+      "url": "https://www.walmart.com/ip/19586359962",
+      "stock": {
+        "checkedDate": "2026-11-14"
+      }
     },
     {
       "brand": "Keurig",
@@ -1365,7 +1377,10 @@
       ],
       "source": "Walmart",
       "title": "Keurig K-express Essentials Red Single-serve K-cup Pod Coffee Maker",
-      "url": "https://www.walmart.com/ip/17400009688"
+      "url": "https://www.walmart.com/ip/17400009688",
+      "stock": {
+        "checkedDate": "2026-11-14"
+      }
     },
     {
       "brand": "Beats",
@@ -1387,7 +1402,10 @@
       ],
       "source": "Walmart",
       "title": "Beats Studio Pro Wireless Headphones - Black",
-      "url": "https://www.walmart.com/ip/1575006069"
+      "url": "https://www.walmart.com/ip/1575006069",
+      "stock": {
+        "checkedDate": "2026-11-14"
+      }
     },
     {
       "brand": "Ninja",
@@ -1409,7 +1427,10 @@
       ],
       "source": "Walmart",
       "title": "Ninja® Air Fryer Pro, 4-in-1, 5 Qt Capacity, Af141",
-      "url": "https://www.walmart.com/ip/11526364074"
+      "url": "https://www.walmart.com/ip/11526364074",
+      "stock": {
+        "checkedDate": "2026-11-14"
+      }
     },
     {
       "brand": "KitchenAid",
@@ -1435,7 +1456,10 @@
       ],
       "source": "Walmart",
       "title": "Kitchenaid Classic Series 4.5-quart Tilt-head Stand Mixer, Onyx Black, K45ssob",
-      "url": "https://www.walmart.com/ip/29474640"
+      "url": "https://www.walmart.com/ip/29474640",
+      "stock": {
+        "checkedDate": "2026-11-14"
+      }
     },
     {
       "brand": "LEGO",
@@ -1461,7 +1485,10 @@
       ],
       "source": "Walmart",
       "title": "Lego Speed Champions Pagani Utopia 76915 Race Car Toy Model Building Kit, Italian Hypercar, Collectible Racing Vehicle, 2023 Set",
-      "url": "https://www.walmart.com/ip/5025976323"
+      "url": "https://www.walmart.com/ip/5025976323",
+      "stock": {
+        "checkedDate": "2026-11-14"
+      }
     },
     {
       "brand": "Hart",
@@ -1483,7 +1510,10 @@
       ],
       "source": "Walmart",
       "title": "Hart 20-volt Cordless Rotary Tool With 33 Accessories (battery Not Included)",
-      "url": "https://www.walmart.com/ip/643615942"
+      "url": "https://www.walmart.com/ip/643615942",
+      "stock": {
+        "checkedDate": "2026-11-14"
+      }
     },
     {
       "brand": "Revlon",
@@ -1505,7 +1535,10 @@
       ],
       "source": "Walmart",
       "title": "Revlon One-step Volumizer Plus Hair Dryer And Hot Air Brush, Black",
-      "url": "https://www.walmart.com/ip/448221388"
+      "url": "https://www.walmart.com/ip/448221388",
+      "stock": {
+        "checkedDate": "2026-11-14"
+      }
     },
     {
       "brand": "Skechers",
@@ -1527,7 +1560,10 @@
       ],
       "source": "Walmart",
       "title": "Skechers Work Women's Dyna Air Slip Resistant Lace-up Sneaker",
-      "url": "https://www.walmart.com/ip/581323466"
+      "url": "https://www.walmart.com/ip/581323466",
+      "stock": {
+        "checkedDate": "2026-11-14"
+      }
     },
     {
       "brand": "Levi's",
@@ -1549,7 +1585,10 @@
       ],
       "source": "Walmart",
       "title": "Levi's Men's 514 Straight Fit Jeans",
-      "url": "https://www.walmart.com/ip/3453589369"
+      "url": "https://www.walmart.com/ip/3453589369",
+      "stock": {
+        "checkedDate": "2026-11-14"
+      }
     },
     {
       "brand": "Disney",
@@ -1573,7 +1612,10 @@
       "sizeGroup": "Toddler",
       "source": "Walmart",
       "title": "Disney Toy Story Girls Dresses Jessie Red Yellow Ruffle Birthday Christmas Dress Toddler Kids 3t",
-      "url": "https://www.walmart.com/ip/20386669982"
+      "url": "https://www.walmart.com/ip/20386669982",
+      "stock": {
+        "checkedDate": "2026-11-14"
+      }
     },
     {
       "brand": "Journee",
@@ -1585,16 +1627,20 @@
       "imageUrl": "https://media.kohlsimg.com/is/image/kohls/6718555_Cranberry?wid=800&hei=800&op_sharpen=1",
       "kind": "new",
       "originalPrice": 139.99,
-      "price": 97.99,
+      "price": 78.39,
       "priceHistory": [
         {
           "date": "2026-11-13",
           "price": 97.99
+        },
+        {
+          "date": "2026-11-14",
+          "price": 78.39
         }
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-13",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Journee Women's Romilly Knee High Boots",
@@ -1619,8 +1665,8 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-13",
-        "status": "in_stock"
+        "checkedDate": "2026-11-14",
+        "status": "sold"
       },
       "title": "Nine West Zeran Women's Pointed Toe Block Heel Dress Boots",
       "url": "https://www.kohls.com/product/prd-7863158/nine-west-zeran-womens-pointed-toe-block-heel-dress-boots.jsp"
@@ -1635,16 +1681,20 @@
       "imageUrl": "https://media.kohlsimg.com/is/image/kohls/1941404_Black?wid=800&hei=800&op_sharpen=1",
       "kind": "new",
       "originalPrice": 99.99,
-      "price": 69.99,
+      "price": 55.99,
       "priceHistory": [
         {
           "date": "2026-11-13",
           "price": 69.99
+        },
+        {
+          "date": "2026-11-14",
+          "price": 55.99
         }
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-13",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Journee Tori Women's Knee-High Boots",
@@ -1669,7 +1719,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-13",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Nike Waffle Debut Women's Shoes",
@@ -1694,7 +1744,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-13",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Converse Chuck Taylor All Star Shoreline Women's Lace-Up Sneakers",
@@ -1719,7 +1769,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-13",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "SEPHORA COLLECTION Best Skin Ever Multi-Use Hydrating Glow Concealer",
@@ -1744,7 +1794,7 @@
       ],
       "source": "Bass Pro Shops",
       "stock": {
-        "checkedDate": "2026-11-13",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Cabela's Fixed-Blade Caper-Style Hunting Knife with Kydex Sheath",
@@ -1769,7 +1819,7 @@
       ],
       "source": "Bass Pro Shops",
       "stock": {
-        "checkedDate": "2026-11-13",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Work Sharp Ken Onion Mk.2 Knife and Tool Sharpener",
@@ -1794,7 +1844,7 @@
       ],
       "source": "Bass Pro Shops",
       "stock": {
-        "checkedDate": "2026-11-13",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Dryshod Stratalite XT Rubber Boots for Men",
@@ -1819,7 +1869,10 @@
       ],
       "source": "Kohl's",
       "title": "Men's Levi's® 513™ Slim Straight Stretch Jeans",
-      "url": "https://www.kohls.com/product/prd-2143062/levis-513-slim-straight-stretch-jeans-men.jsp?skuid=75692946"
+      "url": "https://www.kohls.com/product/prd-2143062/levis-513-slim-straight-stretch-jeans-men.jsp?skuid=75692946",
+      "stock": {
+        "checkedDate": "2026-11-14"
+      }
     },
     {
       "brand": "Columbia",
@@ -1840,7 +1893,10 @@
       ],
       "source": "Kohl's",
       "title": "Men's Columbia Powder Lite II Hooded Jacket",
-      "url": "https://www.kohls.com/product/prd-7754521/mens-columbia-powder-lite-ii-hooded-jacket.jsp?skuid=74781303"
+      "url": "https://www.kohls.com/product/prd-7754521/mens-columbia-powder-lite-ii-hooded-jacket.jsp?skuid=74781303",
+      "stock": {
+        "checkedDate": "2026-11-14"
+      }
     },
     {
       "brand": "Columbia",
@@ -1861,7 +1917,10 @@
       ],
       "source": "Kohl's",
       "title": "Women's Columbia Benton Springs Zip-Front Fleece Jacket",
-      "url": "https://www.kohls.com/product/prd-4505753/womens-columbia-benton-springs-zip-front-fleece-jacket.jsp?skuid=48892617"
+      "url": "https://www.kohls.com/product/prd-4505753/womens-columbia-benton-springs-zip-front-fleece-jacket.jsp?skuid=48892617",
+      "stock": {
+        "checkedDate": "2026-11-14"
+      }
     },
     {
       "brand": "Levi's",
@@ -1882,7 +1941,10 @@
       ],
       "source": "Kohl's",
       "title": "Women's Levi's® Long Quilted Sherpa Coat",
-      "url": "https://www.kohls.com/product/prd-6794381/womens-levis-long-quilted-sherpa-coat.jsp"
+      "url": "https://www.kohls.com/product/prd-6794381/womens-levis-long-quilted-sherpa-coat.jsp",
+      "stock": {
+        "checkedDate": "2026-11-14"
+      }
     },
     {
       "brand": "Nike",
@@ -1903,7 +1965,10 @@
       ],
       "source": "Kohl's",
       "title": "Toddler Girls Nike Essentials Water Resistant Artic Fleece Heavyweight Puffer Jacket",
-      "url": "https://www.kohls.com/product/prd-8116220/toddler-girls-nike-essentials-water-resistant-artic-fleece-heavyweight-puffer-jacket.jsp?skuid=70624847"
+      "url": "https://www.kohls.com/product/prd-8116220/toddler-girls-nike-essentials-water-resistant-artic-fleece-heavyweight-puffer-jacket.jsp?skuid=70624847",
+      "stock": {
+        "checkedDate": "2026-11-14"
+      }
     },
     {
       "brand": "adidas",
@@ -1924,7 +1989,10 @@
       ],
       "source": "Kohl's",
       "title": "adidas VL Court 3.0 Kids Lifestyle Shoes",
-      "url": "https://www.kohls.com/product/prd-7017257/adidas-vl-court-30-kids-lifestyle-shoes.jsp?skuid=74958241"
+      "url": "https://www.kohls.com/product/prd-7017257/adidas-vl-court-30-kids-lifestyle-shoes.jsp?skuid=74958241",
+      "stock": {
+        "checkedDate": "2026-11-14"
+      }
     },
     {
       "brand": "adidas",
@@ -1945,7 +2013,10 @@
       ],
       "source": "Kohl's",
       "title": "adidas VL Court Bold Women's Shoes",
-      "url": "https://www.kohls.com/product/prd-6733611/adidas-vl-court-bold-womens-shoes.jsp?prdPV=4"
+      "url": "https://www.kohls.com/product/prd-6733611/adidas-vl-court-bold-womens-shoes.jsp?prdPV=4",
+      "stock": {
+        "checkedDate": "2026-11-14"
+      }
     },
     {
       "brand": "Ninja",
@@ -1966,7 +2037,10 @@
       ],
       "source": "Kohl's",
       "title": "Ninja Air Fryer Pro XL 6-in-1 with 6.5-qt. Capacity, Nonstick Basket & Crisper Plate",
-      "url": "https://www.kohls.com/product/prd-6875840/ninja-air-fryer-pro-xl-6-in-1-with-65-qt-capacity-nonstick-basket-crisper-plate.jsp?skuid=66747382"
+      "url": "https://www.kohls.com/product/prd-6875840/ninja-air-fryer-pro-xl-6-in-1-with-65-qt-capacity-nonstick-basket-crisper-plate.jsp?skuid=66747382",
+      "stock": {
+        "checkedDate": "2026-11-14"
+      }
     },
     {
       "brand": "The North Face",

@@ -11,11 +11,15 @@
       "imageUrl": "https://i5.walmartimages.com/seo/Mens-31X34-Classic-Straight-Leg-Stretch-Jeans-31_b2449c61-178d-4ea8-8575-a3824bed1b70_1.389d13b728b365b2c6463bfd8039fc18.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
       "kind": "new",
       "originalPrice": 18.69,
-      "price": 14.95,
+      "price": 29.98,
       "priceHistory": [
         {
           "date": "2026-11-06",
           "price": 14.95
+        },
+        {
+          "date": "2026-11-14",
+          "price": 29.98
         }
       ],
       "source": "Walmart",

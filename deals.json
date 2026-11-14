@@ -20,7 +20,11 @@
       ],
       "source": "Walmart",
       "title": "Men's Classic Straight Slim Fit Stretch Waist Jeans",
-      "url": "https://www.walmart.com/ip/Men-s-Stretch-Waist-Jeans-for-Older-Men-Over-60-Comfort-Casual-Denim-Pants-Without-Belt-Dark-Blue-39/19880622335"
+      "url": "https://www.walmart.com/ip/Men-s-Stretch-Waist-Jeans-for-Older-Men-Over-60-Comfort-Casual-Denim-Pants-Without-Belt-Dark-Blue-39/19880622335",
+      "stock": {
+        "checkedDate": "2026-11-14",
+        "status": "sold"
+      }
     },
     {
       "brand": "Tek Gear",
@@ -45,7 +49,10 @@
       ],
       "source": "Kohl's",
       "title": "Women's Tek Gear Essential Core Raglan Tee",
-      "url": "https://www.kohls.com/product/prd-5942070/womens-tek-gear-essential-core-raglan-tee.jsp"
+      "url": "https://www.kohls.com/product/prd-5942070/womens-tek-gear-essential-core-raglan-tee.jsp",
+      "stock": {
+        "checkedDate": "2026-11-14"
+      }
     },
     {
       "brand": "Sonoma Goods For Life",
@@ -70,7 +77,10 @@
       ],
       "source": "Kohl's",
       "title": "Women's Sonoma Goods For Life Everyday Camisole",
-      "url": "https://www.kohls.com/product/prd-6101968/womens-sonoma-goods-for-life-everyday-camisole.jsp"
+      "url": "https://www.kohls.com/product/prd-6101968/womens-sonoma-goods-for-life-everyday-camisole.jsp",
+      "stock": {
+        "checkedDate": "2026-11-14"
+      }
     },
     {
       "brand": "Nike",
@@ -91,7 +101,11 @@
       ],
       "source": "Kohl's",
       "title": "Women's Nike One Fitted Dri-FIT Long-Sleeve Cropped Top",
-      "url": "https://www.kohls.com/product/prd-6924451/womens-nike-one-fitted-dri-fit-long-sleeve-cropped-top.jsp"
+      "url": "https://www.kohls.com/product/prd-6924451/womens-nike-one-fitted-dri-fit-long-sleeve-cropped-top.jsp",
+      "stock": {
+        "checkedDate": "2026-11-14",
+        "status": "sold"
+      }
     },
     {
       "brand": "Skechers",
@@ -116,7 +130,10 @@
       ],
       "source": "Kohl's",
       "title": "Skechers Hands Free Slip-ins GO WALK Flex Grand Entry Women's Athletic Shoes",
-      "url": "https://www.kohls.com/product/prd-6603902/skechers-hands-free-slip-ins-go-walk-flex-grand-entry-womens-athletic-shoes.jsp"
+      "url": "https://www.kohls.com/product/prd-6603902/skechers-hands-free-slip-ins-go-walk-flex-grand-entry-womens-athletic-shoes.jsp",
+      "stock": {
+        "checkedDate": "2026-11-14"
+      }
     },
     {
       "brand": "Levi's",
@@ -544,7 +561,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-09",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Amazon Fire TV Stick 4K Select with AI-Powered Search & Live TV",
@@ -569,7 +586,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-09",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Blink 5-pk 2K Video Resolution Wireless Smart Security Camera",
@@ -594,7 +611,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-09",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Ring 2K Indoor Plug-In Cam",
@@ -619,7 +636,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-09",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Beats Solo 4 On-Ear Wireless Headphones",
@@ -644,7 +661,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-09",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Anker Soundcore Q20i True Wireless Noise Canceling Over-the-Ear Headphones",
@@ -669,7 +686,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-09",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Ninja 8-in-1 Flip Toaster Oven & Air Fryer (SP151)",
@@ -694,7 +711,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-09",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Ninja Professional Plus Blender with Auto-iQ",
@@ -719,7 +736,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-09",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Ninja Air Fryer Pro 4-in-1, 5 QT Capacity, Nonstick Basket & Crisper Plate",
@@ -744,7 +761,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-09",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Ninja Blast Portable Blender",
@@ -1551,11 +1568,15 @@
       "imageUrl": "https://scontent.xx.fbcdn.net/v/t45.5328-4/810519212_1441341914523628_7110936961985457576_n.jpg?stp=dst-jpg_fi1-ffffff-1.00_s1080x1350_sh2.08_tt6&_nc_cat=106&ccb=1-7&_nc_sid=89567c&efg=eyJ2ZW5jb2RlX3RhZyI6ImFkc19pbWFnZS5mYl9kcGEuc2hhcnBlbi5vcmlnaW5hbF9kaW1lbnNpb24uMTUwMHgxNTAwIn0%3D&_nc_ohc=ojqLkzji8mEQ7kNvwF2WyD2&_nc_oc=AdrYRZuXOz00Sg1aNWTZVRvDTfxisvP3mXQ5vzUfHZHehH4_s5fjQENT2_WS3W6Vk_PxYzD1kdEX3mY8tQnA_S30&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=ghQJf1bwH7PVN3BDQVD8Yw&oh=00_AQTVyoZ7bBAJYHFG_NL9MJhs5e6YN0qILP1DdP2kBhrK8g&oe=6AFB99EE",
       "kind": "new",
       "originalPrice": 90.0,
-      "price": 56.7,
+      "price": 36.99,
       "priceHistory": [
         {
           "date": "2026-11-12",
           "price": 56.7
+        },
+        {
+          "date": "2026-11-14",
+          "price": 36.99
         }
       ],
       "source": "Walmart",

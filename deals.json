@@ -346,7 +346,7 @@
       "brand": "Baby Gap",
       "category": "Kids",
       "condition": "Like new",
-      "dealReason": "Like new \u2014 worn only twice, per the seller.",
+      "dealReason": "Like new — worn only twice, per the seller.",
       "foundDate": "2026-11-08",
       "id": "posh-baby-gap-poplin-03m",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/01/24/69751359a6bb7616b37782a5/l_697513e121bd42f33c246bbf.jpeg",
@@ -430,7 +430,7 @@
       "brand": "Bonnie Jean",
       "category": "Kids",
       "condition": "New with tags",
-      "dealReason": "New with tags \u2014 the listing's original price is $70.",
+      "dealReason": "New with tags — the listing's original price is $70.",
       "foundDate": "2026-11-08",
       "id": "posh-bj-polkadot-4t",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/08/6af0d7d028951f73c6bd0bf0/l_6af0d7e6ea03993291dd2ef4.jpg",
@@ -486,7 +486,7 @@
       "brand": "Tutu Du Monde",
       "category": "Kids",
       "condition": "Worn once",
-      "dealReason": "Worn once, per the seller \u2014 price dropped 29% on the listing.",
+      "dealReason": "Worn once, per the seller — price dropped 29% on the listing.",
       "foundDate": "2026-11-08",
       "id": "posh-tdm-dahlia-67",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/06/23/6a3ac0b0006e43853b5ab88a/l_6a3ac11dbedd349d54fc0892.jpg",
@@ -814,7 +814,7 @@
         "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
-      "title": "Men's Columbia Steens Mountain\u2122 Full-Zip Fleece Jacket",
+      "title": "Men's Columbia Steens Mountain™ Full-Zip Fleece Jacket",
       "url": "https://www.kohls.com/product/prd-3592654/mens-columbia-steens-mountain-full-zip-fleece-jacket.jsp"
     },
     {
@@ -839,7 +839,7 @@
         "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
-      "title": "Men's Columbia Glennaker Lake\u2122 II Hooded Rain Jacket",
+      "title": "Men's Columbia Glennaker Lake™ II Hooded Rain Jacket",
       "url": "https://www.kohls.com/product/prd-6810974/mens-columbia-glennaker-lake-ii-hooded-rain-jacket.jsp"
     },
     {
@@ -1102,11 +1102,15 @@
       "imageUrl": "https://i5.walmartimages.com/seo/SOG-Power-Pint-Multi-Tool_2ac8200d-0f90-4782-83ac-9973a8b8efde.11fe8bb0d3e6361cffca34fcaefef700.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
       "kind": "new",
       "originalPrice": 59.99,
-      "price": 32.98,
+      "price": 59.74,
       "priceHistory": [
         {
           "date": "2026-11-12",
           "price": 32.98
+        },
+        {
+          "date": "2026-11-14",
+          "price": 59.74
         }
       ],
       "source": "Walmart",
@@ -1127,11 +1131,15 @@
       "imageUrl": "https://i5.walmartimages.com/seo/DEWALT-DCS356B-20V-Cordless-Electric-Multi-Tool-Oscillating-Power-Tool_ada635e3-55cd-41bf-bb7c-6b3340e7eb5a.ff414e903c045e9cd1304666bbc64e88.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
       "kind": "new",
       "originalPrice": 125.68,
-      "price": 94.0,
+      "price": 67.99,
       "priceHistory": [
         {
           "date": "2026-11-12",
           "price": 94.0
+        },
+        {
+          "date": "2026-11-14",
+          "price": 67.99
         }
       ],
       "source": "Walmart",
@@ -1153,11 +1161,15 @@
       "imageUrl": "https://i5.walmartimages.com/seo/Citizen-Men-s-Eco-Drive-Chandler-Green-Strap-Field-Watch-BM8180-03E_986c3b54-c110-462b-b476-1594c1546aa0.e80293c32b126046d38c4111d00446e6.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
       "kind": "new",
       "originalPrice": 220.0,
-      "price": 148.39,
+      "price": 346.48,
       "priceHistory": [
         {
           "date": "2026-11-12",
           "price": 148.39
+        },
+        {
+          "date": "2026-11-14",
+          "price": 346.48
         }
       ],
       "source": "Walmart",
@@ -1246,7 +1258,7 @@
       "url": "https://www.basspro.com/p/cabelas-instinct-barrier-gore-tex-jacket-for-men"
     },
     {
-      "brand": "Lanc\u00f4me",
+      "brand": "Lancôme",
       "category": "Beauty",
       "condition": "New",
       "dealReason": "40% off the regular Walmart price.",
@@ -1255,11 +1267,15 @@
       "imageUrl": "https://i5.walmartimages.com/seo/Lancome-La-Vie-Est-Belle-Eau-De-Parfum-Spray-for-Women-1-oz_42d11dc4-57b7-4f63-adad-47e03feddd4a.4a93e627b712acbacc2067b4b29916a9.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
       "kind": "new",
       "originalPrice": 85.0,
-      "price": 51.21,
+      "price": 66.5,
       "priceHistory": [
         {
           "date": "2026-11-12",
           "price": 51.21
+        },
+        {
+          "date": "2026-11-14",
+          "price": 66.5
         }
       ],
       "source": "Walmart",
@@ -1267,7 +1283,7 @@
         "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
-      "title": "Lanc\u00f4me La Vie Est Belle Eau de Parfum Spray for Women, 1 oz",
+      "title": "Lancôme La Vie Est Belle Eau de Parfum Spray for Women, 1 oz",
       "url": "https://www.walmart.com/ip/Lancome-La-Vie-Est-Belle-Eau-De-Parfum-Spray-for-Women-1-oz/47621726"
     },
     {
@@ -1281,11 +1297,15 @@
       "imageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t45.5328-4/573821318_836352272177896_7386239649921157078_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=657aed&_nc_ohc=RrxK0swyhf4Q7kNvwFzaih5&_nc_oc=Adq2RvhLD_UiEjvcXytEJcXs-l25W0--0Qn61XJZgxJZFpDaHs_A2_pmLDmg6n4h-Vw-RmLweEMH3wfK_cXmd6Tw&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=94zDfJv1ByQbTdubcTPUXQ&oh=00_AQSkvHTf-P7_c9yP0qiVPklBA9nR8mL5IZgAGiMHaiYo0A&oe=6AF6B2AF",
       "kind": "new",
       "originalPrice": 79.99,
-      "price": 34.96,
+      "price": 99.87,
       "priceHistory": [
         {
           "date": "2026-11-08",
           "price": 34.96
+        },
+        {
+          "date": "2026-11-14",
+          "price": 99.87
         }
       ],
       "source": "Walmart",
@@ -1306,7 +1326,7 @@
       "imageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t45.5328-4/667032607_982275948124115_3920162795527100973_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=657aed&_nc_ohc=_cgeVIMbBTgQ7kNvwH_lRRv&_nc_oc=Ado7nxm0eNpzFvbi6PncScyEIXZnAmbEbK5WOZ7QewwHtHNAf9kPH-DHqhq5Us22cjk4rFb1BclX-GbJuPNJ3gB9&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=rYGOxaJILCcMKQBR4UtZpw&oh=00_AQQQMoU_gjY8xTbJ2WHoyp-XpHVsciwBhxq4Kfu6I_z21g&oe=6AF6AF61",
       "kind": "new",
       "originalPrice": 299.99,
-      "price": 159.99,
+      "price": 55.99,
       "priceHistory": [
         {
           "date": "2026-11-08",
@@ -1315,6 +1335,10 @@
         {
           "date": "2026-11-12",
           "price": 159.99
+        },
+        {
+          "date": "2026-11-14",
+          "price": 55.99
         }
       ],
       "source": "Walmart",
@@ -1455,7 +1479,7 @@
         }
       ],
       "source": "Walmart",
-      "title": "Ninja\u00ae Air Fryer Pro, 4-in-1, 5 Qt Capacity, Af141",
+      "title": "Ninja® Air Fryer Pro, 4-in-1, 5 Qt Capacity, Af141",
       "url": "https://www.walmart.com/ip/11526364074",
       "stock": {
         "checkedDate": "2026-11-14"
@@ -1925,7 +1949,7 @@
         }
       ],
       "source": "Kohl's",
-      "title": "Men's Levi's\u00ae 513\u2122 Slim Straight Stretch Jeans",
+      "title": "Men's Levi's® 513™ Slim Straight Stretch Jeans",
       "url": "https://www.kohls.com/product/prd-2143062/levis-513-slim-straight-stretch-jeans-men.jsp?skuid=75692946",
       "stock": {
         "checkedDate": "2026-11-14"
@@ -1997,7 +2021,7 @@
         }
       ],
       "source": "Kohl's",
-      "title": "Women's Levi's\u00ae Long Quilted Sherpa Coat",
+      "title": "Women's Levi's® Long Quilted Sherpa Coat",
       "url": "https://www.kohls.com/product/prd-6794381/womens-levis-long-quilted-sherpa-coat.jsp",
       "stock": {
         "checkedDate": "2026-11-14"
@@ -2251,7 +2275,7 @@
       "brand": "The North Face",
       "category": "Outdoor",
       "condition": "Pre-owned - Good",
-      "dealReason": "Pre-owned in good condition \u2014 seller describes it as in great condition.",
+      "dealReason": "Pre-owned in good condition — seller describes it as in great condition.",
       "foundDate": "2026-11-13",
       "id": "poshmark-the-north-face-nuptse-womans-700-down-puffer",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/05/16/6a08b940c71ba1f1db29377a/s_6a08b944006e4335b5b6a0.jpg",
@@ -2265,14 +2289,14 @@
         }
       ],
       "source": "Poshmark",
-      "title": "The North Face Nuptse woman\u2019s 700 down puffer jacket",
+      "title": "The North Face Nuptse woman’s 700 down puffer jacket",
       "url": "https://poshmark.com/listing/The-North-Face-Nuptse-womans-700-down-puffer-jacket-6a08b940c71ba1f1db29377a"
     },
     {
       "brand": "Free People",
       "category": "Women",
       "condition": "Pre-owned - Good",
-      "dealReason": "Pre-owned in good condition \u2014 dark floral burnout velvet, at about a third of the $168 original price shown on the listing.",
+      "dealReason": "Pre-owned in good condition — dark floral burnout velvet, at about a third of the $168 original price shown on the listing.",
       "foundDate": "2026-11-13",
       "id": "poshmark-free-people-falling-leaves-burnout-velvet-dress",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/07/03/6a4849024a072b5a27755798/s_6a484944b9449130d90d6ed1.jpg",
@@ -2293,7 +2317,7 @@
       "brand": "Lululemon",
       "category": "Women",
       "condition": "Pre-owned - Excellent",
-      "dealReason": "Pre-owned in excellent condition \u2014 listed like new at less than half the $118 original price shown on the listing.",
+      "dealReason": "Pre-owned in excellent condition — listed like new at less than half the $118 original price shown on the listing.",
       "foundDate": "2026-11-13",
       "id": "poshmark-lululemon-define-size-4-zip",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/07/07/6a4db8895df8e7512fb48c37/s_6a4db89b24d2e71e846a6310.jpg",
@@ -2315,7 +2339,7 @@
       "brand": "Adidas",
       "category": "Shoes",
       "condition": "New with tags",
-      "dealReason": "New with tags \u2014 brand new in original box with tags attached.",
+      "dealReason": "New with tags — brand new in original box with tags attached.",
       "foundDate": "2026-11-13",
       "id": "poshmark-adidas-samba-og-w-core-black-lucid-pink-gum",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/16/6aab362128951fc7043f0292/s_6aab363eda3eeb2d4d2efb52.jpg",
@@ -2337,7 +2361,7 @@
       "brand": "Patagonia",
       "category": "Kids",
       "condition": "Pre-owned - Good",
-      "dealReason": "Pre-owned in good condition \u2014 at a fraction of the $89 original price shown on the listing.",
+      "dealReason": "Pre-owned in good condition — at a fraction of the $89 original price shown on the listing.",
       "foundDate": "2026-11-13",
       "id": "poshmark-patagonia-kids-better-sweater-gray-xl-14",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/12/6acd8cd105ce57f96823d6df/s_6acd8ce81ae1ad9280337e6d.jpg",
@@ -2359,7 +2383,7 @@
       "brand": "Ralph Lauren",
       "category": "Women",
       "condition": "Pre-owned - Good",
-      "dealReason": "Pre-owned in good condition \u2014 seller notes EUC with no flaws, at about a third of the $145 original price shown on the listing.",
+      "dealReason": "Pre-owned in good condition — seller notes EUC with no flaws, at about a third of the $145 original price shown on the listing.",
       "foundDate": "2026-11-13",
       "id": "poshmark-ralph-lauren-sport-zipup-cable-knit-cardigan-l",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/01/10/69632758bedd34217e094696/s_6963277121b80137c195878d.jpg",
@@ -2458,7 +2482,7 @@
         }
       ],
       "source": "Target",
-      "title": "PICASSO-TILES 82PCS Magnetic Tiles for Kids \u2013 STEM Construction Building Blocks Set, Educational Creative Learning Toy for Boys & Girls",
+      "title": "PICASSO-TILES 82PCS Magnetic Tiles for Kids – STEM Construction Building Blocks Set, Educational Creative Learning Toy for Boys & Girls",
       "url": "https://www.target.com/p/picasso-tiles-82pcs-magnetic-tiles-for-kids-stem-construction-building-blocks-set-educational-creative-learning-toy-for-boys-girls/-/A-1010857125"
     },
     {

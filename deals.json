@@ -1,6 +1,6 @@
 {
   "feedVersion": 2,
-  "gatheredOn": "2026-11-13",
+  "gatheredOn": "2026-11-14",
   "finds": [
     {
       "category": "Men",
@@ -20,11 +20,7 @@
       ],
       "source": "Walmart",
       "title": "Men's Classic Straight Slim Fit Stretch Waist Jeans",
-      "url": "https://www.walmart.com/ip/Men-s-Stretch-Waist-Jeans-for-Older-Men-Over-60-Comfort-Casual-Denim-Pants-Without-Belt-Dark-Blue-39/19880622335",
-      "stock": {
-        "checkedDate": "2026-11-14",
-        "status": "sold"
-      }
+      "url": "https://www.walmart.com/ip/Men-s-Stretch-Waist-Jeans-for-Older-Men-Over-60-Comfort-Casual-Denim-Pants-Without-Belt-Dark-Blue-39/19880622335"
     },
     {
       "brand": "Tek Gear",
@@ -49,10 +45,7 @@
       ],
       "source": "Kohl's",
       "title": "Women's Tek Gear Essential Core Raglan Tee",
-      "url": "https://www.kohls.com/product/prd-5942070/womens-tek-gear-essential-core-raglan-tee.jsp",
-      "stock": {
-        "checkedDate": "2026-11-14"
-      }
+      "url": "https://www.kohls.com/product/prd-5942070/womens-tek-gear-essential-core-raglan-tee.jsp"
     },
     {
       "brand": "Sonoma Goods For Life",
@@ -77,10 +70,7 @@
       ],
       "source": "Kohl's",
       "title": "Women's Sonoma Goods For Life Everyday Camisole",
-      "url": "https://www.kohls.com/product/prd-6101968/womens-sonoma-goods-for-life-everyday-camisole.jsp",
-      "stock": {
-        "checkedDate": "2026-11-14"
-      }
+      "url": "https://www.kohls.com/product/prd-6101968/womens-sonoma-goods-for-life-everyday-camisole.jsp"
     },
     {
       "brand": "Nike",
@@ -101,11 +91,7 @@
       ],
       "source": "Kohl's",
       "title": "Women's Nike One Fitted Dri-FIT Long-Sleeve Cropped Top",
-      "url": "https://www.kohls.com/product/prd-6924451/womens-nike-one-fitted-dri-fit-long-sleeve-cropped-top.jsp",
-      "stock": {
-        "checkedDate": "2026-11-14",
-        "status": "sold"
-      }
+      "url": "https://www.kohls.com/product/prd-6924451/womens-nike-one-fitted-dri-fit-long-sleeve-cropped-top.jsp"
     },
     {
       "brand": "Skechers",
@@ -130,10 +116,7 @@
       ],
       "source": "Kohl's",
       "title": "Skechers Hands Free Slip-ins GO WALK Flex Grand Entry Women's Athletic Shoes",
-      "url": "https://www.kohls.com/product/prd-6603902/skechers-hands-free-slip-ins-go-walk-flex-grand-entry-womens-athletic-shoes.jsp",
-      "stock": {
-        "checkedDate": "2026-11-14"
-      }
+      "url": "https://www.kohls.com/product/prd-6603902/skechers-hands-free-slip-ins-go-walk-flex-grand-entry-womens-athletic-shoes.jsp"
     },
     {
       "brand": "Levi's",
@@ -346,7 +329,7 @@
       "brand": "Baby Gap",
       "category": "Kids",
       "condition": "Like new",
-      "dealReason": "Like new — worn only twice, per the seller.",
+      "dealReason": "Like new \u2014 worn only twice, per the seller.",
       "foundDate": "2026-11-08",
       "id": "posh-baby-gap-poplin-03m",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/01/24/69751359a6bb7616b37782a5/l_697513e121bd42f33c246bbf.jpeg",
@@ -430,7 +413,7 @@
       "brand": "Bonnie Jean",
       "category": "Kids",
       "condition": "New with tags",
-      "dealReason": "New with tags — the listing's original price is $70.",
+      "dealReason": "New with tags \u2014 the listing's original price is $70.",
       "foundDate": "2026-11-08",
       "id": "posh-bj-polkadot-4t",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/08/6af0d7d028951f73c6bd0bf0/l_6af0d7e6ea03993291dd2ef4.jpg",
@@ -486,7 +469,7 @@
       "brand": "Tutu Du Monde",
       "category": "Kids",
       "condition": "Worn once",
-      "dealReason": "Worn once, per the seller — price dropped 29% on the listing.",
+      "dealReason": "Worn once, per the seller \u2014 price dropped 29% on the listing.",
       "foundDate": "2026-11-08",
       "id": "posh-tdm-dahlia-67",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/06/23/6a3ac0b0006e43853b5ab88a/l_6a3ac11dbedd349d54fc0892.jpg",
@@ -561,7 +544,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-14",
+        "checkedDate": "2026-11-09",
         "status": "in_stock"
       },
       "title": "Amazon Fire TV Stick 4K Select with AI-Powered Search & Live TV",
@@ -586,7 +569,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-14",
+        "checkedDate": "2026-11-09",
         "status": "in_stock"
       },
       "title": "Blink 5-pk 2K Video Resolution Wireless Smart Security Camera",
@@ -611,7 +594,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-14",
+        "checkedDate": "2026-11-09",
         "status": "in_stock"
       },
       "title": "Ring 2K Indoor Plug-In Cam",
@@ -636,7 +619,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-14",
+        "checkedDate": "2026-11-09",
         "status": "in_stock"
       },
       "title": "Beats Solo 4 On-Ear Wireless Headphones",
@@ -661,7 +644,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-14",
+        "checkedDate": "2026-11-09",
         "status": "in_stock"
       },
       "title": "Anker Soundcore Q20i True Wireless Noise Canceling Over-the-Ear Headphones",
@@ -686,7 +669,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-14",
+        "checkedDate": "2026-11-09",
         "status": "in_stock"
       },
       "title": "Ninja 8-in-1 Flip Toaster Oven & Air Fryer (SP151)",
@@ -711,7 +694,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-14",
+        "checkedDate": "2026-11-09",
         "status": "in_stock"
       },
       "title": "Ninja Professional Plus Blender with Auto-iQ",
@@ -736,7 +719,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-14",
+        "checkedDate": "2026-11-09",
         "status": "in_stock"
       },
       "title": "Ninja Air Fryer Pro 4-in-1, 5 QT Capacity, Nonstick Basket & Crisper Plate",
@@ -761,7 +744,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-14",
+        "checkedDate": "2026-11-09",
         "status": "in_stock"
       },
       "title": "Ninja Blast Portable Blender",
@@ -814,7 +797,7 @@
         "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
-      "title": "Men's Columbia Steens Mountain™ Full-Zip Fleece Jacket",
+      "title": "Men's Columbia Steens Mountain\u2122 Full-Zip Fleece Jacket",
       "url": "https://www.kohls.com/product/prd-3592654/mens-columbia-steens-mountain-full-zip-fleece-jacket.jsp"
     },
     {
@@ -839,7 +822,7 @@
         "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
-      "title": "Men's Columbia Glennaker Lake™ II Hooded Rain Jacket",
+      "title": "Men's Columbia Glennaker Lake\u2122 II Hooded Rain Jacket",
       "url": "https://www.kohls.com/product/prd-6810974/mens-columbia-glennaker-lake-ii-hooded-rain-jacket.jsp"
     },
     {
@@ -1246,7 +1229,7 @@
       "url": "https://www.basspro.com/p/cabelas-instinct-barrier-gore-tex-jacket-for-men"
     },
     {
-      "brand": "Lancôme",
+      "brand": "Lanc\u00f4me",
       "category": "Beauty",
       "condition": "New",
       "dealReason": "40% off the regular Walmart price.",
@@ -1267,7 +1250,7 @@
         "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
-      "title": "Lancôme La Vie Est Belle Eau de Parfum Spray for Women, 1 oz",
+      "title": "Lanc\u00f4me La Vie Est Belle Eau de Parfum Spray for Women, 1 oz",
       "url": "https://www.walmart.com/ip/Lancome-La-Vie-Est-Belle-Eau-De-Parfum-Spray-for-Women-1-oz/47621726"
     },
     {
@@ -1443,7 +1426,7 @@
         }
       ],
       "source": "Walmart",
-      "title": "Ninja® Air Fryer Pro, 4-in-1, 5 Qt Capacity, Af141",
+      "title": "Ninja\u00ae Air Fryer Pro, 4-in-1, 5 Qt Capacity, Af141",
       "url": "https://www.walmart.com/ip/11526364074",
       "stock": {
         "checkedDate": "2026-11-14"
@@ -1568,15 +1551,11 @@
       "imageUrl": "https://scontent.xx.fbcdn.net/v/t45.5328-4/810519212_1441341914523628_7110936961985457576_n.jpg?stp=dst-jpg_fi1-ffffff-1.00_s1080x1350_sh2.08_tt6&_nc_cat=106&ccb=1-7&_nc_sid=89567c&efg=eyJ2ZW5jb2RlX3RhZyI6ImFkc19pbWFnZS5mYl9kcGEuc2hhcnBlbi5vcmlnaW5hbF9kaW1lbnNpb24uMTUwMHgxNTAwIn0%3D&_nc_ohc=ojqLkzji8mEQ7kNvwF2WyD2&_nc_oc=AdrYRZuXOz00Sg1aNWTZVRvDTfxisvP3mXQ5vzUfHZHehH4_s5fjQENT2_WS3W6Vk_PxYzD1kdEX3mY8tQnA_S30&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=ghQJf1bwH7PVN3BDQVD8Yw&oh=00_AQTVyoZ7bBAJYHFG_NL9MJhs5e6YN0qILP1DdP2kBhrK8g&oe=6AFB99EE",
       "kind": "new",
       "originalPrice": 90.0,
-      "price": 36.99,
+      "price": 56.7,
       "priceHistory": [
         {
           "date": "2026-11-12",
           "price": 56.7
-        },
-        {
-          "date": "2026-11-14",
-          "price": 36.99
         }
       ],
       "source": "Walmart",
@@ -1889,7 +1868,7 @@
         }
       ],
       "source": "Kohl's",
-      "title": "Men's Levi's® 513™ Slim Straight Stretch Jeans",
+      "title": "Men's Levi's\u00ae 513\u2122 Slim Straight Stretch Jeans",
       "url": "https://www.kohls.com/product/prd-2143062/levis-513-slim-straight-stretch-jeans-men.jsp?skuid=75692946",
       "stock": {
         "checkedDate": "2026-11-14"
@@ -1961,7 +1940,7 @@
         }
       ],
       "source": "Kohl's",
-      "title": "Women's Levi's® Long Quilted Sherpa Coat",
+      "title": "Women's Levi's\u00ae Long Quilted Sherpa Coat",
       "url": "https://www.kohls.com/product/prd-6794381/womens-levis-long-quilted-sherpa-coat.jsp",
       "stock": {
         "checkedDate": "2026-11-14"
@@ -2215,7 +2194,7 @@
       "brand": "The North Face",
       "category": "Outdoor",
       "condition": "Pre-owned - Good",
-      "dealReason": "Pre-owned in good condition — seller describes it as in great condition.",
+      "dealReason": "Pre-owned in good condition \u2014 seller describes it as in great condition.",
       "foundDate": "2026-11-13",
       "id": "poshmark-the-north-face-nuptse-womans-700-down-puffer",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/05/16/6a08b940c71ba1f1db29377a/s_6a08b944006e4335b5b6a0.jpg",
@@ -2229,14 +2208,14 @@
         }
       ],
       "source": "Poshmark",
-      "title": "The North Face Nuptse woman’s 700 down puffer jacket",
+      "title": "The North Face Nuptse woman\u2019s 700 down puffer jacket",
       "url": "https://poshmark.com/listing/The-North-Face-Nuptse-womans-700-down-puffer-jacket-6a08b940c71ba1f1db29377a"
     },
     {
       "brand": "Free People",
       "category": "Women",
       "condition": "Pre-owned - Good",
-      "dealReason": "Pre-owned in good condition — dark floral burnout velvet, at about a third of the $168 original price shown on the listing.",
+      "dealReason": "Pre-owned in good condition \u2014 dark floral burnout velvet, at about a third of the $168 original price shown on the listing.",
       "foundDate": "2026-11-13",
       "id": "poshmark-free-people-falling-leaves-burnout-velvet-dress",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/07/03/6a4849024a072b5a27755798/s_6a484944b9449130d90d6ed1.jpg",
@@ -2257,7 +2236,7 @@
       "brand": "Lululemon",
       "category": "Women",
       "condition": "Pre-owned - Excellent",
-      "dealReason": "Pre-owned in excellent condition — listed like new at less than half the $118 original price shown on the listing.",
+      "dealReason": "Pre-owned in excellent condition \u2014 listed like new at less than half the $118 original price shown on the listing.",
       "foundDate": "2026-11-13",
       "id": "poshmark-lululemon-define-size-4-zip",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/07/07/6a4db8895df8e7512fb48c37/s_6a4db89b24d2e71e846a6310.jpg",
@@ -2279,7 +2258,7 @@
       "brand": "Adidas",
       "category": "Shoes",
       "condition": "New with tags",
-      "dealReason": "New with tags — brand new in original box with tags attached.",
+      "dealReason": "New with tags \u2014 brand new in original box with tags attached.",
       "foundDate": "2026-11-13",
       "id": "poshmark-adidas-samba-og-w-core-black-lucid-pink-gum",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/16/6aab362128951fc7043f0292/s_6aab363eda3eeb2d4d2efb52.jpg",
@@ -2301,7 +2280,7 @@
       "brand": "Patagonia",
       "category": "Kids",
       "condition": "Pre-owned - Good",
-      "dealReason": "Pre-owned in good condition — at a fraction of the $89 original price shown on the listing.",
+      "dealReason": "Pre-owned in good condition \u2014 at a fraction of the $89 original price shown on the listing.",
       "foundDate": "2026-11-13",
       "id": "poshmark-patagonia-kids-better-sweater-gray-xl-14",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/12/6acd8cd105ce57f96823d6df/s_6acd8ce81ae1ad9280337e6d.jpg",
@@ -2323,7 +2302,7 @@
       "brand": "Ralph Lauren",
       "category": "Women",
       "condition": "Pre-owned - Good",
-      "dealReason": "Pre-owned in good condition — seller notes EUC with no flaws, at about a third of the $145 original price shown on the listing.",
+      "dealReason": "Pre-owned in good condition \u2014 seller notes EUC with no flaws, at about a third of the $145 original price shown on the listing.",
       "foundDate": "2026-11-13",
       "id": "poshmark-ralph-lauren-sport-zipup-cable-knit-cardigan-l",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/01/10/69632758bedd34217e094696/s_6963277121b80137c195878d.jpg",
@@ -2422,7 +2401,7 @@
         }
       ],
       "source": "Target",
-      "title": "PICASSO-TILES 82PCS Magnetic Tiles for Kids – STEM Construction Building Blocks Set, Educational Creative Learning Toy for Boys & Girls",
+      "title": "PICASSO-TILES 82PCS Magnetic Tiles for Kids \u2013 STEM Construction Building Blocks Set, Educational Creative Learning Toy for Boys & Girls",
       "url": "https://www.target.com/p/picasso-tiles-82pcs-magnetic-tiles-for-kids-stem-construction-building-blocks-set-educational-creative-learning-toy-for-boys-girls/-/A-1010857125"
     },
     {
@@ -2466,6 +2445,155 @@
       "source": "Target",
       "title": "CUSHIONAIRE Heddy Kids' Genuine Suede Clogs - Boys' and Girls' Slip On Round Toe Potato Shoes with Adjustable Buckle Strap and Cushioned Footbed",
       "url": "https://www.target.com/p/cushionaire-heddy-kids-genuine-suede-clogs-boys-and-girls-slip-on-round-toe-potato-shoes-with-adjustable-buckle-strap-and-cushioned-footbed/-/A-1013708410"
+    },
+    {
+      "id": "target-slime-life-ramen-diy-slime-kit",
+      "category": "ASMR",
+      "brand": "Slime Life",
+      "condition": "New",
+      "kind": "new",
+      "title": "Slime Life Ramen DIY Slime Kit - Unboxing Ingredients to Make, Smash, and Stretch Your Food Slime",
+      "price": 16.49,
+      "originalPrice": 27.49,
+      "dealReason": "40% off the regular Target price.",
+      "source": "Target",
+      "url": "https://www.target.com/p/slime-life-ramen-diy-slime-kit-unboxing-ingredients-to-make-smash-and-stretch-your-food-slime/-/A-94614447",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_0537ad1c-08d8-4d39-afb0-a1749e520058?wid=800&hei=800&qlt=80&fmt=pjpeg",
+      "foundDate": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 16.49
+        }
+      ],
+      "stock": {
+        "checkedDate": "2026-11-14",
+        "status": "in_stock"
+      }
+    },
+    {
+      "id": "target-kinetic-sand-crystal-pink-2lb",
+      "category": "ASMR",
+      "brand": "Kinetic Sand",
+      "condition": "New",
+      "kind": "new",
+      "title": "Kinetic Sand Crystal Pink Shimmer Sand 2lb",
+      "price": 10.99,
+      "originalPrice": 12.99,
+      "dealReason": "15% off the regular Target price.",
+      "source": "Target",
+      "url": "https://www.target.com/p/kinetic-sand-crystal-pink-shimmer-sand-2lb/-/A-80351387",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_bac65d08-6a01-4138-ba90-c89a63e00c70?wid=800&hei=800&qlt=80&fmt=pjpeg",
+      "foundDate": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 10.99
+        }
+      ],
+      "stock": {
+        "checkedDate": "2026-11-14",
+        "status": "in_stock"
+      }
+    },
+    {
+      "id": "target-mlb-the-show-26-ps5",
+      "category": "Gaming",
+      "condition": "New",
+      "kind": "new",
+      "title": "MLB The Show 26 - PlayStation 5",
+      "price": 29.99,
+      "originalPrice": 42.99,
+      "dealReason": "30% off the regular Target price.",
+      "source": "Target",
+      "url": "https://www.target.com/p/mlb-the-show-26-playstation-5/-/A-95227436",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_32e00a0c-b3cf-488b-a326-24871c6bfd64?wid=800&hei=800&qlt=80&fmt=pjpeg",
+      "foundDate": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 29.99
+        }
+      ],
+      "stock": {
+        "checkedDate": "2026-11-14",
+        "status": "in_stock"
+      }
+    },
+    {
+      "id": "target-petsworld-puppy-pads-300ct",
+      "category": "Pets",
+      "brand": "PetsWorld",
+      "condition": "New",
+      "kind": "new",
+      "title": "PetsWorld Economy Value (23x36 inch) Puppy Training & Potty Pads 300 Count",
+      "price": 59.99,
+      "originalPrice": 94.99,
+      "dealReason": "37% off the regular price.",
+      "source": "Target",
+      "url": "https://www.target.com/p/petsworld-economy-value-23x36-inch-puppy-training-potty-pads-300-count/-/A-93968322",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_c50ef786-709f-4606-9bf3-6c5cd9af0a82?wid=800&hei=800&qlt=80&fmt=pjpeg",
+      "foundDate": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 59.99
+        }
+      ],
+      "stock": {
+        "checkedDate": "2026-11-14",
+        "status": "in_stock"
+      }
+    },
+    {
+      "id": "basspro-megacast-baitcast-reel",
+      "category": "Outdoor",
+      "brand": "Bass Pro Shops",
+      "condition": "New",
+      "kind": "new",
+      "title": "Bass Pro Shops MegaCast Baitcast Reel",
+      "price": 41.98,
+      "originalPrice": 59.99,
+      "dealReason": "30% off the regular Bass Pro Shops price.",
+      "source": "Bass Pro Shops",
+      "url": "https://www.basspro.com/p/bass-pro-shops-megacast-baitcast-reel-101137223",
+      "imageUrl": "https://assets.basspro.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_500,q_auto,w_800/c_pad,h_500,w_800/v1/ProductImages/100/master1_101137223_main",
+      "foundDate": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 41.98
+        }
+      ],
+      "stock": {
+        "checkedDate": "2026-11-14",
+        "status": "in_stock"
+      }
+    },
+    {
+      "id": "basspro-redhead-silent-stalker-trophy-jacket",
+      "category": "Outdoor",
+      "brand": "RedHead",
+      "condition": "New",
+      "kind": "new",
+      "title": "RedHead Silent Stalker Trophy Jacket for Men",
+      "price": 89.98,
+      "originalPrice": 129.99,
+      "dealReason": "31% off the regular Bass Pro Shops price.",
+      "source": "Bass Pro Shops",
+      "url": "https://www.basspro.com/p/redhead-silent-stalker-trophy-jacket-for-men-101518940",
+      "imageUrl": "https://assets.basspro.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_500,q_auto,w_800/c_pad,h_500,w_800/v1/ProductImages/475/truetimberkanati_101518940_main",
+      "foundDate": "2026-11-14",
+      "priceHistory": [
+        {
+          "date": "2026-11-14",
+          "price": 89.98
+        }
+      ],
+      "stock": {
+        "checkedDate": "2026-11-14",
+        "status": "in_stock"
+      }
     }
   ]
 }

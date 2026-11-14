@@ -1102,15 +1102,11 @@
       "imageUrl": "https://i5.walmartimages.com/seo/SOG-Power-Pint-Multi-Tool_2ac8200d-0f90-4782-83ac-9973a8b8efde.11fe8bb0d3e6361cffca34fcaefef700.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
       "kind": "new",
       "originalPrice": 59.99,
-      "price": 59.74,
+      "price": 32.98,
       "priceHistory": [
         {
           "date": "2026-11-12",
           "price": 32.98
-        },
-        {
-          "date": "2026-11-14",
-          "price": 59.74
         }
       ],
       "source": "Walmart",
@@ -1131,15 +1127,11 @@
       "imageUrl": "https://i5.walmartimages.com/seo/DEWALT-DCS356B-20V-Cordless-Electric-Multi-Tool-Oscillating-Power-Tool_ada635e3-55cd-41bf-bb7c-6b3340e7eb5a.ff414e903c045e9cd1304666bbc64e88.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
       "kind": "new",
       "originalPrice": 125.68,
-      "price": 67.99,
+      "price": 94.0,
       "priceHistory": [
         {
           "date": "2026-11-12",
           "price": 94.0
-        },
-        {
-          "date": "2026-11-14",
-          "price": 67.99
         }
       ],
       "source": "Walmart",
@@ -1161,15 +1153,11 @@
       "imageUrl": "https://i5.walmartimages.com/seo/Citizen-Men-s-Eco-Drive-Chandler-Green-Strap-Field-Watch-BM8180-03E_986c3b54-c110-462b-b476-1594c1546aa0.e80293c32b126046d38c4111d00446e6.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
       "kind": "new",
       "originalPrice": 220.0,
-      "price": 346.48,
+      "price": 148.39,
       "priceHistory": [
         {
           "date": "2026-11-12",
           "price": 148.39
-        },
-        {
-          "date": "2026-11-14",
-          "price": 346.48
         }
       ],
       "source": "Walmart",
@@ -1267,15 +1255,11 @@
       "imageUrl": "https://i5.walmartimages.com/seo/Lancome-La-Vie-Est-Belle-Eau-De-Parfum-Spray-for-Women-1-oz_42d11dc4-57b7-4f63-adad-47e03feddd4a.4a93e627b712acbacc2067b4b29916a9.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
       "kind": "new",
       "originalPrice": 85.0,
-      "price": 66.5,
+      "price": 51.21,
       "priceHistory": [
         {
           "date": "2026-11-12",
           "price": 51.21
-        },
-        {
-          "date": "2026-11-14",
-          "price": 66.5
         }
       ],
       "source": "Walmart",
@@ -1297,15 +1281,11 @@
       "imageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t45.5328-4/573821318_836352272177896_7386239649921157078_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=657aed&_nc_ohc=RrxK0swyhf4Q7kNvwFzaih5&_nc_oc=Adq2RvhLD_UiEjvcXytEJcXs-l25W0--0Qn61XJZgxJZFpDaHs_A2_pmLDmg6n4h-Vw-RmLweEMH3wfK_cXmd6Tw&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=94zDfJv1ByQbTdubcTPUXQ&oh=00_AQSkvHTf-P7_c9yP0qiVPklBA9nR8mL5IZgAGiMHaiYo0A&oe=6AF6B2AF",
       "kind": "new",
       "originalPrice": 79.99,
-      "price": 99.87,
+      "price": 34.96,
       "priceHistory": [
         {
           "date": "2026-11-08",
           "price": 34.96
-        },
-        {
-          "date": "2026-11-14",
-          "price": 99.87
         }
       ],
       "source": "Walmart",
@@ -1326,7 +1306,7 @@
       "imageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t45.5328-4/667032607_982275948124115_3920162795527100973_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=657aed&_nc_ohc=_cgeVIMbBTgQ7kNvwH_lRRv&_nc_oc=Ado7nxm0eNpzFvbi6PncScyEIXZnAmbEbK5WOZ7QewwHtHNAf9kPH-DHqhq5Us22cjk4rFb1BclX-GbJuPNJ3gB9&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=rYGOxaJILCcMKQBR4UtZpw&oh=00_AQQQMoU_gjY8xTbJ2WHoyp-XpHVsciwBhxq4Kfu6I_z21g&oe=6AF6AF61",
       "kind": "new",
       "originalPrice": 299.99,
-      "price": 55.99,
+      "price": 159.99,
       "priceHistory": [
         {
           "date": "2026-11-08",
@@ -1335,10 +1315,6 @@
         {
           "date": "2026-11-12",
           "price": 159.99
-        },
-        {
-          "date": "2026-11-14",
-          "price": 55.99
         }
       ],
       "source": "Walmart",

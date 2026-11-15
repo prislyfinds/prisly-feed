@@ -349,7 +349,7 @@
       "brand": "Baby Gap",
       "category": "Kids",
       "condition": "Like new",
-      "dealReason": "Like new — worn only twice, per the seller.",
+      "dealReason": "Like new \u2014 worn only twice, per the seller.",
       "foundDate": "2026-11-08",
       "id": "posh-baby-gap-poplin-03m",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/01/24/69751359a6bb7616b37782a5/l_697513e121bd42f33c246bbf.jpeg",
@@ -433,7 +433,7 @@
       "brand": "Bonnie Jean",
       "category": "Kids",
       "condition": "New with tags",
-      "dealReason": "New with tags — the listing's original price is $70.",
+      "dealReason": "New with tags \u2014 the listing's original price is $70.",
       "foundDate": "2026-11-08",
       "id": "posh-bj-polkadot-4t",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/08/6af0d7d028951f73c6bd0bf0/l_6af0d7e6ea03993291dd2ef4.jpg",
@@ -489,7 +489,7 @@
       "brand": "Tutu Du Monde",
       "category": "Kids",
       "condition": "Worn once",
-      "dealReason": "Worn once, per the seller — price dropped 29% on the listing.",
+      "dealReason": "Worn once, per the seller \u2014 price dropped 29% on the listing.",
       "foundDate": "2026-11-08",
       "id": "posh-tdm-dahlia-67",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/06/23/6a3ac0b0006e43853b5ab88a/l_6a3ac11dbedd349d54fc0892.jpg",
@@ -817,7 +817,7 @@
         "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
-      "title": "Men's Columbia Steens Mountain™ Full-Zip Fleece Jacket",
+      "title": "Men's Columbia Steens Mountain\u2122 Full-Zip Fleece Jacket",
       "url": "https://www.kohls.com/product/prd-3592654/mens-columbia-steens-mountain-full-zip-fleece-jacket.jsp"
     },
     {
@@ -842,7 +842,7 @@
         "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
-      "title": "Men's Columbia Glennaker Lake™ II Hooded Rain Jacket",
+      "title": "Men's Columbia Glennaker Lake\u2122 II Hooded Rain Jacket",
       "url": "https://www.kohls.com/product/prd-6810974/mens-columbia-glennaker-lake-ii-hooded-rain-jacket.jsp"
     },
     {
@@ -939,7 +939,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-14",
+        "checkedDate": "2026-11-15",
         "status": "in_stock"
       },
       "title": "Men's Columbia Rapid Rivers II Long Sleeve Shirt",
@@ -1249,7 +1249,7 @@
       "url": "https://www.basspro.com/p/cabelas-instinct-barrier-gore-tex-jacket-for-men"
     },
     {
-      "brand": "Lancôme",
+      "brand": "Lanc\u00f4me",
       "category": "Beauty",
       "condition": "New",
       "dealReason": "40% off the regular Walmart price.",
@@ -1270,7 +1270,7 @@
         "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
-      "title": "Lancôme La Vie Est Belle Eau de Parfum Spray for Women, 1 oz",
+      "title": "Lanc\u00f4me La Vie Est Belle Eau de Parfum Spray for Women, 1 oz",
       "url": "https://www.walmart.com/ip/Lancome-La-Vie-Est-Belle-Eau-De-Parfum-Spray-for-Women-1-oz/47621726"
     },
     {
@@ -1458,7 +1458,7 @@
         }
       ],
       "source": "Walmart",
-      "title": "Ninja® Air Fryer Pro, 4-in-1, 5 Qt Capacity, Af141",
+      "title": "Ninja\u00ae Air Fryer Pro, 4-in-1, 5 Qt Capacity, Af141",
       "url": "https://www.walmart.com/ip/11526364074",
       "stock": {
         "checkedDate": "2026-11-14"
@@ -1599,7 +1599,7 @@
       "imageUrl": "https://scontent.xx.fbcdn.net/v/t45.5328-4/810519212_1441341914523628_7110936961985457576_n.jpg?stp=dst-jpg_fi1-ffffff-1.00_s1080x1350_sh2.08_tt6&_nc_cat=106&ccb=1-7&_nc_sid=89567c&efg=eyJ2ZW5jb2RlX3RhZyI6ImFkc19pbWFnZS5mYl9kcGEuc2hhcnBlbi5vcmlnaW5hbF9kaW1lbnNpb24uMTUwMHgxNTAwIn0%3D&_nc_ohc=ojqLkzji8mEQ7kNvwF2WyD2&_nc_oc=AdrYRZuXOz00Sg1aNWTZVRvDTfxisvP3mXQ5vzUfHZHehH4_s5fjQENT2_WS3W6Vk_PxYzD1kdEX3mY8tQnA_S30&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=ghQJf1bwH7PVN3BDQVD8Yw&oh=00_AQTVyoZ7bBAJYHFG_NL9MJhs5e6YN0qILP1DdP2kBhrK8g&oe=6AFB99EE",
       "kind": "new",
       "originalPrice": 90.0,
-      "price": 36.99,
+      "price": 39.99,
       "priceHistory": [
         {
           "date": "2026-11-12",
@@ -1608,13 +1608,17 @@
         {
           "date": "2026-11-14",
           "price": 36.99
+        },
+        {
+          "date": "2026-11-15",
+          "price": 39.99
         }
       ],
       "source": "Walmart",
       "title": "Skechers Work Women's Dyna Air Slip Resistant Lace-up Sneaker",
       "url": "https://www.walmart.com/ip/581323466",
       "stock": {
-        "checkedDate": "2026-11-14"
+        "checkedDate": "2026-11-15"
       }
     },
     {
@@ -1928,7 +1932,7 @@
         }
       ],
       "source": "Kohl's",
-      "title": "Men's Levi's® 513™ Slim Straight Stretch Jeans",
+      "title": "Men's Levi's\u00ae 513\u2122 Slim Straight Stretch Jeans",
       "url": "https://www.kohls.com/product/prd-2143062/levis-513-slim-straight-stretch-jeans-men.jsp?skuid=75692946",
       "stock": {
         "checkedDate": "2026-11-14"
@@ -2000,7 +2004,7 @@
         }
       ],
       "source": "Kohl's",
-      "title": "Women's Levi's® Long Quilted Sherpa Coat",
+      "title": "Women's Levi's\u00ae Long Quilted Sherpa Coat",
       "url": "https://www.kohls.com/product/prd-6794381/womens-levis-long-quilted-sherpa-coat.jsp",
       "stock": {
         "checkedDate": "2026-11-14"
@@ -2232,7 +2236,7 @@
       "brand": "The North Face",
       "category": "Outdoor",
       "condition": "Pre-owned - Good",
-      "dealReason": "Pre-owned in good condition — seller describes it as in great condition.",
+      "dealReason": "Pre-owned in good condition \u2014 seller describes it as in great condition.",
       "foundDate": "2026-11-13",
       "id": "poshmark-the-north-face-nuptse-womans-700-down-puffer",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/05/16/6a08b940c71ba1f1db29377a/s_6a08b944006e4335b5b6a0.jpg",
@@ -2246,14 +2250,14 @@
         }
       ],
       "source": "Poshmark",
-      "title": "The North Face Nuptse woman’s 700 down puffer jacket",
+      "title": "The North Face Nuptse woman\u2019s 700 down puffer jacket",
       "url": "https://poshmark.com/listing/The-North-Face-Nuptse-womans-700-down-puffer-jacket-6a08b940c71ba1f1db29377a"
     },
     {
       "brand": "Free People",
       "category": "Women",
       "condition": "Pre-owned - Good",
-      "dealReason": "Pre-owned in good condition — dark floral burnout velvet, at about a third of the $168 original price shown on the listing.",
+      "dealReason": "Pre-owned in good condition \u2014 dark floral burnout velvet, at about a third of the $168 original price shown on the listing.",
       "foundDate": "2026-11-13",
       "id": "poshmark-free-people-falling-leaves-burnout-velvet-dress",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/07/03/6a4849024a072b5a27755798/s_6a484944b9449130d90d6ed1.jpg",
@@ -2274,7 +2278,7 @@
       "brand": "Lululemon",
       "category": "Women",
       "condition": "Pre-owned - Excellent",
-      "dealReason": "Pre-owned in excellent condition — listed like new at less than half the $118 original price shown on the listing.",
+      "dealReason": "Pre-owned in excellent condition \u2014 listed like new at less than half the $118 original price shown on the listing.",
       "foundDate": "2026-11-13",
       "id": "poshmark-lululemon-define-size-4-zip",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/07/07/6a4db8895df8e7512fb48c37/s_6a4db89b24d2e71e846a6310.jpg",
@@ -2296,7 +2300,7 @@
       "brand": "Adidas",
       "category": "Shoes",
       "condition": "New with tags",
-      "dealReason": "New with tags — brand new in original box with tags attached.",
+      "dealReason": "New with tags \u2014 brand new in original box with tags attached.",
       "foundDate": "2026-11-13",
       "id": "poshmark-adidas-samba-og-w-core-black-lucid-pink-gum",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/16/6aab362128951fc7043f0292/s_6aab363eda3eeb2d4d2efb52.jpg",
@@ -2318,7 +2322,7 @@
       "brand": "Patagonia",
       "category": "Kids",
       "condition": "Pre-owned - Good",
-      "dealReason": "Pre-owned in good condition — at a fraction of the $89 original price shown on the listing.",
+      "dealReason": "Pre-owned in good condition \u2014 at a fraction of the $89 original price shown on the listing.",
       "foundDate": "2026-11-13",
       "id": "poshmark-patagonia-kids-better-sweater-gray-xl-14",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/12/6acd8cd105ce57f96823d6df/s_6acd8ce81ae1ad9280337e6d.jpg",
@@ -2344,7 +2348,7 @@
       "brand": "Ralph Lauren",
       "category": "Women",
       "condition": "Pre-owned - Good",
-      "dealReason": "Pre-owned in good condition — seller notes EUC with no flaws, at about a third of the $145 original price shown on the listing.",
+      "dealReason": "Pre-owned in good condition \u2014 seller notes EUC with no flaws, at about a third of the $145 original price shown on the listing.",
       "foundDate": "2026-11-13",
       "id": "poshmark-ralph-lauren-sport-zipup-cable-knit-cardigan-l",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/01/10/69632758bedd34217e094696/s_6963277121b80137c195878d.jpg",
@@ -2443,7 +2447,7 @@
         }
       ],
       "source": "Target",
-      "title": "PICASSO-TILES 82PCS Magnetic Tiles for Kids – STEM Construction Building Blocks Set, Educational Creative Learning Toy for Boys & Girls",
+      "title": "PICASSO-TILES 82PCS Magnetic Tiles for Kids \u2013 STEM Construction Building Blocks Set, Educational Creative Learning Toy for Boys & Girls",
       "url": "https://www.target.com/p/picasso-tiles-82pcs-magnetic-tiles-for-kids-stem-construction-building-blocks-set-educational-creative-learning-toy-for-boys-girls/-/A-1010857125"
     },
     {

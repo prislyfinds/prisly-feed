@@ -325,7 +325,7 @@
    "imageUrl": "https://images1.vinted.net/t/02_01f4d_14eHWYZtqakAUXP2sd7ZoTof/310x430/1787568298.webp?s=dba284c62e58a104d08350f1d696813d63859417",
    "kind": "secondhand",
    "originalPrice": null,
-   "price": 6.0,
+   "price": 5.0,
    "priceHistory": [
     {
      "date": "2026-11-06",
@@ -334,6 +334,10 @@
     {
      "date": "2026-11-09",
      "price": 6.0
+    },
+    {
+     "date": "2026-11-15",
+     "price": 5.0
     }
    ],
    "size": "XS",
@@ -955,11 +959,15 @@
    "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_88b203c8-2a82-49f2-9b28-3ac25a6e4ef9?wid=800&hei=800&qlt=80&fmt=pjpeg",
    "kind": "new",
    "originalPrice": 34.99,
-   "price": 24.49,
+   "price": 34.99,
    "priceHistory": [
     {
      "date": "2026-11-11",
      "price": 24.49
+    },
+    {
+     "date": "2026-11-15",
+     "price": 34.99
     }
    ],
    "source": "Target",
@@ -980,11 +988,15 @@
    "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_d00be24a-ef24-49b2-a50e-d494111555d0?wid=800&hei=800&qlt=80&fmt=pjpeg",
    "kind": "new",
    "originalPrice": 44.99,
-   "price": 31.49,
+   "price": 44.99,
    "priceHistory": [
     {
      "date": "2026-11-11",
      "price": 31.49
+    },
+    {
+     "date": "2026-11-15",
+     "price": 44.99
     }
    ],
    "source": "Target",
@@ -2435,11 +2447,15 @@
    "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_b7cf1f50-dde6-444c-a154-8d6b14ceeac9?wid=300&hei=300&fmt=pjpeg",
    "kind": "new",
    "originalPrice": 26.99,
-   "price": 18.89,
+   "price": 21.99,
    "priceHistory": [
     {
      "date": "2026-11-13",
      "price": 18.89
+    },
+    {
+     "date": "2026-11-15",
+     "price": 21.99
     }
    ],
    "source": "Target",
@@ -2498,11 +2514,15 @@
    "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_5feed49b-3e9a-4aee-9114-23f8a6be68fd?wid=300&hei=300&fmt=pjpeg",
    "kind": "new",
    "originalPrice": 59.99,
-   "price": 40.19,
+   "price": 39.99,
    "priceHistory": [
     {
      "date": "2026-11-13",
      "price": 40.19
+    },
+    {
+     "date": "2026-11-15",
+     "price": 39.99
     }
    ],
    "source": "Target",
@@ -2519,11 +2539,15 @@
    "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_0537ad1c-08d8-4d39-afb0-a1749e520058?wid=800&hei=800&qlt=80&fmt=pjpeg",
    "kind": "new",
    "originalPrice": 27.49,
-   "price": 16.49,
+   "price": 27.49,
    "priceHistory": [
     {
      "date": "2026-11-14",
      "price": 16.49
+    },
+    {
+     "date": "2026-11-15",
+     "price": 27.49
     }
    ],
    "source": "Target",
@@ -2659,5 +2683,5 @@
    "url": "https://www.basspro.com/p/redhead-silent-stalker-trophy-jacket-for-men-101518940"
   }
  ],
- "gatheredOn": "2026-11-14"
+ "gatheredOn": "2026-11-15"
 }

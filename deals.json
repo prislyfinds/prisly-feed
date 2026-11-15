@@ -1363,7 +1363,7 @@
       "imageUrl": "https://scontent-den2-1.xx.fbcdn.net/v/t45.5328-4/755903198_2474312519711529_4699156163930772782_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=657aed&_nc_ohc=Kc4TG5ZTceIQ7kNvwESmM7B&_nc_oc=AdoANrYDOOJRbFpvHvcEZ0U7wWZoWpq9NPxS2W-oqaD80hk4MYdW50Yky6bX13b-7yD-ZM8P5scEgv1B16JcuvU3&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=rYGOxaJILCcMKQBR4UtZpw&oh=00_AQQGYhXjNZTfxyX1PUZagaVUT-wTloD3Vcfrs88AV09clg&oe=6AF6C979",
       "kind": "new",
       "originalPrice": 299.99,
-      "price": 169.99,
+      "price": 51.28,
       "priceHistory": [
         {
           "date": "2026-11-08",
@@ -1372,13 +1372,17 @@
         {
           "date": "2026-11-14",
           "price": 169.99
+        },
+        {
+          "date": "2026-11-15",
+          "price": 51.28
         }
       ],
       "source": "Walmart",
       "title": "Shark Powerlite Cordless Stick Vacuum, Self Cleaning Brushroll, Hepa, Anti-allergen Complete Seal, 40 Min Runtime, Bu1620 Storm Cloud",
       "url": "https://www.walmart.com/ip/19586359962",
       "stock": {
-        "checkedDate": "2026-11-14"
+        "checkedDate": "2026-11-15"
       }
     },
     {
@@ -1403,7 +1407,7 @@
       "title": "Keurig K-express Essentials Red Single-serve K-cup Pod Coffee Maker",
       "url": "https://www.walmart.com/ip/17400009688",
       "stock": {
-        "checkedDate": "2026-11-14"
+        "checkedDate": "2026-11-15"
       }
     },
     {

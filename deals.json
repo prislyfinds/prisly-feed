@@ -22,12 +22,12 @@
         }
       ],
       "source": "Walmart",
-      "title": "Men's Classic Straight Slim Fit Stretch Waist Jeans",
-      "url": "https://www.walmart.com/ip/Men-s-Stretch-Waist-Jeans-for-Older-Men-Over-60-Comfort-Casual-Denim-Pants-Without-Belt-Dark-Blue-39/19880622335",
       "stock": {
         "checkedDate": "2026-11-14",
         "status": "in_stock"
-      }
+      },
+      "title": "Men's Classic Straight Slim Fit Stretch Waist Jeans",
+      "url": "https://www.walmart.com/ip/Men-s-Stretch-Waist-Jeans-for-Older-Men-Over-60-Comfort-Casual-Denim-Pants-Without-Belt-Dark-Blue-39/19880622335"
     },
     {
       "brand": "Tek Gear",
@@ -51,11 +51,11 @@
         }
       ],
       "source": "Kohl's",
-      "title": "Women's Tek Gear Essential Core Raglan Tee",
-      "url": "https://www.kohls.com/product/prd-5942070/womens-tek-gear-essential-core-raglan-tee.jsp",
       "stock": {
         "checkedDate": "2026-11-14"
-      }
+      },
+      "title": "Women's Tek Gear Essential Core Raglan Tee",
+      "url": "https://www.kohls.com/product/prd-5942070/womens-tek-gear-essential-core-raglan-tee.jsp"
     },
     {
       "brand": "Sonoma Goods For Life",
@@ -79,11 +79,11 @@
         }
       ],
       "source": "Kohl's",
-      "title": "Women's Sonoma Goods For Life Everyday Camisole",
-      "url": "https://www.kohls.com/product/prd-6101968/womens-sonoma-goods-for-life-everyday-camisole.jsp",
       "stock": {
         "checkedDate": "2026-11-14"
-      }
+      },
+      "title": "Women's Sonoma Goods For Life Everyday Camisole",
+      "url": "https://www.kohls.com/product/prd-6101968/womens-sonoma-goods-for-life-everyday-camisole.jsp"
     },
     {
       "brand": "Nike",
@@ -103,12 +103,12 @@
         }
       ],
       "source": "Kohl's",
-      "title": "Women's Nike One Fitted Dri-FIT Long-Sleeve Cropped Top",
-      "url": "https://www.kohls.com/product/prd-6924451/womens-nike-one-fitted-dri-fit-long-sleeve-cropped-top.jsp",
       "stock": {
         "checkedDate": "2026-11-15",
         "status": "sold"
-      }
+      },
+      "title": "Women's Nike One Fitted Dri-FIT Long-Sleeve Cropped Top",
+      "url": "https://www.kohls.com/product/prd-6924451/womens-nike-one-fitted-dri-fit-long-sleeve-cropped-top.jsp"
     },
     {
       "brand": "Skechers",
@@ -132,11 +132,11 @@
         }
       ],
       "source": "Kohl's",
-      "title": "Skechers Hands Free Slip-ins GO WALK Flex Grand Entry Women's Athletic Shoes",
-      "url": "https://www.kohls.com/product/prd-6603902/skechers-hands-free-slip-ins-go-walk-flex-grand-entry-womens-athletic-shoes.jsp",
       "stock": {
         "checkedDate": "2026-11-14"
-      }
+      },
+      "title": "Skechers Hands Free Slip-ins GO WALK Flex Grand Entry Women's Athletic Shoes",
+      "url": "https://www.kohls.com/product/prd-6603902/skechers-hands-free-slip-ins-go-walk-flex-grand-entry-womens-athletic-shoes.jsp"
     },
     {
       "brand": "Levi's",
@@ -1292,11 +1292,11 @@
         }
       ],
       "source": "Walmart",
-      "title": "Crock-pot Manual 7-quart Slow Cooker, Reflection",
-      "url": "https://www.walmart.com/ip/15200300942",
       "stock": {
         "checkedDate": "2026-11-14"
-      }
+      },
+      "title": "Crock-pot Manual 7-quart Slow Cooker, Reflection",
+      "url": "https://www.walmart.com/ip/15200300942"
     },
     {
       "brand": "Tineco",
@@ -1321,11 +1321,11 @@
         }
       ],
       "source": "Walmart",
-      "title": "Tineco Go Cordless Stick Vacuum, 40 Min Run Time - Teal (go201)",
-      "url": "https://www.walmart.com/ip/6195700632",
       "stock": {
-        "checkedDate": "2026-11-14"
-      }
+        "checkedDate": "2026-11-15"
+      },
+      "title": "Tineco Go Cordless Stick Vacuum, 40 Min Run Time - Teal (go201)",
+      "url": "https://www.walmart.com/ip/6195700632"
     },
     {
       "brand": "KitchenAid",
@@ -1346,11 +1346,11 @@
         }
       ],
       "source": "Walmart",
-      "title": "Kitchenaid 4.5 Quart Tilt-head Stand Mixer - Ksm97",
-      "url": "https://www.walmart.com/ip/673301960",
       "stock": {
         "checkedDate": "2026-11-15"
-      }
+      },
+      "title": "Kitchenaid 4.5 Quart Tilt-head Stand Mixer - Ksm97",
+      "url": "https://www.walmart.com/ip/673301960"
     },
     {
       "brand": "Shark",
@@ -1379,11 +1379,11 @@
         }
       ],
       "source": "Walmart",
-      "title": "Shark Powerlite Cordless Stick Vacuum, Self Cleaning Brushroll, Hepa, Anti-allergen Complete Seal, 40 Min Runtime, Bu1620 Storm Cloud",
-      "url": "https://www.walmart.com/ip/19586359962",
       "stock": {
         "checkedDate": "2026-11-15"
-      }
+      },
+      "title": "Shark Powerlite Cordless Stick Vacuum, Self Cleaning Brushroll, Hepa, Anti-allergen Complete Seal, 40 Min Runtime, Bu1620 Storm Cloud",
+      "url": "https://www.walmart.com/ip/19586359962"
     },
     {
       "brand": "Keurig",
@@ -1404,11 +1404,11 @@
         }
       ],
       "source": "Walmart",
-      "title": "Keurig K-express Essentials Red Single-serve K-cup Pod Coffee Maker",
-      "url": "https://www.walmart.com/ip/17400009688",
       "stock": {
         "checkedDate": "2026-11-15"
-      }
+      },
+      "title": "Keurig K-express Essentials Red Single-serve K-cup Pod Coffee Maker",
+      "url": "https://www.walmart.com/ip/17400009688"
     },
     {
       "brand": "Beats",
@@ -1433,12 +1433,12 @@
         }
       ],
       "source": "Walmart",
-      "title": "Beats Studio Pro Wireless Headphones - Black",
-      "url": "https://www.walmart.com/ip/1575006069",
       "stock": {
         "checkedDate": "2026-11-15",
         "status": "sold"
-      }
+      },
+      "title": "Beats Studio Pro Wireless Headphones - Black",
+      "url": "https://www.walmart.com/ip/1575006069"
     },
     {
       "brand": "Ninja",
@@ -1463,11 +1463,11 @@
         }
       ],
       "source": "Walmart",
-      "title": "Ninja\u00ae Air Fryer Pro, 4-in-1, 5 Qt Capacity, Af141",
-      "url": "https://www.walmart.com/ip/11526364074",
       "stock": {
         "checkedDate": "2026-11-15"
-      }
+      },
+      "title": "Ninja\u00ae Air Fryer Pro, 4-in-1, 5 Qt Capacity, Af141",
+      "url": "https://www.walmart.com/ip/11526364074"
     },
     {
       "brand": "KitchenAid",
@@ -1496,11 +1496,11 @@
         }
       ],
       "source": "Walmart",
-      "title": "Kitchenaid Classic Series 4.5-quart Tilt-head Stand Mixer, Onyx Black, K45ssob",
-      "url": "https://www.walmart.com/ip/29474640",
       "stock": {
         "checkedDate": "2026-11-15"
-      }
+      },
+      "title": "Kitchenaid Classic Series 4.5-quart Tilt-head Stand Mixer, Onyx Black, K45ssob",
+      "url": "https://www.walmart.com/ip/29474640"
     },
     {
       "brand": "LEGO",
@@ -1533,11 +1533,11 @@
         }
       ],
       "source": "Walmart",
-      "title": "Lego Speed Champions Pagani Utopia 76915 Race Car Toy Model Building Kit, Italian Hypercar, Collectible Racing Vehicle, 2023 Set",
-      "url": "https://www.walmart.com/ip/5025976323",
       "stock": {
         "checkedDate": "2026-11-15"
-      }
+      },
+      "title": "Lego Speed Champions Pagani Utopia 76915 Race Car Toy Model Building Kit, Italian Hypercar, Collectible Racing Vehicle, 2023 Set",
+      "url": "https://www.walmart.com/ip/5025976323"
     },
     {
       "brand": "Hart",
@@ -1566,11 +1566,11 @@
         }
       ],
       "source": "Walmart",
-      "title": "Hart 20-volt Cordless Rotary Tool With 33 Accessories (battery Not Included)",
-      "url": "https://www.walmart.com/ip/643615942",
       "stock": {
         "checkedDate": "2026-11-15"
-      }
+      },
+      "title": "Hart 20-volt Cordless Rotary Tool With 33 Accessories (battery Not Included)",
+      "url": "https://www.walmart.com/ip/643615942"
     },
     {
       "brand": "Revlon",
@@ -1595,11 +1595,11 @@
         }
       ],
       "source": "Walmart",
-      "title": "Revlon One-step Volumizer Plus Hair Dryer And Hot Air Brush, Black",
-      "url": "https://www.walmart.com/ip/448221388",
       "stock": {
         "checkedDate": "2026-11-14"
-      }
+      },
+      "title": "Revlon One-step Volumizer Plus Hair Dryer And Hot Air Brush, Black",
+      "url": "https://www.walmart.com/ip/448221388"
     },
     {
       "brand": "Skechers",
@@ -1628,11 +1628,11 @@
         }
       ],
       "source": "Walmart",
-      "title": "Skechers Work Women's Dyna Air Slip Resistant Lace-up Sneaker",
-      "url": "https://www.walmart.com/ip/581323466",
       "stock": {
         "checkedDate": "2026-11-15"
-      }
+      },
+      "title": "Skechers Work Women's Dyna Air Slip Resistant Lace-up Sneaker",
+      "url": "https://www.walmart.com/ip/581323466"
     },
     {
       "brand": "Levi's",
@@ -1657,11 +1657,11 @@
         }
       ],
       "source": "Walmart",
-      "title": "Levi's Men's 514 Straight Fit Jeans",
-      "url": "https://www.walmart.com/ip/3453589369",
       "stock": {
         "checkedDate": "2026-11-15"
-      }
+      },
+      "title": "Levi's Men's 514 Straight Fit Jeans",
+      "url": "https://www.walmart.com/ip/3453589369"
     },
     {
       "brand": "Disney",
@@ -1692,11 +1692,11 @@
       "size": "3T",
       "sizeGroup": "Toddler",
       "source": "Walmart",
-      "title": "Disney Toy Story Girls Dresses Jessie Red Yellow Ruffle Birthday Christmas Dress Toddler Kids 3t",
-      "url": "https://www.walmart.com/ip/20386669982",
       "stock": {
         "checkedDate": "2026-11-15"
-      }
+      },
+      "title": "Disney Toy Story Girls Dresses Jessie Red Yellow Ruffle Birthday Christmas Dress Toddler Kids 3t",
+      "url": "https://www.walmart.com/ip/20386669982"
     },
     {
       "brand": "Journee",
@@ -1949,11 +1949,11 @@
         }
       ],
       "source": "Kohl's",
-      "title": "Men's Levi's\u00ae 513\u2122 Slim Straight Stretch Jeans",
-      "url": "https://www.kohls.com/product/prd-2143062/levis-513-slim-straight-stretch-jeans-men.jsp?skuid=75692946",
       "stock": {
         "checkedDate": "2026-11-14"
-      }
+      },
+      "title": "Men's Levi's\u00ae 513\u2122 Slim Straight Stretch Jeans",
+      "url": "https://www.kohls.com/product/prd-2143062/levis-513-slim-straight-stretch-jeans-men.jsp?skuid=75692946"
     },
     {
       "brand": "Columbia",
@@ -1973,11 +1973,11 @@
         }
       ],
       "source": "Kohl's",
-      "title": "Men's Columbia Powder Lite II Hooded Jacket",
-      "url": "https://www.kohls.com/product/prd-7754521/mens-columbia-powder-lite-ii-hooded-jacket.jsp?skuid=74781303",
       "stock": {
         "checkedDate": "2026-11-14"
-      }
+      },
+      "title": "Men's Columbia Powder Lite II Hooded Jacket",
+      "url": "https://www.kohls.com/product/prd-7754521/mens-columbia-powder-lite-ii-hooded-jacket.jsp?skuid=74781303"
     },
     {
       "brand": "Columbia",
@@ -1997,11 +1997,11 @@
         }
       ],
       "source": "Kohl's",
-      "title": "Women's Columbia Benton Springs Zip-Front Fleece Jacket",
-      "url": "https://www.kohls.com/product/prd-4505753/womens-columbia-benton-springs-zip-front-fleece-jacket.jsp?skuid=48892617",
       "stock": {
         "checkedDate": "2026-11-14"
-      }
+      },
+      "title": "Women's Columbia Benton Springs Zip-Front Fleece Jacket",
+      "url": "https://www.kohls.com/product/prd-4505753/womens-columbia-benton-springs-zip-front-fleece-jacket.jsp?skuid=48892617"
     },
     {
       "brand": "Levi's",
@@ -2021,11 +2021,11 @@
         }
       ],
       "source": "Kohl's",
-      "title": "Women's Levi's\u00ae Long Quilted Sherpa Coat",
-      "url": "https://www.kohls.com/product/prd-6794381/womens-levis-long-quilted-sherpa-coat.jsp",
       "stock": {
         "checkedDate": "2026-11-14"
-      }
+      },
+      "title": "Women's Levi's\u00ae Long Quilted Sherpa Coat",
+      "url": "https://www.kohls.com/product/prd-6794381/womens-levis-long-quilted-sherpa-coat.jsp"
     },
     {
       "brand": "Nike",
@@ -2045,11 +2045,11 @@
         }
       ],
       "source": "Kohl's",
-      "title": "Toddler Girls Nike Essentials Water Resistant Artic Fleece Heavyweight Puffer Jacket",
-      "url": "https://www.kohls.com/product/prd-8116220/toddler-girls-nike-essentials-water-resistant-artic-fleece-heavyweight-puffer-jacket.jsp?skuid=70624847",
       "stock": {
         "checkedDate": "2026-11-14"
-      }
+      },
+      "title": "Toddler Girls Nike Essentials Water Resistant Artic Fleece Heavyweight Puffer Jacket",
+      "url": "https://www.kohls.com/product/prd-8116220/toddler-girls-nike-essentials-water-resistant-artic-fleece-heavyweight-puffer-jacket.jsp?skuid=70624847"
     },
     {
       "brand": "adidas",
@@ -2069,11 +2069,11 @@
         }
       ],
       "source": "Kohl's",
-      "title": "adidas VL Court 3.0 Kids Lifestyle Shoes",
-      "url": "https://www.kohls.com/product/prd-7017257/adidas-vl-court-30-kids-lifestyle-shoes.jsp?skuid=74958241",
       "stock": {
         "checkedDate": "2026-11-14"
-      }
+      },
+      "title": "adidas VL Court 3.0 Kids Lifestyle Shoes",
+      "url": "https://www.kohls.com/product/prd-7017257/adidas-vl-court-30-kids-lifestyle-shoes.jsp?skuid=74958241"
     },
     {
       "brand": "adidas",
@@ -2093,11 +2093,11 @@
         }
       ],
       "source": "Kohl's",
-      "title": "adidas VL Court Bold Women's Shoes",
-      "url": "https://www.kohls.com/product/prd-6733611/adidas-vl-court-bold-womens-shoes.jsp?prdPV=4",
       "stock": {
         "checkedDate": "2026-11-14"
-      }
+      },
+      "title": "adidas VL Court Bold Women's Shoes",
+      "url": "https://www.kohls.com/product/prd-6733611/adidas-vl-court-bold-womens-shoes.jsp?prdPV=4"
     },
     {
       "brand": "Ninja",
@@ -2117,11 +2117,11 @@
         }
       ],
       "source": "Kohl's",
-      "title": "Ninja Air Fryer Pro XL 6-in-1 with 6.5-qt. Capacity, Nonstick Basket & Crisper Plate",
-      "url": "https://www.kohls.com/product/prd-6875840/ninja-air-fryer-pro-xl-6-in-1-with-65-qt-capacity-nonstick-basket-crisper-plate.jsp?skuid=66747382",
       "stock": {
         "checkedDate": "2026-11-14"
-      }
+      },
+      "title": "Ninja Air Fryer Pro XL 6-in-1 with 6.5-qt. Capacity, Nonstick Basket & Crisper Plate",
+      "url": "https://www.kohls.com/product/prd-6875840/ninja-air-fryer-pro-xl-6-in-1-with-65-qt-capacity-nonstick-basket-crisper-plate.jsp?skuid=66747382"
     },
     {
       "brand": "The North Face",
@@ -2354,12 +2354,12 @@
       ],
       "size": "XL (14)",
       "source": "Poshmark",
-      "title": "Patagonia Kids Better Sweater 1/4 Zip Fleece Pullover Gray XL 14",
-      "url": "https://poshmark.com/listing/Patagonia-Kids-Better-Sweater-14-Zip-Fleece-Pullover-Gray-XL-14-6acd8cd105ce57f96823d6df",
       "stock": {
-        "status": "sold",
-        "checkedDate": "2026-11-15"
-      }
+        "checkedDate": "2026-11-15",
+        "status": "sold"
+      },
+      "title": "Patagonia Kids Better Sweater 1/4 Zip Fleece Pullover Gray XL 14",
+      "url": "https://poshmark.com/listing/Patagonia-Kids-Better-Sweater-14-Zip-Fleece-Pullover-Gray-XL-14-6acd8cd105ce57f96823d6df"
     },
     {
       "brand": "Ralph Lauren",
@@ -2510,153 +2510,153 @@
       "url": "https://www.target.com/p/cushionaire-heddy-kids-genuine-suede-clogs-boys-and-girls-slip-on-round-toe-potato-shoes-with-adjustable-buckle-strap-and-cushioned-footbed/-/A-1013708410"
     },
     {
-      "id": "target-slime-life-ramen-diy-slime-kit",
-      "category": "ASMR",
       "brand": "Slime Life",
+      "category": "ASMR",
       "condition": "New",
-      "kind": "new",
-      "title": "Slime Life Ramen DIY Slime Kit - Unboxing Ingredients to Make, Smash, and Stretch Your Food Slime",
-      "price": 16.49,
-      "originalPrice": 27.49,
       "dealReason": "40% off the regular Target price.",
-      "source": "Target",
-      "url": "https://www.target.com/p/slime-life-ramen-diy-slime-kit-unboxing-ingredients-to-make-smash-and-stretch-your-food-slime/-/A-94614447",
-      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_0537ad1c-08d8-4d39-afb0-a1749e520058?wid=800&hei=800&qlt=80&fmt=pjpeg",
       "foundDate": "2026-11-14",
+      "id": "target-slime-life-ramen-diy-slime-kit",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_0537ad1c-08d8-4d39-afb0-a1749e520058?wid=800&hei=800&qlt=80&fmt=pjpeg",
+      "kind": "new",
+      "originalPrice": 27.49,
+      "price": 16.49,
       "priceHistory": [
         {
           "date": "2026-11-14",
           "price": 16.49
         }
       ],
+      "source": "Target",
       "stock": {
         "checkedDate": "2026-11-14",
         "status": "in_stock"
-      }
+      },
+      "title": "Slime Life Ramen DIY Slime Kit - Unboxing Ingredients to Make, Smash, and Stretch Your Food Slime",
+      "url": "https://www.target.com/p/slime-life-ramen-diy-slime-kit-unboxing-ingredients-to-make-smash-and-stretch-your-food-slime/-/A-94614447"
     },
     {
-      "id": "target-kinetic-sand-crystal-pink-2lb",
-      "category": "ASMR",
       "brand": "Kinetic Sand",
+      "category": "ASMR",
       "condition": "New",
-      "kind": "new",
-      "title": "Kinetic Sand Crystal Pink Shimmer Sand 2lb",
-      "price": 10.99,
-      "originalPrice": 12.99,
       "dealReason": "15% off the regular Target price.",
-      "source": "Target",
-      "url": "https://www.target.com/p/kinetic-sand-crystal-pink-shimmer-sand-2lb/-/A-80351387",
-      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_bac65d08-6a01-4138-ba90-c89a63e00c70?wid=800&hei=800&qlt=80&fmt=pjpeg",
       "foundDate": "2026-11-14",
+      "id": "target-kinetic-sand-crystal-pink-2lb",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_bac65d08-6a01-4138-ba90-c89a63e00c70?wid=800&hei=800&qlt=80&fmt=pjpeg",
+      "kind": "new",
+      "originalPrice": 12.99,
+      "price": 10.99,
       "priceHistory": [
         {
           "date": "2026-11-14",
           "price": 10.99
         }
       ],
+      "source": "Target",
       "stock": {
         "checkedDate": "2026-11-14",
         "status": "in_stock"
-      }
+      },
+      "title": "Kinetic Sand Crystal Pink Shimmer Sand 2lb",
+      "url": "https://www.target.com/p/kinetic-sand-crystal-pink-shimmer-sand-2lb/-/A-80351387"
     },
     {
-      "id": "target-mlb-the-show-26-ps5",
       "category": "Gaming",
       "condition": "New",
-      "kind": "new",
-      "title": "MLB The Show 26 - PlayStation 5",
-      "price": 29.99,
-      "originalPrice": 42.99,
       "dealReason": "30% off the regular Target price.",
-      "source": "Target",
-      "url": "https://www.target.com/p/mlb-the-show-26-playstation-5/-/A-95227436",
-      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_32e00a0c-b3cf-488b-a326-24871c6bfd64?wid=800&hei=800&qlt=80&fmt=pjpeg",
       "foundDate": "2026-11-14",
+      "id": "target-mlb-the-show-26-ps5",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_32e00a0c-b3cf-488b-a326-24871c6bfd64?wid=800&hei=800&qlt=80&fmt=pjpeg",
+      "kind": "new",
+      "originalPrice": 42.99,
+      "price": 29.99,
       "priceHistory": [
         {
           "date": "2026-11-14",
           "price": 29.99
         }
       ],
+      "source": "Target",
       "stock": {
         "checkedDate": "2026-11-14",
         "status": "in_stock"
-      }
+      },
+      "title": "MLB The Show 26 - PlayStation 5",
+      "url": "https://www.target.com/p/mlb-the-show-26-playstation-5/-/A-95227436"
     },
     {
-      "id": "target-petsworld-puppy-pads-300ct",
-      "category": "Pets",
       "brand": "PetsWorld",
+      "category": "Pets",
       "condition": "New",
-      "kind": "new",
-      "title": "PetsWorld Economy Value (23x36 inch) Puppy Training & Potty Pads 300 Count",
-      "price": 59.99,
-      "originalPrice": 94.99,
       "dealReason": "37% off the regular price.",
-      "source": "Target",
-      "url": "https://www.target.com/p/petsworld-economy-value-23x36-inch-puppy-training-potty-pads-300-count/-/A-93968322",
-      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_c50ef786-709f-4606-9bf3-6c5cd9af0a82?wid=800&hei=800&qlt=80&fmt=pjpeg",
       "foundDate": "2026-11-14",
+      "id": "target-petsworld-puppy-pads-300ct",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_c50ef786-709f-4606-9bf3-6c5cd9af0a82?wid=800&hei=800&qlt=80&fmt=pjpeg",
+      "kind": "new",
+      "originalPrice": 94.99,
+      "price": 59.99,
       "priceHistory": [
         {
           "date": "2026-11-14",
           "price": 59.99
         }
       ],
+      "source": "Target",
       "stock": {
         "checkedDate": "2026-11-14",
         "status": "in_stock"
-      }
+      },
+      "title": "PetsWorld Economy Value (23x36 inch) Puppy Training & Potty Pads 300 Count",
+      "url": "https://www.target.com/p/petsworld-economy-value-23x36-inch-puppy-training-potty-pads-300-count/-/A-93968322"
     },
     {
-      "id": "basspro-megacast-baitcast-reel",
-      "category": "Outdoor",
       "brand": "Bass Pro Shops",
+      "category": "Outdoor",
       "condition": "New",
-      "kind": "new",
-      "title": "Bass Pro Shops MegaCast Baitcast Reel",
-      "price": 41.98,
-      "originalPrice": 59.99,
       "dealReason": "30% off the regular Bass Pro Shops price.",
-      "source": "Bass Pro Shops",
-      "url": "https://www.basspro.com/p/bass-pro-shops-megacast-baitcast-reel-101137223",
-      "imageUrl": "https://assets.basspro.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_500,q_auto,w_800/c_pad,h_500,w_800/v1/ProductImages/100/master1_101137223_main",
       "foundDate": "2026-11-14",
+      "id": "basspro-megacast-baitcast-reel",
+      "imageUrl": "https://assets.basspro.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_500,q_auto,w_800/c_pad,h_500,w_800/v1/ProductImages/100/master1_101137223_main",
+      "kind": "new",
+      "originalPrice": 59.99,
+      "price": 41.98,
       "priceHistory": [
         {
           "date": "2026-11-14",
           "price": 41.98
         }
       ],
+      "source": "Bass Pro Shops",
       "stock": {
         "checkedDate": "2026-11-15",
         "status": "in_stock"
-      }
+      },
+      "title": "Bass Pro Shops MegaCast Baitcast Reel",
+      "url": "https://www.basspro.com/p/bass-pro-shops-megacast-baitcast-reel-101137223"
     },
     {
-      "id": "basspro-redhead-silent-stalker-trophy-jacket",
-      "category": "Outdoor",
       "brand": "RedHead",
+      "category": "Outdoor",
       "condition": "New",
-      "kind": "new",
-      "title": "RedHead Silent Stalker Trophy Jacket for Men",
-      "price": 89.98,
-      "originalPrice": 129.99,
       "dealReason": "31% off the regular Bass Pro Shops price.",
-      "source": "Bass Pro Shops",
-      "url": "https://www.basspro.com/p/redhead-silent-stalker-trophy-jacket-for-men-101518940",
-      "imageUrl": "https://assets.basspro.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_500,q_auto,w_800/c_pad,h_500,w_800/v1/ProductImages/475/truetimberkanati_101518940_main",
       "foundDate": "2026-11-14",
+      "id": "basspro-redhead-silent-stalker-trophy-jacket",
+      "imageUrl": "https://assets.basspro.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_500,q_auto,w_800/c_pad,h_500,w_800/v1/ProductImages/475/truetimberkanati_101518940_main",
+      "kind": "new",
+      "originalPrice": 129.99,
+      "price": 89.98,
       "priceHistory": [
         {
           "date": "2026-11-14",
           "price": 89.98
         }
       ],
+      "source": "Bass Pro Shops",
       "stock": {
-        "checkedDate": "2026-11-14",
+        "checkedDate": "2026-11-15",
         "status": "in_stock"
-      }
+      },
+      "title": "RedHead Silent Stalker Trophy Jacket for Men",
+      "url": "https://www.basspro.com/p/redhead-silent-stalker-trophy-jacket-for-men-101518940"
     }
   ],
   "gatheredOn": "2026-11-14"

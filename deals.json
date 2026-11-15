@@ -839,7 +839,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-14",
+        "checkedDate": "2026-11-15",
         "status": "in_stock"
       },
       "title": "Men's Columbia Glennaker Lake™ II Hooded Rain Jacket",
@@ -1665,7 +1665,7 @@
       "imageUrl": "https://scontent.xx.fbcdn.net/v/t45.5328-4/781267052_1080822444884935_6387187259670979981_n.jpg?stp=dst-jpg_fi1-ffffff-1.00_s1080x1350_sh2.08_tt6&_nc_cat=109&ccb=1-7&_nc_sid=89567c&efg=eyJ2ZW5jb2RlX3RhZyI6ImFkc19pbWFnZS5mYl9kcGEuc2hhcnBlbi5vcmlnaW5hbF9kaW1lbnNpb24uMTQ5MHgxNTU1In0%3D&_nc_ohc=SYUNqNbquPIQ7kNvwFPI9fd&_nc_oc=AdoMsywafRTrA440vpUMGgyPNjK9T8KNxkyBU721-8que_Hy_vumn6fE_hwEQFT8H_fA14lmooqacSy6N8Kbe84t&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=geZ-g5VyQvdGGF5dd-_KYA&oh=00_AQQ-vpx6pCHbZ2KFy1EitkBQtSVLYPqXi6zwIPaM_cNVRg&oe=6AFB8F4D",
       "kind": "new",
       "originalPrice": 29.99,
-      "price": 19.97,
+      "price": 14.24,
       "priceHistory": [
         {
           "date": "2026-11-12",
@@ -1674,6 +1674,10 @@
         {
           "date": "2026-11-14",
           "price": 19.97
+        },
+        {
+          "date": "2026-11-15",
+          "price": 14.24
         }
       ],
       "size": "3T",
@@ -1682,7 +1686,7 @@
       "title": "Disney Toy Story Girls Dresses Jessie Red Yellow Ruffle Birthday Christmas Dress Toddler Kids 3t",
       "url": "https://www.walmart.com/ip/20386669982",
       "stock": {
-        "checkedDate": "2026-11-14"
+        "checkedDate": "2026-11-15"
       }
     },
     {

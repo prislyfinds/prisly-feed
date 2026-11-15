@@ -814,7 +814,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-14",
+        "checkedDate": "2026-11-15",
         "status": "in_stock"
       },
       "title": "Men's Columbia Steens Mountain™ Full-Zip Fleece Jacket",
@@ -1541,7 +1541,7 @@
       "imageUrl": "https://scontent.xx.fbcdn.net/v/t45.5328-4/314809326_6419622624731876_3362097351314938814_n.jpg?stp=dst-jpg_fi1-ffffff-1.00_s1080x1350_sh2.08_tt6&_nc_cat=109&ccb=1-7&_nc_sid=89567c&efg=eyJ2ZW5jb2RlX3RhZyI6ImFkc19pbWFnZS5mYl9kcGEuc2hhcnBlbi5vcmlnaW5hbF9kaW1lbnNpb24uMzAwMHgzMDAwIn0%3D&_nc_ohc=0qKfHzmnuLEQ7kNvwGq6HTR&_nc_oc=AdrQbJ9dzhAJbLAAT3qBf9CHA6BjO8rVYYImITGF_f8bCgwXmDyKcA014Q_3dRoBU9My5kVvvVbtyjIBzuNM8RND&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=wTntGR6-PAU4QDopbFowVQ&oh=00_AQSYyDFxGfaw8wRPiPrpvGALKU5awJx_5m0gMQBgk5vVbg&oe=6AFB8872",
       "kind": "new",
       "originalPrice": 50.88,
-      "price": 36.97,
+      "price": 44.98,
       "priceHistory": [
         {
           "date": "2026-11-12",
@@ -1550,13 +1550,17 @@
         {
           "date": "2026-11-14",
           "price": 36.97
+        },
+        {
+          "date": "2026-11-15",
+          "price": 44.98
         }
       ],
       "source": "Walmart",
       "title": "Hart 20-volt Cordless Rotary Tool With 33 Accessories (battery Not Included)",
       "url": "https://www.walmart.com/ip/643615942",
       "stock": {
-        "checkedDate": "2026-11-14"
+        "checkedDate": "2026-11-15"
       }
     },
     {
@@ -1647,7 +1651,7 @@
       "title": "Levi's Men's 514 Straight Fit Jeans",
       "url": "https://www.walmart.com/ip/3453589369",
       "stock": {
-        "checkedDate": "2026-11-14"
+        "checkedDate": "2026-11-15"
       }
     },
     {

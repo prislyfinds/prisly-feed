@@ -1270,11 +1270,15 @@
    "imageUrl": "https://i5.walmartimages.com/seo/Lancome-La-Vie-Est-Belle-Eau-De-Parfum-Spray-for-Women-1-oz_42d11dc4-57b7-4f63-adad-47e03feddd4a.4a93e627b712acbacc2067b4b29916a9.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
    "kind": "new",
    "originalPrice": 85.0,
-   "price": 51.21,
+   "price": 66.5,
    "priceHistory": [
     {
      "date": "2026-11-12",
      "price": 51.21
+    },
+    {
+     "date": "2026-11-15",
+     "price": 66.5
     }
    ],
    "source": "Walmart",

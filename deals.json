@@ -19,8 +19,8 @@
    ],
    "source": "Walmart",
    "stock": {
-    "status": "in_stock",
-    "checkedDate": "2026-11-15"
+    "checkedDate": "2026-11-15",
+    "status": "in_stock"
    },
    "title": "Men's Classic Straight Slim Fit Stretch Waist Jeans",
    "url": "https://www.walmart.com/ip/Men-s-Stretch-Waist-Jeans-for-Older-Men-Over-60-Comfort-Casual-Denim-Pants-Without-Belt-Dark-Blue-39/19880622335"
@@ -1101,7 +1101,7 @@
    ],
    "source": "Walmart",
    "stock": {
-    "checkedDate": "2026-11-14",
+    "checkedDate": "2026-11-16",
     "status": "low_stock"
    },
    "title": "LEGO Classic Large Creative Brick Box 10698",
@@ -1396,8 +1396,8 @@
    ],
    "source": "Walmart",
    "stock": {
-    "status": "in_stock",
-    "checkedDate": "2026-11-15"
+    "checkedDate": "2026-11-15",
+    "status": "in_stock"
    },
    "title": "Shark Powerlite Cordless Stick Vacuum, Self Cleaning Brushroll, Hepa, Anti-allergen Complete Seal, 40 Min Runtime, Bu1620 Storm Cloud",
    "url": "https://www.walmart.com/ip/19586359962"
@@ -1447,8 +1447,8 @@
    ],
    "source": "Walmart",
    "stock": {
-    "status": "in_stock",
-    "checkedDate": "2026-11-15"
+    "checkedDate": "2026-11-15",
+    "status": "in_stock"
    },
    "title": "Beats Studio Pro Wireless Headphones - Black",
    "url": "https://www.walmart.com/ip/1575006069"
@@ -1584,8 +1584,8 @@
    ],
    "source": "Walmart",
    "stock": {
-    "status": "sold",
-    "checkedDate": "2026-11-15"
+    "checkedDate": "2026-11-15",
+    "status": "sold"
    },
    "title": "Hart 20-volt Cordless Rotary Tool With 33 Accessories (battery Not Included)",
    "url": "https://www.walmart.com/ip/643615942"
@@ -1618,8 +1618,8 @@
    ],
    "source": "Walmart",
    "stock": {
-    "status": "in_stock",
-    "checkedDate": "2026-11-15"
+    "checkedDate": "2026-11-15",
+    "status": "in_stock"
    },
    "title": "Revlon One-step Volumizer Plus Hair Dryer And Hot Air Brush, Black",
    "url": "https://www.walmart.com/ip/448221388"
@@ -1877,8 +1877,8 @@
    ],
    "source": "Kohl's",
    "stock": {
-    "status": "sold",
-    "checkedDate": "2026-11-16"
+    "checkedDate": "2026-11-16",
+    "status": "sold"
    },
    "title": "SEPHORA COLLECTION Best Skin Ever Multi-Use Hydrating Glow Concealer",
    "url": "https://www.kohls.com/product/prd-6461762/sephora-collection-best-skin-ever-multi-use-hydrating-glow-concealer.jsp"

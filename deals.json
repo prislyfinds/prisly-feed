@@ -1657,7 +1657,7 @@
       ],
       "source": "Walmart",
       "stock": {
-        "checkedDate": "2026-11-16"
+        "checkedDate": "2026-11-15"
       },
       "title": "Levi's Men's 514 Straight Fit Jeans",
       "url": "https://www.walmart.com/ip/3453589369"
@@ -1736,15 +1736,11 @@
       "imageUrl": "https://media.kohlsimg.com/is/image/kohls/7863158_Black?wid=800&hei=800&op_sharpen=1",
       "kind": "new",
       "originalPrice": 129.99,
-      "price": 51.99,
+      "price": 64.99,
       "priceHistory": [
         {
           "date": "2026-11-13",
           "price": 64.99
-        },
-        {
-          "date": "2026-11-16",
-          "price": 51.99
         }
       ],
       "source": "Kohl's",
@@ -1803,7 +1799,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-16",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Nike Waffle Debut Women's Shoes",
@@ -1828,7 +1824,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-16",
+        "checkedDate": "2026-11-14",
         "status": "in_stock"
       },
       "title": "Converse Chuck Taylor All Star Shoreline Women's Lace-Up Sneakers",
@@ -2858,7 +2854,208 @@
       },
       "title": "Allforpaws Heartbeat Dog Toys, Puppy Soothing Heartbeat Comfort Dog Sleep Aid Plush Toy, Dog Anti Anxiety Plush Buddy",
       "url": "https://www.target.com/p/allforpaws-calming-pals-dog-toy-anti-anxiety-plush-buddy/-/A-1004572949"
+    },
+    {
+      "brand": "Work Sharp",
+      "category": "Tools",
+      "condition": "New",
+      "dealReason": "33% off the regular Bass Pro Shops price.",
+      "foundDate": "2026-11-16",
+      "id": "basspro-work-sharp-professional-electric-knife-sharpener",
+      "imageUrl": "https://assets.basspro.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_500,q_auto,w_800/c_pad,h_500,w_800/v1/ProductImages/400/master1_100194351_main",
+      "kind": "new",
+      "originalPrice": 149.99,
+      "price": 99.97,
+      "priceHistory": [
+        {
+          "date": "2026-11-16",
+          "price": 99.97
+        }
+      ],
+      "source": "Bass Pro Shops",
+      "stock": {
+        "checkedDate": "2026-11-16",
+        "status": "in_stock"
+      },
+      "title": "Work Sharp Professional Electric Knife Sharpener",
+      "url": "https://www.basspro.com/p/work-sharp-professional-electric-knife-sharpener"
+    },
+    {
+      "brand": "Sherpani",
+      "category": "Outdoor",
+      "condition": "New",
+      "dealReason": "40% off the regular Bass Pro Shops price.",
+      "foundDate": "2026-11-16",
+      "id": "basspro-sherpani-getaway-travel-backpack-raven",
+      "imageUrl": "https://assets.basspro.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_500,q_auto,w_800/c_pad,h_500,w_800/v1/ProductImages/650/raven_101747334_main",
+      "kind": "new",
+      "originalPrice": 110.0,
+      "price": 65.97,
+      "priceHistory": [
+        {
+          "date": "2026-11-16",
+          "price": 65.97
+        }
+      ],
+      "source": "Bass Pro Shops",
+      "stock": {
+        "checkedDate": "2026-11-16",
+        "status": "in_stock"
+      },
+      "title": "Sherpani Getaway Travel Backpack - Raven",
+      "url": "https://www.basspro.com/p/sherpani-getaway-travel-backpack"
+    },
+    {
+      "brand": "Cabela's",
+      "category": "Shoes",
+      "condition": "New",
+      "dealReason": "33% off the regular Bass Pro Shops price.",
+      "foundDate": "2026-11-16",
+      "id": "basspro-cabelas-axis-ii-hunting-boots-8m",
+      "imageUrl": "https://assets.basspro.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_500,q_auto,w_800/c_pad,h_500,w_800/v1/ProductImages/500/truetimber_101533807_main",
+      "kind": "new",
+      "originalPrice": 159.99,
+      "price": 106.77,
+      "priceHistory": [
+        {
+          "date": "2026-11-16",
+          "price": 106.77
+        }
+      ],
+      "size": "8M",
+      "source": "Bass Pro Shops",
+      "stock": {
+        "checkedDate": "2026-11-16",
+        "status": "in_stock"
+      },
+      "title": "Cabela's Axis II Insulated Waterproof Hunting Boots for Men - TrueTimber Strata - 8M",
+      "url": "https://www.basspro.com/p/cabelas-axis-ii-insulated-waterproof-hunting-boots-for-men"
+    },
+    {
+      "brand": "Flambeau",
+      "category": "Outdoor",
+      "condition": "New",
+      "dealReason": "71% off the regular Dick's Sporting Goods price.",
+      "foundDate": "2026-11-16",
+      "id": "dicks-flambeau-ike-4tk-duffle-tackle-bag",
+      "imageUrl": "https://dks.scene7.com/is/image/GolfGalaxy/25FLAUFISHK4TKDFFLGWY_Black?qlt=70&wid=780&hei=780&fmt=pjpeg&op_sharpen=1&fit=constrain",
+      "kind": "new",
+      "originalPrice": 69.99,
+      "price": 19.97,
+      "priceHistory": [
+        {
+          "date": "2026-11-16",
+          "price": 19.97
+        }
+      ],
+      "source": "Dick's Sporting Goods",
+      "stock": {
+        "checkedDate": "2026-11-16",
+        "status": "in_stock"
+      },
+      "title": "Flambeau Outdoors IKE 4TK Duffle Tackle Bag",
+      "url": "https://www.dickssportinggoods.com/p/flambeau-outdoors-ike-4tk-duffle-tackle-bag-25flaufishk4tkdfflgwy/25flaufishk4tkdfflgwy?Clearance=true&color=Black"
+    },
+    {
+      "brand": "Lew's",
+      "category": "Outdoor",
+      "condition": "New",
+      "dealReason": "44% off the regular Dick's Sporting Goods price.",
+      "foundDate": "2026-11-16",
+      "id": "dicks-lews-utility-tackle-bag-large",
+      "imageUrl": "https://dks.scene7.com/is/image/GolfGalaxy/25LEWUFISHLWS3700RDCD_Adrenaline_Rush?qlt=70&wid=780&hei=780&fmt=pjpeg&op_sharpen=1&fit=constrain",
+      "kind": "new",
+      "originalPrice": 49.99,
+      "price": 27.97,
+      "priceHistory": [
+        {
+          "date": "2026-11-16",
+          "price": 27.97
+        }
+      ],
+      "source": "Dick's Sporting Goods",
+      "stock": {
+        "checkedDate": "2026-11-16",
+        "status": "in_stock"
+      },
+      "title": "Lew's Utility Tackle Bag - Large",
+      "url": "https://www.dickssportinggoods.com/p/lews-utility-tackle-bag-large-25lewufishlws3700rdcd/25lewufishlws3700rdcd?Clearance=true&color=Adrenaline%20Rush"
+    },
+    {
+      "brand": "Gatorade",
+      "category": "Outdoor",
+      "condition": "New",
+      "dealReason": "51% off the regular Dick's Sporting Goods price.",
+      "foundDate": "2026-11-16",
+      "id": "dicks-gatorade-50-quart-huddle-rolling-cooler",
+      "imageUrl": "https://dks.scene7.com/is/image/GolfGalaxy/24GATUGTRD50QTRLLREC_Grey?qlt=70&wid=780&hei=780&fmt=pjpeg&op_sharpen=1&fit=constrain",
+      "kind": "new",
+      "originalPrice": 200.0,
+      "price": 97.97,
+      "priceHistory": [
+        {
+          "date": "2026-11-16",
+          "price": 97.97
+        }
+      ],
+      "source": "Dick's Sporting Goods",
+      "stock": {
+        "checkedDate": "2026-11-16",
+        "status": "in_stock"
+      },
+      "title": "Gatorade 50 Quart Huddle Rolling Cooler",
+      "url": "https://www.dickssportinggoods.com/p/gatorade-50-quart-huddle-rolling-cooler-24gatugtrd50qtrllrec/24gatugtrd50qtrllrec?Clearance=true&color=Grey"
+    },
+    {
+      "brand": "Schylling",
+      "category": "ASMR",
+      "condition": "New",
+      "dealReason": "37% off the price stated on the listing. Brand new in package, never opened, per the seller.",
+      "foundDate": "2026-11-16",
+      "id": "mercari-needoh-nice-cube-purple",
+      "imageUrl": "https://u-mercari-images.mercdn.net/photos/m85573789971_1.jpg?width=1280&quality=75&_=1789439446",
+      "kind": "secondhand",
+      "originalPrice": 15.0,
+      "price": 9.5,
+      "priceHistory": [
+        {
+          "date": "2026-11-16",
+          "price": 9.5
+        }
+      ],
+      "source": "Mercari",
+      "stock": {
+        "checkedDate": "2026-11-16",
+        "status": "in_stock"
+      },
+      "title": "NeeDoh Nice Cube - Purple",
+      "url": "https://www.mercari.com/us/item/m85573789971/"
+    },
+    {
+      "brand": "Motion Sand",
+      "category": "ASMR",
+      "condition": "New",
+      "dealReason": "43% off the price stated on the listing. New and never used, per the seller.",
+      "foundDate": "2026-11-16",
+      "id": "mercari-motion-sand-dino-discovery",
+      "imageUrl": "https://u-mercari-images.mercdn.net/photos/m17177465232_1.jpg?width=1280&quality=75&_=1789439480",
+      "kind": "secondhand",
+      "originalPrice": 24.99,
+      "price": 14.19,
+      "priceHistory": [
+        {
+          "date": "2026-11-16",
+          "price": 14.19
+        }
+      ],
+      "source": "Mercari",
+      "stock": {
+        "checkedDate": "2026-11-16",
+        "status": "in_stock"
+      },
+      "title": "Motion Sand Dino Discovery Dinosaur Kinetic Sand Box",
+      "url": "https://www.mercari.com/us/item/m17177465232/"
     }
   ],
-  "gatheredOn": "2026-11-15"
+  "gatheredOn": "2026-11-16"
 }

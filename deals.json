@@ -865,7 +865,7 @@
    "source": "Kohl's",
    "stock": {
     "checkedDate": "2026-11-15",
-    "status": "sold"
+    "status": "in_stock"
    },
    "title": "Men's Columbia WaterTight II Jacket",
    "url": "https://www.kohls.com/product/prd-3596160/mens-columbia-watertight-ii-packable-jacket.jsp"
@@ -2360,7 +2360,7 @@
    "size": "XL (14)",
    "source": "Poshmark",
    "stock": {
-    "checkedDate": "2026-11-15",
+    "checkedDate": "2026-11-16",
     "status": "sold"
    },
    "title": "Patagonia Kids Better Sweater 1/4 Zip Fleece Pullover Gray XL 14",

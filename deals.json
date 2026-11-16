@@ -3055,6 +3055,54 @@
       },
       "title": "Motion Sand Dino Discovery Dinosaur Kinetic Sand Box",
       "url": "https://www.mercari.com/us/item/m17177465232/"
+    },
+    {
+      "brand": "Fuggler",
+      "category": "Toys",
+      "condition": "New",
+      "dealReason": "Viral blind box collectible, the creepy-cute hit of the 2026 holiday toy guides. Target exclusive, 38 characters to collect.",
+      "foundDate": "2026-11-16",
+      "id": "target-fuggler-special-edition-blind-box",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_b71c20ba-12f0-4441-8141-ca38f27b5b8a?wid=800&hei=800&qlt=80&fmt=pjpeg",
+      "kind": "new",
+      "price": 3.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-16",
+          "price": 3.99
+        }
+      ],
+      "source": "Target",
+      "stock": {
+        "checkedDate": "2026-11-16",
+        "status": "in_stock"
+      },
+      "title": "Fuggler Special Edition Figures Blind Box",
+      "url": "https://www.target.com/p/fuggler-special-edition-figures-in-a-blind-box/-/A-1011390435"
+    },
+    {
+      "brand": "Gui Gui",
+      "category": "ASMR",
+      "condition": "New",
+      "dealReason": "Viral slime kit named on 2026 holiday sellout watch lists. 50-piece set with 5 slimes.",
+      "foundDate": "2026-11-16",
+      "id": "target-gui-gui-mega-slime-haul",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_1d5e5a64-a392-4b7e-8e64-36c70f6ea462?wid=800&hei=800&qlt=80&fmt=pjpeg",
+      "kind": "new",
+      "price": 29.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-16",
+          "price": 29.99
+        }
+      ],
+      "source": "Target",
+      "stock": {
+        "checkedDate": "2026-11-16",
+        "status": "in_stock"
+      },
+      "title": "Gui Gui Mega Slime Haul",
+      "url": "https://www.target.com/p/gui-gui-mega-slime-haul/-/A-94991898"
     }
   ],
   "gatheredOn": "2026-11-16"

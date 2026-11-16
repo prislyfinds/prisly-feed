@@ -789,7 +789,7 @@
    ],
    "source": "Kohl's",
    "stock": {
-    "checkedDate": "2026-11-14",
+    "checkedDate": "2026-11-16",
     "status": "in_stock"
    },
    "title": "Ninja Foodi 6.5-qt. Everyday PossibleCooker Pro Multi-Cooker MC1101",
@@ -1117,16 +1117,20 @@
    "imageUrl": "https://i5.walmartimages.com/seo/SOG-Power-Pint-Multi-Tool_2ac8200d-0f90-4782-83ac-9973a8b8efde.11fe8bb0d3e6361cffca34fcaefef700.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
    "kind": "new",
    "originalPrice": 59.99,
-   "price": 32.98,
+   "price": 103.96,
    "priceHistory": [
     {
      "date": "2026-11-12",
      "price": 32.98
+    },
+    {
+     "date": "2026-11-16",
+     "price": 103.96
     }
    ],
    "source": "Walmart",
    "stock": {
-    "checkedDate": "2026-11-14",
+    "checkedDate": "2026-11-16",
     "status": "in_stock"
    },
    "title": "SOG Power Pint Multi-Tool, 18-Tool, Compact Size 5\"",
@@ -1177,7 +1181,7 @@
    ],
    "source": "Walmart",
    "stock": {
-    "checkedDate": "2026-11-14",
+    "checkedDate": "2026-11-16",
     "status": "in_stock"
    },
    "title": "Citizen Men's Eco-Drive Chandler Field Watch, 37 mm, Green Strap (BM8180-03E)",

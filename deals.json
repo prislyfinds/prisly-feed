@@ -3153,6 +3153,103 @@
       },
       "title": "Starbucks Glass Bearista Cold Cup Surprise Box (Sealed 20 oz)",
       "url": "https://www.ebay.com/itm/206692247031"
+    },
+    {
+      "brand": "Sesame Street",
+      "category": "Toys",
+      "condition": "New",
+      "dealReason": "Viral holiday toy: the 30th anniversary Tickle Me Elmo reboot, flagged for high sellout risk in 2026 holiday toy guides. Target lists it at a new lower price.",
+      "foundDate": "2026-11-16",
+      "id": "target-tickle-me-elmo-giggle-max",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_bb3224cf-ec53-467f-befe-988b685ee32f?wid=800&hei=800&qlt=80&fmt=pjpeg",
+      "kind": "new",
+      "originalPrice": 39.99,
+      "price": 29.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-16",
+          "price": 29.99
+        }
+      ],
+      "source": "Target",
+      "stock": {
+        "checkedDate": "2026-11-16",
+        "status": "in_stock"
+      },
+      "title": "Sesame Street Tickle Me Elmo Giggle Max Interactive Plush Toy",
+      "url": "https://www.target.com/p/sesame-street-f26-sesame-street-tickle-me-elmo-57956/-/A-94987157"
+    },
+    {
+      "brand": "Pokemon",
+      "category": "Toys",
+      "condition": "New",
+      "dealReason": "Named the hottest toy of the year in RetailMeNot's 2026 holiday guide, with a high sellout probability. 16 inch interactive plush with 120+ animations.",
+      "foundDate": "2026-11-16",
+      "id": "target-pokemon-pikachu-puppetronic",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_68102b6c-c559-472e-bf0c-dde320c24147?wid=800&hei=800&qlt=80&fmt=pjpeg",
+      "kind": "new",
+      "price": 79.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-16",
+          "price": 79.99
+        }
+      ],
+      "source": "Target",
+      "stock": {
+        "checkedDate": "2026-11-16",
+        "status": "in_stock"
+      },
+      "title": "Pok\u00e9mon Pikachu Puppetronic by RealFX - 16\" Interactive Plush with 120+ Animations of Movement, Lights, and Sounds",
+      "url": "https://www.target.com/p/pok-233-mon-20-34-puppetronic-plush-toy/-/A-94972309"
+    },
+    {
+      "brand": "Mattel",
+      "category": "Toys",
+      "condition": "New",
+      "dealReason": "Singing Rumi doll from the hit KPop Demon Hunters movie, on Walmart and Macy's 2026 top toy lists. A Target reviewer reports it sold out in all stores near her.",
+      "foundDate": "2026-11-16",
+      "id": "target-kpop-demon-hunters-rumi-singing-doll",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_a238b97e-fa01-48af-9105-c32657dbb210?wid=800&hei=800&qlt=80&fmt=pjpeg",
+      "kind": "new",
+      "price": 32.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-16",
+          "price": 32.99
+        }
+      ],
+      "source": "Target",
+      "stock": {
+        "checkedDate": "2026-11-16",
+        "status": "in_stock"
+      },
+      "title": "KPop Demon Hunters HUNTR/X Rumi Golden Singing Doll in Removable Outfit and 5 Posable Joints",
+      "url": "https://www.target.com/p/k-pop-demon-hunters-singing-doll-rumi/-/A-95040454"
+    },
+    {
+      "brand": "medicube",
+      "category": "Beauty",
+      "condition": "New",
+      "dealReason": "Viral K-beauty serum: 70K+ bought in the past month on Amazon, and medicube was TikTok Shop's top shop by units this week.",
+      "foundDate": "2026-11-16",
+      "id": "target-medicube-pdrn-pink-peptide-serum",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_36554b13-73e9-4a73-9737-2ffa7023a445?wid=800&hei=800&qlt=80&fmt=pjpeg",
+      "kind": "new",
+      "price": 20.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-16",
+          "price": 20.99
+        }
+      ],
+      "source": "Target",
+      "stock": {
+        "checkedDate": "2026-11-16",
+        "status": "in_stock"
+      },
+      "title": "medicube PDRN Pink Peptide Serum",
+      "url": "https://www.target.com/p/medicube-pdrn-pink-peptide-serum-korean-skincare-dark-spot-reduction-contains-peptides-contains-niacinamide-face-serum/-/A-95087440"
     }
   ],
   "gatheredOn": "2026-11-16"

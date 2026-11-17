@@ -1486,7 +1486,8 @@
       ],
       "source": "Walmart",
       "stock": {
-        "checkedDate": "2026-11-15"
+        "checkedDate": "2026-11-17",
+        "status": "sold"
       },
       "title": "Kitchenaid Classic Series 4.5-quart Tilt-head Stand Mixer, Onyx Black, K45ssob",
       "url": "https://www.walmart.com/ip/29474640"
@@ -1523,7 +1524,7 @@
       ],
       "source": "Walmart",
       "stock": {
-        "checkedDate": "2026-11-16"
+        "checkedDate": "2026-11-17"
       },
       "title": "Lego Speed Champions Pagani Utopia 76915 Race Car Toy Model Building Kit, Italian Hypercar, Collectible Racing Vehicle, 2023 Set",
       "url": "https://www.walmart.com/ip/5025976323"

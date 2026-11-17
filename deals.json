@@ -1736,11 +1736,15 @@
    "imageUrl": "https://media.kohlsimg.com/is/image/kohls/7863158_Black?wid=800&hei=800&op_sharpen=1",
    "kind": "new",
    "originalPrice": 129.99,
-   "price": 64.99,
+   "price": 51.99,
    "priceHistory": [
     {
      "date": "2026-11-13",
      "price": 64.99
+    },
+    {
+     "date": "2026-11-16",
+     "price": 51.99
     }
    ],
    "source": "Kohl's",

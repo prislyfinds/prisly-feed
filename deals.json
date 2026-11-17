@@ -963,7 +963,7 @@
       "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_da3ec877-5c16-4fda-8254-ee76941825fd?wid=800&hei=800&qlt=80&fmt=pjpeg",
       "kind": "new",
       "originalPrice": 34.99,
-      "price": 34.99,
+      "price": 24.49,
       "priceHistory": [
         {
           "date": "2026-11-11",
@@ -972,6 +972,10 @@
         {
           "date": "2026-11-17",
           "price": 34.99
+        },
+        {
+          "date": "2026-11-17",
+          "price": 24.49
         }
       ],
       "source": "Target",

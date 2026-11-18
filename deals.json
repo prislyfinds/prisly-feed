@@ -609,16 +609,20 @@
       "imageUrl": "https://media.kohlsimg.com/is/image/kohls/7579385?wid=390&hei=390&op_sharpen=1",
       "kind": "new",
       "originalPrice": 69.99,
-      "price": 44.99,
+      "price": 69.99,
       "priceHistory": [
         {
           "date": "2026-11-09",
           "price": 44.99
+        },
+        {
+          "date": "2026-11-18",
+          "price": 69.99
         }
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-16",
+        "checkedDate": "2026-11-18",
         "status": "in_stock"
       },
       "title": "Anker Soundcore Q20i True Wireless Noise Canceling Over-the-Ear Headphones",
@@ -743,7 +747,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-16",
+        "checkedDate": "2026-11-18",
         "status": "in_stock"
       },
       "title": "Ninja Foodi 6.5-qt. Everyday PossibleCooker Pro Multi-Cooker MC1101",

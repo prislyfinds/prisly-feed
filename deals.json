@@ -327,7 +327,7 @@
       "brand": "Baby Gap",
       "category": "Kids",
       "condition": "Like new",
-      "dealReason": "Like new — worn only twice, per the seller.",
+      "dealReason": "Like new \u2014 worn only twice, per the seller.",
       "foundDate": "2026-11-08",
       "id": "posh-baby-gap-poplin-03m",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/01/24/69751359a6bb7616b37782a5/l_697513e121bd42f33c246bbf.jpeg",
@@ -411,7 +411,7 @@
       "brand": "Bonnie Jean",
       "category": "Kids",
       "condition": "New with tags",
-      "dealReason": "New with tags — the listing's original price is $70.",
+      "dealReason": "New with tags \u2014 the listing's original price is $70.",
       "foundDate": "2026-11-08",
       "id": "posh-bj-polkadot-4t",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/08/6af0d7d028951f73c6bd0bf0/l_6af0d7e6ea03993291dd2ef4.jpg",
@@ -439,7 +439,7 @@
       "brand": "Tutu Du Monde",
       "category": "Kids",
       "condition": "Worn once",
-      "dealReason": "Worn once, per the seller — price dropped 29% on the listing.",
+      "dealReason": "Worn once, per the seller \u2014 price dropped 29% on the listing.",
       "foundDate": "2026-11-08",
       "id": "posh-tdm-dahlia-67",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/06/23/6a3ac0b0006e43853b5ab88a/l_6a3ac11dbedd349d54fc0892.jpg",
@@ -775,7 +775,7 @@
         "checkedDate": "2026-11-17",
         "status": "in_stock"
       },
-      "title": "Men's Columbia Steens Mountain™ Full-Zip Fleece Jacket",
+      "title": "Men's Columbia Steens Mountain\u2122 Full-Zip Fleece Jacket",
       "url": "https://www.kohls.com/product/prd-3592654/mens-columbia-steens-mountain-full-zip-fleece-jacket.jsp"
     },
     {
@@ -800,7 +800,7 @@
         "checkedDate": "2026-11-17",
         "status": "in_stock"
       },
-      "title": "Men's Columbia Glennaker Lake™ II Hooded Rain Jacket",
+      "title": "Men's Columbia Glennaker Lake\u2122 II Hooded Rain Jacket",
       "url": "https://www.kohls.com/product/prd-6810974/mens-columbia-glennaker-lake-ii-hooded-rain-jacket.jsp"
     },
     {
@@ -872,7 +872,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-18",
+        "checkedDate": "2026-11-16",
         "status": "in_stock"
       },
       "title": "Men's Columbia Powder Lite II Jacket",
@@ -1227,7 +1227,7 @@
       "url": "https://www.basspro.com/p/cabelas-instinct-barrier-gore-tex-jacket-for-men"
     },
     {
-      "brand": "Lancôme",
+      "brand": "Lanc\u00f4me",
       "category": "Beauty",
       "condition": "New",
       "dealReason": "40% off the regular Walmart price.",
@@ -1256,7 +1256,7 @@
         "checkedDate": "2026-11-18",
         "status": "in_stock"
       },
-      "title": "Lancôme La Vie Est Belle Eau de Parfum Spray for Women, 1 oz",
+      "title": "Lanc\u00f4me La Vie Est Belle Eau de Parfum Spray for Women, 1 oz",
       "url": "https://www.walmart.com/ip/Lancome-La-Vie-Est-Belle-Eau-De-Parfum-Spray-for-Women-1-oz/47621726"
     },
     {
@@ -1449,7 +1449,7 @@
       "stock": {
         "checkedDate": "2026-11-18"
       },
-      "title": "Ninja® Air Fryer Pro, 4-in-1, 5 Qt Capacity, Af141",
+      "title": "Ninja\u00ae Air Fryer Pro, 4-in-1, 5 Qt Capacity, Af141",
       "url": "https://www.walmart.com/ip/11526364074"
     },
     {
@@ -1970,7 +1970,7 @@
       "stock": {
         "checkedDate": "2026-11-17"
       },
-      "title": "Men's Levi's® 513™ Slim Straight Stretch Jeans",
+      "title": "Men's Levi's\u00ae 513\u2122 Slim Straight Stretch Jeans",
       "url": "https://www.kohls.com/product/prd-2143062/levis-513-slim-straight-stretch-jeans-men.jsp?skuid=75692946"
     },
     {
@@ -2040,9 +2040,9 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-18"
+        "checkedDate": "2026-11-16"
       },
-      "title": "Women's Levi's® Long Quilted Sherpa Coat",
+      "title": "Women's Levi's\u00ae Long Quilted Sherpa Coat",
       "url": "https://www.kohls.com/product/prd-6794381/womens-levis-long-quilted-sherpa-coat.jsp"
     },
     {
@@ -2088,7 +2088,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-18"
+        "checkedDate": "2026-11-16"
       },
       "title": "adidas VL Court 3.0 Kids Lifestyle Shoes",
       "url": "https://www.kohls.com/product/prd-7017257/adidas-vl-court-30-kids-lifestyle-shoes.jsp?skuid=74958241"
@@ -2136,7 +2136,7 @@
       ],
       "source": "Kohl's",
       "stock": {
-        "checkedDate": "2026-11-18"
+        "checkedDate": "2026-11-16"
       },
       "title": "Ninja Air Fryer Pro XL 6-in-1 with 6.5-qt. Capacity, Nonstick Basket & Crisper Plate",
       "url": "https://www.kohls.com/product/prd-6875840/ninja-air-fryer-pro-xl-6-in-1-with-65-qt-capacity-nonstick-basket-crisper-plate.jsp?skuid=66747382"
@@ -2271,7 +2271,7 @@
       "brand": "The North Face",
       "category": "Outdoor",
       "condition": "Pre-owned - Good",
-      "dealReason": "Pre-owned in good condition — seller describes it as in great condition.",
+      "dealReason": "Pre-owned in good condition \u2014 seller describes it as in great condition.",
       "foundDate": "2026-11-13",
       "id": "poshmark-the-north-face-nuptse-womans-700-down-puffer",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/05/16/6a08b940c71ba1f1db29377a/s_6a08b944006e4335b5b6a0.jpg",
@@ -2289,14 +2289,14 @@
         }
       ],
       "source": "Poshmark",
-      "title": "The North Face Nuptse woman’s 700 down puffer jacket",
+      "title": "The North Face Nuptse woman\u2019s 700 down puffer jacket",
       "url": "https://poshmark.com/listing/The-North-Face-Nuptse-womans-700-down-puffer-jacket-6a08b940c71ba1f1db29377a"
     },
     {
       "brand": "Free People",
       "category": "Women",
       "condition": "Pre-owned - Good",
-      "dealReason": "Pre-owned in good condition — dark floral burnout velvet, at about a third of the $168 original price shown on the listing.",
+      "dealReason": "Pre-owned in good condition \u2014 dark floral burnout velvet, at about a third of the $168 original price shown on the listing.",
       "foundDate": "2026-11-13",
       "id": "poshmark-free-people-falling-leaves-burnout-velvet-dress",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/07/03/6a4849024a072b5a27755798/s_6a484944b9449130d90d6ed1.jpg",
@@ -2317,7 +2317,7 @@
       "brand": "Lululemon",
       "category": "Women",
       "condition": "Pre-owned - Excellent",
-      "dealReason": "Pre-owned in excellent condition — listed like new at less than half the $118 original price shown on the listing.",
+      "dealReason": "Pre-owned in excellent condition \u2014 listed like new at less than half the $118 original price shown on the listing.",
       "foundDate": "2026-11-13",
       "id": "poshmark-lululemon-define-size-4-zip",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/07/07/6a4db8895df8e7512fb48c37/s_6a4db89b24d2e71e846a6310.jpg",
@@ -2339,7 +2339,7 @@
       "brand": "Patagonia",
       "category": "Kids",
       "condition": "Pre-owned - Good",
-      "dealReason": "Pre-owned in good condition — at a fraction of the $89 original price shown on the listing.",
+      "dealReason": "Pre-owned in good condition \u2014 at a fraction of the $89 original price shown on the listing.",
       "foundDate": "2026-11-13",
       "id": "poshmark-patagonia-kids-better-sweater-gray-xl-14",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/12/6acd8cd105ce57f96823d6df/s_6acd8ce81ae1ad9280337e6d.jpg",
@@ -2365,7 +2365,7 @@
       "brand": "Ralph Lauren",
       "category": "Women",
       "condition": "Pre-owned - Good",
-      "dealReason": "Pre-owned in good condition — seller notes EUC with no flaws, at about a third of the $145 original price shown on the listing.",
+      "dealReason": "Pre-owned in good condition \u2014 seller notes EUC with no flaws, at about a third of the $145 original price shown on the listing.",
       "foundDate": "2026-11-13",
       "id": "poshmark-ralph-lauren-sport-zipup-cable-knit-cardigan-l",
       "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/01/10/69632758bedd34217e094696/s_6963277121b80137c195878d.jpg",
@@ -2480,7 +2480,7 @@
         }
       ],
       "source": "Target",
-      "title": "PICASSO-TILES 82PCS Magnetic Tiles for Kids – STEM Construction Building Blocks Set, Educational Creative Learning Toy for Boys & Girls",
+      "title": "PICASSO-TILES 82PCS Magnetic Tiles for Kids \u2013 STEM Construction Building Blocks Set, Educational Creative Learning Toy for Boys & Girls",
       "url": "https://www.target.com/p/picasso-tiles-82pcs-magnetic-tiles-for-kids-stem-construction-building-blocks-set-educational-creative-learning-toy-for-boys-girls/-/A-1010857125"
     },
     {
@@ -3235,7 +3235,7 @@
         "checkedDate": "2026-11-16",
         "status": "in_stock"
       },
-      "title": "Pokémon Pikachu Puppetronic by RealFX - 16\" Interactive Plush with 120+ Animations of Movement, Lights, and Sounds",
+      "title": "Pok\u00e9mon Pikachu Puppetronic by RealFX - 16\" Interactive Plush with 120+ Animations of Movement, Lights, and Sounds",
       "url": "https://www.target.com/p/pok-233-mon-20-34-puppetronic-plush-toy/-/A-94972309"
     },
     {
@@ -3831,6 +3831,79 @@
       },
       "title": "Clickeez Series 3 Keyboard Mega Pack Toy",
       "url": "https://www.target.com/p/clickeez-keyboard-mega-pack-fidget-toy-3-series/-/A-95285418"
+    },
+    {
+      "brand": "Mattel",
+      "category": "Toys",
+      "condition": "New",
+      "dealReason": "Viral singing doll from the hit KPop Demon Hunters movie. The singing dolls sit on 2026 top toy lists, and Rumi is already sold out at some retailers. Target shipping is not available for this one; pickup nearby is the way to get it.",
+      "foundDate": "2026-11-18",
+      "id": "target-kpop-demon-hunters-mira-singing-doll",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_d863807e-7005-4541-867c-e22463d5cd0d?wid=800&hei=800&qlt=80&fmt=pjpeg",
+      "kind": "new",
+      "price": 32.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-18",
+          "price": 32.99
+        }
+      ],
+      "source": "Target",
+      "stock": {
+        "checkedDate": "2026-11-18",
+        "status": "in_stock"
+      },
+      "title": "KPop Demon Hunters HUNTR/X Mira Golden Singing Doll in Removable Outfit and 5 Posable Joints",
+      "url": "https://www.target.com/p/k-pop-demon-hunters-singing-doll-mira/-/A-1006853795"
+    },
+    {
+      "brand": "NeeDoh",
+      "category": "ASMR",
+      "condition": "New",
+      "dealReason": "Viral NeeDoh advent calendar with 24 days of mini squishies. Target shows 12k+ bought in the last month, and it is currently sold out. Watch it for the restock.",
+      "foundDate": "2026-11-18",
+      "id": "target-needoh-advent-calendar",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_35c8fefc-618b-4b18-9017-6a0f82ac2631?wid=800&hei=800&qlt=80&fmt=pjpeg",
+      "kind": "new",
+      "price": 24.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-18",
+          "price": 24.99
+        }
+      ],
+      "source": "Target",
+      "stock": {
+        "checkedDate": "2026-11-18",
+        "status": "sold"
+      },
+      "title": "NeeDoh Advent Calendar Fidget Toy",
+      "url": "https://www.target.com/p/needoh-squishmas-advent-calendar/-/A-1010168949"
+    },
+    {
+      "brand": "Ms. Rachel",
+      "category": "Toys",
+      "condition": "New",
+      "dealReason": "Viral toddler favorite on RetailMeNot's hottest holiday toys list for 2026. Target tags it Bestseller with 1,148 ratings at 4.8 stars, on sale at $17.49 from $24.99.",
+      "foundDate": "2026-11-18",
+      "id": "target-ms-rachel-speak-and-sing-doll",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_5eb64900-3673-46d0-89b2-e14aa1ba3330?wid=800&hei=800&qlt=80&fmt=pjpeg",
+      "kind": "new",
+      "originalPrice": 24.99,
+      "price": 17.49,
+      "priceHistory": [
+        {
+          "date": "2026-11-18",
+          "price": 17.49
+        }
+      ],
+      "source": "Target",
+      "stock": {
+        "checkedDate": "2026-11-18",
+        "status": "in_stock"
+      },
+      "title": "Ms. Rachel Speak & Sing Doll",
+      "url": "https://www.target.com/p/ms-rachel-speak-38-sing-doll/-/A-91313168"
     }
   ],
   "gatheredOn": "2026-11-18"

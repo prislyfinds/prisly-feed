@@ -3024,22 +3024,26 @@
    "brand": "Gatorade",
    "category": "Outdoor",
    "condition": "New",
-   "dealReason": "51% off the regular Dick's Sporting Goods price.",
+   "dealReason": "56% off the regular Dick's Sporting Goods price.",
    "foundDate": "2026-11-16",
    "id": "dicks-gatorade-50-quart-huddle-rolling-cooler",
    "imageUrl": "https://dks.scene7.com/is/image/GolfGalaxy/24GATUGTRD50QTRLLREC_Grey?qlt=70&wid=780&hei=780&fmt=pjpeg&op_sharpen=1&fit=constrain",
    "kind": "new",
    "originalPrice": 200.0,
-   "price": 97.97,
+   "price": 88.17,
    "priceHistory": [
     {
      "date": "2026-11-16",
      "price": 97.97
+    },
+    {
+     "date": "2026-11-20",
+     "price": 88.17
     }
    ],
    "source": "Dick's Sporting Goods",
    "stock": {
-    "checkedDate": "2026-11-16",
+    "checkedDate": "2026-11-20",
     "status": "in_stock"
    },
    "title": "Gatorade 50 Quart Huddle Rolling Cooler",

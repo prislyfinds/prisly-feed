@@ -3084,7 +3084,7 @@
    "imageUrl": "https://u-mercari-images.mercdn.net/photos/m17177465232_1.jpg?width=1280&quality=75&_=1789439480",
    "kind": "secondhand",
    "originalPrice": 24.99,
-   "price": 13.48,
+   "price": 12.8,
    "priceHistory": [
     {
      "date": "2026-11-16",
@@ -3093,6 +3093,10 @@
     {
      "date": "2026-11-18",
      "price": 13.48
+    },
+    {
+     "date": "2026-11-21",
+     "price": 12.8
     }
    ],
    "source": "Mercari",

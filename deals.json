@@ -971,7 +971,7 @@
    "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_da3ec877-5c16-4fda-8254-ee76941825fd?wid=800&hei=800&qlt=80&fmt=pjpeg",
    "kind": "new",
    "originalPrice": 34.99,
-   "price": 24.49,
+   "price": 34.99,
    "priceHistory": [
     {
      "date": "2026-11-11",
@@ -984,12 +984,16 @@
     {
      "date": "2026-11-17",
      "price": 24.49
+    },
+    {
+     "date": "2026-11-22",
+     "price": 34.99
     }
    ],
    "source": "Target",
    "stock": {
     "checkedDate": "2026-11-22",
-    "status": "sold"
+    "status": "in_stock"
    },
    "title": "LEGO Friends Advent Calendar 2026 42698",
    "url": "https://www.target.com/p/lego-friends-advent-calendar-2026-42698/-/A-95046316"
@@ -1004,17 +1008,21 @@
    "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_a4b206c1-738d-45d3-a566-020e33a327ea?wid=800&hei=800&qlt=80&fmt=pjpeg",
    "kind": "new",
    "originalPrice": 44.99,
-   "price": 30.99,
+   "price": 44.99,
    "priceHistory": [
     {
      "date": "2026-11-11",
      "price": 30.99
+    },
+    {
+     "date": "2026-11-22",
+     "price": 44.99
     }
    ],
    "source": "Target",
    "stock": {
     "checkedDate": "2026-11-22",
-    "status": "sold"
+    "status": "in_stock"
    },
    "title": "LEGO Disney Princess Advent Calendar 2026 43298",
    "url": "https://www.target.com/p/lego-disney-princess-advent-calendar-2026-43298/-/A-95046327"

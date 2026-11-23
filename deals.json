@@ -5534,6 +5534,240 @@
       "url": "https://www.ebay.com/itm/840062443838"
     },
     {
+      "brand": "Cuddl Duds",
+      "category": "Pets",
+      "condition": "New",
+      "dealReason": "50% off the regular Kohl's price.",
+      "foundDate": "2026-11-23",
+      "id": "kohls-cuddl-duds-cuddler-pet-bed",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/8337486_Grey_Black_Plaid?wid=800&hei=800&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 59.99,
+      "price": 29.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-23",
+          "price": 29.99
+        }
+      ],
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-23",
+        "status": "in_stock"
+      },
+      "title": "Cuddl Duds\u00ae Rectangular Cuddler Pet Bed",
+      "url": "https://www.kohls.com/product/prd-8337486/cuddl-duds-rectangular-cuddler-pet-bed.jsp"
+    },
+    {
+      "brand": "Serta",
+      "category": "Pets",
+      "condition": "New",
+      "dealReason": "50% off the regular Kohl's price.",
+      "foundDate": "2026-11-23",
+      "id": "kohls-serta-orthopedic-cuddler-pet-bed",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/8375236?wid=800&hei=800&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 49.99,
+      "price": 24.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-23",
+          "price": 24.99
+        }
+      ],
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-23",
+        "status": "in_stock"
+      },
+      "title": "Serta\u00ae Orthopedic Deluxe Cuddler Plush Pet Bed",
+      "url": "https://www.kohls.com/product/prd-8375236/serta-orthopedic-deluxe-cuddler-plush-pet-bed.jsp"
+    },
+    {
+      "brand": "ZeroXposur",
+      "category": "Kids",
+      "condition": "New",
+      "dealReason": "60% off the original Kohl's price.",
+      "foundDate": "2026-11-23",
+      "id": "kohls-boys-zeroxposur-tracker-puffer-jacket",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/8063122_Heather_Gray?wid=800&hei=800&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 80.0,
+      "price": 32.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-23",
+          "price": 32.0
+        }
+      ],
+      "size": "S(6/7)",
+      "sizeGroup": "Kids",
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-23",
+        "status": "in_stock"
+      },
+      "title": "Boys 4-20 ZeroXposur Tracker Heavyweight Puffer Jacket",
+      "url": "https://www.kohls.com/product/prd-8063122/boys-4-20-zeroxposur-tracker-heavyweight-puffer-jacket.jsp"
+    },
+    {
+      "brand": "ZeroXposur",
+      "category": "Kids",
+      "condition": "New",
+      "dealReason": "60% off the original Kohl's price.",
+      "foundDate": "2026-11-23",
+      "id": "kohls-girls-zeroxposur-puffer-jacket",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/8048288_Black?wid=800&hei=800&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 80.0,
+      "price": 32.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-23",
+          "price": 32.0
+        }
+      ],
+      "size": "7-8",
+      "sizeGroup": "Kids",
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-23",
+        "status": "in_stock"
+      },
+      "title": "Girls 4-16 ZeroXposur Heavy Weight Puffer Jacket",
+      "url": "https://www.kohls.com/product/prd-8048288/girls-4-16-zeroxposur-heavy-weight-puffer-jacket.jsp"
+    },
+    {
+      "brand": "Jumping Beans",
+      "category": "Kids",
+      "condition": "New",
+      "dealReason": "41% off the regular Kohl's price.",
+      "foundDate": "2026-11-23",
+      "id": "kohls-girls-jumping-beans-fleece-hoodie",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/8170516_Blue_Ocean_Butterfly?wid=800&hei=800&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 16.99,
+      "price": 9.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-23",
+          "price": 9.99
+        }
+      ],
+      "size": "6",
+      "sizeGroup": "Kids",
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-23",
+        "status": "in_stock"
+      },
+      "title": "Girls 4-12 Jumping Beans\u00ae Core Fleece Hoodie Sweatshirt",
+      "url": "https://www.kohls.com/product/prd-8170516/girls-4-12-jumping-beans-core-fleece-hoodie-sweatshirt.jsp"
+    },
+    {
+      "brand": "Jumping Beans",
+      "category": "Kids",
+      "condition": "New",
+      "dealReason": "41% off the regular Kohl's price.",
+      "foundDate": "2026-11-23",
+      "id": "kohls-boys-jumping-beans-cargo-fleece-joggers",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/8065748_Green?wid=800&hei=800&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 16.99,
+      "price": 9.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-23",
+          "price": 9.99
+        }
+      ],
+      "size": "6",
+      "sizeGroup": "Kids",
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-23",
+        "status": "in_stock"
+      },
+      "title": "Boys 4-12 Jumping Beans\u00ae Cargo Fleece Jogger Pants",
+      "url": "https://www.kohls.com/product/prd-8065748/boys-4-12-jumping-beans-cargo-fleece-jogger-pants.jsp"
+    },
+    {
+      "brand": "Nike",
+      "category": "Shoes",
+      "condition": "New",
+      "dealReason": "51% off the regular Kohl's price.",
+      "foundDate": "2026-11-23",
+      "id": "kohls-nike-cosmic-runner-toddler-shoes",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/7106321_Black_Anthracite?wid=800&hei=800&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 45.0,
+      "price": 21.97,
+      "priceHistory": [
+        {
+          "date": "2026-11-23",
+          "price": 21.97
+        }
+      ],
+      "size": "5 T",
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-23",
+        "status": "in_stock"
+      },
+      "title": "Nike Cosmic Runner Toddler Shoes",
+      "url": "https://www.kohls.com/product/prd-7106321/nike-cosmic-runner-toddler-shoes.jsp"
+    },
+    {
+      "brand": "Bose",
+      "category": "Electronics",
+      "condition": "New",
+      "dealReason": "53% off the regular Best Buy price.",
+      "foundDate": "2026-11-23",
+      "id": "bestbuy-bose-quietcomfort-cypress-green",
+      "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6554/6554460_rd.jpg",
+      "kind": "new",
+      "originalPrice": 359.0,
+      "price": 169.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-23",
+          "price": 169.0
+        }
+      ],
+      "source": "Best Buy",
+      "stock": {
+        "checkedDate": "2026-11-23",
+        "status": "in_stock"
+      },
+      "title": "Bose QuietComfort Wireless Noise Cancelling Over-the-Ear Bluetooth Headphones - Cypress Green",
+      "url": "https://www.bestbuy.com/product/bose-quietcomfort-wireless-noise-cancelling-over-the-ear-bluetooth-headphones-cypress-green/J7C5V6TLY2"
+    },
+    {
+      "brand": "Skullcandy",
+      "category": "Electronics",
+      "condition": "New",
+      "dealReason": "50% off the regular Best Buy price.",
+      "foundDate": "2026-11-23",
+      "id": "bestbuy-skullcandy-crusher-anc-2-black",
+      "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/66dd3155-246b-40b2-9cff-4c478955ac5b.png",
+      "kind": "new",
+      "originalPrice": 239.99,
+      "price": 119.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-23",
+          "price": 119.99
+        }
+      ],
+      "source": "Best Buy",
+      "stock": {
+        "checkedDate": "2026-11-23",
+        "status": "in_stock"
+      },
+      "title": "Skullcandy Crusher ANC 2 Over-the-Ear Noise Canceling Wireless Bluetooth Headphones - Black",
+      "url": "https://www.bestbuy.com/product/skullcandy-crusher-anc-2-over-the-ear-noise-canceling-wireless-bluetooth-headphones-black/J3GTFHVCCT/sku/6544214"
+    },
+    {
       "brand": "LEGO",
       "category": "Toys",
       "condition": "New",

@@ -2344,12 +2344,12 @@
    ],
    "size": "4",
    "source": "Poshmark",
-   "title": "Lululemon Define size 4 zip",
-   "url": "https://poshmark.com/listing/Lululemon-Define-size-4-zip-6a4db8895df8e7512fb48c37",
    "stock": {
     "checkedDate": "2026-11-22",
     "status": "sold"
-   }
+   },
+   "title": "Lululemon Define size 4 zip",
+   "url": "https://poshmark.com/listing/Lululemon-Define-size-4-zip-6a4db8895df8e7512fb48c37"
   },
   {
    "brand": "Patagonia",
@@ -5189,6 +5189,7 @@
    "id": "walmart-dog-toys-aggressive-chewers-3-pack",
    "imageUrl": "https://i5.walmartimages.com/seo/Dog-Toys-Aggressive-Chewers-3-Pack-Stuffing-Plush-Dog-Toys-Squeaky-Crinkle-Durable-Dog-Chew-Toys-Small-Medium-Large-Dogs-Teeth-Cleaning-Boredom-Relie_80c1a74d-fe27-4b26-80b5-47b0d44e1ffa.602f940b6aa0aa2fa353d9bf7b3edd97.png?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
    "kind": "new",
+   "originalPrice": 29.99,
    "price": 15.99,
    "priceHistory": [
     {
@@ -5202,8 +5203,7 @@
     "status": "in_stock"
    },
    "title": "Dog Toys for Aggressive Chewers, 3 Pack No Stuffing Plush Dog Toys with Squeaky & Crinkle, Durable Dog Chew Toys for Small Medium Large Dogs, Teeth Cleaning & Boredom Relief",
-   "url": "https://www.walmart.com/ip/Dog-Toys-Aggressive-Chewers-3-Pack-Stuffing-Plush-Dog-Toys-Squeaky-Crinkle-Durable-Dog-Chew-Toys-Small-Medium-Large-Dogs-Teeth-Cleaning-Boredom-Relie/19933411228",
-   "originalPrice": 29.99
+   "url": "https://www.walmart.com/ip/Dog-Toys-Aggressive-Chewers-3-Pack-Stuffing-Plush-Dog-Toys-Squeaky-Crinkle-Durable-Dog-Chew-Toys-Small-Medium-Large-Dogs-Teeth-Cleaning-Boredom-Relie/19933411228"
   },
   {
    "category": "Gaming",
@@ -5213,6 +5213,7 @@
    "id": "walmart-dragon-age-the-veilguard-ps5",
    "imageUrl": "https://i5.walmartimages.com/seo/Dragon-Age-The-Veilguard-PlayStation-5_7cf58b4c-2773-411a-ac95-1aa7081020e9.c12424bdfd257c6eba0ab435b03a7d74.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
    "kind": "new",
+   "originalPrice": 14.99,
    "price": 8.0,
    "priceHistory": [
     {
@@ -5226,10 +5227,10 @@
     "status": "in_stock"
    },
    "title": "Dragon Age: The Veilguard, PlayStation 5",
-   "url": "https://www.walmart.com/ip/Dragon-Age-The-Veilguard-PlayStation-5/9654119936",
-   "originalPrice": 14.99
+   "url": "https://www.walmart.com/ip/Dragon-Age-The-Veilguard-PlayStation-5/9654119936"
   },
   {
+   "brand": "LEGO",
    "category": "Gaming",
    "condition": "New",
    "dealReason": "58.5% off at Walmart ($9.97, was $24.00): the LEGO take on Horizon for PlayStation 5, physical disc, new and sealed.",
@@ -5237,6 +5238,7 @@
    "id": "walmart-lego-horizon-adventures-ps5",
    "imageUrl": "https://i5.walmartimages.com/seo/PS5-LEGO-Horizon-Adventures_336586ef-d5f6-47a8-87ad-17b66cd75973.699eb845707f9e8f6a5c6eaba707e1ce.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
    "kind": "new",
+   "originalPrice": 24.0,
    "price": 9.97,
    "priceHistory": [
     {
@@ -5250,9 +5252,7 @@
     "status": "in_stock"
    },
    "title": "PS5 LEGO Horizon Adventures",
-   "url": "https://www.walmart.com/ip/PS5-LEGO-Horizon-Adventures/12790717449",
-   "originalPrice": 24.0,
-   "brand": "LEGO"
+   "url": "https://www.walmart.com/ip/PS5-LEGO-Horizon-Adventures/12790717449"
   },
   {
    "category": "Outdoor",
@@ -5262,6 +5262,7 @@
    "id": "walmart-royal-oak-tumbleweeds-fire-starters-16-pack",
    "imageUrl": "https://i5.walmartimages.com/seo/Royal-Oak-Red-Box-Tumbleweeds-All-Natural-Odorless-Fire-Starter-16-Pack_57b66708-adb9-402e-834f-1ed4d78e2427.19521174ee6813792fa25c79863cff72.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
    "kind": "new",
+   "originalPrice": 13.1,
    "price": 5.97,
    "priceHistory": [
     {
@@ -5275,8 +5276,7 @@
     "status": "in_stock"
    },
    "title": "Royal Oak Tumbleweeds Natural Fire Starters, 16 Pack",
-   "url": "https://www.walmart.com/ip/Royal-Oak-Red-Box-Tumbleweeds-All-Natural-Odorless-Fire-Starter-16-Pack/561017238",
-   "originalPrice": 13.1
+   "url": "https://www.walmart.com/ip/Royal-Oak-Red-Box-Tumbleweeds-All-Natural-Odorless-Fire-Starter-16-Pack/561017238"
   },
   {
    "category": "Outdoor",
@@ -5286,6 +5286,7 @@
    "id": "walmart-ozark-trail-hard-arm-camping-chair",
    "imageUrl": "https://i5.walmartimages.com/seo/Ozark-Trail-Hard-Armchair-Durable-Polyester-Seat-Strong-Steel-Frame-Portable-with-Cup-Holder_97a5bf89-dea2-40ab-9a8f-70c01522c982.212580d4109c9efe5448bb87c1248820.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
    "kind": "new",
+   "originalPrice": 19.97,
    "price": 9.97,
    "priceHistory": [
     {
@@ -5299,8 +5300,7 @@
     "status": "in_stock"
    },
    "title": "Ozark Trail Folding Hard-Arm Camping Chair With Carry Bag and Cup Holder, Dark Blue",
-   "url": "https://www.walmart.com/ip/Ozark-Trail-Hard-Armchair-Durable-Polyester-Seat-Strong-Steel-Frame-Portable-with-Cup-Holder/9191368055",
-   "originalPrice": 19.97
+   "url": "https://www.walmart.com/ip/Ozark-Trail-Hard-Armchair-Durable-Polyester-Seat-Strong-Steel-Frame-Portable-with-Cup-Holder/9191368055"
   },
   {
    "category": "Tools",
@@ -5310,6 +5310,7 @@
    "id": "walmart-bn-link-cordless-screwdriver-set",
    "imageUrl": "https://i5.walmartimages.com/seo/BN-LINK-Cordless-Screwdriver-Set-Electric-Screwdriver-USB-Rechargeable-Power-Screwdriver-Rotating-Handle-LED-Light-45PCS-Drill-Driver-Accessories_c9741788-3d09-43d0-b0b1-e0aa7ed87cd8.7c31a7e787731e91fe356f0856148741.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
    "kind": "new",
+   "originalPrice": 27.99,
    "price": 11.18,
    "priceHistory": [
     {
@@ -5323,8 +5324,7 @@
     "status": "in_stock"
    },
    "title": "BN-LINK Cordless Screwdriver Set, Electric Screwdriver USB Rechargeable Power Screwdriver, Rotating Handle, LED Light, 45PCS Drill/Driver Accessories",
-   "url": "https://www.walmart.com/ip/BN-LINK-Cordless-Screwdriver-Set-Electric-Screwdriver-USB-Rechargeable-Power-Screwdriver-Rotating-Handle-LED-Light-45PCS-Drill-Driver-Accessories/3430106520",
-   "originalPrice": 27.99
+   "url": "https://www.walmart.com/ip/BN-LINK-Cordless-Screwdriver-Set-Electric-Screwdriver-USB-Rechargeable-Power-Screwdriver-Rotating-Handle-LED-Light-45PCS-Drill-Driver-Accessories/3430106520"
   },
   {
    "category": "Tools",
@@ -5334,6 +5334,7 @@
    "id": "walmart-pulituo-12v-cordless-drill-set",
    "imageUrl": "https://i5.walmartimages.com/seo/PULITUO-12V-Cordless-Power-Drill-Set-Battery-Charger-3-8-Keyless-Chuck-21-1-Torque-Settings-Built-in-LED-Light-Compact-Electric-Drill-Kit-Home-Improv_59c31499-6e2f-4b0c-9392-e2da60e9e280.31271979d4c83edf93de45a2c47215e9.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
    "kind": "new",
+   "originalPrice": 36.0,
    "price": 17.86,
    "priceHistory": [
     {
@@ -5347,10 +5348,10 @@
     "status": "in_stock"
    },
    "title": "PULITUO 12V Cordless Power Drill Set with Battery and Charger, 3/8\" Keyless Chuck, 21+1 Torque Settings, Built-in LED Light, Compact Electric Drill Kit for Home Improvement and DIY Projects(yellow)",
-   "url": "https://www.walmart.com/ip/PULITUO-12V-Cordless-Power-Drill-Set-Battery-Charger-3-8-Keyless-Chuck-21-1-Torque-Settings-Built-in-LED-Light-Compact-Electric-Drill-Kit-Home-Improv/15740204379",
-   "originalPrice": 36.0
+   "url": "https://www.walmart.com/ip/PULITUO-12V-Cordless-Power-Drill-Set-Battery-Charger-3-8-Keyless-Chuck-21-1-Torque-Settings-Built-in-LED-Light-Compact-Electric-Drill-Kit-Home-Improv/15740204379"
   },
   {
+   "brand": "Schylling",
    "category": "ASMR",
    "condition": "New",
    "dealReason": "Genuine Schylling NeeDoh in its original sealed package (Squishmas Ginger Glowman, glows in the dark), from Mercari seller desereesmith with 875 reviews and 883 sales. Kept under the NeeDoh rule even though the listing states no sale price.",
@@ -5371,8 +5372,7 @@
     "status": "in_stock"
    },
    "title": "NeeDoh Ginger Glowman",
-   "url": "https://www.mercari.com/us/item/m92455604664/",
-   "brand": "Schylling"
+   "url": "https://www.mercari.com/us/item/m92455604664/"
   },
   {
    "category": "Beauty",
@@ -5397,6 +5397,137 @@
    },
    "title": "PHOFAY Smooth Hair Removal Spray for Women & Men Body Hair Removal Exp 8/10/28",
    "url": "https://www.ebay.com/itm/880133783201"
+  },
+  {
+   "category": "Beauty",
+   "condition": "New",
+   "dealReason": "The viral overnight sheet mask: No. 1 on the Nov 14, 2026 trending roundup (Google Trends, TikTok, Reddit and Amazon Movers & Shakers signals). Exact 8-pack, new, item specifics list Brand Biodance, from US seller amazonriver_az, on eBay since Aug 2007, 99.5% positive with 299K items sold, Top Rated Plus. Listing states a timed sale.",
+   "flash": true,
+   "flashEndSource": "eBay listing",
+   "foundDate": "2026-11-22",
+   "id": "ebay-biodance-bio-collagen-real-deep-mask-8pack",
+   "imageUrl": "https://i.ebayimg.com/images/g/HU8AAeSwadlpSXgv/s-l1600.jpg",
+   "kind": "secondhand",
+   "originalPrice": 25.95,
+   "price": 19.46,
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 19.46
+    }
+   ],
+   "shipping": 0,
+   "source": "eBay",
+   "stock": {
+    "checkedDate": "2026-11-22",
+    "status": "in_stock"
+   },
+   "title": "VIRAL Biodance Bio-Collagen Real Deep Mask, 8-pack K-Beauty",
+   "url": "https://www.ebay.com/itm/197969586893"
+  },
+  {
+   "brand": "medicube",
+   "category": "Beauty",
+   "condition": "New",
+   "dealReason": "Viral K-beauty serum: No. 3 on TikTok Shop US Nov 16 to 22 with 81,616 sold in seven days (Deviantly Track). Exact single 30 ml bottle, new, item specifics list Brand medicube, from US seller nocturallc (Noctura LLC), Top Rated Plus, 99.5% positive with 2.9K items sold. Listing states Last one.",
+   "foundDate": "2026-11-22",
+   "id": "ebay-medicube-nad-egf-firming-serum-30ml",
+   "imageUrl": "https://i.ebayimg.com/images/g/~XIAAeSwQiFq0BcV/s-l1600.jpg",
+   "kind": "secondhand",
+   "originalPrice": 34.99,
+   "price": 27.99,
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 27.99
+    }
+   ],
+   "shipping": 0,
+   "source": "eBay",
+   "stock": {
+    "checkedDate": "2026-11-22",
+    "count": 1,
+    "status": "low_stock"
+   },
+   "title": "medicube EGF NAD Firming Serum Niacinamide Adenosine Collagen Face 30ml/1.01oz",
+   "url": "https://www.ebay.com/itm/407291008479"
+  },
+  {
+   "brand": "medicube",
+   "category": "Beauty",
+   "condition": "New",
+   "dealReason": "Viral K-beauty toner: No. 3 on TokConnect's rising TikTok Shop US list, revenue up 362% in the 7 days to Nov 17, 2026. Exact 250 mL bottle, new and sealed, item specifics list Brand Medicube, from US seller blueapples_22, on eBay since Oct 2000, 99.9% positive with 19K items sold, Top Rated Plus.",
+   "foundDate": "2026-11-22",
+   "id": "ebay-medicube-pdrn-pink-cica-soothing-toner",
+   "imageUrl": "https://i.ebayimg.com/images/g/jx0AAeSwpLFolV5T/s-l1600.webp",
+   "kind": "secondhand",
+   "price": 20.0,
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 20.0
+    }
+   ],
+   "shipping": 3.5,
+   "source": "eBay",
+   "stock": {
+    "checkedDate": "2026-11-22",
+    "status": "in_stock"
+   },
+   "title": "medicube PDRN Pink Cica Soothing Toner ~ 250mL / 8.45 Fl Oz SEALED",
+   "url": "https://www.ebay.com/itm/278333258930"
+  },
+  {
+   "category": "Beauty",
+   "condition": "New",
+   "dealReason": "Viral eye cream: No. 16 on TikTok Shop US Nov 16 to 22 with 27,887 sold in seven days (Deviantly Track). Exact 15 g cream, new, item specifics list Brand Dr. Melaxin, from US seller jinglingsjumpondeals, on eBay since Apr 2001, 99.8% positive with 32K items sold. Listing states a timed sale.",
+   "flash": true,
+   "flashEndSource": "eBay listing",
+   "foundDate": "2026-11-22",
+   "id": "ebay-dr-melaxin-calcium-dark-spot-eye-cream",
+   "imageUrl": "https://i.ebayimg.com/images/g/AJ4AAeSwsJZqQAwU/s-l1600.webp",
+   "kind": "secondhand",
+   "originalPrice": 26.95,
+   "price": 24.26,
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 24.26
+    }
+   ],
+   "shipping": 0,
+   "source": "eBay",
+   "stock": {
+    "checkedDate": "2026-11-22",
+    "status": "in_stock"
+   },
+   "title": "Dr. Melaxin Calcium Dark Spot Cover Eye Cream 0.52 oz / 15g (BN)",
+   "url": "https://www.ebay.com/itm/147401362163"
+  },
+  {
+   "brand": "medicube",
+   "category": "Beauty",
+   "condition": "New",
+   "dealReason": "Viral K-beauty balm: No. 20 on TikTok Shop US Nov 15 to 21 with 22,878 sold in seven days (Deviantly Track). Exact 10 g balm, new, item specifics list Brand medicube, from US seller energizingsolutions, on eBay since Mar 2011, 99.8% positive with 7.0K items sold.",
+   "foundDate": "2026-11-22",
+   "id": "ebay-medicube-nad-egf-firming-multi-balm",
+   "imageUrl": "https://i.ebayimg.com/images/g/1~0AAeSwXX1q3326/s-l500.webp",
+   "kind": "secondhand",
+   "price": 24.25,
+   "priceHistory": [
+    {
+     "date": "2026-11-22",
+     "price": 24.25
+    }
+   ],
+   "shipping": 7.0,
+   "source": "eBay",
+   "stock": {
+    "checkedDate": "2026-11-22",
+    "status": "in_stock"
+   },
+   "title": "medicube EGF NAD Firming Multi Balm 10 g 5 Percent Volufiline Single",
+   "url": "https://www.ebay.com/itm/840062443838"
   }
  ],
  "gatheredOn": "2026-11-22"

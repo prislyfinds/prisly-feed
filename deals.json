@@ -6062,7 +6062,208 @@
       },
       "title": "BruMate 40 fl oz Stainless Steel Era Flip Straw Tumbler - Java",
       "url": "https://www.target.com/p/brumate-era-flip-40fl-oz-100-leak-proof-straw-tumbler/-/A-1011054780"
+    },
+    {
+      "brand": "PENN",
+      "category": "Outdoor",
+      "condition": "New",
+      "dealReason": "44% off the regular Bass Pro Shops price.",
+      "foundDate": "2026-11-24",
+      "id": "basspro-penn-fierce-iv-spinning-reel",
+      "imageUrl": "https://assets.basspro.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_500,q_auto,w_800/c_pad,h_500,w_800/v1/ProductImages/151/master1_101260513_main",
+      "kind": "new",
+      "originalPrice": 89.95,
+      "price": 49.97,
+      "priceHistory": [
+        {
+          "date": "2026-11-24",
+          "price": 49.97
+        }
+      ],
+      "source": "Bass Pro Shops",
+      "stock": {
+        "checkedDate": "2026-11-24",
+        "status": "in_stock"
+      },
+      "title": "PENN Fierce IV Spinning Reel - FRCIV1000",
+      "url": "https://www.basspro.com/p/penn-fierce-iv-spinning-reel"
+    },
+    {
+      "brand": "The North Face",
+      "category": "Outdoor",
+      "condition": "New",
+      "dealReason": "36% off the regular Dick's Sporting Goods price.",
+      "foundDate": "2026-11-24",
+      "id": "dicks-the-north-face-mens-thermoball-jacket",
+      "imageUrl": "https://dks.scene7.com/is/image/GolfGalaxy/25TNOMMTHRMBLLJCKAPO_Tnf_Black?qlt=70&wid=780&hei=780&fmt=pjpeg&op_sharpen=1&fit=constrain",
+      "kind": "new",
+      "originalPrice": 220.0,
+      "price": 139.97,
+      "priceHistory": [
+        {
+          "date": "2026-11-24",
+          "price": 139.97
+        }
+      ],
+      "size": "XXL",
+      "source": "Dick's Sporting Goods",
+      "stock": {
+        "checkedDate": "2026-11-24",
+        "count": 4,
+        "status": "low_stock"
+      },
+      "title": "The North Face Men's THERMOBALL Jacket",
+      "url": "https://www.dickssportinggoods.com/p/the-north-face-mens-thermoball-jacket-25tnommthrmblljckapo/25tnommthrmblljckapo?categoryId=889672&color=Tnf%20Black"
+    },
+    {
+      "brand": "Carhartt",
+      "category": "Women",
+      "condition": "New",
+      "dealReason": "25% off the regular Bass Pro Shops price.",
+      "foundDate": "2026-11-24",
+      "id": "basspro-carhartt-ladies-clarksburg-hooded-sweatshirt",
+      "imageUrl": "https://assets.basspro.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_500,q_auto,w_800/c_pad,h_500,w_800/v1/ProductImages/650/black_100193050_main",
+      "kind": "new",
+      "originalPrice": 59.99,
+      "price": 44.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-24",
+          "price": 44.99
+        }
+      ],
+      "size": "S",
+      "source": "Bass Pro Shops",
+      "stock": {
+        "checkedDate": "2026-11-24",
+        "status": "in_stock"
+      },
+      "title": "Carhartt Relaxed Fit Midweight Logo Sleeve Graphic Sweatshirt - Black",
+      "url": "https://www.basspro.com/p/carhartt-clarksburg-sleeve-logo-long-sleeve-hooded-sweatshirt-for-ladies"
+    },
+    {
+      "category": "Gaming",
+      "condition": "New",
+      "dealReason": "57% off the regular Walmart price.",
+      "foundDate": "2026-11-24",
+      "id": "walmart-marvels-spider-man-2-ps5",
+      "imageUrl": "https://i5.walmartimages.com/seo/Marvel-s-Spider-Man-2-Playstation-5_bc9d1cd3-253c-4cd2-a3a9-e90501bad288.cc69606b21cfed756b7065291eb73fff.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
+      "kind": "new",
+      "originalPrice": 69.99,
+      "price": 30.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-24",
+          "price": 30.0
+        }
+      ],
+      "source": "Walmart",
+      "stock": {
+        "checkedDate": "2026-11-24",
+        "status": "in_stock"
+      },
+      "title": "Marvel's Spider-Man 2 - Playstation 5",
+      "url": "https://www.walmart.com/ip/Marvel-s-Spider-Man-2-Playstation-5/3930621352"
+    },
+    {
+      "category": "Gaming",
+      "condition": "New",
+      "dealReason": "78% off the regular Walmart price.",
+      "foundDate": "2026-11-24",
+      "id": "walmart-borderlands-4-ps5",
+      "imageUrl": "https://i5.walmartimages.com/seo/Borderlands-4-PlayStation-5_5ace823d-c845-49f3-afbb-a30e7bc77ff8.38305155298a0524eb4238731479dec7.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
+      "kind": "new",
+      "originalPrice": 67.95,
+      "price": 15.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-24",
+          "price": 15.0
+        }
+      ],
+      "source": "Walmart",
+      "stock": {
+        "checkedDate": "2026-11-24",
+        "status": "in_stock"
+      },
+      "title": "Borderlands 4, PlayStation 5",
+      "url": "https://www.walmart.com/ip/Borderlands-4-PlayStation-5/16934003845"
+    },
+    {
+      "brand": "Sony",
+      "category": "Gaming",
+      "condition": "New",
+      "dealReason": "28% off the regular Walmart price.",
+      "foundDate": "2026-11-24",
+      "id": "walmart-sony-ps5-dualsense-controller-midnight-black",
+      "imageUrl": "https://i5.walmartimages.com/seo/Sony-PS5-DualSense-Wireless-Controller-Midnight-Black_2384fbb2-237e-4e16-89bb-f39d20777a0f.a6d2c857ba5ab080f212f44d72baf0f4.png?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
+      "kind": "new",
+      "originalPrice": 74.99,
+      "price": 54.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-24",
+          "price": 54.0
+        }
+      ],
+      "shipping": 0,
+      "source": "Walmart",
+      "stock": {
+        "checkedDate": "2026-11-24",
+        "status": "in_stock"
+      },
+      "title": "Sony PS5 DualSense Wireless Controller - Midnight Black",
+      "url": "https://www.walmart.com/ip/Sony-PS5-DualSense-Wireless-Controller-Midnight-Black/18288610344"
+    },
+    {
+      "brand": "Schylling",
+      "category": "ASMR",
+      "condition": "New",
+      "dealReason": "Genuine Schylling NeeDoh in its original package, from Mercari seller Haylee (@shopwithhaylee) with 516 reviews and 502 sales. Kept under the NeeDoh rule even though the listing states no sale price.",
+      "foundDate": "2026-11-24",
+      "id": "mercari-needoh-gummy-bear-pink",
+      "imageUrl": "https://u-mercari-images.mercdn.net/photos/m18358374139_1.jpg?width=1280&quality=75&_=1795127424",
+      "kind": "secondhand",
+      "price": 16.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-24",
+          "price": 16.0
+        }
+      ],
+      "source": "Mercari",
+      "stock": {
+        "checkedDate": "2026-11-24",
+        "status": "in_stock"
+      },
+      "title": "NeeDoh Gummy Bear - Pink",
+      "url": "https://www.mercari.com/us/item/m18358374139/"
+    },
+    {
+      "brand": "Ophanie",
+      "category": "Pets",
+      "condition": "New",
+      "dealReason": "56% off the regular Walmart price.",
+      "foundDate": "2026-11-24",
+      "id": "walmart-ophanie-orthopedic-dog-bed-large-gray",
+      "imageUrl": "https://i5.walmartimages.com/seo/Ophanie-Orthopedic-Dog-Bed-for-Large-Dogs-with-Removable-Washable-Cover-Non-Slip-Bottom-Waterproof-Liner-Suitable-for-Crates-35-x22-x3-5-Gray_a0add9e8-f872-4b5a-b1f9-9e911fa609d9.40b4363f365ceb5584b28a3877df5e63.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
+      "kind": "new",
+      "originalPrice": 38.99,
+      "price": 16.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-24",
+          "price": 16.99
+        }
+      ],
+      "source": "Walmart",
+      "stock": {
+        "checkedDate": "2026-11-24",
+        "status": "in_stock"
+      },
+      "title": "Ophanie Orthopedic Dog Bed for Large Dogs with Removable Washable Cover, Non-Slip Bottom & Waterproof Liner, Suitable for Crates, 35\"x22\"x3.5\", Gray",
+      "url": "https://www.walmart.com/ip/Ophanie-Orthopedic-Dog-Bed-for-Large-Dogs-with-Removable-Washable-Cover-Non-Slip-Bottom-Waterproof-Liner-Suitable-for-Crates-35-x22-x3-5-Gray/5257371669"
     }
   ],
-  "gatheredOn": "2026-11-23"
+  "gatheredOn": "2026-11-24"
 }

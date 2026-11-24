@@ -2,30 +2,6 @@
   "feedVersion": 2,
   "finds": [
     {
-      "category": "Men",
-      "condition": "New",
-      "dealReason": "20% under its regular Walmart price.",
-      "foundDate": "2026-11-06",
-      "id": "walmart-stretch-waist-jeans",
-      "imageUrl": "https://i5.walmartimages.com/seo/Mens-31X34-Classic-Straight-Leg-Stretch-Jeans-31_b2449c61-178d-4ea8-8575-a3824bed1b70_1.389d13b728b365b2c6463bfd8039fc18.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
-      "kind": "new",
-      "originalPrice": 18.69,
-      "price": 14.95,
-      "priceHistory": [
-        {
-          "date": "2026-11-06",
-          "price": 14.95
-        }
-      ],
-      "source": "Walmart",
-      "stock": {
-        "checkedDate": "2026-11-17",
-        "status": "in_stock"
-      },
-      "title": "Men's Classic Straight Slim Fit Stretch Waist Jeans",
-      "url": "https://www.walmart.com/ip/Men-s-Stretch-Waist-Jeans-for-Older-Men-Over-60-Comfort-Casual-Denim-Pants-Without-Belt-Dark-Blue-39/19880622335"
-    },
-    {
       "brand": "Tek Gear",
       "category": "Women",
       "condition": "New",
@@ -1025,8 +1001,8 @@
       ],
       "source": "Target",
       "stock": {
-        "checkedDate": "2026-11-23",
-        "status": "in_stock"
+        "checkedDate": "2026-11-24",
+        "status": "sold"
       },
       "title": "LEGO Disney Princess Advent Calendar 2026 43298",
       "url": "https://www.target.com/p/lego-disney-princess-advent-calendar-2026-43298/-/A-95046327"
@@ -1588,7 +1564,7 @@
       "imageUrl": "https://i5.walmartimages.com/seo/Revlon-One-Step-Volumizer-PLUS-Ceramic-Hair-Dryer-and-Hot-Air-Brush-Black_fa5b6a7a-7a1e-4a4d-8391-ae1ca3a5db4a.0f7a7c2bfc6b3bdcf4ecf6ec4a3a25bc.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
       "kind": "new",
       "originalPrice": 64.96,
-      "price": 45.28,
+      "price": 46.99,
       "priceHistory": [
         {
           "date": "2026-11-12",
@@ -1605,6 +1581,10 @@
         {
           "date": "2026-11-17",
           "price": 45.28
+        },
+        {
+          "date": "2026-11-24",
+          "price": 46.99
         }
       ],
       "source": "Walmart",
@@ -3197,8 +3177,8 @@
       ],
       "source": "Target",
       "stock": {
-        "checkedDate": "2026-11-18",
-        "status": "in_stock"
+        "checkedDate": "2026-11-24",
+        "status": "sold"
       },
       "title": "NeeDoh Nice Cube Glitter and Glow (Colors May Vary)",
       "url": "https://www.target.com/p/nee-doh-nice-cube-glitter-and-glow/-/A-94619824"
@@ -3922,8 +3902,8 @@
       ],
       "source": "Target",
       "stock": {
-        "checkedDate": "2026-11-23",
-        "status": "in_stock"
+        "checkedDate": "2026-11-24",
+        "status": "sold"
       },
       "title": "NeeDoh Advent Calendar Fidget Toy",
       "url": "https://www.target.com/p/needoh-squishmas-advent-calendar/-/A-1010168949"
@@ -4224,8 +4204,8 @@
       ],
       "source": "Walmart",
       "stock": {
-        "checkedDate": "2026-11-19",
-        "status": "in_stock"
+        "checkedDate": "2026-11-24",
+        "status": "sold"
       },
       "title": "SteelSeries Arctis Nova 3 Over-Ear Wireless Multi System Gaming Headset with USB-C Dongle for PC, PlayStation and Nintendo Switch, White",
       "url": "https://www.walmart.com/ip/SteelSeries-Arctis-Nova-3-Wireless-for-PC-White/18089674185"

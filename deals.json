@@ -6356,7 +6356,262 @@
       },
       "title": "NeeDoh Nice Cube Candy Swirl Fidget Toy",
       "url": "https://www.target.com/p/needoh-nice-cube-candy-swirl-fidget-toy/-/A-95271189"
+    },
+    {
+      "brand": "Dickies",
+      "category": "Men",
+      "condition": "New",
+      "dealReason": "Dickies hooded duck jacket, a fall and winter workwear staple, at 40% off the stated original price at Kohl's.",
+      "foundDate": "2026-11-25",
+      "id": "kohls-dickies-hooded-duck-jacket-men",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/8411886_Black?wid=800&hei=800&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 114.99,
+      "price": 68.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-25",
+          "price": 68.99
+        }
+      ],
+      "size": "L",
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-25",
+        "status": "in_stock"
+      },
+      "title": "Men's Dickies Hooded Duck Jacket",
+      "url": "https://www.kohls.com/product/prd-8411886/mens-dickies-hooded-duck-jacket.jsp"
+    },
+    {
+      "brand": "Levi's",
+      "category": "Men",
+      "condition": "New",
+      "dealReason": "Levi's sherpa-lined work jacket at 60% off, a strong fall and winter layering deal from a watchlist brand.",
+      "foundDate": "2026-11-25",
+      "id": "kohls-levis-sherpa-lined-work-jacket-men",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/8623134_Black?wid=800&hei=800&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 150.0,
+      "price": 60.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-25",
+          "price": 60.0
+        }
+      ],
+      "size": "XL",
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-25",
+        "status": "in_stock"
+      },
+      "title": "Men's Levi's® Sherpa Lined Work Jacket",
+      "url": "https://www.kohls.com/product/prd-8623134/mens-levis-sherpa-lined-work-jacket.jsp"
+    },
+    {
+      "brand": "Dickies",
+      "category": "Men",
+      "condition": "New",
+      "dealReason": "Dickies faux-shearling bonded hood sweatshirt at 40% off, a warm, inexpensive winter layer.",
+      "foundDate": "2026-11-25",
+      "id": "kohls-dickies-faux-shearling-hood-sweatshirt-men",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/8411858_ALT2?wid=800&hei=800&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 59.99,
+      "price": 35.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-25",
+          "price": 35.99
+        }
+      ],
+      "size": "L",
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-25",
+        "status": "in_stock"
+      },
+      "title": "Men's Dickies Faux Shearling Bonded Hood Sweatshirt",
+      "url": "https://www.kohls.com/product/prd-8411858/mens-dickies-faux-shearling-bonded-hood-sweatshirt.jsp"
+    },
+    {
+      "brand": "Lands' End",
+      "category": "Men",
+      "condition": "New",
+      "dealReason": "Lands' End sherpa-lined, rain-defense flannel shirt jacket at 50% off, a fall and winter flannel layer.",
+      "foundDate": "2026-11-25",
+      "id": "kohls-lands-end-sherpa-flannel-shirt-jacket-men",
+      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/8755607?wid=800&hei=800&op_sharpen=1",
+      "kind": "new",
+      "originalPrice": 129.95,
+      "price": 64.97,
+      "priceHistory": [
+        {
+          "date": "2026-11-25",
+          "price": 64.97
+        }
+      ],
+      "size": "M",
+      "source": "Kohl's",
+      "stock": {
+        "checkedDate": "2026-11-25",
+        "status": "in_stock"
+      },
+      "title": "Men's Lands' End Sherpa Lined Rain Defense Flannel Shirt Jacket",
+      "url": "https://www.kohls.com/product/prd-8755607/mens-lands-end-sherpa-lined-rain-defense-flannel-shirt-jacket.jsp"
+    },
+    {
+      "brand": "Quiet Time",
+      "category": "Pets",
+      "condition": "New",
+      "dealReason": "MidWest Homes for Pets Quiet Time 24-inch dog bed and crate mat in Mocha at 42% off, sold and shipped by Walmart.com.",
+      "foundDate": "2026-11-25",
+      "id": "walmart-midwest-quiet-time-dog-bed-crate-mat-24-mocha",
+      "imageUrl": "https://i5.walmartimages.com/asr/54cdb5bb-fe7e-4cee-8ef4-436f5ea58ce0_1.f78cbc17fb3c0ecb774b2110d1e8afed.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
+      "kind": "new",
+      "originalPrice": 21.99,
+      "price": 12.74,
+      "priceHistory": [
+        {
+          "date": "2026-11-25",
+          "price": 12.74
+        }
+      ],
+      "source": "Walmart",
+      "stock": {
+        "checkedDate": "2026-11-25",
+        "status": "in_stock"
+      },
+      "title": "MidWest Homes for Pets Quiet Time Dog Bed & Crate Mat, Deluxe Ombre Swirl, 24\", Mocha",
+      "url": "https://www.walmart.com/ip/MidWest-Homes-for-Pets-Quiet-Time-Dog-Bed-Crate-Mat-Deluxe-Ombre-Swirl-24-Mocha/20416701"
+    },
+    {
+      "brand": "Quiet Time",
+      "category": "Pets",
+      "condition": "New",
+      "dealReason": "Quiet Time deluxe X-small pet bed with a machine-washable cover at 59% off, sized for toy breeds and small cats.",
+      "foundDate": "2026-11-25",
+      "id": "walmart-quiet-time-deluxe-xs-pet-bed",
+      "imageUrl": "https://i5.walmartimages.com/seo/Quiet-Time-Deluxe-X-Small-Pet-Bed-with-Machine-Washable-Cover-Solid_9d9b7e43-1db1-469f-a556-b5a1f320a0bc_1.7aff2f524f62b42edceebbc9d49a51e4.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
+      "kind": "new",
+      "originalPrice": 10.99,
+      "price": 4.48,
+      "priceHistory": [
+        {
+          "date": "2026-11-25",
+          "price": 4.48
+        }
+      ],
+      "source": "Walmart",
+      "stock": {
+        "checkedDate": "2026-11-25",
+        "status": "in_stock"
+      },
+      "title": "Quiet Time Deluxe X-Small Pet Bed with Machine Washable Cover, Solid",
+      "url": "https://www.walmart.com/ip/Quiet-Time-Deluxe-X-Small-Pet-Bed-with-Machine-Washable-Cover-Solid/39836074"
+    },
+    {
+      "brand": "U.S. Polo Assn.",
+      "category": "Accessories",
+      "condition": "New",
+      "dealReason": "U.S. Polo Assn. analog watch with a navy dial and silver bracelet at 57% off.",
+      "foundDate": "2026-11-25",
+      "id": "walmart-us-polo-assn-watch-navy-dial",
+      "imageUrl": "https://i5.walmartimages.com/asr/ef8c55cb-d774-420c-bb06-378ed8d61bf5.14209c8f80b2f3fc32a88e6e8c51716c.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
+      "kind": "new",
+      "originalPrice": 34.99,
+      "price": 14.99,
+      "priceHistory": [
+        {
+          "date": "2026-11-25",
+          "price": 14.99
+        }
+      ],
+      "source": "Walmart",
+      "stock": {
+        "checkedDate": "2026-11-25",
+        "status": "in_stock"
+      },
+      "title": "U.S. Polo Assn. Adult Male Silver Bracelet Analog Watch w/ Navy Dial",
+      "url": "https://www.walmart.com/ip/U-S-Polo-Assn-Adult-Male-Watch-Analog-with-Navy-Dial-USC80525WM/649516598"
+    },
+    {
+      "brand": "Vortex",
+      "category": "Outdoor",
+      "condition": "New",
+      "dealReason": "Vortex Diamondback HD 10x42 binoculars at 40% off, a well-known optics pick for hunting and outdoor use.",
+      "foundDate": "2026-11-25",
+      "id": "basspro-vortex-diamondback-hd-binoculars-10x42",
+      "imageUrl": "https://assets.basspro.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_500,q_auto,w_800/c_pad,h_500,w_800/v1/ProductImages/450/master4_100284607_main",
+      "kind": "new",
+      "originalPrice": 249.99,
+      "price": 149.98,
+      "priceHistory": [
+        {
+          "date": "2026-11-25",
+          "price": 149.98
+        }
+      ],
+      "source": "Bass Pro Shops",
+      "stock": {
+        "checkedDate": "2026-11-25",
+        "status": "in_stock"
+      },
+      "title": "Vortex Diamondback HD Binoculars - 10x42mm - Brown",
+      "url": "https://www.basspro.com/p/vortex-diamondback-hd-binoculars-brown"
+    },
+    {
+      "brand": "Ascend",
+      "category": "Outdoor",
+      "condition": "New",
+      "dealReason": "Ascend 6-person lighted instant cabin tent at 25% off, with built-in lighting for family camping.",
+      "foundDate": "2026-11-25",
+      "id": "basspro-ascend-6person-lighted-instant-cabin-tent",
+      "imageUrl": "https://assets.basspro.com/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_500,q_auto,w_800/c_pad,h_500,w_800/v1/ProductImages/350/master1_101782201_main",
+      "kind": "new",
+      "originalPrice": 199.99,
+      "price": 149.98,
+      "priceHistory": [
+        {
+          "date": "2026-11-25",
+          "price": 149.98
+        }
+      ],
+      "source": "Bass Pro Shops",
+      "stock": {
+        "checkedDate": "2026-11-25",
+        "status": "in_stock"
+      },
+      "title": "Ascend 6-Person Lighted Instant Cabin Tent",
+      "url": "https://www.basspro.com/p/ascend-6-person-lighted-instant-cabin-tent"
+    },
+    {
+      "brand": "DEWALT",
+      "category": "Tools",
+      "condition": "New",
+      "dealReason": "DEWALT 20V MAX ToughSystem 6-tool cordless combo kit at 41% off, saving $370 off the stated was-price at Home Depot.",
+      "foundDate": "2026-11-25",
+      "id": "homedepot-dewalt-6tool-combo-kit-dckts681d1p1",
+      "imageUrl": "https://images.thdstatic.com/productImages/5c304568-16c7-43b2-903d-180a2018a8f3/svn/dewalt-power-tool-combo-kits-dckts681d1p1-64_600.jpg",
+      "kind": "new",
+      "originalPrice": 899.0,
+      "price": 529.0,
+      "priceHistory": [
+        {
+          "date": "2026-11-25",
+          "price": 529.0
+        }
+      ],
+      "shipping": 0,
+      "source": "Home Depot",
+      "stock": {
+        "checkedDate": "2026-11-25",
+        "status": "in_stock"
+      },
+      "title": "DEWALT 20-Volt MAX ToughSystem Lithium-Ion 6-Tool Cordless Combo Kit",
+      "url": "https://www.homedepot.com/p/DEWALT-20-Volt-MAX-ToughSystem-Lithium-Ion-6-Tool-Cordless-Combo-Kit-DCKTS681D1P1/324869940"
     }
   ],
-  "gatheredOn": "2026-11-24"
+  "gatheredOn": "2026-11-25"
 }

@@ -3190,7 +3190,7 @@
    ],
    "source": "Target",
    "stock": {
-    "status": "sold",
+    "status": "in_stock",
     "checkedDate": "2026-11-24"
    },
    "title": "NeeDoh Nice Cube Glitter and Glow (Colors May Vary)",
@@ -3915,7 +3915,7 @@
    ],
    "source": "Target",
    "stock": {
-    "status": "sold",
+    "status": "in_stock",
     "checkedDate": "2026-11-24"
    },
    "title": "NeeDoh Advent Calendar Fidget Toy",
@@ -6310,7 +6310,7 @@
    "condition": "New",
    "foundDate": "2026-11-24",
    "stock": {
-    "status": "sold",
+    "status": "in_stock",
     "checkedDate": "2026-11-24"
    },
    "brand": "NeeDoh",

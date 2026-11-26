@@ -77,7 +77,7 @@
    "source": "Kohl's",
    "stock": {
     "checkedDate": "2026-11-26",
-    "status": "sold"
+    "status": "in_stock"
    },
    "title": "Women's Nike One Fitted Dri-FIT Long-Sleeve Cropped Top",
    "url": "https://www.kohls.com/product/prd-6924451/womens-nike-one-fitted-dri-fit-long-sleeve-cropped-top.jsp"
@@ -912,101 +912,6 @@
    "brand": "LEGO",
    "category": "Toys",
    "condition": "New",
-   "dealReason": "30% off the regular Target price.",
-   "foundDate": "2026-11-11",
-   "id": "target-lego-star-wars-advent-75456",
-   "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_d00be24a-ef24-49b2-a50e-d494111555d0?wid=800&hei=800&qlt=80&fmt=pjpeg",
-   "kind": "new",
-   "originalPrice": 44.99,
-   "price": 44.99,
-   "priceHistory": [
-    {
-     "date": "2026-11-11",
-     "price": 31.49
-    },
-    {
-     "date": "2026-11-15",
-     "price": 44.99
-    }
-   ],
-   "source": "Target",
-   "stock": {
-    "checkedDate": "2026-11-11",
-    "status": "in_stock"
-   },
-   "title": "LEGO Star Wars Advent Calendar 2026 75456",
-   "url": "https://www.target.com/p/-/A-95046358"
-  },
-  {
-   "brand": "LEGO",
-   "category": "Toys",
-   "condition": "New",
-   "dealReason": "30% off the regular Target price.",
-   "foundDate": "2026-11-11",
-   "id": "target-lego-friends-advent-42698",
-   "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_da3ec877-5c16-4fda-8254-ee76941825fd?wid=800&hei=800&qlt=80&fmt=pjpeg",
-   "kind": "new",
-   "originalPrice": 34.99,
-   "price": 34.99,
-   "priceHistory": [
-    {
-     "date": "2026-11-11",
-     "price": 24.49
-    },
-    {
-     "date": "2026-11-17",
-     "price": 34.99
-    },
-    {
-     "date": "2026-11-17",
-     "price": 24.49
-    },
-    {
-     "date": "2026-11-22",
-     "price": 34.99
-    }
-   ],
-   "source": "Target",
-   "stock": {
-    "checkedDate": "2026-11-22",
-    "status": "in_stock"
-   },
-   "title": "LEGO Friends Advent Calendar 2026 42698",
-   "url": "https://www.target.com/p/lego-friends-advent-calendar-2026-42698/-/A-95046316"
-  },
-  {
-   "brand": "LEGO",
-   "category": "Toys",
-   "condition": "New",
-   "dealReason": "30% off the regular Target price.",
-   "foundDate": "2026-11-11",
-   "id": "target-lego-marvel-advent-76340",
-   "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_e49795ad-b94b-412f-ac78-66f6b21c6535?wid=800&hei=800&qlt=80&fmt=pjpeg",
-   "kind": "new",
-   "originalPrice": 44.99,
-   "price": 44.99,
-   "priceHistory": [
-    {
-     "date": "2026-11-11",
-     "price": 31.49
-    },
-    {
-     "date": "2026-11-15",
-     "price": 44.99
-    }
-   ],
-   "source": "Target",
-   "stock": {
-    "checkedDate": "2026-11-11",
-    "status": "in_stock"
-   },
-   "title": "LEGO Marvel Advent Calendar 2026 76340",
-   "url": "https://www.target.com/p/lego-marvel-advent-calendar-2026-76340/-/A-95046376"
-  },
-  {
-   "brand": "LEGO",
-   "category": "Toys",
-   "condition": "New",
    "dealReason": "44% off the regular Walmart price.",
    "foundDate": "2026-11-11",
    "id": "walmart-lego-classic-brick-box-10698",
@@ -1144,16 +1049,20 @@
    "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_45932937-4281-4dc5-bfc5-0d2d732e9cd3?wid=800&hei=800&qlt=80&fmt=pjpeg",
    "kind": "new",
    "originalPrice": 40.0,
-   "price": 23.99,
+   "price": 16.0,
    "priceHistory": [
     {
      "date": "2026-11-12",
      "price": 23.99
+    },
+    {
+     "date": "2026-11-26",
+     "price": 16.0
     }
    ],
    "source": "Target",
    "stock": {
-    "checkedDate": "2026-11-12",
+    "checkedDate": "2026-11-26",
     "status": "in_stock"
    },
    "title": "Wrangler Men's Genuine Leather Bifold Wallet, Brown",
@@ -1251,7 +1160,7 @@
    "flash": true,
    "foundDate": "2026-11-08",
    "id": "walmart-flash-tineco-go-vacuum",
-   "imageUrl": "https://i5.walmartimages.com/seo/Tineco-GO-Cordless-Stick-Vacuum-40-min-Run-Time-Teal-GO201_bdf4d09b-2ae8-4f14-89fb-bb6eddbfbbd0.3a1db9ed5ea4c7bde2e9a09dcfbdc9c6.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
+   "imageUrl": "https://i5.walmartimages.com/seo/Tineco-GO-Cordless-Stick-Vacuum-40-min-Run-Time-Teal-GO201_f841a335-0819-4f6a-8c65-719e4834fe0b.9a4c629987777a5f192a48cd895d20e9.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
    "kind": "new",
    "originalPrice": 299.99,
    "price": 149.99,
@@ -1284,7 +1193,7 @@
    "flash": true,
    "foundDate": "2026-11-08",
    "id": "walmart-flash-kitchenaid-ksm97-mixer",
-   "imageUrl": "https://i5.walmartimages.com/seo/KitchenAid-Deluxe-4-5-Quart-Tilt-Head-Stand-Mixer-Mineral-Water-Blue-KSM97_05f8dcc8-aa6f-4c8c-8eb2-ff2e1f9d8e70.9f0d4ffec4ee9a7d0d1d4fdcbe7bb2c06.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
+   "imageUrl": "https://i5.walmartimages.com/seo/KitchenAid-Deluxe-4-5-Quart-Tilt-Head-Stand-Mixer-Mineral-Water-Blue-KSM97_1ebf490f-d97c-451d-b452-8cf110a5edd4.4deafd58f153f82695735e4858a1db67.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
    "kind": "new",
    "originalPrice": 449.99,
    "price": 279.0,
@@ -1339,7 +1248,7 @@
    "flash": true,
    "foundDate": "2026-11-08",
    "id": "walmart-flash-keurig-k-express-red",
-   "imageUrl": "https://i5.walmartimages.com/seo/Keurig-K-Express-Essentials-Red-Single-Serve-K-Cup-Pod-Coffee-Maker_d4e9b6d3-8ae4-444e-b6d2-8c4b9f4ba4f8.e2d8e2bc3ffdf7b30a9c6d4cae6cd1ef.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
+   "imageUrl": "https://i5.walmartimages.com/seo/Keurig-K-Express-Essentials-Red-Single-Serve-K-Cup-Pod-Coffee-Maker_d47bc7ca-a0b8-458a-be81-f2084d01bb5d.a5603471bfe073b848f1bafc613ddf89.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
    "kind": "new",
    "originalPrice": 76.8,
    "price": 35.0,
@@ -1368,7 +1277,7 @@
    "flash": true,
    "foundDate": "2026-11-08",
    "id": "walmart-flash-beats-studio-pro-black",
-   "imageUrl": "https://i5.walmartimages.com/seo/Beats-by-Dr-Dre-Studio-Pro-Wireless-Noise-Cancelling-Over-Ear-Headphones-Black_f4a6d2e8-bf2d-4888-87a3-9baff7c0d1a8.1a7db4eaefad3cd2fa7d0e4d5cfaa2c3.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
+   "imageUrl": "https://i5.walmartimages.com/seo/Beats-Studio-Pro-Wireless-Headphones-Black_bc75e4cf-5553-46c9-81cc-a25af485035b.44f94927f7f8ebd79d07aeaf8f233de8.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
    "kind": "new",
    "originalPrice": 299.99,
    "price": 199.95,
@@ -1394,7 +1303,7 @@
    "flash": true,
    "foundDate": "2026-11-08",
    "id": "walmart-flash-ninja-air-fryer-pro-af141",
-   "imageUrl": "https://i5.walmartimages.com/seo/Ninja-Air-Fryer-Pro-4-in-1-5-QT-Capacity-AF141_9f54f6c0-0d7e-4c85-b8e6-ead3dcc9d8be.0e4c7df9d7aa7f18b0e5b4b8d0f6be8d.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
+   "imageUrl": "https://i5.walmartimages.com/seo/Ninja-Air-Fryer-Pro-4-in-1-5-QT-Capacity-AF141_7b1cdd3c-89a6-4fdd-8e9d-00da24128f04.a79e962bce447218a2795258bfb20766.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
    "kind": "new",
    "originalPrice": 129.99,
    "price": 89.99,
@@ -1423,7 +1332,7 @@
    "flash": true,
    "foundDate": "2026-11-08",
    "id": "walmart-flash-kitchenaid-classic-k45ss",
-   "imageUrl": "https://i5.walmartimages.com/seo/KitchenAid-Classic-Series-4-5-Quart-Tilt-Head-Stand-Mixer-Onyx-Black-K45SS_c0b9bc7b-3b1d-44b3-a8bb-5e5dcaac0a52.4a3fdbdcc1af6f0c9fbd3b5e0e7db9d7.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
+   "imageUrl": "https://i5.walmartimages.com/seo/KitchenAid-Classic-Series-4-5-Quart-Tilt-Head-Stand-Mixer-Onyx-Black-K45SS_c684367a-f3de-436a-86bf-0f572e0f40dd.c65e4d7b7da28b63c9b0d466b2e5c293.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
    "kind": "new",
    "originalPrice": 399.99,
    "price": 269.99,
@@ -1465,7 +1374,7 @@
    "flash": true,
    "foundDate": "2026-11-08",
    "id": "walmart-flash-lego-pagani-utopia-76915",
-   "imageUrl": "https://i5.walmartimages.com/seo/LEGO-Speed-Champions-Pagani-Utopia-76915-Race-Car-Toy-Model-Building-Kit-Italian-Hypercar-Collectible-Racing-Vehicle-2023-Set_5b2efb1d-80ac-4f8b-a0a5-6ab4ff9d0aa3.6b5a0d26cefc36fb5fdbdbd6da6e4e.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
+   "imageUrl": "https://i5.walmartimages.com/seo/LEGO-Speed-Champions-Pagani-Utopia-76915-Race-Car-Toy-Model-Building-Kit-Italian-Hypercar-Collectible-Racing-Vehicle-2023-Set_564eaffd-4349-44c5-8c82-e1a9686a107d.98eb71a1ddfcf776cf721b41dcc759b1.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
    "kind": "new",
    "originalPrice": 50.99,
    "price": 31.99,
@@ -1502,7 +1411,7 @@
    "flash": true,
    "foundDate": "2026-11-12",
    "id": "walmart-flash-new-hart-rotary-tool",
-   "imageUrl": "https://i5.walmartimages.com/seo/HART-20-Volt-Cordless-Rotary-Tool-with-33-Accessories-Battery-Not-Included_e3e5aa4a-5d78-4cbb-bfbe-6f1fa1b8fb00.7d4a0c3a6b9a5fbebc4f4b7f0d8c5b47.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
+   "imageUrl": "https://i5.walmartimages.com/seo/HART-20-Volt-Cordless-Rotary-Tool-with-33-Accessories-Battery-Not-Included_e8d25be2-3dcf-4e1d-87d1-d022afc62c13_3.3b7ea59f774fdcdf811ae237827b615e.png?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
    "kind": "new",
    "originalPrice": 50.88,
    "price": 25.44,
@@ -1536,7 +1445,7 @@
    "flash": true,
    "foundDate": "2026-11-12",
    "id": "walmart-flash-new-revlon-one-step-volumizer-plus",
-   "imageUrl": "https://i5.walmartimages.com/seo/Revlon-One-Step-Volumizer-PLUS-Ceramic-Hair-Dryer-and-Hot-Air-Brush-Black_fa5b6a7a-7a1e-4a4d-8391-ae1ca3a5db4a.0f7a7c2bfc6b3bdcf4ecf6ec4a3a25bc.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
+   "imageUrl": "https://i5.walmartimages.com/seo/Revlon-One-Step-Volumizer-PLUS-Hair-Dryer-and-Hot-Air-Brush-Black_6589a1d4-b3d4-4cbf-b931-4c5f4dd7fafe.c0879ccac0fc67ae92511c487555f7a5.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
    "kind": "new",
    "originalPrice": 64.96,
    "price": 46.99,
@@ -1578,7 +1487,7 @@
    "flash": true,
    "foundDate": "2026-11-12",
    "id": "walmart-flash-new-skechers-work-dyna-air",
-   "imageUrl": "https://i5.walmartimages.com/seo/Skechers-Work-Women-s-Dyna-Air-Slip-Resistant-Lace-up-Sneaker_31b5d3f3-e0ba-45b6-a8a3-6cc0db5fe4ff.ff6e4d7b4ee62ac3b0f8c4cda8f8b35c.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
+   "imageUrl": "https://i5.walmartimages.com/seo/Skechers-Work-Women-s-Dyna-Air-Slip-Resistant-Lace-up-Sneaker_11c0830c-d60a-4b5a-b943-3c7c75419ee5.59e599b77dbbb47ede9455d4ed62d380.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
    "kind": "new",
    "originalPrice": 90.0,
    "price": 90,
@@ -1615,7 +1524,7 @@
    "flash": true,
    "foundDate": "2026-11-12",
    "id": "walmart-flash-new-levis-514-jeans",
-   "imageUrl": "https://i5.walmartimages.com/seo/Levi-s-Men-s-Big-Tall-514-Straight-Fit-Jeans_7ea02e10-0c9a-48ba-a2b9-dfcbcd8d05f8.f8a8e79d6d47acb3a6e7c9d1b6b6b09f.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
+   "imageUrl": "https://i5.walmartimages.com/seo/Levi-s-Men-s-Big-Tall-514-Straight-Fit-Jeans_bc75ffc4-a167-40ea-a7df-5af8e04b411c.fa7bca0d0b5e36bf5813cb79e996122b.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
    "kind": "new",
    "originalPrice": 41.7,
    "price": 31.28,
@@ -1732,7 +1641,7 @@
    "source": "Kohl's",
    "stock": {
     "checkedDate": "2026-11-26",
-    "status": "sold"
+    "status": "in_stock"
    },
    "title": "Nine West Zeran Women's Pointed Toe Block Heel Dress Boots",
    "url": "https://www.kohls.com/product/prd-7863158/nine-west-zeran-womens-pointed-toe-block-heel-dress-boots.jsp"
@@ -1840,7 +1749,7 @@
    "source": "Kohl's",
    "stock": {
     "checkedDate": "2026-11-26",
-    "status": "sold"
+    "status": "in_stock"
    },
    "title": "SEPHORA COLLECTION Best Skin Ever Multi-Use Hydrating Glow Concealer",
    "url": "https://www.kohls.com/product/prd-6461762/sephora-collection-best-skin-ever-multi-use-hydrating-glow-concealer.jsp"
@@ -2784,8 +2693,8 @@
    ],
    "source": "Target",
    "stock": {
-    "checkedDate": "2026-11-19",
-    "status": "in_stock"
+    "checkedDate": "2026-11-26",
+    "status": "sold"
    },
    "title": "Trancend Bio-Collagen Face Mask K Beauty Skin Care Hydrating for Pores & Elasticity, 4 Pack",
    "url": "https://www.target.com/p/trancend-bio-collagen-face-mask-k-beauty-skin-care-hydrating-for-pores-elasticity-4-pack/-/A-1000883278"
@@ -3101,7 +3010,7 @@
    "source": "Target",
    "stock": {
     "checkedDate": "2026-11-26",
-    "count": 5,
+    "count": 1,
     "status": "low_stock"
    },
    "title": "Fuggler Special Edition Figures Blind Box",
@@ -3232,8 +3141,8 @@
    ],
    "source": "Target",
    "stock": {
-    "checkedDate": "2026-11-22",
-    "status": "in_stock"
+    "checkedDate": "2026-11-26",
+    "status": "sold"
    },
    "title": "Pok\u00e9mon Pikachu Puppetronic by RealFX - 16\" Interactive Plush with 120+ Animations of Movement, Lights, and Sounds",
    "url": "https://www.target.com/p/pok-233-mon-20-34-puppetronic-plush-toy/-/A-94972309"
@@ -3256,8 +3165,8 @@
    ],
    "source": "Target",
    "stock": {
-    "checkedDate": "2026-11-18",
-    "status": "in_stock"
+    "checkedDate": "2026-11-26",
+    "status": "sold"
    },
    "title": "KPop Demon Hunters HUNTR/X Rumi Golden Singing Doll in Removable Outfit and 5 Posable Joints",
    "url": "https://www.target.com/p/k-pop-demon-hunters-singing-doll-rumi/-/A-95040454"
@@ -3304,8 +3213,8 @@
    ],
    "source": "Target",
    "stock": {
-    "checkedDate": "2026-11-18",
-    "status": "in_stock"
+    "checkedDate": "2026-11-26",
+    "status": "sold"
    },
    "title": "Polly Pocket Micro Dolls and Playset The Grinch Compact with 6 Accessories Winter Holiday Themed",
    "url": "https://www.target.com/p/polly-pocket-micro-dolls-and-playset-the-grinch-compact-with-6-accessories-winter-holiday-themed/-/A-94992283"
@@ -3806,8 +3715,8 @@
    ],
    "source": "Target",
    "stock": {
-    "checkedDate": "2026-11-18",
-    "status": "in_stock"
+    "checkedDate": "2026-11-26",
+    "status": "sold"
    },
    "title": "KPop Demon Hunters HUNTR/X Zoey Golden Singing Doll in Removable Outfit and 5 Posable Joints",
    "url": "https://www.target.com/p/kpop-demon-hunters-singing-doll-zoey/-/A-95040448"
@@ -3830,8 +3739,8 @@
    ],
    "source": "Target",
    "stock": {
-    "checkedDate": "2026-11-18",
-    "status": "in_stock"
+    "checkedDate": "2026-11-26",
+    "status": "sold"
    },
    "title": "Clickeez Series 3 Keyboard Mega Pack Toy",
    "url": "https://www.target.com/p/clickeez-keyboard-mega-pack-fidget-toy-3-series/-/A-95285418"
@@ -3854,8 +3763,8 @@
    ],
    "source": "Target",
    "stock": {
-    "checkedDate": "2026-11-18",
-    "status": "in_stock"
+    "checkedDate": "2026-11-26",
+    "status": "sold"
    },
    "title": "KPop Demon Hunters HUNTR/X Mira Golden Singing Doll in Removable Outfit and 5 Posable Joints",
    "url": "https://www.target.com/p/k-pop-demon-hunters-singing-doll-mira/-/A-1006853795"
@@ -6682,8 +6591,8 @@
    ],
    "source": "Target",
    "stock": {
-    "checkedDate": "2026-11-25",
-    "status": "in_stock"
+    "checkedDate": "2026-11-26",
+    "status": "sold"
    },
    "title": "HydroJug 40oz Traveler Straw Tumbler Chestnut",
    "url": "https://www.target.com/p/hydrojug-40oz-traveler-straw-tumbler/-/A-1014533840?preselect=95278560"

@@ -6177,30 +6177,6 @@
    "brand": "NeeDoh",
    "category": "ASMR",
    "condition": "New",
-   "dealReason": "Viral NeeDoh holiday drop: the Reindoh was a Walmart Black Friday Deal Drop item (Walmart+ early access Nov 23, open to everyone Nov 24) and is currently sold out online. 4.5 stars with 17 ratings. Watch it for the restock.",
-   "foundDate": "2026-11-24",
-   "id": "walmart-needoh-reindoh",
-   "imageUrl": "https://i5.walmartimages.com/seo/SQUISHMAS-SQUISHER-THE-REINDOH-NEEDOH_01140ab9-6a5b-4e34-a9e8-409d5d2bed37.b46be88624bb7829035842f0d89bb9cc.png?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
-   "kind": "new",
-   "price": 5.0,
-   "priceHistory": [
-    {
-     "date": "2026-11-24",
-     "price": 5.0
-    }
-   ],
-   "source": "Walmart",
-   "stock": {
-    "checkedDate": "2026-11-26",
-    "status": "sold"
-   },
-   "title": "SQUISHMAS SQUISHER THE REINDOH NEEDOH",
-   "url": "https://www.walmart.com/ip/SQUISHMAS-SQUISHER-THE-REINDOH-NEEDOH/19663650689"
-  },
-  {
-   "brand": "NeeDoh",
-   "category": "ASMR",
-   "condition": "New",
    "dealReason": "Viral NeeDoh squishy: the color-changing marshmallow from the anchor NeeDoh craze, 452 Target ratings at 4.5 stars. In stock for shipping at Target, arrives by Tue, Dec 1; pickup is not available at the checked store.",
    "foundDate": "2026-11-24",
    "id": "target-needoh-mello-mallo",
@@ -6572,29 +6548,6 @@
    "url": "https://www.target.com/p/hydrojug-40oz-traveler-straw-tumbler/-/A-1014533840?preselect=95278560"
   },
   {
-   "category": "ASMR",
-   "condition": "New",
-   "dealReason": "Viral squishy: RMS Mystery Squishy Dumplings, more than 40 million sold worldwide and a Walmart Black Friday Deal Drop headliner. The Walmart Diamond Edition listing is out of stock at $4.97, 4.6 stars with 678 ratings and a Best seller badge, so it is up greyed with the BE THE FIRST TO KNOW watch button.",
-   "foundDate": "2026-11-25",
-   "id": "walmart-rms-diamond-dumpling",
-   "imageUrl": "https://i5.walmartimages.com/seo/Squishy-Diamond-Dumpling-Surprise-Mystery-Toy-by-RMS-Stress-Relief-Squeeze-Toy-for-Kids-Ages-3_d53e9f03-a4a0-4968-a87f-f64ec3f1469a.76b34e8fbf3c24da5f4fd9a1bad02b00.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
-   "kind": "new",
-   "price": 4.97,
-   "priceHistory": [
-    {
-     "date": "2026-11-25",
-     "price": 4.97
-    }
-   ],
-   "source": "Walmart",
-   "stock": {
-    "checkedDate": "2026-11-25",
-    "status": "sold"
-   },
-   "title": "Squishy Diamond Dumpling Surprise Mystery Toy by RMS, Stress Relief Squeeze Toy for Kids Ages 3+",
-   "url": "https://www.walmart.com/ip/Squishy-Diamond-Dumpling-Surprise-Mystery-Toy-by-RMS-Stress-Relief-Squeeze-Toy-for-Kids-Ages-3/19429651489"
-  },
-  {
    "category": "Women",
    "condition": "New with tags",
    "dealReason": "Viral TikTok clothing: Comfrt is the No. 1 Home-niche product on TikTok Shop US Nov 19 to 25, 2026, with 211,147 units across its top 20 (Deviantly Track). Exact Signature Hoodie in Onyx Black, size M, new with tags, item specifics list Brand comfrt, from US seller atom nexus (Chino, CA), on eBay since Dec 2023, 99.3% positive, 37K items sold.",
@@ -6799,29 +6752,6 @@
    },
    "title": "Bulova Men's 43mm Sport Stainless Steel Chronograph Watch - 98A212",
    "url": "https://www.kohls.com/product/prd-6585989/bulova-mens-43mm-sport-stainless-steel-chronograph-watch-98a212.jsp"
-  },
-  {
-   "category": "ASMR",
-   "condition": "New",
-   "dealReason": "Viral squishy: RMS Mystery Squishy Dumplings, more than 40 million sold worldwide and a Walmart Black Friday Deal Drop headliner. The Walmart Snowflake Edition listing is out of stock at $4.97, 4.4 stars with 1,899 ratings, so it is up greyed with the BE THE FIRST TO KNOW watch button.",
-   "foundDate": "2026-11-26",
-   "id": "walmart-rms-snowflake-dumpling",
-   "imageUrl": "https://i5.walmartimages.com/seo/Mystery-Squishy-Dumpling-Snowflake-Edition-Toy-for-All-Ages_e5812608-076c-4d00-895a-8fdb85c6033b.fe5b725da7d713d75264c81375b177f6.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
-   "kind": "new",
-   "price": 4.97,
-   "priceHistory": [
-    {
-     "date": "2026-11-26",
-     "price": 4.97
-    }
-   ],
-   "source": "Walmart",
-   "stock": {
-    "checkedDate": "2026-11-26",
-    "status": "sold"
-   },
-   "title": "Mystery Squishy Dumpling Snowflake Edition Toy for All Ages",
-   "url": "https://www.walmart.com/ip/Mystery-Squishy-Dumpling-Snowflake-Edition-Toy-for-All-Ages/20121560225"
   },
   {
    "category": "Electronics",

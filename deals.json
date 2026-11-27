@@ -468,39 +468,6 @@
       "url": "https://poshmark.com/listing/Nike-Air-force-toddler-boy-size-9-672ac23de0f2cedcbc61c42d"
     },
     {
-      "brand": "Amazon",
-      "category": "Electronics",
-      "condition": "New",
-      "dealReason": "56% under its regular Kohl's price.",
-      "foundDate": "2026-11-09",
-      "id": "kohls-fire-tv-stick-4k-select",
-      "imageUrl": "https://media.kohlsimg.com/is/image/kohls/8004942?wid=390&hei=390&op_sharpen=1",
-      "kind": "new",
-      "originalPrice": 49.99,
-      "price": 17.99,
-      "priceHistory": [
-        {
-          "date": "2026-11-09",
-          "price": 21.99
-        },
-        {
-          "date": "2026-11-11",
-          "price": 49.99
-        },
-        {
-          "date": "2026-11-17",
-          "price": 17.99
-        }
-      ],
-      "source": "Kohl's",
-      "stock": {
-        "checkedDate": "2026-11-27",
-        "status": "sold"
-      },
-      "title": "Amazon Fire TV Stick 4K Select with AI-Powered Search & Live TV",
-      "url": "https://www.kohls.com/product/prd-8004942/amazon-fire-tv-stick-4k-select-with-ai-powered-search-live-tv.jsp"
-    },
-    {
       "brand": "Blink",
       "category": "Electronics",
       "condition": "New",
@@ -2194,84 +2161,6 @@
       "url": "https://poshmark.com/listing/Free-People-Falling-Leaves-dress-featuring-a-floral-burnout-velvet-design-6a4849024a072b5a27755798"
     },
     {
-      "brand": "Lululemon",
-      "category": "Women",
-      "condition": "Pre-owned - Excellent",
-      "dealReason": "Pre-owned in excellent condition — listed like new at less than half the $118 original price shown on the listing.",
-      "foundDate": "2026-11-13",
-      "id": "poshmark-lululemon-define-size-4-zip",
-      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/07/07/6a4db8895df8e7512fb48c37/s_6a4db89b24d2e71e846a6310.jpg",
-      "kind": "secondhand",
-      "originalPrice": 118.0,
-      "price": 50.0,
-      "priceHistory": [
-        {
-          "date": "2026-11-13",
-          "price": 50.0
-        }
-      ],
-      "size": "4",
-      "source": "Poshmark",
-      "stock": {
-        "checkedDate": "2026-11-27",
-        "status": "sold"
-      },
-      "title": "Lululemon Define size 4 zip",
-      "url": "https://poshmark.com/listing/Lululemon-Define-size-4-zip-6a4db8895df8e7512fb48c37"
-    },
-    {
-      "brand": "Patagonia",
-      "category": "Kids",
-      "condition": "Pre-owned - Good",
-      "dealReason": "Pre-owned in good condition — at a fraction of the $89 original price shown on the listing.",
-      "foundDate": "2026-11-13",
-      "id": "poshmark-patagonia-kids-better-sweater-gray-xl-14",
-      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/12/6acd8cd105ce57f96823d6df/s_6acd8ce81ae1ad9280337e6d.jpg",
-      "kind": "secondhand",
-      "originalPrice": 89.0,
-      "price": 15.0,
-      "priceHistory": [
-        {
-          "date": "2026-11-13",
-          "price": 15.0
-        }
-      ],
-      "size": "XL (14)",
-      "source": "Poshmark",
-      "stock": {
-        "checkedDate": "2026-11-27",
-        "status": "sold"
-      },
-      "title": "Patagonia Kids Better Sweater 1/4 Zip Fleece Pullover Gray XL 14",
-      "url": "https://poshmark.com/listing/Patagonia-Kids-Better-Sweater-14-Zip-Fleece-Pullover-Gray-XL-14-6acd8cd105ce57f96823d6df"
-    },
-    {
-      "brand": "Ralph Lauren",
-      "category": "Women",
-      "condition": "Pre-owned - Good",
-      "dealReason": "Pre-owned in good condition — seller notes EUC with no flaws, at about a third of the $145 original price shown on the listing.",
-      "foundDate": "2026-11-13",
-      "id": "poshmark-ralph-lauren-sport-zipup-cable-knit-cardigan-l",
-      "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2026/01/10/69632758bedd34217e094696/s_6963277121b80137c195878d.jpg",
-      "kind": "secondhand",
-      "originalPrice": 145.0,
-      "price": 50.0,
-      "priceHistory": [
-        {
-          "date": "2026-11-13",
-          "price": 50.0
-        }
-      ],
-      "size": "L",
-      "source": "Poshmark",
-      "stock": {
-        "checkedDate": "2026-11-27",
-        "status": "sold"
-      },
-      "title": "Ralph Lauren Sport Light Blue Zip-Up Cable Knit Sweater Cardigan L",
-      "url": "https://poshmark.com/listing/Ralph-Lauren-Sport-Light-Blue-ZipUp-Cable-Knit-Sweater-Cardigan-L-69632758bedd34217e094696"
-    },
-    {
       "brand": "Zeus & Ruta",
       "category": "Pets",
       "condition": "New",
@@ -3067,32 +2956,6 @@
       },
       "title": "NeeDoh Nice Cube Glitter and Glow (Colors May Vary)",
       "url": "https://www.target.com/p/nee-doh-nice-cube-glitter-and-glow/-/A-94619824"
-    },
-    {
-      "brand": "Starbucks",
-      "category": "Home",
-      "condition": "New",
-      "dealReason": "Viral Bearista surprise box that sold out in stores within minutes on Nov 10. Factory sealed, per the seller.",
-      "foundDate": "2026-11-16",
-      "id": "ebay-starbucks-bearista-surprise-box-sealed",
-      "imageUrl": "https://i.ebayimg.com/images/g/ar4AAeSwQPZq8x6X/s-l500.webp",
-      "kind": "secondhand",
-      "originalPrice": null,
-      "price": 75.0,
-      "priceHistory": [
-        {
-          "date": "2026-11-16",
-          "price": 75.0
-        }
-      ],
-      "shipping": 7.63,
-      "source": "eBay",
-      "stock": {
-        "checkedDate": "2026-11-27",
-        "status": "sold"
-      },
-      "title": "Starbucks Glass Bearista Cold Cup Surprise Box (Sealed 20 oz)",
-      "url": "https://www.ebay.com/itm/206692247031"
     },
     {
       "brand": "Sesame Street",
